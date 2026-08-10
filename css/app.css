@@ -26,6 +26,12 @@
   --sab:env(safe-area-inset-bottom,0px);
 }
 
+/* ⚠️ BẮT BUỘC — phải đứng trước mọi rule có `display`.
+   Thuộc tính `hidden` của HTML chỉ được UA stylesheet đặt `display:none`,
+   nên BẤT KỲ rule nào của mình (vd .modal{display:flex}) cũng thắng nó
+   và phần tử "đang ẩn" vẫn phủ kín màn hình, chặn hết thao tác chạm. */
+[hidden]{display:none !important}
+
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 html,body{margin:0;padding:0}
 html{background:var(--bg)}

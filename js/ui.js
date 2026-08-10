@@ -100,12 +100,14 @@ const UI = (() => {
     const c = document.getElementById('modalCard');
     c.innerHTML = html;
     m.hidden = false;
+    m.style.display = 'flex';          // đề phòng CSS bị ghi đè
     m.onclick = e => { if (e.target === m) closeModal(); };
     if (onOpen) onOpen(c);
   }
   function closeModal() {
     const m = document.getElementById('modal');
     m.hidden = true;
+    m.style.display = 'none';          // KHÔNG được để lớp phủ chặn thao tác chạm
     document.getElementById('modalCard').innerHTML = '';
   }
 

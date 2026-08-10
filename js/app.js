@@ -664,38 +664,62 @@ const App = (() => {
 
   /* ================= BOOT ================= */
 
+  /* Hiện lỗi thẳng lên màn hình — trên iPhone không mở được console */
+  function fatal(msg) {
+    const err = document.getElementById('splashErr');
+    if (err) {
+      err.hidden = false;
+      err.innerHTML = E(msg) +
+        '<br><br><button class="btn ghost sm" onclick="location.reload()">Tải lại / 새로고침</button>';
+    }
+    const sp = document.getElementById('splash');
+    if (sp) sp.classList.remove('out');
+  }
+
   async function boot() {
+    window.addEventListener('error', e => {
+      if (document.getElementById('splash')) fatal('Lỗi JS: ' + (e.message || e.error));
+    });
+    window.addEventListener('unhandledrejection', e => {
+      if (document.getElementById('splash')) fatal('Lỗi: ' + (e.reason && e.reason.message || e.reason));
+    });
+    // nếu 15 giây mà vẫn ở màn hình chờ → báo lỗi thay vì treo mãi
+    const guard = setTimeout(() => {
+      if (document.getElementById('splash')) fatal('Quá lâu không nạp được dữ liệu. Kiểm tra mạng rồi thử lại.');
+    }, 15000);
+
     const splash = document.getElementById('splash');
     let res;
     try {
       res = await Data.load();
     } catch (e) {
-      document.getElementById('splashErr').hidden = false;
-      document.getElementById('splashErr').textContent = 'Lỗi nạp dữ liệu: ' + e.message;
+      clearTimeout(guard);
+      fatal('Lỗi nạp dữ liệu: ' + e.message);
       return;
     }
+    clearTimeout(guard);
 
     if (!res.n) {
-      const err = document.getElementById('splashErr');
-      err.hidden = false;
-      err.innerHTML = 'Không nạp được câu hỏi nào.<br><br>' +
+      fatal('Không nạp được câu hỏi nào. ' +
         (location.protocol === 'file:'
-          ? 'Bạn đang mở bằng <b>file://</b>. Cần chạy qua web server hoặc mở link GitHub Pages.'
-          : E(Data.errors.slice(0, 4).join(' / ')));
+          ? 'Bạn đang mở bằng file:// — cần mở qua link GitHub Pages.'
+          : Data.errors.slice(0, 3).join(' / ')));
       return;
     }
 
     document.getElementById('topbar').hidden = false;
     document.getElementById('app').hidden = false;
     document.getElementById('tabbar').hidden = false;
+    UI.closeModal();   // chắc chắn lớp phủ modal đang tắt
 
     document.querySelectorAll('.tab').forEach(b =>
       b.onclick = () => tab(b.dataset.tab));
 
-    tab('home');
+    try { tab('home'); }
+    catch (e) { fatal('Lỗi khi vẽ màn hình chính: ' + e.message); return; }
 
     splash.classList.add('out');
-    setTimeout(() => splash.remove(), 400);
+    setTimeout(() => { const s = document.getElementById('splash'); if (s) s.remove(); }, 400);
 
     // điểm danh
     const ci = Store.checkIn();
