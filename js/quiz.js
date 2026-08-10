@@ -146,8 +146,10 @@ const Quiz = (() => {
     });
 
     const r = Store.recordAnswer(q.id, ok, q.points);
+    const d = Store.recordDaily('q', ok);
     showExplain(q, ok, r);
     if (r.leveledTo) setTimeout(() => UI.levelUp(r.leveledTo), 600);
+    UI.dailyDone(d);
   }
 
   function showExplain(q, ok, r) {
@@ -225,13 +227,17 @@ const Quiz = (() => {
 
     let raw = 0, maxRaw = 0, correct = 0;
     const review = [];
+    let daily = null;
     list.forEach((q, i) => {
       maxRaw += q.points;
       const ok = picks[i] === q.answer;
       if (ok) { raw += q.points; correct++; }
       Store.recordAnswer(q.id, ok, q.points);
+      const d = Store.recordDaily('q', ok);
+      if (d.goalJustMet || d.milestone) daily = d;
       if (!ok) review.push({ q, pick: picks[i] });
     });
+    Store.recordDaily('e');
 
     // Quy đổi về thang thật: trắc nghiệm 36 câu = 65 điểm / tổng 100
     const mcScore = maxRaw ? raw / maxRaw * 65 : 0;
@@ -287,6 +293,7 @@ const Quiz = (() => {
       </div>`);
 
     if (r.leveledTo) setTimeout(() => UI.levelUp(r.leveledTo), 700);
+    UI.dailyDone(daily);
     document.getElementById('bHome').onclick = () => App.tab('home');
     document.getElementById('bWrong').onclick = () => App.wrongNote();
   }
@@ -355,6 +362,7 @@ const Quiz = (() => {
         xp = 40;
         const r = Store.addXp(xp);
         UI.xpToast(xp);
+        UI.dailyDone(Store.recordDaily('w'));
         if (r.leveledTo) setTimeout(() => UI.levelUp(r.leveledTo), 500);
       }
       document.getElementById('wrAfter').innerHTML = `
@@ -416,6 +424,7 @@ const Quiz = (() => {
         done.push(sp.id); Store.set('spDone', done);
         const r = Store.addXp(35);
         UI.xpToast(35);
+        UI.dailyDone(Store.recordDaily('sp'));
         if (r.leveledTo) setTimeout(() => UI.levelUp(r.leveledTo), 500);
       } else UI.toast('Bài này đã luyện rồi 👍');
       App.speakingList();

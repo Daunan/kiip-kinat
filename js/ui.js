@@ -69,6 +69,31 @@ const UI = (() => {
     setTimeout(() => el.remove(), 2600);
   }
 
+  /* ---------- hoàn thành mục tiêu ngày / mốc 100 ngày ---------- */
+  function dailyDone(d) {
+    if (!d) return;
+    if (d.goalJustMet) {
+      const day = Store.planDay();
+      toast(`🎯 Xong mục tiêu ngày ${day}/100! <b>+${d.xp} XP</b>`, 'xp', 3200);
+    }
+    if (d.milestone) {
+      setTimeout(() => {
+        const m = d.milestone;
+        const el = document.createElement('div');
+        el.className = 'lvup';
+        el.innerHTML =
+          `<em>${m.em}</em>
+           <div class="t">MỐC ${m.d} NGÀY</div>
+           <div class="n">${esc(m.vi)}</div>
+           <div class="r">+${m.xp} XP</div>`;
+        document.body.appendChild(el);
+        el.onclick = () => el.remove();
+        setTimeout(() => el.remove(), 3600);
+      }, 800);
+    }
+    if (d.leveledTo) setTimeout(() => levelUp(d.leveledTo), 1600);
+  }
+
   /* ---------- modal ---------- */
   function modal(html, onOpen) {
     const m = document.getElementById('modal');
@@ -119,6 +144,6 @@ const UI = (() => {
     return [...String(s).replace(/\s/g, '')].length;
   }
 
-  return { app, esc, render, topbar, toast, xpToast, levelUp,
+  return { app, esc, render, topbar, toast, xpToast, levelUp, dailyDone,
            modal, closeModal, confirm, CIRC, pct, barColor, fmtDate, countChars };
 })();

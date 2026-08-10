@@ -23,10 +23,14 @@ const Store = (() => {
     funBest: 0,
     // cài đặt
     examDate: '',      // 'YYYY-MM-DD' ngày thi thật
-    name: '',
+    name: 'KIEU',
     // đã xem qua writing/speaking nào
     wrDone: [],
-    spDone: []
+    spDone: [],
+    // ===== DỰ ÁN 100 NGÀY =====
+    planStart: '',                 // 'YYYY-MM-DD' ngày bắt đầu
+    daily: {},                     // { 'YYYY-MM-DD': {n,c,w,s,e,done} }
+    milestones: []                 // các mốc đã nhận thưởng
   };
 
   let s = load();
@@ -130,6 +134,124 @@ const Store = (() => {
     return { streak: s.streak, base, bonus, milestone, total, leveledTo: r.leveledTo };
   }
 
+  /* ============================================================
+     DỰ ÁN 100 NGÀY — 100일 프로젝트
+     ============================================================ */
+
+  const PLAN_LEN = 100;
+
+  const PHASES = [
+    { from: 1,  to: 30,  em: '🌱', vi: 'Nền tảng',      ko: '기초 다지기',
+      desc_vi: 'Xây nền: tiếng Hàn, xã hội, văn hóa, giáo dục — những phần gần với đời sống hằng ngày nhất.',
+      goal: 20, doms: ['kor_vocab','kor_grammar','kor_reading','society','education','culture'] },
+    { from: 31, to: 60,  em: '⚙️', vi: 'Chinh phục',    ko: '심화 정복',
+      desc_vi: 'Phần khó nhất: chính trị, kinh tế, pháp luật và TOÀN BỘ chương trình nâng cao 심화 — thứ chỉ đề nhập tịch mới có.',
+      goal: 25, doms: ['politics','economy','law','adv_citizen','adv_history','adv_politics','adv_economy','adv_law'] },
+    { from: 61, to: 85,  em: '🏯', vi: 'Sử · Địa · Viết · Nói', ko: '역사·지리 + 작문·구술',
+      desc_vi: 'Lịch sử và địa lý cần thời gian ngấm. Song song bắt đầu luyện Viết (10đ) và Nói (25đ) — 35 điểm không được bỏ.',
+      goal: 25, doms: ['history','geography'] },
+    { from: 86, to: 100, em: '🎯', vi: 'Thực chiến',    ko: '실전 마무리',
+      desc_vi: 'Thi thử liên tục, dọn sạch sổ tay câu sai, ôn lại các mốc hay quên. Mục tiêu không phải 60 mà là 80~90 điểm.',
+      goal: 30, doms: [] }
+  ];
+
+  const MILESTONES = [
+    { d: 10,  xp: 100,  em: '🔟', vi: '10 ngày đầu tiên!' },
+    { d: 25,  xp: 250,  em: '💪', vi: '1/4 chặng đường' },
+    { d: 50,  xp: 500,  em: '🔥', vi: 'Nửa đường rồi!' },
+    { d: 75,  xp: 750,  em: '🚀', vi: '75 ngày — sắp tới đích' },
+    { d: 100, xp: 1500, em: '🏆', vi: 'HOÀN THÀNH 100 NGÀY!' }
+  ];
+
+  function planEnsure() {
+    if (!s.planStart) { s.planStart = today(); saveNow(); }
+    return s.planStart;
+  }
+  function planDay(dateStr) {
+    planEnsure();
+    return dayDiff(s.planStart, dateStr || today()) + 1;
+  }
+  function planLen() { return PLAN_LEN; }
+  function phaseOf(day) {
+    for (const p of PHASES) if (day >= p.from && day <= p.to) return p;
+    return day < 1 ? PHASES[0] : PHASES[PHASES.length - 1];
+  }
+  function phases() { return PHASES; }
+  function milestones() { return MILESTONES; }
+
+  function dayRec(d) {
+    return s.daily[d || today()] || { n: 0, c: 0, w: 0, sp: 0, e: 0, done: false };
+  }
+  function dailyGoal() { return phaseOf(planDay()).goal; }
+
+  function daysDone() {
+    let n = 0;
+    for (const k in s.daily) {
+      if (!s.daily[k].done) continue;
+      const d = planDay(k);
+      if (d >= 1 && d <= PLAN_LEN) n++;
+    }
+    return n;
+  }
+
+  function planGrid() {
+    planEnsure();
+    const cur = planDay();
+    const g = [];
+    const p0 = s.planStart.split('-').map(Number);
+    for (let i = 1; i <= PLAN_LEN; i++) {
+      const dt = new Date(Date.UTC(p0[0], p0[1] - 1, p0[2] + i - 1));
+      const key = dt.getUTCFullYear() + '-' +
+        String(dt.getUTCMonth() + 1).padStart(2, '0') + '-' +
+        String(dt.getUTCDate()).padStart(2, '0');
+      const r = s.daily[key];
+      let st;
+      if (i > cur) st = 'future';
+      else if (r && r.done) st = 'done';
+      else if (r && r.n > 0) st = 'partial';
+      else st = 'miss';
+      if (i === cur) st += ' today';
+      g.push({ i, key, st });
+    }
+    return g;
+  }
+
+  /* type: 'q' | 'w' | 'sp' | 'e' */
+  function recordDaily(type, correct) {
+    planEnsure();
+    const t = today();
+    const r = s.daily[t] || { n: 0, c: 0, w: 0, sp: 0, e: 0, done: false };
+    if (type === 'q') { r.n += 1; if (correct) r.c += 1; }
+    else if (type === 'w') r.w += 1;
+    else if (type === 'sp') r.sp += 1;
+    else if (type === 'e') r.e += 1;
+
+    const out = { goalJustMet: false, xp: 0, leveledTo: null, milestone: null };
+    const goal = dailyGoal();
+    if (!r.done && r.n >= goal) {
+      r.done = true;
+      out.goalJustMet = true;
+      out.xp = 50;
+      out.leveledTo = addXp(50).leveledTo;
+    }
+    s.daily[t] = r;
+
+    if (out.goalJustMet) {
+      const n = daysDone();
+      const ms = MILESTONES.find(m => m.d === n && !s.milestones.includes(m.d));
+      if (ms) {
+        s.milestones.push(ms.d);
+        const a2 = addXp(ms.xp);
+        out.milestone = ms;
+        if (a2.leveledTo) out.leveledTo = a2.leveledTo;
+      }
+    }
+    saveNow();
+    return out;
+  }
+
+  function resetPlan() { s.planStart = today(); s.milestones = []; saveNow(); }
+
   /* ---------- ghi kết quả 1 câu ---------- */
   function recordAnswer(qid, correct, points) {
     const rec = s.q[qid] || { c: 0, w: 0, seen: 0, last: 0 };
@@ -196,6 +318,8 @@ const Store = (() => {
     today, dayDiff,
     levelInfo, rank, xpForLevel, addXp,
     checkIn, recordAnswer,
+    planEnsure, planDay, planLen, phaseOf, phases, milestones,
+    dayRec, dailyGoal, daysDone, planGrid, recordDaily, resetPlan,
     isWrongNote, wrongIds, graduatedIds, seenCount, qRec,
     addExam, recordFun, dday
   };

@@ -28,21 +28,51 @@ const App = (() => {
     }
 
     const ddChip = dd === null
-      ? `<button class="dday" id="setDday">🗓️ Đặt ngày thi</button>`
+      ? `<button class="dday" id="setDday">🗓️ Đặt ngày thi 시험일 설정</button>`
       : dd > 0 ? `<span class="dday">🗓️ Còn <b>${dd}</b> ngày đến ngày thi</span>`
       : dd === 0 ? `<span class="dday">🔥 HÔM NAY LÀ NGÀY THI! Cố lên!</span>`
       : `<span class="dday">✅ Đã thi xong ${-dd} ngày trước</span>`;
 
+    // ----- dự án 100 ngày -----
+    const day = Store.planDay();
+    const ph = Store.phaseOf(day);
+    const doneN = Store.daysDone();
+    const rec = Store.dayRec();
+    const goal = Store.dailyGoal();
+    const gpct = Math.min(100, Math.round(rec.n / goal * 100));
+    const dayShown = Math.min(Math.max(day, 1), 100);
+    const nm = s.name || 'KIEU';
+
     UI.topbar({ title: 'KINAT 귀화시험', action: { label: '⚙️', fn: settings } });
 
     UI.render(`
-      <div class="spread" style="margin-bottom:12px">
-        <div>
-          <div class="h1">Xin chào${s.name ? ', ' + E(s.name) : ''} 👋</div>
-          <div class="sub">Hôm nay học một chút nhé!</div>
-        </div>
+      <div style="margin-bottom:12px">
+        <div class="h1">Chào ${E(nm)} 👋</div>
+        <div class="sub">반갑습니다 ${E(nm)}님 — hôm nay học một chút nhé!</div>
       </div>
       <div style="margin-bottom:13px">${ddChip}</div>
+
+      <button class="plan-hero" id="goPlan">
+        <div class="ph-top">
+          <span class="ph-tag">DỰ ÁN 100 NGÀY · 100일 프로젝트</span>
+          <span class="ph-arrow">›</span>
+        </div>
+        <div class="ph-day">Ngày <b>${dayShown}</b><small>/ 100</small></div>
+        <div class="ph-phase">${ph.em} ${E(ph.vi)} <span class="ko">${E(ph.ko)}</span></div>
+        <div class="bar"><i style="width:${doneN}%"></i></div>
+        <div class="hero-xp"><span>Đã hoàn thành <b>${doneN}</b>/100 ngày</span><span>${day > 100 ? 'Đã quá 100 ngày' : 'Còn ' + (100 - dayShown) + ' ngày'}</span></div>
+      </button>
+
+      <div class="card quest">
+        <div class="spread">
+          <b style="font-size:14.5px">${rec.done ? '✅' : '🎯'} Nhiệm vụ hôm nay <span class="ko">오늘의 목표</span></b>
+          <b style="font-size:14px;color:${rec.done ? 'var(--ok)' : 'var(--tx2)'}">${rec.n} / ${goal} câu</b>
+        </div>
+        <div class="bar" style="margin-top:9px"><i style="width:${gpct}%;background:${rec.done ? 'linear-gradient(90deg,#22C55E,#4ADE80)' : 'linear-gradient(90deg,#4F7CFF,#8B5CF6)'}"></i></div>
+        <div class="muted mt">${rec.done
+          ? 'Xong nhiệm vụ hôm nay rồi! Học thêm vẫn được cộng XP 😎'
+          : `Còn <b style="color:var(--tx)">${goal - rec.n} câu</b> nữa là xong nhiệm vụ — thưởng <b style="color:var(--gold)">+50 XP</b>`}</div>
+      </div>
 
       <div class="hero">
         <div class="hero-rank">${rk.em} ${E(rk.vi)} · ${E(rk.ko)}</div>
@@ -69,8 +99,8 @@ const App = (() => {
 
       <div class="h2">🎯 Học ngay <span class="ko">바로 시작</span></div>
       <div class="menu">
-        <button class="mi wide" data-go="quick">
-          <em>⚡</em><b>Luyện nhanh 20 câu</b><i>Ưu tiên câu chưa gặp & câu từng sai</i>
+        <button class="mi wide" data-go="today">
+          <em>⚡</em><b>Học theo kế hoạch hôm nay</b><i>${ph.em} ${E(ph.ko)} — ${goal} câu đúng trọng tâm giai đoạn này</i>
         </button>
         <button class="mi" data-go="study">
           <em>📚</em><b>Theo lĩnh vực</b><i>영역별 학습</i>
@@ -105,12 +135,30 @@ const App = (() => {
     });
     const sd = document.getElementById('setDday');
     if (sd) sd.onclick = settings;
+    document.getElementById('goPlan').onclick = plan;
+  }
+
+  /* bộ câu hỏi đúng trọng tâm giai đoạn hiện tại */
+  function todaySet() {
+    const ph = Store.phaseOf(Store.planDay());
+    const goal = ph.goal;
+    let pool = ph.doms.length
+      ? Data.questions.filter(q => ph.doms.includes(q.domain))
+      : [];
+    // giai đoạn 4 (hoặc kho thiếu): ưu tiên câu sai + trộn toàn bộ
+    if (pool.length < goal * 2) {
+      const wrong = Store.wrongIds().map(Data.byId).filter(Boolean);
+      pool = pool.concat(wrong, Data.questions);
+    }
+    const seen = new Set(); const uniq = [];
+    for (const q of pool) if (!seen.has(q.id)) { seen.add(q.id); uniq.push(q); }
+    return Data.pick(uniq, goal);
   }
 
   function go(k) {
-    if (k === 'quick') {
-      const qs = Data.pick(Data.questions, 20);
-      Quiz.start(qs, { title: 'Luyện nhanh', back: () => tab('home') });
+    if (k === 'today') {
+      const ph = Store.phaseOf(Store.planDay());
+      Quiz.start(todaySet(), { title: ph.em + ' ' + ph.vi, back: () => tab('home') });
     }
     else if (k === 'study')    tab('study');
     else if (k === 'wrong')    wrongNote();
@@ -118,6 +166,113 @@ const App = (() => {
     else if (k === 'writing')  writingList();
     else if (k === 'speaking') speakingList();
     else if (k === 'fun')      tab('fun');
+  }
+
+  /* ================= 100일 프로젝트 ================= */
+
+  function plan() {
+    UI.topbar({ title: 'Dự án 100 ngày', back: () => tab('home'),
+                action: { label: '↺', fn: askResetPlan } });
+
+    const day = Store.planDay();
+    const dayShown = Math.min(Math.max(day, 1), 100);
+    const doneN = Store.daysDone();
+    const grid = Store.planGrid();
+    const cur = Store.phaseOf(day);
+    const s = Store.all();
+    const start = s.planStart;
+    const dd = Store.dday();
+
+    // ngày kết thúc dự án
+    const p0 = start.split('-').map(Number);
+    const end = new Date(Date.UTC(p0[0], p0[1] - 1, p0[2] + 99));
+    const endStr = `${end.getUTCFullYear()}.${end.getUTCMonth() + 1}.${end.getUTCDate()}`;
+    const startStr = `${p0[0]}.${p0[1]}.${p0[2]}`;
+
+    const cells = grid.map(g => {
+      const ph = Store.phaseOf(g.i);
+      const tip = `Ngày ${g.i} · ${g.key}`;
+      return `<div class="pc ${g.st}" title="${tip}" data-ph="${ph.from}">${
+        [10,25,50,75,100].includes(g.i) ? '★' : (g.st.includes('done') ? '' : g.i % 10 === 1 ? g.i : '')
+      }</div>`;
+    }).join('');
+
+    const phaseCards = Store.phases().map(p => {
+      const isCur = p === cur;
+      const dn = grid.filter(g => g.i >= p.from && g.i <= p.to && g.st.includes('done')).length;
+      const tot = p.to - p.from + 1;
+      const doms = p.doms.map(d => {
+        const m = Data.domainMeta(d);
+        return `<span class="chip">${m.em} ${E(m.vi)}</span>`;
+      }).join('') || '<span class="chip">📝 Thi thử + Sổ tay câu sai</span>';
+      return `
+      <div class="card${isCur ? ' cur' : ''}" style="${isCur ? 'border-color:var(--pri)' : ''}">
+        <div class="spread">
+          <b style="font-size:15px">${p.em} ${E(p.vi)} <span class="ko">${E(p.ko)}</span></b>
+          <span class="chip${isCur ? ' pri' : ''}">Ngày ${p.from}~${p.to}</span>
+        </div>
+        <div class="muted mt" style="line-height:1.65">${E(p.desc_vi)}</div>
+        <div class="exp-kw" style="margin-top:10px">${doms}</div>
+        <div class="spread mt">
+          <span class="muted">Mục tiêu <b style="color:var(--tx)">${p.goal} câu/ngày</b></span>
+          <span class="muted"><b style="color:${dn === tot ? 'var(--ok)' : 'var(--tx)'}">${dn}</b>/${tot} ngày xong</span>
+        </div>
+        <div class="dbar"><i style="width:${Math.round(dn / tot * 100)}%;background:${UI.barColor(Math.round(dn / tot * 100))}"></i></div>
+      </div>`;
+    }).join('');
+
+    const msRows = Store.milestones().map(m => {
+      const got = (s.milestones || []).includes(m.d);
+      return `<div class="ms ${got ? 'got' : ''}">
+        <span class="me">${m.em}</span>
+        <div class="mt2x"><b>${m.d} ngày</b><i>${E(m.vi)}</i></div>
+        <span class="chip ${got ? 'ok' : 'gold'}">${got ? '✓ Đã nhận' : '+' + m.xp + ' XP'}</span>
+      </div>`;
+    }).join('');
+
+    UI.render(`
+      <div class="plan-top">
+        <div class="pt-day">Ngày <b>${dayShown}</b> <small>/ 100</small></div>
+        <div class="pt-sub">${startStr} → ${endStr}</div>
+        <div class="bar" style="margin-top:12px"><i style="width:${doneN}%"></i></div>
+        <div class="hero-xp"><span>Hoàn thành <b>${doneN}</b>/100 ngày</span><span>${doneN}%</span></div>
+      </div>
+
+      ${dd !== null && dd >= 0 ? `<div class="card center" style="border-color:rgba(251,191,36,.35)">
+        <b style="color:var(--gold);font-size:15px">🗓️ Còn ${dd} ngày đến ngày thi thật</b>
+        <div class="muted mt">${dd > 100 ? 'Dư thời gian — cứ theo kế hoạch là chắc ăn.'
+          : dd > 60 ? 'Đúng nhịp. Giữ đều mỗi ngày là được.'
+          : dd > 30 ? 'Nên tăng tốc phần 심화 và bắt đầu thi thử.'
+          : 'Giai đoạn nước rút — thi thử liên tục và dọn sổ tay câu sai.'}</div>
+      </div>` : ''}
+
+      <div class="h2">📅 Bản đồ 100 ngày <span class="ko">100일 지도</span></div>
+      <div class="pgrid">${cells}</div>
+      <div class="plegend">
+        <span><i class="pc done"></i> Xong mục tiêu</span>
+        <span><i class="pc partial"></i> Có học</span>
+        <span><i class="pc miss"></i> Nghỉ</span>
+        <span><i class="pc future"></i> Sắp tới</span>
+      </div>
+
+      <div class="h2">🗺️ 4 giai đoạn <span class="ko">4단계 플랜</span></div>
+      ${phaseCards}
+
+      <div class="h2">🏅 Mốc thưởng <span class="ko">마일스톤</span></div>
+      ${msRows}
+
+      <div class="card muted mt2" style="line-height:1.7">
+        💡 Mỗi ngày làm đủ số câu mục tiêu là ngày đó "sáng đèn" trên bản đồ và được <b style="color:var(--gold)">+50 XP</b>.
+        Nghỉ một ngày cũng không sao — ô đó tối đi thôi, tiến độ không bị mất.
+      </div>`);
+
+    UI.app().querySelectorAll('.pc').forEach(() => {});
+  }
+
+  function askResetPlan() {
+    UI.confirm('Bắt đầu lại 100 ngày?',
+      'Ngày 1 sẽ được tính lại từ hôm nay. XP, cấp độ và câu đã học vẫn giữ nguyên — chỉ có bản đồ 100 ngày và mốc thưởng được làm mới.',
+      'Bắt đầu lại', () => { Store.resetPlan(); UI.toast('Đã bắt đầu lại từ Ngày 1 🌱'); plan(); });
   }
 
   /* ================= STUDY ================= */
@@ -442,24 +597,48 @@ const App = (() => {
 
   /* ================= SETTINGS ================= */
 
+  /* Lịch 종합평가 chính thức 2026 (법무부 이민통합과, 25.12 공고) */
+  const EXAM_2026 = [
+    { r: 6, apply: '8.4(화)~8.8(토)',      date: '2026-08-22', label: '6차 · 8월 22일(토)' },
+    { r: 7, apply: '9.29(화)~10.3(토)',    date: '2026-10-17', label: '7차 · 10월 17일(토)' },
+    { r: 8, apply: '11.17(화)~11.21(토)',  date: '2026-12-05', label: '8차 · 12월 5일(토)' }
+  ];
+
   function settings() {
     const s = Store.all();
+    const t = Store.today();
+    const opts = EXAM_2026.map(x =>
+      `<button class="exopt${s.examDate === x.date ? ' on' : ''}${x.date < t ? ' past' : ''}" data-d="${x.date}">
+         <b>${E(x.label)}</b><i>신청 ${E(x.apply)}${x.date < t ? ' · đã qua' : ''}</i>
+       </button>`).join('');
+
     UI.modal(`
       <h3>⚙️ Cài đặt</h3>
       <label class="fl">Tên của bạn <span class="ko">이름</span></label>
-      <input class="field" id="fName" value="${E(s.name)}" placeholder="VD: Linh" maxlength="20">
-      <label class="fl">Ngày thi thật <span class="ko">시험일</span></label>
+      <input class="field" id="fName" value="${E(s.name || 'KIEU')}" placeholder="KIEU" maxlength="20">
+
+      <label class="fl">Chọn kỳ thi 2026 <span class="ko">2026년 귀화용 종합평가</span></label>
+      <div class="exopts">${opts}</div>
+
+      <label class="fl">Hoặc nhập ngày khác <span class="ko">직접 입력</span></label>
       <input class="field" id="fDate" type="date" value="${E(s.examDate)}">
-      <div class="muted mt">Kỳ thi 귀화용 종합평가 tổ chức khoảng 8 đợt/năm, thứ Bảy.
-        Xem lịch chính thức tại <b>kiiptest.org</b>.</div>
+      <div class="muted mt">Lịch chính thức: <b>kiiptest.org</b>. Đăng ký phải làm trong đúng tuần nhận hồ sơ,
+        trễ là phải đợi đợt sau.</div>
+
       <div class="row mt2" style="gap:9px">
         <button class="btn ghost sm" id="mNo">Đóng</button>
         <button class="btn sm" id="mYes">Lưu</button>
       </div>`, c => {
+      const fd = c.querySelector('#fDate');
+      c.querySelectorAll('[data-d]').forEach(b => b.onclick = () => {
+        fd.value = b.dataset.d;
+        c.querySelectorAll('[data-d]').forEach(x => x.classList.remove('on'));
+        b.classList.add('on');
+      });
       c.querySelector('#mNo').onclick = UI.closeModal;
       c.querySelector('#mYes').onclick = () => {
-        Store.set('name', c.querySelector('#fName').value.trim());
-        Store.set('examDate', c.querySelector('#fDate').value);
+        Store.set('name', c.querySelector('#fName').value.trim() || 'KIEU');
+        Store.set('examDate', fd.value);
         UI.closeModal();
         UI.toast('Đã lưu ✅');
         tab('home');
@@ -537,7 +716,7 @@ const App = (() => {
     }
   }
 
-  return { tab, boot, wrongNote, writingList, speakingList, settings };
+  return { tab, boot, wrongNote, writingList, speakingList, settings, plan };
 })();
 
 document.addEventListener('DOMContentLoaded', App.boot);
