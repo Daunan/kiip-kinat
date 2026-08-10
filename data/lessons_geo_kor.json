@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "geography-l01",
+    "domain": "geography",
+    "order": 1,
+    "title_ko": "한국의 위치와 지형",
+    "title_vi": "Vị trí và địa hình Hàn Quốc",
+    "icon": "🗺️",
+    "summary_vi": "Phần địa lý luôn mở đầu bằng câu hỏi 'Hàn Quốc nằm ở đâu, địa hình thế nào'. Chỉ cần thuộc 4 từ khóa 동북아시아 · 반도 · 삼면이 바다 · 동고서저 là bạn đã lấy được phần lớn điểm của bài này.",
+    "est_min": 9,
+    "sections": [
+      {
+        "h_ko": "한국의 위치",
+        "h_vi": "Vị trí của Hàn Quốc",
+        "body_vi": "Hàn Quốc nằm ở Đông Bắc Á (동북아시아), trên bán đảo Triều Tiên (한반도). Đây là một quốc gia bán đảo (반도 국가): ba mặt giáp biển, một mặt nối với lục địa. Phía bắc giáp Bắc Triều Tiên (북한); qua sông 압록강 và 두만강 là Trung Quốc và Nga. Nhật Bản nằm bên kia 동해 nên Hàn Quốc KHÔNG có biên giới đất liền với Nhật Bản. Đề thi rất hay đánh lừa bằng cách gọi Hàn Quốc là 'đảo quốc' (섬나라) — đó luôn là đáp án sai.",
+        "terms": [
+          { "ko": "반도", "vi": "bán đảo", "def_vi": "Vùng đất có ba mặt giáp biển, một mặt nối với lục địa. 한반도 = bán đảo Triều Tiên." },
+          { "ko": "삼면이 바다", "vi": "ba mặt giáp biển", "def_vi": "Cụm từ khóa xuất hiện gần như nguyên văn trong đề thi: 동해(phía đông) · 서해(phía tây) · 남해(phía nam)." },
+          { "ko": "동북아시아", "vi": "Đông Bắc Á", "def_vi": "Khu vực gồm Hàn Quốc, Triều Tiên, Trung Quốc, Nhật Bản, vùng Viễn Đông Nga." }
+        ]
+      },
+      {
+        "h_ko": "삼면의 바다",
+        "h_vi": "Ba vùng biển bao quanh",
+        "body_vi": "동해 (biển phía đông) sâu, đường bờ biển đơn giản, ít đảo, nhiều bãi cát đẹp. 서해 (biển phía tây, còn gọi là 황해 - Hoàng Hải) nông, thủy triều lên xuống chênh lệch rất lớn nên hình thành bãi bồi 갯벌 rộng. 남해 (biển phía nam) có vô số đảo lớn nhỏ nên còn gọi là 다도해 (đa đảo hải), đường bờ biển phức tạp, rất phát triển nghề nuôi trồng thủy sản (양식업).",
+        "terms": [
+          { "ko": "갯벌", "vi": "bãi bồi ven biển, bãi triều", "def_vi": "Vùng đất bùn lộ ra khi thủy triều rút. 서해안 갯벌 nổi tiếng thế giới; '한국의 갯벌' được UNESCO công nhận là Di sản thiên nhiên thế giới năm 2021." },
+          { "ko": "조수 간만의 차", "vi": "chênh lệch thủy triều", "def_vi": "Mức nước biển lúc triều lên và triều xuống chênh nhau. Ở 서해안 mức chênh này rất lớn — đây là nguyên nhân tạo ra 갯벌." },
+          { "ko": "다도해", "vi": "vùng biển nhiều đảo", "def_vi": "Tên gọi vùng 남해 vì có rất nhiều đảo. 다도해해상국립공원 là công viên quốc gia biển." }
+        ]
+      },
+      {
+        "h_ko": "동고서저 지형",
+        "h_vi": "Địa hình cao đông - thấp tây",
+        "body_vi": "Địa hình Hàn Quốc có đặc trưng 동고서저 (東高西低): phía đông cao, phía tây thấp. Dãy 태백산맥 chạy dọc theo bờ biển phía đông theo hướng bắc - nam, tạo thành 'xương sống' của bán đảo. Vì thế miền đông là núi dốc đổ thẳng ra biển, còn miền tây là đồng bằng rộng. Núi chiếm khoảng 70% diện tích lãnh thổ, nên đồng bằng chủ yếu tập trung ở phía tây và phía nam.",
+        "terms": [
+          { "ko": "동고서저", "vi": "đông cao tây thấp", "def_vi": "Từ khóa bắt buộc phải nhớ. Đề thi hay đưa đáp án ngược lại là 서고동저 — luôn sai." },
+          { "ko": "태백산맥", "vi": "dãy núi Taebaek", "def_vi": "Dãy núi lớn chạy dọc phía đông bán đảo theo trục bắc - nam, quyết định thế địa hình 동고서저." }
+        ]
+      },
+      {
+        "h_ko": "주요 하천",
+        "h_vi": "Các con sông chính",
+        "body_vi": "Vì đất cao ở phía đông nên hầu hết sông lớn chảy về phía tây hoặc phía nam rồi đổ ra 서해 hoặc 남해. Bốn con sông tiêu biểu là 한강 (Seoul và vùng thủ đô), 낙동강 (vùng 영남, chảy về 남해), 금강 (vùng 충청) và 영산강 (vùng 호남). Điều cần nhớ cho bài thi không phải chiều dài mà là 'sông nào chảy qua vùng nào'.",
+        "terms": [
+          { "ko": "한강", "vi": "sông Hàn", "def_vi": "Chảy qua Seoul rồi ra 서해. Biểu tượng của thủ đô; cụm từ '한강의 기적' chỉ kỳ tích phát triển kinh tế Hàn Quốc." },
+          { "ko": "낙동강", "vi": "sông Nakdong", "def_vi": "Con sông tiêu biểu của vùng 영남 (Busan, Daegu), chảy về 남해." }
+        ]
+      },
+      {
+        "h_ko": "대표적인 산과 섬",
+        "h_vi": "Núi và đảo tiêu biểu",
+        "body_vi": "백두산 là ngọn núi cao nhất bán đảo Triều Tiên, nằm ở phía bắc, trên đỉnh có hồ miệng núi lửa 천지. 한라산 trên đảo Jeju là ngọn núi cao nhất Hàn Quốc (phần lãnh thổ phía nam), trên đỉnh có hồ miệng núi lửa 백록담. 독도 nằm ở 동해, thuộc 경상북도 울릉군, là điểm cực đông của lãnh thổ Hàn Quốc.",
+        "terms": [
+          { "ko": "백록담", "vi": "hồ miệng núi lửa Baengnokdam", "def_vi": "Hồ trên đỉnh 한라산 (đảo Jeju). Đừng nhầm với 천지 trên đỉnh 백두산." },
+          { "ko": "독도", "vi": "đảo Dokdo", "def_vi": "Đảo ở 동해, thuộc 경상북도 울릉군, là cực đông lãnh thổ Hàn Quốc." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "삼면의 바다 비교",
+        "cap_vi": "So sánh ba vùng biển",
+        "head": ["바다", "위치", "특징"],
+        "rows": [
+          ["동해", "동쪽", "수심이 깊음, 해안선이 단조로움, 모래 해변"],
+          ["서해(황해)", "서쪽", "수심이 얕음, 조수 간만의 차가 큼, 갯벌 발달"],
+          ["남해", "남쪽", "섬이 많음(다도해), 해안선이 복잡함, 양식업 발달"]
+        ]
+      },
+      {
+        "cap_ko": "4대 강과 지역",
+        "cap_vi": "Bốn con sông lớn và vùng liên quan",
+        "head": ["강", "주요 지역", "흘러드는 바다"],
+        "rows": [
+          ["한강", "서울·경기(수도권)", "서해"],
+          ["금강", "충청 지역", "서해"],
+          ["영산강", "호남 지역", "서해"],
+          ["낙동강", "영남 지역(대구·부산)", "남해"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "한국은 아시아 동북부(동북아시아)에 있는 반도 국가이며 삼면이 바다이다 — 동해·서해·남해",
+      "지형의 핵심은 동고서저(東高西低). 동쪽에 태백산맥이 남북으로 뻗어 있다",
+      "국토의 약 70%가 산지이고, 평야는 주로 서쪽과 남쪽에 있다",
+      "서해안 = 조수 간만의 차가 크다 → 갯벌 발달 ('한국의 갯벌' 2021년 세계자연유산)",
+      "한라산(제주) 정상 = 백록담 / 백두산 정상 = 천지",
+      "독도는 동해에 있으며 경상북도 울릉군에 속한다"
+    ],
+    "traps": [
+      "한국은 '섬나라(섬 국가)'가 아니라 '반도 국가'다. 선택지에 섬나라가 나오면 무조건 오답.",
+      "일본과는 육지 국경이 없다. 육지로 이어진 곳은 북한뿐이다.",
+      "'서고동저'는 없는 말이다. 반드시 '동고서저'.",
+      "갯벌은 서해안(과 남해안 일부)의 특징이다. 동해안에는 갯벌이 거의 없다."
+    ],
+    "examples": [
+      {
+        "q": "한국의 지형에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "서쪽이 높고 동쪽이 낮은 서고서저 지형이다.",
+          "동쪽이 높고 서쪽이 낮은 동고서저 지형이다.",
+          "국토의 대부분이 평야로 이루어져 있다.",
+          "산맥이 모두 동서 방향으로 뻗어 있다."
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Địa hình Hàn Quốc là 동고서저 — phía đông cao (do 태백산맥 chạy dọc bờ đông), phía tây thấp và có đồng bằng. ① là từ bịa, đề thi hay dựng đáp án ngược. ③ sai vì núi chiếm khoảng 70% lãnh thổ. ④ sai vì 태백산맥 chạy theo hướng bắc - nam (남북 방향), không phải đông - tây."
+      },
+      {
+        "q": "서해안의 특징으로 옳은 것은?",
+        "choices": [
+          "수심이 깊고 해안선이 단조롭다.",
+          "섬이 매우 많아 다도해라고 불린다.",
+          "조수 간만의 차가 커서 갯벌이 발달했다.",
+          "화산 활동으로 만들어진 검은 모래 해변이 많다."
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. 서해안 có 조수 간만의 차 (chênh lệch thủy triều) rất lớn nên hình thành 갯벌 rộng — năm 2021 '한국의 갯벌' được UNESCO công nhận Di sản thiên nhiên thế giới. ① là đặc điểm của 동해, ② là đặc điểm của 남해 (다도해), ④ gợi tới đảo núi lửa Jeju chứ không phải bờ tây."
+      },
+      {
+        "q": "다음 중 한라산에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "정상에 백록담이라는 화구호가 있다.",
+          "정상에 천지라는 호수가 있다.",
+          "강원도에 있으며 동계 올림픽이 열린 곳이다.",
+          "태백산맥의 시작점으로 서울 근처에 있다."
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. 한라산 nằm trên đảo Jeju, trên đỉnh có hồ miệng núi lửa 백록담. ② 천지 là hồ trên đỉnh 백두산 — đây là cặp bẫy quen thuộc nhất. ③ nói về 평창/설악산 ở 강원. ④ hoàn toàn sai vì 한라산 nằm ở đảo Jeju, cách xa đất liền."
+      }
+    ],
+    "match": ["한국의 위치·기후·지형", "반도", "삼면이 바다", "동고서저", "태백산맥", "갯벌", "독도", "한강"]
+  },
+
+  {
+    "id": "geography-l02",
+    "domain": "geography",
+    "order": 2,
+    "title_ko": "한국의 기후와 계절",
+    "title_vi": "Khí hậu và bốn mùa của Hàn Quốc",
+    "icon": "🌸",
+    "summary_vi": "Đề thi hỏi 'hiện tượng này xảy ra vào mùa nào'. Việt Nam nóng quanh năm nên đây là phần người Việt dễ mất điểm nhất — hãy học theo cặp 'mùa ↔ hiện tượng ↔ phong tục'.",
+    "est_min": 8,
+    "sections": [
+      {
+        "h_ko": "사계절과 계절풍",
+        "h_vi": "Bốn mùa và gió mùa",
+        "body_vi": "Hàn Quốc thuộc khí hậu gió mùa ôn đới (온대 계절풍 기후) với bốn mùa phân biệt rõ rệt (사계절이 뚜렷하다). Mùa hè có gió mùa thổi từ biển phía nam nên nóng và ẩm (고온다습); mùa đông có gió mùa tây bắc từ lục địa nên lạnh và khô (한랭건조). Chênh lệch nhiệt độ giữa mùa hè và mùa đông rất lớn, đây là điểm khác biệt lớn nhất so với Việt Nam.",
+        "terms": [
+          { "ko": "계절풍", "vi": "gió mùa", "def_vi": "Gió đổi hướng theo mùa. Mùa hè thổi từ biển vào (nóng ẩm), mùa đông thổi từ lục địa ra (lạnh khô)." },
+          { "ko": "사계절이 뚜렷하다", "vi": "bốn mùa phân biệt rõ rệt", "def_vi": "Cách diễn đạt chuẩn trong sách giáo khoa và đề thi khi mô tả khí hậu Hàn Quốc." }
+        ]
+      },
+      {
+        "h_ko": "봄 (3~5월)",
+        "h_vi": "Mùa xuân (tháng 3 - 5)",
+        "body_vi": "Trời ấm dần nhưng thỉnh thoảng vẫn có đợt rét muộn gọi là 꽃샘추위 ('cái lạnh ghen với hoa'). Bụi vàng 황사 bay từ vùng sa mạc Trung Quốc và Mông Cổ sang, kèm theo bụi mịn 미세먼지, nên nhiều người đeo khẩu trang. Đây là mùa hoa: 개나리, 진달래 rồi đến 벚꽃 — khắp nơi tổ chức lễ hội ngắm hoa anh đào (벚꽃 축제).",
+        "terms": [
+          { "ko": "황사", "vi": "bụi vàng, cát vàng", "def_vi": "Hiện tượng bụi cát từ sa mạc Trung Quốc - Mông Cổ bay sang Hàn Quốc, đặc trưng của MÙA XUÂN." },
+          { "ko": "꽃샘추위", "vi": "đợt rét nàng Bân, rét muộn đầu xuân", "def_vi": "Đợt lạnh bất chợt quay lại vào đầu mùa xuân khi hoa đang nở." }
+        ]
+      },
+      {
+        "h_ko": "여름 (6~8월)",
+        "h_vi": "Mùa hè (tháng 6 - 8)",
+        "body_vi": "Cuối tháng 6 đến tháng 7 là mùa mưa dầm 장마 — mưa liên tục nhiều ngày, dễ gây ngập lụt (홍수). Từ khoảng tháng 7 đến tháng 9 là mùa bão 태풍 gây gió mạnh và mưa lớn. Giữa hè có ba ngày nóng nhất theo lịch truyền thống gọi là 삼복 (초복 · 중복 · 말복), người Hàn ăn 삼계탕 để bồi bổ. Đêm nóng trên 25 độ gọi là 열대야, và người dân đi nghỉ mát tránh nóng gọi là 피서.",
+        "terms": [
+          { "ko": "장마", "vi": "mùa mưa dầm", "def_vi": "Thời kỳ mưa kéo dài từ cuối tháng 6 đến tháng 7. 장마철 = mùa mưa dầm." },
+          { "ko": "삼복", "vi": "ba ngày nóng nhất (sơ phục, trung phục, mạt phục)", "def_vi": "초복·중복·말복. Ngày ăn 삼계탕 (gà hầm sâm) để giữ sức trong nắng nóng." },
+          { "ko": "열대야", "vi": "đêm nhiệt đới", "def_vi": "Đêm mà nhiệt độ không xuống dưới 25 độ C, khiến khó ngủ." }
+        ]
+      },
+      {
+        "h_ko": "가을 (9~11월)",
+        "h_vi": "Mùa thu (tháng 9 - 11)",
+        "body_vi": "Trời cao, xanh và khô ráo — người Hàn dùng thành ngữ 천고마비 (trời cao ngựa béo) để tả mùa thu. Lá cây chuyển sang màu đỏ vàng gọi là 단풍, và người dân đi 단풍놀이 (ngắm lá đỏ) ở núi. Đây cũng là mùa thu hoạch (추수) và có tết 추석, lễ lớn để tạ ơn mùa màng.",
+        "terms": [
+          { "ko": "단풍", "vi": "lá đỏ mùa thu", "def_vi": "Hiện tượng lá cây đổi màu đỏ - vàng vào mùa thu. 단풍이 들다 = lá chuyển màu." },
+          { "ko": "천고마비", "vi": "thiên cao mã phì (trời cao ngựa béo)", "def_vi": "Thành ngữ tả mùa thu trời cao xanh, thức ăn dồi dào." }
+        ]
+      },
+      {
+        "h_ko": "겨울 (12~2월)",
+        "h_vi": "Mùa đông (tháng 12 - 2)",
+        "body_vi": "Mùa đông lạnh và khô, có tuyết. Hiện tượng thời tiết đặc trưng là 삼한사온: khoảng ba ngày lạnh rồi bốn ngày ấm lặp đi lặp lại. Đợt rét đậm gọi là 한파. Cuối thu đầu đông, các gia đình cùng nhau muối kimchi để ăn cả mùa đông — đó là 김장, và văn hóa 김장 đã được UNESCO công nhận là di sản văn hóa phi vật thể của nhân loại. Nhà truyền thống sưởi bằng sàn nóng 온돌.",
+        "terms": [
+          { "ko": "삼한사온", "vi": "tam hàn tứ ôn", "def_vi": "Ba ngày lạnh rồi bốn ngày ấm luân phiên — hiện tượng đặc trưng của MÙA ĐÔNG Hàn Quốc." },
+          { "ko": "김장", "vi": "muối kimchi dự trữ mùa đông", "def_vi": "Phong tục cả gia đình, hàng xóm cùng muối một lượng lớn kimchi vào cuối thu - đầu đông." },
+          { "ko": "온돌", "vi": "hệ thống sưởi sàn", "def_vi": "Cách sưởi truyền thống Hàn Quốc: làm nóng sàn nhà, hơi ấm lan lên trên." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "계절별 특징 총정리",
+        "cap_vi": "Tổng hợp đặc trưng bốn mùa",
+        "head": ["계절", "기간", "기후 현상", "관련 생활·풍습"],
+        "rows": [
+          ["봄", "3~5월", "꽃샘추위, 황사, 미세먼지", "벚꽃 축제, 봄나들이"],
+          ["여름", "6~8월", "장마, 태풍, 열대야, 무더위", "삼복에 삼계탕, 피서, 휴가"],
+          ["가을", "9~11월", "맑고 건조함, 일교차 큼", "단풍놀이, 추수, 추석"],
+          ["겨울", "12~2월", "삼한사온, 한파, 눈", "김장, 온돌 난방, 스키"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "한국은 온대 계절풍 기후이며 사계절이 뚜렷하다",
+      "황사·꽃샘추위 = 봄 / 장마·태풍 = 여름 / 단풍 = 가을 / 삼한사온·김장 = 겨울",
+      "장마는 보통 6월 하순~7월, 태풍은 여름부터 초가을(7~9월)에 온다",
+      "삼복 = 초복·중복·말복, 이날 삼계탕을 먹는다",
+      "삼한사온 = 사흘은 춥고 나흘은 따뜻한 겨울 날씨의 반복",
+      "여름은 고온다습(남풍), 겨울은 한랭건조(북서풍)"
+    ],
+    "traps": [
+      "황사는 봄에 오는 현상이다. '겨울에 황사가 온다'는 선택지는 오답.",
+      "장마는 여름의 시작 무렵(6~7월)이지 가을이 아니다.",
+      "삼한사온은 겨울에만 쓰는 말이다. 다른 계절에 쓰면 오답.",
+      "김장은 김치를 담그는 '행위·풍습'이고, 김치는 '음식'이다. 두 단어를 바꿔 쓰지 말 것."
+    ],
+    "examples": [
+      {
+        "q": "다음 설명에 해당하는 계절 현상은?\n\n'사흘 정도 춥다가 나흘 정도 따뜻한 날씨가 반복되는 겨울철 기후 현상'",
+        "choices": ["황사", "장마", "삼한사온", "열대야"],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. 삼한사온 (三寒四溫) = 3 ngày lạnh + 4 ngày ấm lặp lại, đặc trưng MÙA ĐÔNG. ① 황사 là bụi vàng mùa xuân. ② 장마 là mùa mưa dầm mùa hè. ④ 열대야 là đêm nóng trên 25 độ, cũng thuộc mùa hè. Chỉ cần nhìn thấy chữ 겨울 trong đề là loại ngay ①②④."
+      },
+      {
+        "q": "한국의 여름 날씨에 대한 설명으로 옳지 않은 것은?",
+        "choices": [
+          "6월 하순부터 7월까지 장마가 이어진다.",
+          "태풍이 와서 강한 바람과 비 피해가 생기기도 한다.",
+          "밤에도 기온이 25도 아래로 내려가지 않는 열대야가 나타난다.",
+          "중국에서 날아온 황사 때문에 하늘이 뿌옇게 변한다."
+        ],
+        "answer": 3,
+        "explain_vi": "Đáp án ④ là câu SAI (đề hỏi 옳지 않은 것). 황사 là hiện tượng của MÙA XUÂN, không phải mùa hè. ①②③ đều đúng với mùa hè Hàn Quốc: 장마 (mưa dầm), 태풍 (bão), 열대야 (đêm nhiệt đới). Hãy chú ý: đề KIINAT rất hay dùng dạng 옳지 않은 것 — đọc kỹ chữ 않은."
+      },
+      {
+        "q": "다음 중 계절과 관련 풍습의 연결이 옳은 것은?",
+        "choices": [
+          "봄 - 김장",
+          "여름 - 삼계탕",
+          "가을 - 피서",
+          "겨울 - 단풍놀이"
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Vào 삼복 (초복·중복·말복) giữa MÙA HÈ, người Hàn ăn 삼계탕 để bồi bổ sức khỏe. ① 김장 là phong tục cuối thu - đầu ĐÔNG. ③ 피서 (đi tránh nóng) là mùa HÈ. ④ 단풍놀이 (ngắm lá đỏ) là mùa THU."
+      }
+    ],
+    "match": ["한국의 위치·기후·지형", "사계절", "장마", "태풍", "삼한사온", "계절풍 기후", "겨울 기후", "여름 기후"]
+  },
+
+  {
+    "id": "geography-l03",
+    "domain": "geography",
+    "order": 3,
+    "title_ko": "행정구역과 수도권",
+    "title_vi": "Đơn vị hành chính và Vùng thủ đô",
+    "icon": "🏙️",
+    "summary_vi": "Bài này hỏi 'Seoul là 특별시, Sejong là 특별자치시, Jeju là 특별자치도' — tức là phân biệt LOẠI đơn vị hành chính. Ngoài ra 수도권 = 서울 + 인천 + 경기 là công thức phải thuộc lòng.",
+    "est_min": 9,
+    "sections": [
+      {
+        "h_ko": "광역자치단체의 종류",
+        "h_vi": "Các loại đơn vị hành chính cấp tỉnh",
+        "body_vi": "Đơn vị hành chính cấp cao nhất của Hàn Quốc gọi là 광역자치단체 (chính quyền địa phương cấp rộng). Có các loại: 특별시 (thủ đô Seoul), 특별자치시 (Sejong), 광역시 (các thành phố lớn như 부산 · 대구 · 인천 · 대전 · 울산), 도 (tỉnh, ví dụ 경기도 · 충청남도 · 경상북도) và 특별자치도 (tỉnh tự trị đặc biệt). Dưới cấp này là 시 · 군 · 구, rồi đến 읍 · 면 · 동.",
+        "terms": [
+          { "ko": "특별시", "vi": "thành phố đặc biệt", "def_vi": "Hiện chỉ có 서울특별시 — thủ đô, trung tâm chính trị · kinh tế · văn hóa của Hàn Quốc." },
+          { "ko": "광역시", "vi": "thành phố trực thuộc trung ương", "def_vi": "Thành phố lớn tách khỏi tỉnh, có quyền hạn ngang tỉnh: 부산·대구·인천·대전·울산." },
+          { "ko": "읍·면·동", "vi": "phường/xã/thị trấn", "def_vi": "Đơn vị hành chính cơ sở. Người dân làm giấy tờ ở 주민센터 (행정복지센터) của 동 hoặc 면." }
+        ]
+      },
+      {
+        "h_ko": "세종특별자치시와 특별자치도",
+        "h_vi": "Sejong và các tỉnh tự trị đặc biệt",
+        "body_vi": "세종특별자치시 ra đời năm 2012 với vai trò 행정중심복합도시 (thành phố phức hợp lấy hành chính làm trung tâm): rất nhiều cơ quan trung ương đã chuyển về 정부세종청사 nhằm giảm tập trung vào Seoul. Lưu ý Sejong KHÔNG phải 광역시 mà là 특별자치시. Hiện có ba 특별자치도: 제주 (2006), 강원 (2023) và 전북 (2024) — các tỉnh này được trao quyền tự trị rộng hơn tỉnh thường.",
+        "terms": [
+          { "ko": "행정중심복합도시", "vi": "thành phố phức hợp trung tâm hành chính", "def_vi": "Tên gọi quy hoạch của Sejong: nơi đặt nhiều bộ ngành trung ương để phân tán chức năng khỏi Seoul." },
+          { "ko": "특별자치도", "vi": "tỉnh tự trị đặc biệt", "def_vi": "Tỉnh được trao quyền tự trị mở rộng. Ba nơi: 제주특별자치도(2006) · 강원특별자치도(2023) · 전북특별자치도(2024)." }
+        ]
+      },
+      {
+        "h_ko": "수도권이란",
+        "h_vi": "Vùng thủ đô là gì",
+        "body_vi": "수도권 gồm đúng ba đơn vị: 서울특별시 · 인천광역시 · 경기도. Diện tích chỉ chiếm khoảng một phần mười lãnh thổ nhưng tập trung khoảng một nửa dân số cả nước — đây gọi là 인구 집중 (tập trung dân số). Hệ quả là giá nhà cao, giao thông ùn tắc, cạnh tranh giáo dục gay gắt, trong khi các vùng nông thôn lại thiếu người.",
+        "terms": [
+          { "ko": "수도권", "vi": "vùng thủ đô", "def_vi": "서울 + 인천 + 경기도. Không bao gồm 강원 hay 충청." },
+          { "ko": "위성도시", "vi": "thành phố vệ tinh", "def_vi": "Thành phố quanh Seoul chia sẻ chức năng nhà ở, công nghiệp: 성남·고양·수원·용인·부천 v.v." }
+        ]
+      },
+      {
+        "h_ko": "인천과 관문 기능",
+        "h_vi": "Incheon và vai trò cửa ngõ",
+        "body_vi": "인천 là cửa ngõ quốc tế của Hàn Quốc. 인천국제공항 khai trương năm 2001, là sân bay lớn nhất nước và nhiều năm liền được đánh giá cao về dịch vụ — hầu hết người nước ngoài nhập cảnh Hàn Quốc qua đây. 인천항 là cảng biển quan trọng, và khu 송도 là khu kinh tế tự do với nhiều tổ chức quốc tế.",
+        "terms": [
+          { "ko": "인천국제공항", "vi": "sân bay quốc tế Incheon", "def_vi": "Khai trương năm 2001, sân bay cửa ngõ lớn nhất Hàn Quốc, nằm trên đảo 영종도 thuộc Incheon." }
+        ]
+      },
+      {
+        "h_ko": "인구 분산 정책",
+        "h_vi": "Chính sách phân tán dân số",
+        "body_vi": "Để giảm tập trung vào 수도권, chính phủ chuyển các cơ quan trung ương về 세종, chuyển các cơ quan công (공공기관) về địa phương và xây dựng 혁신도시 ở nhiều vùng. Đồng thời phát triển 신도시 quanh Seoul để giải quyết nhà ở. Đề thi hay hỏi 'chính sách nào nhằm giảm tập trung dân số vào vùng thủ đô'.",
+        "terms": [
+          { "ko": "혁신도시", "vi": "thành phố đổi mới", "def_vi": "Các đô thị mới ở địa phương được xây để tiếp nhận cơ quan công chuyển từ vùng thủ đô về." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "광역자치단체 종류와 예",
+        "cap_vi": "Các loại đơn vị cấp tỉnh và ví dụ",
+        "head": ["종류", "예", "기억 포인트"],
+        "rows": [
+          ["특별시", "서울특별시", "수도, 인구가 가장 많은 도시"],
+          ["특별자치시", "세종특별자치시(2012)", "행정중심복합도시, 정부세종청사"],
+          ["광역시", "부산·대구·인천·대전·울산", "도에서 분리된 대도시"],
+          ["도", "경기도·충청남도·경상북도 등", "시·군을 관할하는 광역 지방자치단체"],
+          ["특별자치도", "제주(2006)·강원(2023)·전북(2024)", "자치권이 확대된 도"]
+        ]
+      },
+      {
+        "cap_ko": "수도권 구성",
+        "cap_vi": "Cấu thành Vùng thủ đô",
+        "head": ["지역", "성격", "대표 도시"],
+        "rows": [
+          ["서울특별시", "수도, 정치·경제 중심", "-"],
+          ["인천광역시", "국제 관문(공항·항만)", "송도, 영종도"],
+          ["경기도", "주거·산업 위성도시 밀집", "수원, 성남, 고양, 용인"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "수도권 = 서울특별시 + 인천광역시 + 경기도 (이 세 곳뿐)",
+      "세종은 광역시가 아니라 세종특별자치시(2012년 출범), 행정중심복합도시",
+      "특별자치도는 세 곳: 제주(2006) · 강원(2023) · 전북(2024)",
+      "인천국제공항은 2001년 개항한 한국의 대표 관문 공항",
+      "행정 단위 순서: 특별시·광역시·도 → 시·군·구 → 읍·면·동",
+      "인구 집중 문제를 줄이기 위해 공공기관 지방 이전·혁신도시·행정중심복합도시 정책을 시행"
+    ],
+    "traps": [
+      "수도권에 강원도나 충청도는 들어가지 않는다. 서울·인천·경기 세 곳만이다.",
+      "세종을 '광역시'라고 하면 오답. 정확한 명칭은 '세종특별자치시'다.",
+      "제주는 '제주도(道)'가 아니라 '제주특별자치도'가 공식 명칭이다.",
+      "2026년 7월 1일 광주광역시와 전라남도가 합쳐져 '전남광주통합특별시'가 출범하면서 행정구역이 바뀌었다. 그러나 법무부 표준교재·기출문제는 아직 옛 구분을 따를 수 있으므로, 문제에 나온 표현을 그대로 따라 답하는 것이 안전하다."
+    ],
+    "examples": [
+      {
+        "q": "수도권에 해당하는 지역을 모두 바르게 묶은 것은?",
+        "choices": [
+          "서울특별시, 인천광역시, 경기도",
+          "서울특별시, 인천광역시, 강원특별자치도",
+          "서울특별시, 경기도, 충청남도",
+          "서울특별시, 세종특별자치시, 경기도"
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. 수도권 chỉ gồm ba đơn vị: 서울 · 인천 · 경기. ② 강원 là vùng phía đông, không thuộc vùng thủ đô. ③ 충청남도 thuộc vùng 충청. ④ 세종 nằm ở vùng 충청 và là 특별자치시 độc lập — nó được lập ra để KÉO chức năng RA KHỎI vùng thủ đô, nên đương nhiên không thuộc 수도권."
+      },
+      {
+        "q": "세종특별자치시에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "우리나라에서 인구가 가장 많은 도시이다.",
+          "여러 중앙행정기관이 이전한 행정중심복합도시이다.",
+          "국제공항이 있어 외국인이 가장 많이 들어오는 관문이다.",
+          "제주와 함께 특별자치도로 지정된 지역이다."
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. 세종 được xây dựng làm 행정중심복합도시, nơi đặt 정부세종청사 với nhiều bộ ngành trung ương, nhằm giảm tập trung vào Seoul. ① sai — thành phố đông dân nhất là 서울. ③ sai — cửa ngõ hàng không là 인천국제공항. ④ sai vì Sejong là 특별자치시 (thành phố), không phải 특별자치도 (tỉnh); ba 특별자치도 là 제주·강원·전북."
+      },
+      {
+        "q": "다음 중 특별자치도로 옳지 않은 것은?",
+        "choices": ["제주특별자치도", "강원특별자치도", "전북특별자치도", "경기특별자치도"],
+        "answer": 3,
+        "explain_vi": "Đáp án ④ là câu SAI. Không tồn tại '경기특별자치도' — 경기 vẫn là 경기도 bình thường và thuộc 수도권. Ba tỉnh tự trị đặc biệt là 제주(2006) → 강원(2023) → 전북(2024). Hãy nhớ theo thứ tự thời gian: Jeju trước, rồi Gangwon, rồi Jeonbuk."
+      }
+    ],
+    "match": ["수도권", "행정구역", "특별자치도", "세종특별자치시", "인천국제공항", "인구 집중", "위성도시", "서울"]
+  },
+
+  {
+    "id": "geography-l04",
+    "domain": "geography",
+    "order": 4,
+    "title_ko": "충청·전라 지역",
+    "title_vi": "Vùng Chungcheong và Jeolla",
+    "icon": "🍚",
+    "summary_vi": "Đề thi kiểu 'món ăn / lễ hội / cơ sở này ở đâu'. Cặp phải thuộc: 대전-과학, 세종-행정, 보령-머드축제, 금산-인삼, 전주-한옥마을·비빔밥, 순천-순천만, 여수-엑스포.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "충청 지역 개관",
+        "h_vi": "Tổng quan vùng Chungcheong",
+        "body_vi": "충청 지역 nằm ở giữa Hàn Quốc, gồm 대전광역시 · 세종특별자치시 · 충청남도 · 충청북도. Vì nằm chính giữa nên đây là đầu mối giao thông (교통의 요지) nối vùng thủ đô với miền nam. Đề thi thường gắn vùng này với hai từ khóa lớn: KHOA HỌC (대전) và HÀNH CHÍNH (세종).",
+        "terms": [
+          { "ko": "교통의 요지", "vi": "đầu mối giao thông trọng yếu", "def_vi": "Nơi các tuyến đường lớn giao nhau. 대전 là điểm giao của tuyến 경부선 và 호남선." }
+        ]
+      },
+      {
+        "h_ko": "대전과 세종",
+        "h_vi": "Daejeon và Sejong",
+        "body_vi": "대전 được gọi là thành phố khoa học vì có 대덕연구단지 — quần thể viện nghiên cứu và trường đại học khoa học kỹ thuật lớn nhất nước; 정부대전청사 cũng đặt tại đây. 세종 nằm ngay bên cạnh, là 행정중심복합도시 với 정부세종청사. Hai thành phố này thường được ra chung một câu hỏi: 대전 = 과학, 세종 = 행정.",
+        "terms": [
+          { "ko": "대덕연구단지", "vi": "khu nghiên cứu Daedeok", "def_vi": "Cụm viện nghiên cứu khoa học - công nghệ ở 대전, biểu tượng khiến Daejeon được gọi là 과학 도시." }
+        ]
+      },
+      {
+        "h_ko": "충청남도와 충청북도",
+        "h_vi": "Chungcheongnam-do và Chungcheongbuk-do",
+        "body_vi": "충청남도 giáp 서해, có 천안 (đầu mối giao thông gần vùng thủ đô), 공주 và 부여 (kinh đô cũ của 백제, có 백제역사유적지구), 보령 nổi tiếng với 보령 머드축제 (lễ hội bùn) và 금산 nổi tiếng với nhân sâm — 금산 인삼축제. 충청북도 là tỉnh DUY NHẤT không giáp biển (내륙 지역), tỉnh lỵ là 청주, có 단양 và 충주 với phong cảnh núi sông đẹp.",
+        "terms": [
+          { "ko": "보령 머드축제", "vi": "lễ hội bùn Boryeong", "def_vi": "Lễ hội mùa hè tại 보령 (충청남도) dùng bùn khoáng bãi biển 대천, rất đông khách nước ngoài." },
+          { "ko": "금산 인삼", "vi": "nhân sâm Geumsan", "def_vi": "금산 (충청남도) là chợ nhân sâm lớn nhất Hàn Quốc, có 금산 인삼축제 vào mùa thu." },
+          { "ko": "내륙", "vi": "nội địa, không giáp biển", "def_vi": "충청북도 là tỉnh duy nhất của Hàn Quốc không có đường bờ biển." }
+        ]
+      },
+      {
+        "h_ko": "전라(호남) 지역 개관",
+        "h_vi": "Tổng quan vùng Jeolla (Honam)",
+        "body_vi": "Vùng 전라 còn gọi là 호남 지역, nằm ở phía tây nam. Đây là vựa lúa của Hàn Quốc: 호남평야 (đồng bằng Honam) rộng lớn khiến vùng này được gọi là 곡창지대 (vùng vựa lúa). Vì lương thực dồi dào nên ẩm thực Jeolla nổi tiếng phong phú và ngon — đề thi rất hay gắn 전라 với 음식. 광주 là thành phố trung tâm của vùng Honam, có núi 무등산 và là nơi diễn ra 5·18 민주화 운동.",
+        "terms": [
+          { "ko": "곡창지대", "vi": "vựa lúa", "def_vi": "Vùng sản xuất lương thực chính. 호남평야 ở Jeolla là vựa lúa tiêu biểu của Hàn Quốc." },
+          { "ko": "호남", "vi": "Honam", "def_vi": "Tên gọi truyền thống của vùng Jeolla." }
+        ]
+      },
+      {
+        "h_ko": "전주·여수·순천",
+        "h_vi": "Jeonju, Yeosu, Suncheon",
+        "body_vi": "전주 (전북특별자치도) nổi tiếng với 한옥마을 — khu nhà truyền thống lớn nhất còn giữ được trong đô thị, và với món 전주비빔밥; Jeonju cũng được UNESCO công nhận là thành phố sáng tạo về ẩm thực. 여수 là thành phố cảng miền nam, nơi tổ chức 여수엑스포 năm 2012, nổi tiếng với cảnh biển đêm. 순천 có 순천만 — bãi lau sậy (갈대밭) và bãi bồi nổi tiếng, được ghi vào danh sách đất ngập nước Ramsar.",
+        "terms": [
+          { "ko": "한옥마을", "vi": "làng nhà truyền thống Hanok", "def_vi": "전주 한옥마을 là điểm du lịch tiêu biểu với hàng trăm ngôi nhà 한옥." },
+          { "ko": "순천만", "vi": "vịnh Suncheon", "def_vi": "Vùng đất ngập nước ở 순천 với 갈대밭 rộng và bãi triều, nơi trú của chim di cư." },
+          { "ko": "여수엑스포", "vi": "EXPO Yeosu", "def_vi": "Triển lãm quốc tế chủ đề biển và bờ biển, tổ chức tại 여수 năm 2012." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "충청 지역 한눈에",
+        "cap_vi": "Vùng Chungcheong tóm tắt",
+        "head": ["지역", "핵심 키워드", "설명"],
+        "rows": [
+          ["대전", "과학", "대덕연구단지, 정부대전청사, 교통의 요지"],
+          ["세종", "행정", "행정중심복합도시, 정부세종청사"],
+          ["충청남도", "백제·축제", "공주·부여 백제 유적, 보령 머드축제, 금산 인삼"],
+          ["충청북도", "내륙", "바다가 없는 유일한 도, 도청 소재지 청주"]
+        ]
+      },
+      {
+        "cap_ko": "전라(호남) 지역 한눈에",
+        "cap_vi": "Vùng Jeolla tóm tắt",
+        "head": ["지역", "핵심 키워드", "설명"],
+        "rows": [
+          ["전주", "한옥마을·비빔밥", "한옥마을, 전주비빔밥, 음식 문화의 도시"],
+          ["여수", "바다·엑스포", "남해안 항구 도시, 2012년 여수엑스포"],
+          ["순천", "순천만", "갈대밭과 갯벌, 철새 도래지, 람사르 습지"],
+          ["광주", "호남의 중심 도시", "무등산, 5·18 민주화 운동"],
+          ["호남평야", "곡창지대", "쌀 생산이 많은 넓은 평야"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "대전 = 과학 도시(대덕연구단지) / 세종 = 행정중심복합도시(정부세종청사)",
+      "충청북도는 바다가 없는 내륙 도이다",
+      "보령 머드축제와 금산 인삼축제는 모두 충청남도의 축제다",
+      "전주 = 한옥마을 + 전주비빔밥 (전북특별자치도)",
+      "순천만 = 갈대밭·갯벌·철새 / 여수 = 2012년 여수엑스포",
+      "호남평야가 있어 전라 지역은 곡창지대라고 불린다",
+      "광주는 호남 지역의 중심 도시이며 무등산과 5·18 민주화 운동으로 알려져 있다"
+    ],
+    "traps": [
+      "비빔밥 하면 전주다. 부산이나 대구가 아니다.",
+      "보령 머드축제·금산 인삼축제는 충청남도 축제다. 전라도로 착각하기 쉽다.",
+      "순천만은 전라 지역(순천)에 있다. 이름이 비슷한 경상남도 '사천'과 헷갈리지 말 것.",
+      "대덕연구단지는 대전에 있다. 세종에 있는 것은 정부세종청사다."
+    ],
+    "examples": [
+      {
+        "q": "다음 설명에 해당하는 도시는?\n\n'대덕연구단지가 있어 과학의 도시로 불리며, 경부선과 호남선이 만나는 교통의 요지이다.'",
+        "choices": ["대전", "세종", "청주", "천안"],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. 대덕연구단지 nằm ở 대전, nên Daejeon được gọi là 과학 도시; đây cũng là nơi giao nhau của tuyến đường sắt 경부선 và 호남선. ② 세종 là 행정 도시 (정부세종청사). ③ 청주 là tỉnh lỵ 충청북도. ④ 천안 là đầu mối giao thông của 충청남도 nhưng không có 대덕연구단지."
+      },
+      {
+        "q": "전주에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "화산 활동으로 만들어진 섬으로 감귤이 유명하다.",
+          "한옥마을과 비빔밥으로 유명한 도시이다.",
+          "국제영화제가 열리는 한국 제1의 항구 도시이다.",
+          "동계 올림픽이 열린 고원 지대의 도시이다."
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. 전주 nổi tiếng với 한옥마을 và 전주비빔밥. ① nói về 제주도. ③ nói về 부산 (부산국제영화제, 제1의 항구도시). ④ nói về 평창 (동계 올림픽 2018). Mẹo: gặp 비빔밥 → nghĩ ngay 전주."
+      },
+      {
+        "q": "다음 축제와 개최 지역의 연결이 옳은 것은?",
+        "choices": [
+          "머드축제 - 전라남도 순천",
+          "인삼축제 - 강원도 강릉",
+          "머드축제 - 충청남도 보령",
+          "인삼축제 - 경상북도 경주"
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. 머드축제 được tổ chức ở bãi biển 대천 thuộc 보령, 충청남도. 인삼축제 nổi tiếng là 금산 인삼축제, cũng thuộc 충청남도 — nên ② và ④ đều sai. ① sai vì 순천 nổi tiếng với 순천만 갈대밭 chứ không phải lễ hội bùn."
+      }
+    ],
+    "match": ["충청 지역", "전라 지역", "대전", "전주", "순천만", "호남평야", "여수", "금산 인삼"]
+  },
+
+  {
+    "id": "geography-l05",
+    "domain": "geography",
+    "order": 5,
+    "title_ko": "경상·강원·제주 지역",
+    "title_vi": "Vùng Gyeongsang, Gangwon và Jeju",
+    "icon": "🌋",
+    "summary_vi": "Ba vùng còn lại, mỗi vùng một tính cách: 경상 = cảng biển và công nghiệp + di sản Silla, 강원 = núi và Olympic mùa đông, 제주 = đảo núi lửa. Học theo cặp 'thành phố ↔ từ khóa' là chắc điểm.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "경상(영남) 지역의 대도시",
+        "h_vi": "Các đô thị lớn vùng Gyeongsang (Yeongnam)",
+        "body_vi": "Vùng 경상 còn gọi là 영남 지역, có con sông lớn 낙동강 chảy qua. 부산 là thành phố cảng số một Hàn Quốc (제1의 항구 도시) với 부산항, bãi biển 해운대, chợ cá 자갈치시장, và 부산국제영화제 (BIFF) tổ chức từ năm 1996 — liên hoan phim tiêu biểu của châu Á. 대구 nằm trong lòng chảo (분지) nên mùa hè rất nóng, nổi tiếng về dệt may và chợ thuốc Đông y 약령시. 울산 là thành phố công nghiệp với ô tô, đóng tàu và hóa dầu.",
+        "terms": [
+          { "ko": "항구도시", "vi": "thành phố cảng", "def_vi": "부산 là 제1의 항구 도시 của Hàn Quốc — cảng container lớn nhất nước." },
+          { "ko": "분지", "vi": "lòng chảo", "def_vi": "Địa hình trũng có núi bao quanh. 대구 là 분지 nên nóng bức về mùa hè." },
+          { "ko": "부산국제영화제", "vi": "Liên hoan phim quốc tế Busan (BIFF)", "def_vi": "Bắt đầu năm 1996 tại 부산, một trong những liên hoan phim lớn nhất châu Á." }
+        ]
+      },
+      {
+        "h_ko": "경주와 안동 — 역사와 유교",
+        "h_vi": "Gyeongju và Andong - lịch sử và Nho học",
+        "body_vi": "경주 là kinh đô nghìn năm của 신라, được ví như 'bảo tàng không mái'. Nơi đây có 불국사 và 석굴암 (Di sản thế giới từ 1995), 첨성대 (đài quan sát thiên văn cổ), 대릉원. 경주역사유적지구 được UNESCO công nhận năm 2000. 안동 là trung tâm văn hóa Nho giáo (유교 문화) với 하회마을 — làng cổ được UNESCO công nhận năm 2010, cùng 하회탈춤 (múa mặt nạ) và món 안동찜닭.",
+        "terms": [
+          { "ko": "경주역사유적지구", "vi": "Khu di tích lịch sử Gyeongju", "def_vi": "Được UNESCO ghi danh Di sản văn hóa thế giới năm 2000, gồm nhiều cụm di tích thời 신라." },
+          { "ko": "하회마을", "vi": "làng cổ Hahoe", "def_vi": "Làng truyền thống ở 안동, được UNESCO công nhận Di sản thế giới năm 2010 cùng 양동마을 (Gyeongju)." }
+        ]
+      },
+      {
+        "h_ko": "강원 지역",
+        "h_vi": "Vùng Gangwon",
+        "body_vi": "강원특별자치도 (thành lập năm 2023) nằm ở phía đông bắc, phần lớn là núi vì 태백산맥 chạy qua. 설악산 là núi nổi tiếng nhất về cảnh đẹp mùa thu. Vùng cao 대관령 mát mẻ nên trồng 고랭지 채소 (rau xứ lạnh trồng trên cao nguyên) như bắp cải, củ cải. 평창 là nơi tổ chức 평창 동계 올림픽 năm 2018. 강릉 nằm bên bờ 동해 với 경포대, còn 정동진 là điểm ngắm mặt trời mọc nổi tiếng.",
+        "terms": [
+          { "ko": "고랭지 채소", "vi": "rau trồng vùng cao mát", "def_vi": "Rau trồng ở nơi cao, mát như 대관령 — thu hoạch vào mùa hè khi đồng bằng quá nóng." },
+          { "ko": "평창 동계 올림픽", "vi": "Thế vận hội mùa đông Pyeongchang", "def_vi": "Tổ chức năm 2018 tại 평창, 강원 — kỳ Olympic mùa đông đầu tiên của Hàn Quốc." }
+        ]
+      },
+      {
+        "h_ko": "제주 지역",
+        "h_vi": "Vùng Jeju",
+        "body_vi": "제주특별자치도 (từ năm 2006) là đảo núi lửa (화산섬) lớn nhất Hàn Quốc. Trung tâm đảo là 한라산 với hồ 백록담; rải rác khắp đảo là các nón núi lửa nhỏ gọi là 오름, cùng 성산일출봉 và hang dung nham 만장굴. Năm 2007, '제주 화산섬과 용암동굴' được UNESCO công nhận là Di sản THIÊN NHIÊN thế giới. Jeju còn được gọi là 삼다도 (đảo ba nhiều: đá, gió, phụ nữ), có 돌하르방 làm từ đá núi lửa, đặc sản 감귤, và văn hóa 해녀 (nữ thợ lặn) được UNESCO ghi danh di sản văn hóa phi vật thể năm 2016.",
+        "terms": [
+          { "ko": "오름", "vi": "nón núi lửa phụ", "def_vi": "Những ngọn núi lửa nhỏ hình thành quanh 한라산, đặc trưng cảnh quan Jeju." },
+          { "ko": "해녀", "vi": "nữ thợ lặn Haenyeo", "def_vi": "Phụ nữ Jeju lặn biển bắt hải sản không dùng bình khí. Văn hóa 해녀 được UNESCO ghi danh năm 2016." },
+          { "ko": "돌하르방", "vi": "tượng đá Dolhareubang", "def_vi": "Tượng ông già bằng đá núi lửa, biểu tượng của Jeju." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "경상 지역 도시별 키워드",
+        "cap_vi": "Từ khóa theo thành phố vùng Gyeongsang",
+        "head": ["도시", "키워드", "설명"],
+        "rows": [
+          ["부산", "항구·영화", "제1의 항구도시, 해운대, 부산국제영화제(1996~)"],
+          ["대구", "분지·섬유", "여름에 더운 분지 지형, 약령시"],
+          ["울산", "공업", "자동차·조선·석유화학의 공업 도시"],
+          ["경주", "신라", "불국사·석굴암, 첨성대, 경주역사유적지구(2000년 등재)"],
+          ["안동", "유교", "하회마을(2010년 등재), 하회탈춤, 안동찜닭"]
+        ]
+      },
+      {
+        "cap_ko": "강원·제주 비교",
+        "cap_vi": "So sánh Gangwon và Jeju",
+        "head": ["지역", "지형", "대표 명소", "대표 산물·문화"],
+        "rows": [
+          ["강원특별자치도(2023)", "태백산맥의 산악 지형", "설악산, 대관령, 평창, 강릉 경포대·정동진", "고랭지 채소, 2018 평창 동계 올림픽"],
+          ["제주특별자치도(2006)", "화산섬", "한라산·백록담, 성산일출봉, 만장굴, 오름", "감귤, 돌하르방, 해녀 문화"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "부산 = 제1의 항구도시 + 부산국제영화제 / 울산 = 공업 도시 / 대구 = 분지라 여름에 덥다",
+      "경주 = 신라의 천 년 수도. 불국사·석굴암·첨성대, 경주역사유적지구는 2000년 세계유산 등재",
+      "안동 하회마을은 2010년 유네스코 세계유산에 등재된 유교 문화의 마을",
+      "평창 동계 올림픽은 2018년에 열렸고, 강원특별자치도는 2023년에 출범했다",
+      "대관령 일대에서는 고랭지 채소를 재배한다",
+      "제주는 화산섬이며 '제주 화산섬과 용암동굴'은 2007년 세계자연유산으로 등재되었다",
+      "제주의 상징: 한라산·백록담, 오름, 해녀, 돌하르방, 감귤, 삼다도"
+    ],
+    "traps": [
+      "제주의 세계유산은 '자연유산'이고, 경주·안동의 세계유산은 '문화유산'이다.",
+      "동계 올림픽은 평창(강원)에서 열렸다. 서울(1988년 하계 올림픽)과 헷갈리지 말 것.",
+      "하회마을은 안동에 있다. 전주 한옥마을과 다른 곳이다.",
+      "울산은 공업 도시, 부산은 항구 도시다. 두 도시의 대표 이미지를 바꿔 쓰면 오답."
+    ],
+    "examples": [
+      {
+        "q": "다음 설명에 해당하는 도시는?\n\n'신라의 수도였던 곳으로 불국사와 석굴암, 첨성대 등 문화유산이 많아 지붕 없는 박물관이라고 불린다.'",
+        "choices": ["안동", "경주", "부산", "공주"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. 경주 là kinh đô của 신라 suốt gần một nghìn năm, có 불국사 · 석굴암 · 첨성대. ① 안동 là trung tâm Nho học với 하회마을. ③ 부산 là thành phố cảng hiện đại. ④ 공주 là kinh đô cũ của 백제 (không phải 신라) — đây là bẫy hay gặp nhất."
+      },
+      {
+        "q": "제주도에 대한 설명으로 옳지 않은 것은?",
+        "choices": [
+          "화산 활동으로 만들어진 섬이다.",
+          "한라산과 오름, 용암동굴이 있다.",
+          "2018년 동계 올림픽이 열린 곳이다.",
+          "해녀 문화와 돌하르방으로 유명하다."
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án ③ là câu SAI. 2018 동계 올림픽 diễn ra ở 평창, 강원 — không phải Jeju (đảo phía nam ấm áp, không thể tổ chức Olympic mùa đông). ①②④ đều đúng: Jeju là 화산섬, có 한라산·오름·용암동굴, và nổi tiếng với 해녀 và 돌하르방."
+      },
+      {
+        "q": "강원 지역에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "태백산맥이 지나가는 산악 지역으로 고랭지 채소를 재배한다.",
+          "바다가 없는 내륙 지역이라 어업이 발달하지 않았다.",
+          "호남평야가 있어 쌀 생산량이 가장 많다.",
+          "국제공항이 있어 수도권의 관문 역할을 한다."
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. 강원 có 태백산맥 chạy qua nên nhiều núi; vùng cao 대관령 trồng 고랭지 채소. ② sai vì 강원 giáp 동해, có 강릉·속초 với nghề cá phát triển; tỉnh không giáp biển là 충청북도. ③ 호남평야 thuộc vùng 전라. ④ 인천국제공항 mới là cửa ngõ vùng thủ đô."
+      }
+    ],
+    "match": ["경상 지역", "강원 지역", "제주 지역", "부산", "경주", "평창", "제주도", "해녀"]
+  },
+
+  {
+    "id": "kor_grammar-l01",
+    "domain": "kor_grammar",
+    "order": 1,
+    "title_ko": "시험에 꼭 나오는 중급 문형 ①",
+    "title_vi": "Ngữ pháp trung cấp thi chắc chắn ra (phần 1)",
+    "icon": "🗣️",
+    "summary_vi": "Đây là nhóm mẫu câu hay ra ở dạng ĐIỀN VÀO CHỖ TRỐNG TRONG HỘI THOẠI (가 hỏi - 나 trả lời). Bốn đáp án thường là bốn mẫu ngữ pháp khác nhau gắn vào cùng một động từ, nên phải phân biệt được SẮC THÁI, không chỉ nghĩa.",
+    "est_min": 12,
+    "sections": [
+      {
+        "h_ko": "이 유형은 이렇게 나온다",
+        "h_vi": "Dạng đề này ra như thế nào",
+        "body_vi": "Đề cho một đoạn hội thoại ngắn, chỗ trống nằm trong lời của 나. Bốn đáp án dùng CÙNG một động từ nhưng khác đuôi ngữ pháp, ví dụ '길이 막히는 바람에 / 막히는 대신에 / 막히는 덕분에 / 막히기 위해서'. Vì vậy chiến lược là: (1) xem kết quả ở vế sau là TỐT hay XẤU, (2) xem hành động đó có phải do người nói CHỦ ĐỘNG làm hay không, (3) xem thì (quá khứ hay hiện tại).",
+        "terms": [
+          { "ko": "빈칸 채우기", "vi": "điền vào chỗ trống", "def_vi": "Dạng đề phổ biến nhất phần tiếng Hàn: 다음 대화의 (   )에 알맞은 것을 고르시오." }
+        ]
+      },
+      {
+        "h_ko": "변화·중단·평가 문형",
+        "h_vi": "Mẫu câu chỉ sự thay đổi, gián đoạn, đánh giá",
+        "body_vi": "Nhóm này gồm '-게 되다' (trở nên thế nào đó do hoàn cảnh, KHÔNG do ý chí bản thân), '-다가' (đang làm dở việc A thì chuyển sang B), '-(으)ㄹ 만하다' (đáng để làm) và '-(으)려던 참이다' (vừa đúng lúc đang định làm). Điểm chung: cả bốn đều chỉ gắn với ĐỘNG TỪ. Với tính từ, '-게 되다' phải đổi thành '-아/어지다': 얼굴이 예뻐지다 (không nói 예쁘게 되다 trong văn nói tự nhiên).",
+        "terms": [
+          { "ko": "-게 되다", "vi": "trở nên ~, rốt cuộc thành ra ~", "def_vi": "Chỉ kết quả thay đổi do hoàn cảnh bên ngoài. Chỉ gắn với ĐỘNG TỪ. Ví dụ: 회사를 옮기게 되었어요 (Tôi chuyển công ty - do hoàn cảnh)." },
+          { "ko": "-다가", "vi": "đang ~ thì ~", "def_vi": "Việc A đang diễn ra thì dừng lại hoặc chuyển sang B. Chủ ngữ trước sau PHẢI GIỐNG NHAU." },
+          { "ko": "-(으)ㄹ 만하다", "vi": "đáng để ~", "def_vi": "Đánh giá là có giá trị, xứng đáng. 볼 만하다 = đáng xem. Không dùng với tính từ." },
+          { "ko": "-(으)려던 참이다", "vi": "vừa đang định ~", "def_vi": "Đúng lúc đang định làm thì có việc xảy ra. Thường đi với 마침, 막." }
+        ]
+      },
+      {
+        "h_ko": "경험·아쉬움 문형",
+        "h_vi": "Mẫu câu hồi tưởng trải nghiệm và tiếc nuối",
+        "body_vi": "'-더라고요' dùng khi kể lại điều CHÍNH MÌNH đã trực tiếp thấy, nghe, trải nghiệm trong quá khứ và cảm thấy mới mẻ. Vì vậy nó KHÔNG dùng để kể hành động của chính mình một cách khách quan (제가 밥을 먹더라고요 là sai). '-(으)ㄹ 뻔하다' nghĩa là 'suýt nữa thì' — điều đó THỰC TẾ ĐÃ KHÔNG XẢY RA, và gần như luôn ở dạng quá khứ '-(으)ㄹ 뻔했다'.",
+        "terms": [
+          { "ko": "-더라고요", "vi": "(tôi thấy là) ~ đấy", "def_vi": "Kể lại điều bản thân trực tiếp chứng kiến. Muốn thuật lại lời người khác thì dùng '-대요'." },
+          { "ko": "-(으)ㄹ 뻔하다", "vi": "suýt nữa thì ~", "def_vi": "Việc xấu suýt xảy ra nhưng đã KHÔNG xảy ra. Luôn dùng '-(으)ㄹ 뻔했다'." }
+        ]
+      },
+      {
+        "h_ko": "원인·이유 문형",
+        "h_vi": "Mẫu câu chỉ nguyên nhân, lý do",
+        "body_vi": "Ba mẫu này bị nhầm nhiều nhất. '-는 바람에': nguyên nhân BẤT NGỜ, ngoài ý muốn, dẫn tới kết quả XẤU. '-느라고': vì mải làm việc A nên không làm được B — chủ ngữ hai vế PHẢI GIỐNG NHAU, hai việc xảy ra CÙNG LÚC, và không được thêm thì quá khứ ('-았느라고' là sai). '-았/었더니': tôi đã làm A và phát hiện/nhận được kết quả B — chủ ngữ vế trước thường là NGƯỜI NÓI.",
+        "terms": [
+          { "ko": "-는 바람에", "vi": "vì ~ (bất ngờ) nên (kết quả xấu)", "def_vi": "Nguyên nhân ngoài ý muốn. Vế sau thường ở thì quá khứ và mang nghĩa tiêu cực. Không dùng câu mệnh lệnh/rủ rê." },
+          { "ko": "-느라고", "vi": "vì mải ~ nên", "def_vi": "Chủ ngữ hai vế giống nhau, hành động vế trước tốn thời gian/sức nên vế sau không đạt được. Không gắn thì quá khứ." },
+          { "ko": "-았/었더니", "vi": "tôi đã ~ thì (kết quả là)", "def_vi": "Chủ ngữ vế trước là người nói. Không dùng với tính từ." }
+        ]
+      },
+      {
+        "h_ko": "문법 제약 정리",
+        "h_vi": "Tổng hợp các ràng buộc ngữ pháp",
+        "body_vi": "Đề thi thường không hỏi trực tiếp về ràng buộc, nhưng dùng chính ràng buộc đó để tạo đáp án sai. Ba ràng buộc phải nhớ: (1) TỪ LOẠI — mẫu nào chỉ đi với động từ; (2) CHỦ NGỮ — mẫu nào bắt buộc hai vế cùng chủ ngữ ('-다가', '-느라고'); (3) THÌ — mẫu nào không được gắn '-았/었-' ('-느라고'), mẫu nào bắt buộc quá khứ ('-(으)ㄹ 뻔했다').",
+        "terms": [
+          { "ko": "주어 일치", "vi": "trùng chủ ngữ", "def_vi": "Yêu cầu hai vế câu có cùng chủ ngữ. '-다가', '-느라고' bắt buộc điều này." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "문형 ① 한눈에 정리",
+        "cap_vi": "Bảng tổng hợp mẫu câu phần 1",
+        "head": ["문형", "의미 (nghĩa)", "예문", "예문 번역", "헷갈리는 짝"],
+        "rows": [
+          ["-게 되다", "Trở nên ~, rốt cuộc thành ra ~ (do hoàn cảnh, không do ý chí)", "한국에 살면서 매운 음식을 잘 먹게 되었어요.", "Sống ở Hàn Quốc rồi tôi (dần) ăn được đồ cay.", "-아/어지다 (dùng cho TÍNH TỪ: 예뻐지다)"],
+          ["-다가", "Đang làm A thì dừng/chuyển sang B (cùng chủ ngữ)", "집에 가다가 친구를 만났어요.", "Đang trên đường về nhà thì tôi gặp bạn.", "-고 나서 (làm XONG A rồi mới B)"],
+          ["-(으)ㄹ 만하다", "Đáng để ~, cũng tạm được (đánh giá tích cực)", "그 영화는 한번 볼 만해요.", "Bộ phim đó đáng xem một lần.", "-(으)ㄹ 수 있다 (chỉ khả năng, không có sắc thái đánh giá)"],
+          ["-(으)려던 참이다", "Vừa đang định làm ~ (đúng lúc đó)", "저도 막 전화하려던 참이었어요.", "Tôi cũng vừa định gọi điện đấy.", "-(으)려고 하다 (ý định chung, không nhấn 'đúng lúc')"],
+          ["-더라고요", "(Tôi tận mắt thấy) ~ đấy - hồi tưởng trải nghiệm trực tiếp", "어제 가 보니까 그 가게는 문을 닫았더라고요.", "Hôm qua tôi thử đến thì thấy cửa hàng đó đã đóng cửa.", "-대요 (thuật lại LỜI NGƯỜI KHÁC, không phải mình thấy)"],
+          ["-(으)ㄹ 뻔하다", "Suýt nữa thì ~ (thực tế KHÔNG xảy ra)", "늦잠을 자서 지각할 뻔했어요.", "Tôi ngủ quên nên suýt thì đi muộn (nhưng không muộn).", "-고 말았다 (việc xấu ĐÃ thật sự xảy ra)"],
+          ["-는 바람에", "Vì ~ (bất ngờ, ngoài ý muốn) nên kết quả XẤU", "갑자기 비가 오는 바람에 옷이 다 젖었어요.", "Vì trời đột nhiên mưa nên quần áo ướt hết.", "-는 덕분에 (nguyên nhân → kết quả TỐT)"],
+          ["-느라고", "Vì mải làm ~ nên không làm được / kết quả xấu (cùng chủ ngữ)", "아이를 돌보느라고 잠을 못 잤어요.", "Vì bận chăm con nên tôi không ngủ được.", "-는 바람에 (nguyên nhân là sự việc bên ngoài, chủ ngữ có thể khác)"],
+          ["-았/었더니", "Tôi đã làm ~, và kết quả là ~ (chủ ngữ vế trước = người nói)", "약을 먹었더니 좀 나아졌어요.", "Tôi uống thuốc xong thì thấy đỡ hơn.", "-(으)니까 (lý do chung, chủ ngữ tự do)"]
+        ]
+      },
+      {
+        "cap_ko": "결합 제약 표",
+        "cap_vi": "Bảng ràng buộc kết hợp",
+        "head": ["문형", "동사", "형용사", "주어 일치", "시제 제약"],
+        "rows": [
+          ["-게 되다", "○", "× (→ -아/어지다)", "필요 없음", "없음"],
+          ["-다가", "○", "△ (제한적)", "필요함", "없음"],
+          ["-(으)ㄹ 만하다", "○", "×", "필요 없음", "없음"],
+          ["-(으)려던 참이다", "○", "×", "필요 없음", "미래·의도만"],
+          ["-(으)ㄹ 뻔하다", "○", "×", "필요 없음", "항상 '-(으)ㄹ 뻔했다'"],
+          ["-는 바람에", "○", "×", "필요 없음", "뒤 문장은 과거, 명령·청유 불가"],
+          ["-느라고", "○", "×", "반드시 같아야 함", "'-았느라고' 불가, 명령·청유 불가"],
+          ["-았/었더니", "○", "×", "앞 주어는 보통 화자", "앞은 반드시 과거"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "-게 되다는 동사에만 붙는다. 형용사는 '-아/어지다'를 쓴다 (예뻐지다, 많아지다)",
+      "-느라고: 앞뒤 주어가 반드시 같고, '-았/었느라고'처럼 과거 시제를 붙일 수 없다",
+      "-는 바람에 / -느라고 뒤에는 명령형(-(으)세요)·청유형(-(으)ㅂ시다)을 쓸 수 없다",
+      "-는 바람에 = 나쁜 결과 / -는 덕분에 = 좋은 결과. 결과의 좋고 나쁨으로 고른다",
+      "-(으)ㄹ 뻔하다는 거의 항상 '-(으)ㄹ 뻔했다' 형태이고, 실제로는 일어나지 않은 일이다",
+      "-더라고요는 내가 직접 보고 겪은 일에만 쓴다. 남의 말을 전할 때는 '-대요'",
+      "-았/었더니의 앞 문장 주어는 보통 '나(화자)'이며, 형용사에는 붙지 않는다"
+    ],
+    "traps": [
+      "'-느라고'와 '-는 바람에' 구별: 내가 의도적으로 한 행동이면 -느라고, 나와 상관없이 벌어진 일이면 -는 바람에. '감기에 걸리느라고'(×) → '감기에 걸리는 바람에'(○)",
+      "'-더라고요'는 자기 행동을 객관적으로 서술할 때 못 쓴다. '제가 어제 영화를 보더라고요'(×) → '제가 어제 영화를 봤어요'(○)",
+      "'-(으)려던 참이다'는 아직 하지 않은 일에만 쓴다. 이미 끝낸 일에는 쓸 수 없다.",
+      "'-다가'는 앞뒤 주어가 같아야 한다. '제가 밥을 먹다가 동생이 왔어요'(×) → '제가 밥을 먹고 있다가 동생이 왔어요'처럼 다른 표현을 써야 자연스럽다."
+    ],
+    "examples": [
+      {
+        "q": "가: 왜 어제 모임에 안 왔어요?\n나: 갑자기 회사에 일이 (   ) 못 갔어요.\n\n다음 대화의 (   )에 알맞은 것을 고르시오.",
+        "choices": ["생기는 바람에", "생기는 덕분에", "생기려던 참이라", "생길 만해서"],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. Công việc phát sinh ĐỘT NGỘT (갑자기), ngoài ý muốn, dẫn tới kết quả XẤU là không đi họp mặt được → '-는 바람에'. ② '-는 덕분에' chỉ dùng cho kết quả TỐT, đi với '못 갔어요' là sai hoàn toàn. ③ '-(으)려던 참이다' nghĩa là 'vừa định làm', không hợp với sự việc phát sinh. ④ '-(으)ㄹ 만하다' là đánh giá 'đáng để', hoàn toàn lệch nghĩa."
+      },
+      {
+        "q": "가: 어제 왜 전화를 안 받았어요?\n나: 미안해요. 밀린 서류를 (   ) 휴대폰 소리를 못 들었어요.\n\n다음 대화의 (   )에 알맞은 것을 고르시오.",
+        "choices": ["정리했더라면", "정리하느라고", "정리하는 대신에", "정리할 뻔해서"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Người nói MẢI làm một việc (정리하다) nên không làm được việc khác (không nghe thấy điện thoại) — hai vế cùng chủ ngữ, cùng thời điểm → '-느라고'. ① '-았더라면' là giả định tiếc nuối về quá khứ. ③ '-는 대신에' nghĩa là 'thay vì / bù lại', không phải quan hệ nhân quả. ④ '-(으)ㄹ 뻔하다' nghĩa 'suýt nữa thì', nhưng ở đây người nói ĐÃ thực sự sắp xếp giấy tờ."
+      },
+      {
+        "q": "가: 그 카페 어땠어요?\n나: 생각보다 조용하고 (   ). 다음에 같이 가요.\n\n다음 대화의 (   )에 알맞은 것을 고르시오.",
+        "choices": ["갈 뻔했어요", "가느라고 했어요", "갈 만하더라고요", "가려던 참이에요"],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. Người nói ĐÃ đến quán và ĐÁNH GIÁ là 'đáng để đi' → '-(으)ㄹ 만하다', cộng thêm '-더라고요' để kể lại điều mình TỰ TRẢI NGHIỆM. ① '-(으)ㄹ 뻔했다' nghĩa là suýt đi (nhưng không đi) — mâu thuẫn với việc đã đánh giá được quán. ② sai ngữ pháp và sai nghĩa. ④ '-(으)려던 참이에요' là 'vừa định đi', không thể dùng để trả lời câu hỏi về cảm nhận đã có."
+      }
+    ],
+    "match": ["-는 바람에", "-(으)ㄹ 뻔하다", "-더라고요", "-(으)려던 참이다", "-(으)ㄹ 만하다", "-게 되다", "-다가", "-느라고"]
+  },
+
+  {
+    "id": "kor_grammar-l02",
+    "domain": "kor_grammar",
+    "order": 2,
+    "title_ko": "시험에 꼭 나오는 중급 문형 ②",
+    "title_vi": "Ngữ pháp trung cấp thi chắc chắn ra (phần 2)",
+    "icon": "🔗",
+    "summary_vi": "Nhóm này chuyên ra ở dạng NỐI HAI CÂU hoặc chọn liên từ nối vế. Mẹo chung: nhìn xem hai vế CÙNG CHIỀU (đều tốt / đều xấu) hay NGƯỢC CHIỀU — chọn sai chiều là mất điểm ngay.",
+    "est_min": 12,
+    "sections": [
+      {
+        "h_ko": "이 유형은 이렇게 나온다",
+        "h_vi": "Dạng đề này ra như thế nào",
+        "body_vi": "Đề cho hai câu rồi hỏi 'hãy chọn cách nối hai câu đúng nhất', hoặc cho một câu dài có chỗ trống ở giữa. Ba câu hỏi cần tự đặt ra: (1) Hai vế CÙNG CHIỀU hay NGƯỢC CHIỀU? (2) Vế trước gắn vào DANH TỪ hay vào ĐỘNG TỪ/TÍNH TỪ? (3) Đây là quy luật chung của đời sống hay chuyện xảy ra một lần?",
+        "terms": [
+          { "ko": "문장 연결", "vi": "nối câu", "def_vi": "Dạng đề: 다음 두 문장을 바르게 연결한 것을 고르시오." }
+        ]
+      },
+      {
+        "h_ko": "강조·대조 문형",
+        "h_vi": "Mẫu câu nhấn mạnh và tương phản",
+        "body_vi": "'-는커녕' phủ định cả điều dễ hơn: '밥은커녕 물도 못 마셨어요' = đến nước còn không uống được, nói gì đến cơm. Vế sau BẮT BUỘC mang nghĩa tiêu cực và thường có '도 · 조차 · 마저'. '-(이)야말로' gắn sau DANH TỪ để nhấn 'chính cái này mới là'. '-치고' cũng gắn sau danh từ nhưng có hai nghĩa trái ngược nhau tùy có '는' hay không — xem phần bẫy.",
+        "terms": [
+          { "ko": "-는커녕", "vi": "nói gì đến ~, đến cả ~ cũng không", "def_vi": "Danh từ + 은/는커녕, động từ + 기는커녕. Vế sau luôn tiêu cực, hay đi với 도/조차/마저." },
+          { "ko": "-(이)야말로", "vi": "chính ~ mới là", "def_vi": "Chỉ gắn sau DANH TỪ. Nhấn mạnh rằng đây mới đúng là cái đáng nói tới." },
+          { "ko": "-치고", "vi": "hễ là ~ thì (không có ngoại lệ)", "def_vi": "Danh từ + 치고 + câu phủ định = không có ngoại lệ nào. Dạng '-치고는' lại mang nghĩa NGƯỢC: so với ~ thì lại khác thường." }
+        ]
+      },
+      {
+        "h_ko": "첨가 문형",
+        "h_vi": "Mẫu câu bổ sung, cộng thêm",
+        "body_vi": "'-(으)ㄹ 뿐만 아니라' và '-(으)ㄴ/는 데다가' đều nghĩa 'không những ~ mà còn ~'. Điều kiện chung: hai vế phải CÙNG CHIỀU — cùng tốt hoặc cùng xấu. Không thể nói '맛있을 뿐만 아니라 비싸요' (ngon + đắt = ngược chiều), phải dùng '-지만'. Riêng '-(으)ㄴ/는 데다가' còn đòi hai vế cùng chủ ngữ. Chia đuôi: động từ '-는 데다가', tính từ '-(으)ㄴ 데다가', danh từ '인 데다가'.",
+        "terms": [
+          { "ko": "-(으)ㄹ 뿐만 아니라", "vi": "không những ~ mà còn ~", "def_vi": "Cộng thêm thông tin cùng chiều. Danh từ dùng '일 뿐만 아니라'." },
+          { "ko": "-(으)ㄴ/는 데다가", "vi": "đã ~ lại còn ~", "def_vi": "Cộng thêm, hai vế cùng chiều và CÙNG CHỦ NGỮ. 동사 -는 데다가 / 형용사 -(으)ㄴ 데다가." }
+        ]
+      },
+      {
+        "h_ko": "조건·비례·양보 문형",
+        "h_vi": "Mẫu câu điều kiện, tỉ lệ, nhượng bộ",
+        "body_vi": "'-기만 하면' có hai nghĩa: 'hễ cứ ~ là lại ~' (lặp đi lặp lại) và 'chỉ cần ~ là đủ'. '-(으)ㄹ수록' nghĩa 'càng ~ càng ~', hay dùng dạng đầy đủ '-(으)면 -(으)ㄹ수록'. '-더라도' nghĩa 'dù cho ~ đi nữa', mạnh hơn '-아/어도' vì mang tính GIẢ ĐỊNH việc chưa xảy ra, và thường đi cặp với '아무리'.",
+        "terms": [
+          { "ko": "-기만 하면", "vi": "hễ cứ ~ là / chỉ cần ~ là", "def_vi": "Diễn tả điều kiện lặp lại đều đặn hoặc điều kiện tối thiểu đủ để dẫn tới kết quả." },
+          { "ko": "-(으)ㄹ수록", "vi": "càng ~ càng ~", "def_vi": "Quan hệ tỉ lệ thuận. Hay dùng '-(으)면 -(으)ㄹ수록' cho nhấn mạnh." },
+          { "ko": "-더라도", "vi": "dù cho ~ đi nữa", "def_vi": "Nhượng bộ mang tính giả định mạnh, hay đi với 아무리. So với '-아/어도' thì giả định hơn." }
+        ]
+      },
+      {
+        "h_ko": "이치·대체 문형",
+        "h_vi": "Mẫu câu chỉ lẽ đương nhiên và sự thay thế",
+        "body_vi": "'-기 마련이다' và '-는 법이다' đều nghĩa 'lẽ tất nhiên là ~, vốn dĩ là ~', dùng cho QUY LUẬT chung của cuộc sống chứ không dùng cho một sự việc riêng lẻ vừa xảy ra; '-는 법이다' nghe trang trọng và có tính răn dạy hơn. '-(으)ㄴ/는 대신에' có hai nghĩa: 'thay vì làm A thì làm B' và 'A có nhược điểm nhưng bù lại B'.",
+        "terms": [
+          { "ko": "-기 마련이다", "vi": "lẽ đương nhiên là ~", "def_vi": "Diễn tả điều tất yếu xảy ra theo lẽ thường. Gắn với cả động từ và tính từ." },
+          { "ko": "-는 법이다", "vi": "vốn dĩ là ~, theo lẽ thường thì ~", "def_vi": "Gần đồng nghĩa với '-기 마련이다' nhưng trang trọng hơn. 동사 -는 법이다 / 형용사 -(으)ㄴ 법이다." },
+          { "ko": "-(으)ㄴ/는 대신에", "vi": "thay vì ~ / bù lại ~", "def_vi": "Nghĩa 1: thay thế hành động. Nghĩa 2: đền bù cho nhược điểm. 동사 -는 대신에 / 형용사 -(으)ㄴ 대신에." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "문형 ② 한눈에 정리",
+        "cap_vi": "Bảng tổng hợp mẫu câu phần 2",
+        "head": ["문형", "의미 (nghĩa)", "예문", "예문 번역", "헷갈리는 짝"],
+        "rows": [
+          ["-는커녕", "Nói gì đến ~, đến cả ~ cũng không (vế sau luôn tiêu cực)", "바빠서 여행은커녕 주말에 쉬지도 못해요.", "Bận đến nỗi nói gì đi du lịch, cuối tuần nghỉ cũng không được.", "-은/는 물론 (câu sau có thể TÍCH CỰC: 여행은 물론 등산도 좋아해요)"],
+          ["-(이)야말로", "Chính ~ mới là (gắn sau DANH TỪ)", "건강이야말로 가장 소중한 재산이에요.", "Sức khỏe mới chính là tài sản quý giá nhất.", "-이/가 (chỉ nêu chủ ngữ, không có sắc thái nhấn mạnh)"],
+          ["-기만 하면", "Hễ cứ ~ là / chỉ cần ~ là đủ", "아이는 엄마 얼굴을 보기만 하면 웃어요.", "Đứa bé hễ cứ nhìn thấy mặt mẹ là cười.", "-(으)ㄹ 때마다 (mỗi khi ~, không có sắc thái 'chỉ cần')"],
+          ["-(으)ㄹ 뿐만 아니라", "Không những ~ mà còn ~ (hai vế CÙNG CHIỀU)", "그 식당은 음식이 맛있을 뿐만 아니라 값도 싸요.", "Nhà hàng đó không những ngon mà giá cũng rẻ.", "-지만 (dùng khi hai vế NGƯỢC CHIỀU)"],
+          ["-(으)ㄴ/는 데다가", "Đã ~ lại còn ~ (cùng chiều, CÙNG CHỦ NGỮ)", "어제는 비가 오는 데다가 바람도 세게 불었어요.", "Hôm qua trời đã mưa lại còn gió mạnh.", "-(으)ㄹ 뿐만 아니라 (nghĩa gần giống, nhưng không bắt buộc cùng chủ ngữ)"],
+          ["-기 마련이다", "Lẽ đương nhiên là ~ (quy luật chung)", "사람은 누구나 실수하기 마련이에요.", "Con người ai cũng có lúc mắc lỗi, đó là lẽ đương nhiên.", "-는 법이다 (gần đồng nghĩa, trang trọng hơn)"],
+          ["-는 법이다", "Vốn dĩ là ~, theo lẽ thường thì ~", "노력하면 좋은 결과가 나오는 법이에요.", "Cứ nỗ lực thì kết quả tốt sẽ đến, đó là lẽ thường.", "-기 마련이다"],
+          ["-치고", "Hễ là ~ thì không có ngoại lệ (đi với PHỦ ĐỊNH)", "한국 사람치고 김치를 안 좋아하는 사람이 없어요.", "Hễ là người Hàn thì không ai không thích kimchi.", "-치고는 (nghĩa NGƯỢC: so với ~ thì lại khác thường)"],
+          ["-치고는", "So với ~ thì lại ~ (ngoại lệ, đánh giá)", "그 사람은 초보자치고는 실력이 좋아요.", "So với người mới học thì anh ấy khá giỏi.", "-치고 (không có 는 = không ngoại lệ)"],
+          ["-(으)ㄹ수록", "Càng ~ càng ~", "한국어는 공부하면 할수록 재미있어요.", "Tiếng Hàn càng học càng thấy thú vị.", "-(으)면 (chỉ điều kiện, không có nghĩa 'càng')"],
+          ["-더라도", "Dù cho ~ đi nữa (giả định mạnh, hay đi với 아무리)", "아무리 바쁘더라도 아침은 꼭 드세요.", "Dù có bận đến mấy cũng nhất định hãy ăn sáng.", "-아/어도 (nhượng bộ với việc có thật hoặc thường xảy ra)"],
+          ["-(으)ㄴ/는 대신에", "Thay vì ~ / bù lại ~", "저는 커피를 마시는 대신에 차를 마셔요. / 이 집은 좁은 대신에 값이 싸요.", "Thay vì uống cà phê tôi uống trà. / Nhà này chật nhưng bù lại giá rẻ.", "-는 김에 (tiện thể làm A thì làm luôn B)"]
+        ]
+      },
+      {
+        "cap_ko": "품사별 결합 형태",
+        "cap_vi": "Cách chia theo từ loại",
+        "head": ["문형", "동사", "형용사", "명사"],
+        "rows": [
+          ["-는커녕", "-기는커녕", "-기는커녕", "명사 + 은/는커녕"],
+          ["-(이)야말로", "×", "×", "명사 + (이)야말로"],
+          ["-치고 / -치고는", "×", "×", "명사 + 치고(는)"],
+          ["-(으)ㄹ 뿐만 아니라", "-(으)ㄹ 뿐만 아니라", "-(으)ㄹ 뿐만 아니라", "명사 + 일 뿐만 아니라"],
+          ["-(으)ㄴ/는 데다가", "-는 데다가", "-(으)ㄴ 데다가", "명사 + 인 데다가"],
+          ["-는 법이다", "-는 법이다", "-(으)ㄴ 법이다", "×"],
+          ["-(으)ㄴ/는 대신에", "-는 대신에", "-(으)ㄴ 대신에", "명사 + 대신에"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "-는커녕 뒤에는 반드시 부정적인 내용이 오고, '도/조차/마저'와 함께 쓰인다",
+      "-(이)야말로와 -치고(는)는 명사 뒤에만 붙는다",
+      "-치고 + 부정문 = '예외가 없다' / -치고는 = '그 부류에 비해 예외적이다'. 뜻이 반대다",
+      "-(으)ㄹ 뿐만 아니라 / -(으)ㄴ/는 데다가는 앞뒤 내용의 방향(긍정·부정)이 같아야 한다",
+      "-(으)ㄴ/는 데다가는 앞뒤 주어가 같아야 한다",
+      "-더라도는 '아무리'와 짝을 이루며, 아직 일어나지 않은 일을 가정할 때 쓴다",
+      "-기 마련이다 = -는 법이다. 일반적인 이치에만 쓰고, 한 번 일어난 개별 사건에는 쓰지 않는다",
+      "형용사 결합형: -(으)ㄴ 데다가 / -(으)ㄴ 법이다 / -(으)ㄴ 대신에"
+    ],
+    "traps": [
+      "'-는커녕' 뒤에 좋은 내용이 오면 오답이다. '여행은커녕 매일 여행을 가요'(×). 좋은 내용을 더할 때는 '-은/는 물론'을 쓴다.",
+      "'-(으)ㄹ 뿐만 아니라'로 반대 방향을 이으면 틀린다. '맛있을 뿐만 아니라 비싸요'(×) → '맛있지만 비싸요'(○). 또 '-는 데다가'는 앞뒤 주어까지 같아야 한다: '동생은 키가 큰 데다가 저는 운동을 잘해요'(×)",
+      "'-치고'와 '-치고는'을 바꿔 쓰면 의미가 정반대가 된다. '초보자치고 잘해요'보다 '초보자치고는 잘해요'가 정확하다.",
+      "'-기 마련이다'는 일반적 진리에만 쓴다. '어제 제가 지각하기 마련이었어요'(×) 같은 개별 사건에는 쓸 수 없다."
+    ],
+    "examples": [
+      {
+        "q": "다음 두 문장을 바르게 연결한 것을 고르시오.\n\n· 그 사람은 성격이 좋다.\n· 그 사람은 일도 잘한다.",
+        "choices": [
+          "그 사람은 성격이 좋은커녕 일도 잘해요.",
+          "그 사람은 성격이 좋을 뿐만 아니라 일도 잘해요.",
+          "그 사람은 성격이 좋은 대신에 일도 잘해요.",
+          "그 사람은 성격이 좋더라도 일도 잘해요."
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Hai vế đều TÍCH CỰC và cùng chiều (tính cách tốt + làm việc giỏi) nên dùng '-(으)ㄹ 뿐만 아니라'. ① sai cả nghĩa lẫn hình thức: '-는커녕' phải đi với vế sau tiêu cực. ③ '-는 대신에' nghĩa 'bù lại', đòi hai vế đối lập nhau. ④ '-더라도' là nhượng bộ 'dù cho', hoàn toàn không hợp."
+      },
+      {
+        "q": "가: 요즘 좀 쉬었어요?\n나: 아니요, (   ) 밥 먹을 시간도 없었어요.\n\n다음 대화의 (   )에 알맞은 것을 고르시오.",
+        "choices": ["휴가는커녕", "휴가야말로", "휴가치고는", "휴가인 데다가"],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. Vế sau là '밥 먹을 시간도 없었어요' — phủ định cả điều nhỏ hơn (thời gian ăn cơm), nên phải dùng '-는커녕' để nói 'nói gì đến nghỉ phép'. Chú ý dấu hiệu '도' ở vế sau — đó là bạn đồng hành cố định của '-는커녕'. ② '-(이)야말로' là nhấn mạnh tích cực. ③ '-치고는' là so sánh ngoại lệ. ④ '-인 데다가' là cộng thêm, hai vế phải cùng chiều."
+      },
+      {
+        "q": "가: 한국어가 너무 어려워요.\n나: 괜찮아요. 언어는 (   ) 실력이 늘어요. 포기하지 마세요.\n\n다음 대화의 (   )에 알맞은 것을 고르시오.",
+        "choices": ["연습하는커녕", "연습하면 할수록", "연습하기 마련이라", "연습하는 대신에"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Quan hệ ở đây là TỈ LỆ THUẬN: càng luyện tập thì thực lực càng tăng → '-(으)면 -(으)ㄹ수록'. ① '-는커녕' đòi vế sau tiêu cực, mâu thuẫn với '실력이 늘어요'. ③ '-기 마련이다' diễn tả lẽ đương nhiên nhưng không nối được quan hệ 'càng... càng...' ở đây. ④ '-는 대신에' nghĩa 'thay vì luyện tập', ngược hẳn với lời động viên 포기하지 마세요."
+      }
+    ],
+    "match": ["-는커녕", "-(이)야말로", "-기만 하면", "-(으)ㄹ 뿐만 아니라", "-기 마련이다", "-치고", "-(으)ㄹ수록", "-더라도"]
+  },
+
+  {
+    "id": "kor_vocab-l01",
+    "domain": "kor_vocab",
+    "order": 1,
+    "title_ko": "시험에 자주 나오는 중급 어휘",
+    "title_vi": "Từ vựng trung cấp hay ra thi",
+    "icon": "📗",
+    "summary_vi": "Đề từ vựng cho một câu đời sống rồi khoét một chỗ trống. Bốn đáp án đều là danh từ/động từ cùng cấp độ, nên phải nhớ từ theo CỤM CỐ ĐỊNH (연어) — ví dụ 부담이 크다, 신고를 하다, 서류를 발급받다.",
+    "est_min": 11,
+    "sections": [
+      {
+        "h_ko": "어휘를 외우는 방법",
+        "h_vi": "Cách học từ vựng cho đúng kiểu đề",
+        "body_vi": "Đừng học từ đơn lẻ mà học theo CỤM ĐI CÙNG NHAU (연어). Ví dụ 부담 hầu như luôn đi với 크다/커지다/줄이다; 신고 luôn đi với 하다/접수하다. Đề thi thiết kế đúng theo nguyên tắc này: ba đáp án sai đều đúng nghĩa từ điển nhưng KHÔNG kết hợp tự nhiên với danh từ trong câu. Vì vậy khi học, hãy chép cả cụm chứ không chép mỗi từ.",
+        "terms": [
+          { "ko": "연어 표현", "vi": "cụm từ đi cùng nhau (collocation)", "def_vi": "Các từ thường xuất hiện cạnh nhau một cách tự nhiên: 부담이 크다, 시간을 내다, 신경을 쓰다." }
+        ]
+      },
+      {
+        "h_ko": "직장에서 쓰는 말",
+        "h_vi": "Từ ngữ nơi công sở",
+        "body_vi": "Chủ đề công việc chiếm tỉ lệ cao nhất. Cần nắm chuỗi quy trình: 이력서를 내다 → 면접을 보다 → 합격하다 → 출근하다 → 야근하다 → 승진하다. Ngoài ra là các từ đánh giá cảm nhận về công việc: 보람 (ý nghĩa, sự đáng công), 부담 (gánh nặng), 효율 (hiệu suất), 담당자 (người phụ trách).",
+        "terms": [
+          { "ko": "면접을 보다", "vi": "đi phỏng vấn", "def_vi": "Chú ý động từ là 보다 chứ không phải 하다. 면접관 = người phỏng vấn." },
+          { "ko": "보람", "vi": "sự đáng công, ý nghĩa nhận được từ việc làm", "def_vi": "보람이 있다 / 보람을 느끼다 = cảm thấy công sức của mình có ý nghĩa." },
+          { "ko": "야근", "vi": "làm thêm giờ buổi tối", "def_vi": "야근을 하다. Phân biệt với 초과 근무 (làm quá giờ nói chung)." }
+        ]
+      },
+      {
+        "h_ko": "병원과 은행에서 쓰는 말",
+        "h_vi": "Từ ngữ ở bệnh viện và ngân hàng",
+        "body_vi": "Ở bệnh viện, trình tự là 접수하다 → 진료를 받다 → 처방전을 받다 → 약국에서 약을 짓다. Nếu bệnh nặng, phòng khám nhỏ viết 진료의뢰서 để chuyển lên bệnh viện lớn. Ở ngân hàng, các từ hay ra là 계좌, 통장, 이체/송금, 수수료, 대출, 적금 và 인터넷 뱅킹. Khi làm thủ tục luôn cần 신분증 và 서명 (hoặc 도장).",
+        "terms": [
+          { "ko": "처방전", "vi": "đơn thuốc", "def_vi": "Giấy bác sĩ kê thuốc. 처방을 받다 = được kê đơn; mang 처방전 ra 약국 để lấy thuốc." },
+          { "ko": "진료의뢰서", "vi": "giấy chuyển viện", "def_vi": "Giấy do cơ sở y tế nhỏ cấp để bệnh nhân được khám ở bệnh viện lớn (상급종합병원)." },
+          { "ko": "이체", "vi": "chuyển khoản", "def_vi": "계좌 이체 = chuyển khoản ngân hàng. Đồng nghĩa thông dụng: 송금하다." },
+          { "ko": "수수료", "vi": "phí dịch vụ, phí giao dịch", "def_vi": "수수료가 붙다 / 수수료를 내다. Ví dụ phí chuyển tiền ra nước ngoài (해외 송금 수수료)." }
+        ]
+      },
+      {
+        "h_ko": "관공서에서 쓰는 말",
+        "h_vi": "Từ ngữ ở cơ quan hành chính",
+        "body_vi": "Đây là phần thiết thực nhất cho người nhập tịch. 민원 là việc dân cần cơ quan giải quyết; nơi làm là 주민센터 (행정복지센터). Cần phân biệt rõ ba động từ: 신고하다 (khai báo việc đã xảy ra - nghĩa vụ), 신청하다 (nộp đơn xin - quyền lợi), 제출하다 (nộp giấy tờ). Giấy tờ thì 발급받다 (được cấp) rồi 제출하다 (nộp).",
+        "terms": [
+          { "ko": "민원", "vi": "thủ tục hành chính của người dân", "def_vi": "민원을 신청하다 / 민원 서류. Nơi tiếp nhận là 민원실." },
+          { "ko": "발급받다", "vi": "được cấp (giấy tờ)", "def_vi": "주민등록등본을 발급받다 = xin cấp bản sao đăng ký cư trú." },
+          { "ko": "출생신고", "vi": "khai sinh", "def_vi": "Khi sinh con phải 출생신고를 하다 tại 주민센터 trong thời hạn quy định." },
+          { "ko": "분실 신고", "vi": "khai báo mất đồ/giấy tờ", "def_vi": "분실 신고를 하다. Ví dụ mất 외국인등록증 hoặc thẻ ngân hàng." }
+        ]
+      },
+      {
+        "h_ko": "육아와 이웃 생활에서 쓰는 말",
+        "h_vi": "Từ ngữ nuôi con và đời sống hàng xóm",
+        "body_vi": "Về nuôi con: 어린이집 (nhà trẻ), 유치원 (mẫu giáo), 예방접종 (tiêm chủng), 육아휴직 (nghỉ chăm con), 돌보다 (chăm sóc). Về đời sống chung cư: 층간 소음 (tiếng ồn giữa các tầng) là mâu thuẫn hàng xóm phổ biến nhất; 분리배출 (phân loại rác) là nghĩa vụ bắt buộc, rác thường phải bỏ trong 종량제 봉투; 관리비 là phí quản lý hàng tháng.",
+        "terms": [
+          { "ko": "예방접종", "vi": "tiêm chủng phòng bệnh", "def_vi": "예방접종을 하다/받다. Trẻ em Hàn Quốc tiêm theo lịch 국가예방접종." },
+          { "ko": "층간 소음", "vi": "tiếng ồn giữa các tầng", "def_vi": "층간 소음이 심하다. Vấn đề tranh chấp hàng xóm điển hình ở chung cư 아파트." },
+          { "ko": "분리배출", "vi": "phân loại rác khi bỏ", "def_vi": "분리배출을 하다. Rác thường bỏ trong 종량제 봉투 (túi rác tính phí theo dung tích)." },
+          { "ko": "관리비", "vi": "phí quản lý (chung cư)", "def_vi": "관리비를 내다. Bao gồm phí điện chung, thang máy, vệ sinh v.v." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "직장·일터 어휘",
+        "cap_vi": "Từ vựng nơi công sở",
+        "head": ["한국어", "베트남어 뜻", "예문"],
+        "rows": [
+          ["면접", "phỏng vấn (xin việc)", "내일 면접을 봐서 오늘은 좀 긴장돼요."],
+          ["이력서", "sơ yếu lý lịch, CV", "이력서를 이메일로 제출했어요."],
+          ["출근 / 퇴근", "đi làm / tan làm", "지하철이 고장 나서 출근이 늦었어요."],
+          ["야근", "làm thêm giờ buổi tối", "요즘 일이 많아서 야근이 잦아요."],
+          ["승진", "thăng chức", "열심히 일해서 올해 승진했어요."],
+          ["회식", "tiệc liên hoan của công ty", "오늘 부서 회식이 있어서 늦게 들어가요."],
+          ["담당자", "người phụ trách", "그 일은 담당자에게 직접 물어보세요."],
+          ["계약 / 서명", "hợp đồng / ký tên", "계약서를 잘 읽고 서명해야 해요."],
+          ["부담", "gánh nặng, áp lực", "생활비 부담이 점점 커지고 있어요."],
+          ["보람", "sự đáng công, ý nghĩa", "힘들지만 아이들이 자라는 걸 보면 보람을 느껴요."],
+          ["효율", "hiệu suất", "일하는 방법을 바꾸니까 효율이 높아졌어요."]
+        ]
+      },
+      {
+        "cap_ko": "병원·은행 어휘",
+        "cap_vi": "Từ vựng bệnh viện và ngân hàng",
+        "head": ["한국어", "베트남어 뜻", "예문"],
+        "rows": [
+          ["접수하다", "làm thủ tục đăng ký (khám, hồ sơ)", "병원에 도착하면 먼저 접수해야 해요."],
+          ["진료", "khám bệnh (của bác sĩ)", "오늘은 진료 시간이 6시까지예요."],
+          ["증상", "triệu chứng", "어떤 증상이 있는지 자세히 말씀해 주세요."],
+          ["처방전", "đơn thuốc", "처방전을 가지고 약국에 가세요."],
+          ["진료의뢰서", "giấy chuyển viện", "큰 병원에 가려면 진료의뢰서가 필요해요."],
+          ["건강보험", "bảo hiểm y tế", "건강보험이 있어서 진료비가 많이 줄었어요."],
+          ["계좌 / 통장", "tài khoản / sổ ngân hàng", "월급을 받으려면 계좌를 만들어야 해요."],
+          ["이체하다 / 송금하다", "chuyển khoản / gửi tiền", "베트남에 있는 가족에게 송금했어요."],
+          ["수수료", "phí dịch vụ", "해외 송금은 수수료가 조금 붙어요."],
+          ["대출 / 적금", "vay tiền / tiết kiệm định kỳ", "매달 적금을 넣고 있어요."],
+          ["신분증", "giấy tờ tùy thân", "은행 업무를 볼 때는 신분증이 꼭 필요해요."]
+        ]
+      },
+      {
+        "cap_ko": "관공서·육아·이웃 어휘",
+        "cap_vi": "Từ vựng cơ quan hành chính, nuôi con, hàng xóm",
+        "head": ["한국어", "베트남어 뜻", "예문"],
+        "rows": [
+          ["민원", "việc hành chính của người dân", "민원 서류는 주민센터에서 처리할 수 있어요."],
+          ["신고하다", "khai báo (việc đã xảy ra - nghĩa vụ)", "아이가 태어나면 출생신고를 해야 해요."],
+          ["신청하다", "đăng ký xin (quyền lợi)", "육아휴직을 신청하려고 해요."],
+          ["발급받다", "được cấp (giấy tờ)", "주민등록등본을 발급받았어요."],
+          ["제출하다", "nộp (giấy tờ)", "신청서를 기한 안에 제출하세요."],
+          ["분실", "làm mất, thất lạc", "외국인등록증을 분실해서 신고했어요."],
+          ["어린이집", "nhà trẻ", "아이를 어린이집에 맡기고 출근해요."],
+          ["예방접종", "tiêm chủng", "아이 예방접종 날짜를 문자로 알려 줘요."],
+          ["돌보다", "chăm sóc", "할머니가 아이를 돌봐 주셔서 큰 도움이 돼요."],
+          ["층간 소음", "tiếng ồn giữa các tầng", "층간 소음 때문에 이웃과 이야기를 나눴어요."],
+          ["분리배출", "phân loại rác", "재활용품은 요일을 지켜 분리배출해야 해요."],
+          ["관리비", "phí quản lý chung cư", "이번 달 관리비가 지난달보다 많이 나왔어요."],
+          ["고장 나다 / 수리", "hỏng / sửa chữa", "세탁기가 고장 나서 수리를 신청했어요."]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "부담이 크다 / 부담이 커지다 / 부담을 줄이다 — '부담'은 거의 항상 이 동사들과 함께 쓴다",
+      "면접은 '보다'와 쓴다: 면접을 보다 (면접을 하다 ×)",
+      "신고하다 = 이미 일어난 일을 알리는 의무 (출생신고, 분실 신고) / 신청하다 = 혜택·권리를 요청 (육아휴직 신청)",
+      "서류는 '발급받다' → '제출하다' 순서로 쓴다",
+      "병원 순서: 접수하다 → 진료를 받다 → 처방전을 받다 → 약국에서 약을 받다",
+      "은행 기본 어휘: 계좌·통장·이체(송금)·수수료·신분증·서명",
+      "아파트 생활 필수어: 층간 소음, 분리배출, 종량제 봉투, 관리비"
+    ],
+    "traps": [
+      "신고 vs 신청: 출생'신고'·분실'신고'는 의무라서 신고, 육아휴직·지원 제도는 '신청'이다. 바꿔 쓰면 오답.",
+      "발급 vs 제출: 관공서가 나에게 주는 것이 '발급', 내가 관공서에 내는 것이 '제출'이다.",
+      "진료 vs 처방 vs 진단: 진료 = 의사가 봐 주는 것, 진단 = 병명을 판단하는 것, 처방 = 약을 정해 주는 것.",
+      "부담 vs 책임: '부담'은 무겁게 느껴지는 짐(주로 돈·심리), '책임'은 맡아서 해야 할 의무다."
+    ],
+    "examples": [
+      {
+        "q": "다음 (   )에 알맞은 것을 고르시오.\n\n아이가 태어나서 주민센터에 가서 출생 (   )을/를 했어요.",
+        "choices": ["신고", "신청", "제출", "발급"],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. 출생신고 là cụm cố định — khai sinh là NGHĨA VỤ báo việc đã xảy ra, nên dùng 신고. ② 신청 dùng khi xin quyền lợi (육아휴직을 신청하다). ③ 제출 là nộp giấy tờ, phải có tân ngữ là 서류/신청서. ④ 발급 là được cấp giấy tờ (등본을 발급받다). Hãy nhớ nguyên cụm 출생신고를 하다."
+      },
+      {
+        "q": "다음 (   )에 알맞은 것을 고르시오.\n\n물가가 계속 올라서 생활비 (   )이/가 커졌어요.",
+        "choices": ["효율", "부담", "보람", "증상"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. 부담 = gánh nặng (nhất là về tiền bạc), và cụm cố định là 부담이 크다/커지다 — hợp hoàn hảo với 생활비. ① 효율 (hiệu suất) đi với 높다/떨어지다. ③ 보람 (sự đáng công) là cảm giác tích cực, không thể 'tăng lên' vì giá cả. ④ 증상 (triệu chứng) chỉ dùng cho bệnh tật."
+      },
+      {
+        "q": "다음 (   )에 알맞은 것을 고르시오.\n\n가: 큰 병원에서 진료를 받으려면 뭐가 필요해요?\n나: 동네 병원에서 (   )을/를 받아 오셔야 해요.",
+        "choices": ["처방전", "진료의뢰서", "신분증", "영수증"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Muốn khám ở bệnh viện lớn (상급종합병원) thì phải có 진료의뢰서 (giấy chuyển viện) do phòng khám nhỏ cấp. ① 처방전 là đơn thuốc, dùng để lấy thuốc ở 약국 chứ không phải để được chuyển viện. ③ 신분증 luôn cần nhưng không phải thứ 'nhận từ phòng khám nhỏ'. ④ 영수증 là hóa đơn thanh toán."
+      }
+    ],
+    "match": ["중급 어휘", "직장 생활", "병원 이용", "관공서", "육아", "계약", "분실"]
+  }
+]

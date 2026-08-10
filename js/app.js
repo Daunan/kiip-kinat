@@ -102,8 +102,11 @@ const App = (() => {
         <button class="mi wide" data-go="today">
           <em>⚡</em><b>Học theo kế hoạch hôm nay</b><i>${ph.em} ${E(ph.ko)} — ${goal} câu đúng trọng tâm giai đoạn này</i>
         </button>
-        <button class="mi" data-go="study">
-          <em>📚</em><b>Theo lĩnh vực</b><i>영역별 학습</i>
+        <button class="mi" data-go="theory">
+          <em>📖</em><b>Giáo trình</b><i>이론·개념 정리</i>
+        </button>
+        <button class="mi" data-go="drill">
+          <em>📚</em><b>Theo lĩnh vực</b><i>영역별 문제</i>
         </button>
         <button class="mi" data-go="wrong">
           <em>🔁</em><b>Sổ tay câu sai</b><i>오답노트</i>
@@ -160,7 +163,8 @@ const App = (() => {
       const ph = Store.phaseOf(Store.planDay());
       Quiz.start(todaySet(), { title: ph.em + ' ' + ph.vi, back: () => tab('home') });
     }
-    else if (k === 'study')    tab('study');
+    else if (k === 'theory')   { studyMode = 'theory'; tab('study'); }
+    else if (k === 'drill')    { studyMode = 'drill';  tab('study'); }
     else if (k === 'wrong')    wrongNote();
     else if (k === 'exam')     tab('exam');
     else if (k === 'writing')  writingList();
@@ -275,10 +279,207 @@ const App = (() => {
       'Bắt đầu lại', () => { Store.resetPlan(); UI.toast('Đã bắt đầu lại từ Ngày 1 🌱'); plan(); });
   }
 
-  /* ================= STUDY ================= */
+  /* ================= STUDY (2 chế độ: Lý thuyết / Luyện đề) ================= */
+
+  let studyMode = 'theory';   // 'theory' | 'drill'
 
   function study() {
-    UI.topbar({ title: 'Học theo lĩnh vực' });
+    if (studyMode === 'theory' && Data.lessons.length) theory();
+    else drill();
+  }
+
+  function modeSwitch() {
+    return `<div class="seg">
+      <button class="${studyMode === 'theory' ? 'on' : ''}" data-m="theory">📖 Lý thuyết<span class="ko">이론</span></button>
+      <button class="${studyMode === 'drill' ? 'on' : ''}" data-m="drill">✍️ Luyện đề<span class="ko">문제</span></button>
+    </div>`;
+  }
+  function bindMode() {
+    UI.app().querySelectorAll('[data-m]').forEach(b => b.onclick = () => {
+      studyMode = b.dataset.m; study();
+    });
+  }
+
+  /* ---------- 이론: 영역 목록 ---------- */
+  function theory() {
+    UI.topbar({ title: 'Giáo trình 이론' });
+    const done = Store.get('lsDone') || [];
+
+    const groups = Data.GROUPS.map(g => {
+      const doms = Data.domainsWithLessons().filter(d => d.grp === g.id);
+      if (!doms.length) return '';
+      const rows = doms.map(d => {
+        const ls = Data.lessonsIn(d.id);
+        const dn = ls.filter(l => done.includes(l.id)).length;
+        const p = UI.pct(dn, ls.length);
+        return `
+        <button class="dom" data-tdom="${d.id}">
+          <em>${d.em}</em>
+          <div class="dt">
+            <b>${E(d.vi)}</b>
+            <i>${E(d.ko)} · ${ls.length} bài</i>
+            <div class="dbar"><i style="width:${p}%;background:${UI.barColor(p)}"></i></div>
+          </div>
+          <div class="dn"><b>${dn}/${ls.length}</b><i>bài xong</i></div>
+        </button>`;
+      }).join('');
+      return `<div class="h2">${E(g.vi)} <span class="ko">${E(g.ko)}</span></div>${rows}`;
+    }).join('');
+
+    const total = Data.lessons.length;
+    UI.render(`${modeSwitch()}
+      <div class="card muted" style="line-height:1.7">
+        📖 <b style="color:var(--tx2)">Đọc lý thuyết trước, làm bài sau.</b>
+        Mỗi bài có định nghĩa các khái niệm, bảng tóm tắt để học thuộc, bẫy hay sai,
+        câu hỏi ví dụ — rồi bấm thẳng sang luyện đúng phần vừa học.
+        <br><br>Tổng <b style="color:var(--tx)">${total} bài</b> · đã xong <b style="color:var(--ok)">${done.length}</b>
+      </div>
+      ${groups}`);
+    bindMode();
+    UI.app().querySelectorAll('[data-tdom]').forEach(b =>
+      b.onclick = () => lessonList(b.dataset.tdom));
+  }
+
+  /* ---------- 이론: 단원 목록 ---------- */
+  function lessonList(dom) {
+    const m = Data.domainMeta(dom);
+    UI.topbar({ title: m.em + ' ' + m.vi, back: () => { studyMode = 'theory'; tab('study'); } });
+    const done = Store.get('lsDone') || [];
+    const ls = Data.lessonsIn(dom);
+
+    UI.render(`
+      <div class="h1">${m.em} ${E(m.vi)}</div>
+      <div class="sub">${E(m.ko)} · ${ls.length} bài học</div>
+      <div class="mt">
+      ${ls.map((l, i) => `
+        <button class="dom" data-les="${E(l.id)}">
+          <em>${done.includes(l.id) ? '✅' : (l.icon || '📄')}</em>
+          <div class="dt">
+            <b>${i + 1}. ${E(l.title_vi)}</b>
+            <i>${E(l.title_ko)} · ~${l.est_min || 8} phút</i>
+          </div>
+          <div class="dn"><b style="color:var(--tx3)">›</b></div>
+        </button>`).join('')}
+      </div>
+      <div class="qbtns mt2">
+        <button class="btn ghost" id="bDrill">✍️ Bỏ qua, làm đề luôn</button>
+      </div>`);
+
+    UI.app().querySelectorAll('[data-les]').forEach(b =>
+      b.onclick = () => lesson(b.dataset.les));
+    document.getElementById('bDrill').onclick = () => {
+      Quiz.start(Data.pick(Data.inDomain(dom), 15), { title: m.vi, back: () => lessonList(dom) });
+    };
+  }
+
+  /* ---------- 이론: 단원 본문 ---------- */
+  function lesson(id) {
+    const l = Data.lessonById(id);
+    if (!l) { UI.toast('Không tìm thấy bài học'); return; }
+    const m = Data.domainMeta(l.domain);
+    const done = Store.get('lsDone') || [];
+    UI.topbar({ title: l.title_ko, back: () => lessonList(l.domain) });
+
+    const secs = (l.sections || []).map((s, i) => {
+      const terms = (s.terms || []).map(t => `
+        <div class="term">
+          <div class="tk">${E(t.ko)}<span class="tv">${E(t.vi || '')}</span></div>
+          <div class="td">${E(t.def_vi || '')}</div>
+        </div>`).join('');
+      return `
+      <div class="lsec">
+        <div class="lsh"><span class="lsn">${i + 1}</span>
+          <div><b>${E(s.h_ko)}</b><i>${E(s.h_vi)}</i></div></div>
+        <div class="lsb">${E(s.body_vi)}</div>
+        ${terms}
+      </div>`;
+    }).join('');
+
+    const tables = (l.tables || []).map(t => `
+      <div class="ltab">
+        <div class="ltc">${E(t.cap_ko || '')}${t.cap_vi ? ` <span class="ko">${E(t.cap_vi)}</span>` : ''}</div>
+        <div class="ltw"><table>
+          <thead><tr>${t.head.map(h => `<th>${E(h)}</th>`).join('')}</tr></thead>
+          <tbody>${t.rows.map(r => `<tr>${r.map(c => `<td>${E(c)}</td>`).join('')}</tr>`).join('')}</tbody>
+        </table></div>
+      </div>`).join('');
+
+    const mem = (l.must_memorize || []).map(x => `<li>${E(x)}</li>`).join('');
+    const traps = (l.traps || []).map(x => `<li>${E(x)}</li>`).join('');
+
+    const exs = (l.examples || []).map((q, i) => `
+      <div class="lex" data-ex="${i}">
+        <div class="lexq">Ví dụ ${i + 1}. ${E(q.q)}</div>
+        <div class="opts">
+          ${q.choices.map((c, k) => `<button class="opt" data-ex="${i}" data-k="${k}">
+            <span class="n">${UI.CIRC[k]}</span><span class="t">${E(c)}</span></button>`).join('')}
+        </div>
+        <div class="lexa" id="lexa${i}" hidden>
+          <b>✅ Đáp án ${UI.CIRC[q.answer]}</b><br>${E(q.explain_vi || '')}
+        </div>
+      </div>`).join('');
+
+    const nQ = Data.questionsForLesson(l).length;
+
+    UI.render(`
+      <div class="qtags">
+        <span class="chip pri">${m.em} ${E(m.vi)}</span>
+        <span class="chip">${E(m.ko)}</span>
+        <span class="chip gold">~${l.est_min || 8} phút</span>
+      </div>
+      <div class="h1">${l.icon || '📄'} ${E(l.title_vi)}</div>
+      <div class="sub" style="font-size:15px;color:var(--tx2)"><b>${E(l.title_ko)}</b></div>
+      <div class="lsum">${E(l.summary_vi)}</div>
+
+      ${secs}
+      ${tables}
+
+      ${mem ? `<div class="h2">🔑 Phải thuộc lòng <span class="ko">필수 암기</span></div>
+        <div class="card memo"><ul>${mem}</ul></div>` : ''}
+
+      ${traps ? `<div class="h2">⚠️ Bẫy hay sai <span class="ko">함정 주의</span></div>
+        <div class="card trap"><ul>${traps}</ul></div>` : ''}
+
+      ${exs ? `<div class="h2">📝 Câu hỏi ví dụ <span class="ko">예시문제</span></div>${exs}` : ''}
+
+      <div class="qbtns mt2">
+        <button class="btn ghost" id="bBack">‹ Danh sách bài</button>
+        <button class="btn" id="bGo">✍️ Luyện ${Math.min(nQ, 15)} câu phần này</button>
+      </div>
+      <div class="muted center mt">${done.includes(l.id) ? '✅ Bài này đã học xong' : 'Học xong bài này được <b style="color:var(--gold)">+25 XP</b>'}</div>`);
+
+    // câu hỏi ví dụ
+    UI.app().querySelectorAll('.lex .opt').forEach(b => b.onclick = () => {
+      const i = +b.dataset.ex, k = +b.dataset.k;
+      const q = l.examples[i];
+      const box = UI.app().querySelector(`.lex[data-ex="${i}"]`);
+      if (box.dataset.done) return;
+      box.dataset.done = '1';
+      box.querySelectorAll('.opt').forEach((o, oi) => {
+        o.disabled = true;
+        if (oi === q.answer) o.classList.add('right');
+        else if (oi === k) o.classList.add('wrong');
+        else o.classList.add('dim');
+      });
+      document.getElementById('lexa' + i).hidden = false;
+    });
+
+    document.getElementById('bBack').onclick = () => lessonList(l.domain);
+    document.getElementById('bGo').onclick = () => {
+      if (!done.includes(l.id)) {
+        done.push(l.id); Store.set('lsDone', done);
+        const r = Store.addXp(25);
+        UI.xpToast(25);
+        if (r.leveledTo) setTimeout(() => UI.levelUp(r.leveledTo), 500);
+      }
+      const qs = Data.pick(Data.questionsForLesson(l), 15);
+      Quiz.start(qs, { title: l.title_ko, back: () => lesson(l.id) });
+    };
+  }
+
+  /* ---------- 문제: 영역 목록 ---------- */
+  function drill() {
+    UI.topbar({ title: 'Luyện đề 문제' });
     const s = Store.all();
 
     const groups = Data.GROUPS.map(g => {
@@ -302,13 +503,14 @@ const App = (() => {
       return `<div class="h2">${E(g.vi)} <span class="ko">${E(g.ko)}</span></div>${rows}`;
     }).join('');
 
-    UI.render(`
+    UI.render(`${Data.lessons.length ? modeSwitch() : ''}
       <div class="sub" style="margin-bottom:6px">Chọn lĩnh vực bạn muốn luyện. Mỗi lượt 15 câu.</div>
       ${groups}
       <div class="qbtns mt2">
         <button class="btn ghost" id="bAll">🎲 Trộn tất cả lĩnh vực (25 câu)</button>
       </div>`);
 
+    bindMode();
     UI.app().querySelectorAll('[data-dom]').forEach(b => {
       b.onclick = () => {
         const d = Data.domainMeta(b.dataset.dom);

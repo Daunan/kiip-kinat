@@ -3,7 +3,7 @@
    ⚠️ MỖI LẦN CẬP NHẬT NỘI DUNG PHẢI TĂNG SỐ VERSION BÊN DƯỚI
    ============================================================ */
 
-const VERSION = 'kinat-v3';
+const VERSION = 'kinat-v4';
 
 const ASSETS = [
   './',
@@ -29,7 +29,14 @@ const ASSETS = [
   './data/advanced.json',
   './data/writing.json',
   './data/speaking.json',
-  './data/funquiz.json'
+  './data/funquiz.json',
+  './data/lessons_history.json',
+  './data/lessons_politics.json',
+  './data/lessons_law.json',
+  './data/lessons_citizen.json',
+  './data/lessons_society.json',
+  './data/lessons_economy.json',
+  './data/lessons_geo_kor.json'
 ];
 
 self.addEventListener('install', e => {

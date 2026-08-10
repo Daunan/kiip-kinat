@@ -1,0 +1,1240 @@
+[
+  {
+    "id": "law-l01",
+    "domain": "law",
+    "order": 1,
+    "title_ko": "법이란 무엇인가",
+    "title_vi": "Pháp luật là gì",
+    "icon": "⚖️",
+    "summary_vi": "Bài mở đầu của phần 법: hiểu 법 khác 도덕 ở chỗ nào, và phân biệt bốn loại luật 헌법·민법·형법·행정법. Đề thi rất hay cho một đoạn mô tả rồi hỏi \"đây là luật nào\", nên chỉ cần nhớ đúng một câu định nghĩa cho mỗi loại là ăn điểm.",
+    "est_min": 8,
+    "sections": [
+      {
+        "h_ko": "법의 뜻과 필요성",
+        "h_vi": "Ý nghĩa và sự cần thiết của pháp luật",
+        "body_vi": "법 (pháp luật) là quy phạm xã hội do nhà nước ban hành, và người vi phạm sẽ bị nhà nước cưỡng chế bằng chế tài. Điểm phân biệt lớn nhất giữa 법 và 도덕 (đạo đức) chính là 강제성 (tính cưỡng chế): đạo đức chỉ ràng buộc lương tâm, còn pháp luật có bộ máy nhà nước đứng sau để bắt buộc thi hành. Xã hội cần pháp luật để giữ 사회 질서 (trật tự xã hội), bảo vệ quyền của mỗi người và giải quyết tranh chấp theo một tiêu chuẩn chung thay vì theo sức mạnh.",
+        "terms": [
+          { "ko": "사회 규범", "vi": "quy phạm xã hội", "def_vi": "Các quy tắc mà thành viên trong xã hội phải theo. Gồm 법, 도덕, 관습 (tập quán), 종교 규범. Chỉ 법 mới có chế tài của nhà nước." },
+          { "ko": "강제성", "vi": "tính cưỡng chế", "def_vi": "Đặc trưng riêng của pháp luật: vi phạm thì bị nhà nước xử phạt. Đây là từ khóa xuất hiện nhiều nhất khi đề hỏi 법 khác 도덕 ở điểm nào." },
+          { "ko": "준법", "vi": "tuân thủ pháp luật", "def_vi": "Việc người dân tự giác giữ luật. 준법 giúp giữ trật tự và phòng ngừa tranh chấp, nhưng KHÔNG miễn cho ai nghĩa vụ nộp thuế hay nghĩa vụ khác." }
+        ]
+      },
+      {
+        "h_ko": "헌법 — 나라의 최고법",
+        "h_vi": "Hiến pháp — luật tối cao của quốc gia",
+        "body_vi": "헌법 (Hiến pháp) quy định tổ chức bộ máy nhà nước và 기본권 (các quyền cơ bản) của người dân. Đây là 최고법 (luật tối cao): mọi đạo luật, nghị định, quy chế đều không được trái với Hiến pháp. Ở Hàn Quốc, cơ quan phán quyết một đạo luật có vi hiến hay không là 헌법재판소 (Tòa án Hiến pháp) — cần phân biệt với 대법원 (Tòa án Tối cao), cơ quan xét xử chung thẩm các vụ án thông thường.",
+        "terms": [
+          { "ko": "헌법", "vi": "Hiến pháp", "def_vi": "Luật cao nhất của Hàn Quốc, quy định 통치 조직 (tổ chức cai trị) và 기본권. Mọi luật khác phải phù hợp với nó." },
+          { "ko": "헌법재판소", "vi": "Tòa án Hiến pháp", "def_vi": "Cơ quan xét xử việc một đạo luật có vi hiến hay không, và xét đơn 헌법소원 của người dân bị xâm phạm quyền cơ bản." }
+        ]
+      },
+      {
+        "h_ko": "민법·형법·행정법",
+        "h_vi": "Dân luật, Hình luật, Luật hành chính",
+        "body_vi": "민법 (Dân luật) điều chỉnh quan hệ giữa cá nhân với cá nhân — tài sản, hợp đồng, hôn nhân, thừa kế. 형법 (Hình luật) quy định 범죄 (tội phạm) và 형벌 (hình phạt) tương ứng. 행정법 (Luật hành chính) điều chỉnh hoạt động của nhà nước và chính quyền địa phương với người dân, ví dụ cấp phép, đăng ký, xử phạt hành chính. Cách nhớ nhanh: 민법 = dân với dân, 형법 = tội và phạt, 행정법 = nhà nước với dân.",
+        "terms": [
+          { "ko": "민법", "vi": "Dân luật (Bộ luật Dân sự)", "def_vi": "Luật về quan hệ tài sản và quan hệ gia đình giữa các cá nhân. Hôn nhân, ly hôn, thừa kế, thuê nhà đều nằm trong lĩnh vực này." },
+          { "ko": "형법", "vi": "Hình luật (Bộ luật Hình sự)", "def_vi": "Luật xác định hành vi nào là tội phạm và bị hình phạt gì. Nguyên tắc nền tảng là 죄형법정주의." },
+          { "ko": "행정법", "vi": "Luật hành chính", "def_vi": "Nhóm luật điều chỉnh hoạt động hành chính của nhà nước. 출입국관리법 mà người nước ngoài phải theo cũng thuộc lĩnh vực hành chính." },
+          { "ko": "상법", "vi": "Luật thương mại", "def_vi": "Luật về hoạt động kinh doanh, công ty, giao dịch thương mại. Đừng nhầm nội dung này sang 헌법." }
+        ]
+      },
+      {
+        "h_ko": "공법과 사법의 구분",
+        "h_vi": "Phân biệt công pháp và tư pháp",
+        "body_vi": "Người ta chia pháp luật thành 공법 (công pháp) và 사법 (tư pháp) tùy theo quan hệ mà nó điều chỉnh. 공법 điều chỉnh quan hệ giữa nhà nước với người dân — gồm 헌법, 형법, 행정법. 사법 điều chỉnh quan hệ giữa các cá nhân bình đẳng với nhau — gồm 민법, 상법. Cách chia này giúp bạn suy ra đáp án ngay cả khi đề dùng một tên luật lạ: hỏi \"nhà nước có xuất hiện với tư cách quyền lực không?\" — có thì là công pháp.",
+        "terms": [
+          { "ko": "공법", "vi": "công pháp", "def_vi": "Luật điều chỉnh quan hệ giữa nhà nước và người dân: 헌법·형법·행정법." },
+          { "ko": "사법(私法)", "vi": "tư pháp (luật tư)", "def_vi": "Luật điều chỉnh quan hệ giữa cá nhân với cá nhân: 민법·상법. Chú ý đồng âm với 사법(司法) nghĩa là ngành tư pháp/xét xử." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "법의 종류 한눈에 보기",
+        "cap_vi": "Bảng tổng hợp các loại luật",
+        "head": ["법 (loại luật)", "무엇을 정하는가 (điều chỉnh gì)", "예 (ví dụ)"],
+        "rows": [
+          ["헌법", "국가 통치 조직 + 국민의 기본권 / tổ chức nhà nước và quyền cơ bản", "기본권 보장, 헌법재판소"],
+          ["민법", "개인 간 재산·가족 관계 / tài sản và gia đình giữa cá nhân", "혼인, 상속, 임대차, 계약"],
+          ["형법", "범죄와 형벌 / tội phạm và hình phạt", "절도, 폭행, 사기"],
+          ["행정법", "국가·지방자치단체의 행정 활동 / hoạt động hành chính", "출입국관리법, 도로교통법"],
+          ["상법", "상거래와 기업 활동 / thương mại và doanh nghiệp", "회사 설립, 어음·수표"]
+        ]
+      },
+      {
+        "cap_ko": "법과 도덕의 차이",
+        "cap_vi": "Khác nhau giữa pháp luật và đạo đức",
+        "head": ["구분", "법", "도덕"],
+        "rows": [
+          ["만든 주체 / ai đặt ra", "국가", "사회 구성원의 양심"],
+          ["강제성 / cưỡng chế", "있음 (국가가 제재)", "없음"],
+          ["규율 대상 / phạm vi", "겉으로 드러난 행위", "마음속 동기까지"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "법과 도덕의 가장 큰 차이 = 강제성 (법은 국가가 제재한다)",
+      "헌법 = 나라의 최고법. 모든 법은 헌법에 어긋날 수 없다",
+      "민법 = 개인 간 재산·가족 관계 / 형법 = 범죄와 형벌 / 행정법 = 행정 활동",
+      "위헌 여부를 판단하는 기관 = 헌법재판소 (대법원 아님)",
+      "공법 = 헌법·형법·행정법 / 사법(私法) = 민법·상법",
+      "준법을 잘해도 납세의무 등 다른 의무가 면제되지는 않는다"
+    ],
+    "traps": [
+      "'최고법'은 민법이 아니라 헌법. 민법은 흔히 쓰일 뿐 최고법이 아니다.",
+      "민법과 형법을 뒤바꿔 놓은 선택지가 자주 나온다. '민=사람 사이', '형=벌'로 외울 것.",
+      "위헌 판단 기관을 대법원이라고 쓴 선택지는 오답. 정답은 헌법재판소.",
+      "'법을 잘 지키면 세금을 안 내도 된다' 같은 선택지는 항상 오답이다."
+    ],
+    "examples": [
+      {
+        "q": "법과 도덕의 차이에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "법은 국가의 강제력이 뒷받침되지만 도덕은 그렇지 않다",
+          "도덕을 어기면 국가가 벌금을 부과한다",
+          "법은 사람의 마음속 생각까지 처벌한다",
+          "도덕은 국회가 만들어 공포한다"
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án thứ nhất. 강제성 là điểm phân biệt cốt lõi: vi phạm 법 thì nhà nước xử lý, còn vi phạm 도덕 chỉ bị xã hội chê trách. Phương án hai sai vì nhà nước không phạt tiền hành vi trái đạo đức thuần túy. Phương án ba sai vì pháp luật chỉ xử lý hành vi biểu hiện ra bên ngoài, còn đạo đức mới soi vào động cơ trong lòng. Phương án bốn sai vì 도덕 hình thành tự nhiên trong xã hội, không do 국회 ban hành."
+      },
+      {
+        "q": "다음 설명에 해당하는 법으로 옳은 것은?\n\n개인과 개인 사이의 재산 관계와 가족 관계를 정한 법이다.",
+        "choices": ["형법", "민법", "행정법", "헌법"],
+        "answer": 1,
+        "explain_vi": "Đáp án thứ hai. 민법 là luật điều chỉnh quan hệ tài sản (hợp đồng, thuê nhà, vay mượn) và quan hệ gia đình (kết hôn, ly hôn, thừa kế) giữa các cá nhân. 형법 quy định tội và hình phạt, 행정법 điều chỉnh hoạt động hành chính của nhà nước, còn 헌법 là luật tối cao về tổ chức nhà nước và quyền cơ bản. Với người kết hôn di trú, 민법 chính là bộ luật liên quan trực tiếp nhất tới đời sống hằng ngày."
+      },
+      {
+        "q": "법률이 헌법에 위반되는지 여부를 최종적으로 판단하는 기관으로 옳은 것은?",
+        "choices": ["국회", "헌법재판소", "국가인권위원회", "국민권익위원회"],
+        "answer": 1,
+        "explain_vi": "Đáp án thứ hai. 헌법재판소 là cơ quan phán quyết một đạo luật có vi hiến hay không (위헌법률심판) và xét đơn 헌법소원. 국회 làm ra luật chứ không tự phán quyết tính hợp hiến của luật mình ban hành. 국가인권위원회 xử lý đơn về xâm phạm nhân quyền và phân biệt đối xử. 국민권익위원회 xử lý 고충민원 và chống tham nhũng. Ba cơ quan này rất hay bị trộn lẫn trong đề thi nên hãy nhớ chức năng riêng của từng nơi."
+      }
+    ],
+    "match": ["법과 준법의 중요성", "법", "헌법", "민법", "형법", "행정법", "준법", "강제성"]
+  },
+  {
+    "id": "law-l02",
+    "domain": "law",
+    "order": 2,
+    "title_ko": "외국인의 권리와 의무",
+    "title_vi": "Quyền và nghĩa vụ của người nước ngoài",
+    "icon": "🤝",
+    "summary_vi": "Bài này trả lời câu hỏi: người nước ngoài ở Hàn Quốc được hưởng những quyền gì và phải làm những nghĩa vụ gì. Nguyên tắc vàng để giải đề: quyền con người thì có, nghĩa vụ tuân thủ luật và nộp thuế thì có, còn 참정권 (quyền tham chính) và 국방의 의무 thì về nguyên tắc chỉ dành cho công dân Hàn Quốc.",
+    "est_min": 9,
+    "sections": [
+      {
+        "h_ko": "인간으로서의 권리는 외국인에게도 보장된다",
+        "h_vi": "Quyền làm người được bảo đảm cho cả người nước ngoài",
+        "body_vi": "Hiến pháp Hàn Quốc bảo đảm 인간의 존엄과 가치 (phẩm giá và giá trị con người), 자유 (tự do) và 평등 (bình đẳng). Những quyền gắn với tư cách con người này áp dụng cho cả người nước ngoài đang sinh sống tại Hàn Quốc, không phụ thuộc quốc tịch. Người nước ngoài cũng có 재판청구권 — quyền khởi kiện và được tòa án Hàn Quốc xét xử để bảo vệ quyền lợi của mình.",
+        "terms": [
+          { "ko": "인권", "vi": "nhân quyền", "def_vi": "Quyền mà con người có được chỉ vì là con người. Không do quốc tịch quyết định, nên người nước ngoài cũng được hưởng." },
+          { "ko": "재판청구권", "vi": "quyền yêu cầu xét xử", "def_vi": "Quyền được đưa vụ việc ra tòa án để được phán xử. Người nước ngoài tại Hàn Quốc cũng có quyền này." }
+        ]
+      },
+      {
+        "h_ko": "국가인권위원회에 진정할 수 있다",
+        "h_vi": "Có thể nộp đơn lên Ủy ban Nhân quyền Quốc gia",
+        "body_vi": "국가인권위원회 (Ủy ban Nhân quyền Quốc gia) là cơ quan tiếp nhận 진정 (đơn khiếu nại) về hành vi xâm phạm nhân quyền và 차별 (phân biệt đối xử). Luật quy định rõ người nước ngoài đang cư trú tại Hàn Quốc cũng có quyền nộp đơn. Bạn có thể nộp bằng văn bản, điện thoại hoặc trực tuyến; trong trường hợp nghiêm trọng, ủy ban có thể tự mình điều tra ngay cả khi không có đơn (직권조사). Đây là nơi để khiếu nại việc bị phân biệt vì quốc tịch, chủng tộc, ngôn ngữ khi xin việc, thuê nhà hay sử dụng dịch vụ.",
+        "terms": [
+          { "ko": "국가인권위원회", "vi": "Ủy ban Nhân quyền Quốc gia", "def_vi": "Cơ quan độc lập điều tra và cứu trợ các vụ xâm phạm nhân quyền, phân biệt đối xử. Người nước ngoài cư trú tại Hàn Quốc cũng nộp đơn được." },
+          { "ko": "진정", "vi": "đơn khiếu nại, đơn trình báo", "def_vi": "Việc nộp đơn đề nghị cơ quan nhà nước điều tra và xử lý một việc mình bị thiệt hại." },
+          { "ko": "차별", "vi": "phân biệt đối xử", "def_vi": "Đối xử bất lợi mà không có lý do hợp lý, vì giới tính, quốc tịch, tôn giáo, khuyết tật… Đây là đối tượng chính mà 국가인권위원회 xử lý." }
+        ]
+      },
+      {
+        "h_ko": "외국인 근로자의 권리",
+        "h_vi": "Quyền của người lao động nước ngoài",
+        "body_vi": "근로기준법 (Luật Tiêu chuẩn Lao động) áp dụng theo nơi làm việc chứ không theo quốc tịch, nên người lao động nước ngoài làm việc tại Hàn Quốc được bảo vệ ngang với người lao động Hàn Quốc về tiền lương, giờ làm và ngày nghỉ. Khi bị nợ lương (임금체불) có thể nộp 진정 lên 고용노동부 (Bộ Việc làm và Lao động), số tư vấn là 1350. Khi bị tai nạn trong lúc làm việc, 산재보험 (bảo hiểm tai nạn lao động) do 근로복지공단 chi trả cũng áp dụng cho người nước ngoài.",
+        "terms": [
+          { "ko": "근로기준법", "vi": "Luật Tiêu chuẩn Lao động", "def_vi": "Luật quy định các điều kiện lao động tối thiểu: hợp đồng, tiền lương, giờ làm, nghỉ phép, sa thải." },
+          { "ko": "고용노동부", "vi": "Bộ Việc làm và Lao động", "def_vi": "Cơ quan nhà nước phụ trách lao động. Số tư vấn lao động là 1350 — nên nhớ số này." },
+          { "ko": "산재보험", "vi": "bảo hiểm tai nạn lao động", "def_vi": "Bảo hiểm bồi thường khi bị thương, bệnh hoặc tử vong do công việc. Phí do 사업주 (chủ sử dụng lao động) đóng." }
+        ]
+      },
+      {
+        "h_ko": "외국인에게 제한되는 권리",
+        "h_vi": "Những quyền bị hạn chế với người nước ngoài",
+        "body_vi": "참정권 (quyền tham chính) là nhóm quyền bị hạn chế rõ nhất. Người nước ngoài không được bỏ phiếu bầu 대통령 hay 국회의원 vì đó là bầu cử cấp quốc gia dành cho công dân. Tuy nhiên 공직선거법 cho phép người có 영주자격 (F-5) đã đủ 3 năm kể từ ngày được cấp và có tên trong sổ đăng ký người nước ngoài của địa phương được bỏ phiếu trong 지방선거 (bầu cử địa phương). Vậy nên câu trả lời đúng luôn là \"bị hạn chế nhưng không bị loại bỏ hoàn toàn\".",
+        "terms": [
+          { "ko": "참정권", "vi": "quyền tham chính", "def_vi": "Quyền tham gia vào việc nước: 선거권 (bầu cử), 피선거권 (ứng cử), 공무담임권. Với người nước ngoài, nhóm quyền này bị hạn chế nhiều nhất." },
+          { "ko": "지방선거", "vi": "bầu cử địa phương", "def_vi": "Bầu 시장·도지사·시의원 v.v. Người có F-5 đủ 3 năm và có đăng ký tại địa phương thì được bỏ phiếu." }
+        ]
+      },
+      {
+        "h_ko": "외국인이 지켜야 할 의무",
+        "h_vi": "Nghĩa vụ mà người nước ngoài phải giữ",
+        "body_vi": "Người nước ngoài sống tại Hàn Quốc phải tuân thủ pháp luật Hàn Quốc, và vi phạm thì bị xử lý như người Hàn — quốc tịch không phải lý do miễn trách nhiệm. Có thu nhập thì phải nộp thuế. Ngoài ra còn có các nghĩa vụ theo 출입국관리법 như 외국인등록, khai báo khi đổi chỗ ở, xin gia hạn thời hạn lưu trú. Ngược lại, 국방의 의무 (nghĩa vụ quốc phòng) chỉ áp dụng cho công dân Hàn Quốc — chỉ sau khi 귀화 thành công dân thì nghĩa vụ này mới bắt đầu được xét đến.",
+        "terms": [
+          { "ko": "납세의 의무", "vi": "nghĩa vụ nộp thuế", "def_vi": "Người có thu nhập tại Hàn Quốc, kể cả người nước ngoài, đều phải nộp thuế." },
+          { "ko": "국방의 의무", "vi": "nghĩa vụ quốc phòng", "def_vi": "Nghĩa vụ của công dân Hàn Quốc. Người nước ngoài không phải nhập ngũ." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "외국인에게 인정되는 것 / 제한되는 것",
+        "cap_vi": "Cái gì được công nhận, cái gì bị hạn chế",
+        "head": ["항목", "외국인에게", "설명 (giải thích)"],
+        "rows": [
+          ["인간의 존엄·자유·평등", "인정 (có)", "인권은 국적과 무관하게 보장"],
+          ["재판청구권", "인정 (có)", "한국 법원에 소송할 수 있음"],
+          ["근로기준법 보호·산재보험", "인정 (có)", "국적이 아니라 근로 사실에 따라 적용"],
+          ["대통령·국회의원 선거권", "없음 (không)", "국민만 가지는 참정권"],
+          ["지방선거 선거권", "조건부 인정 (có điều kiện)", "영주자격 취득 후 3년 경과 + 지역 등록"],
+          ["국방의 의무", "없음 (không)", "대한민국 국민의 의무"]
+        ]
+      },
+      {
+        "cap_ko": "권리 침해를 당했을 때 찾아갈 곳",
+        "cap_vi": "Nơi tìm đến khi bị xâm phạm quyền lợi",
+        "head": ["상황 (tình huống)", "기관", "연락"],
+        "rows": [
+          ["인권 침해·차별을 당했을 때", "국가인권위원회", "진정 접수 (문서·전화·온라인)"],
+          ["임금을 못 받았을 때", "고용노동부", "1350"],
+          ["법률 상담이 필요할 때", "대한법률구조공단", "132"],
+          ["체류·출입국 관련 문의", "외국인종합안내센터", "1345"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "인권 침해·차별 진정 기관 = 국가인권위원회 (외국인도 진정 가능)",
+      "외국인 노동자도 근로기준법·산재보험의 보호를 받는다",
+      "임금체불 상담·진정 = 고용노동부, 상담전화 1350",
+      "외국인종합안내센터 = 1345 (체류·출입국 안내)",
+      "외국인에게 있는 의무: 준법 의무, 납세의무 / 없는 의무: 국방의 의무",
+      "영주자격(F-5) 취득 후 3년이 지나면 지방선거 선거권이 있으나, 대통령·국회의원 선거권은 없다"
+    ],
+    "traps": [
+      "'외국인은 어떤 선거에도 투표할 수 없다'는 오답. 지방선거는 조건을 갖추면 가능하다.",
+      "'외국인이라 법을 어겨도 처벌받지 않는다'는 항상 오답. 한국 법은 한국 안의 모든 사람에게 적용된다.",
+      "국가인권위원회 ↔ 국민권익위원회 혼동 주의. 차별·인권 침해는 국가인권위원회, 행정 고충민원은 국민권익위원회다.",
+      "외국인등록만 하면 국회의원 선거에 투표할 수 있다는 선택지는 오답이다."
+    ],
+    "examples": [
+      {
+        "q": "한국에 사는 외국인의 권리에 대한 설명으로 옳지 않은 것은?",
+        "choices": [
+          "인권 침해를 당하면 국가인권위원회에 진정할 수 있다",
+          "법원에 소송을 제기하여 권리를 구제받을 수 있다",
+          "일하다 다치면 산업재해 보상을 받을 수 있다",
+          "국적과 관계없이 대통령 선거에서 투표할 수 있다"
+        ],
+        "answer": 3,
+        "explain_vi": "Đáp án thứ tư. Bầu cử tổng thống là bầu cử cấp quốc gia, chỉ 대한민국 국민 mới có 선거권. Ba phương án còn lại đều đúng: người nước ngoài được nộp 진정 lên 국가인권위원회, được khởi kiện tại tòa án Hàn Quốc, và được hưởng 산재보험 khi bị tai nạn lao động. Hãy nhớ ranh giới: quyền gắn với con người thì có, quyền gắn với tư cách công dân (참정권) thì không."
+      },
+      {
+        "q": "다음 상황에서 찾아가야 할 기관으로 가장 알맞은 것은?\n\n외국인 근로자 A 씨는 3개월째 임금을 받지 못하고 있다.",
+        "choices": ["고용노동부", "국가유산청", "국세청", "선거관리위원회"],
+        "answer": 0,
+        "explain_vi": "Đáp án thứ nhất. Nợ lương (임금체불) là vấn đề lao động, nên nộp 진정 tại 고용노동부 hoặc gọi số tư vấn 1350. 국가유산청 quản lý di sản quốc gia, 국세청 phụ trách thuế, 선거관리위원회 quản lý bầu cử — không nơi nào xử lý nợ lương. Lưu ý: người lao động nước ngoài làm việc hợp pháp được 근로기준법 bảo vệ hoàn toàn như người Hàn."
+      },
+      {
+        "q": "한국에 사는 외국인에게 해당하는 의무로 옳은 것을 모두 고른 것은?\n\n㉠ 한국의 법을 지킬 의무\n㉡ 소득이 있을 때 세금을 낼 의무\n㉢ 군대에 갈 의무",
+        "choices": ["㉠", "㉠, ㉡", "㉡, ㉢", "㉠, ㉡, ㉢"],
+        "answer": 1,
+        "explain_vi": "Đáp án thứ hai. Nghĩa vụ tuân thủ pháp luật Hàn Quốc và nghĩa vụ nộp thuế khi có thu nhập áp dụng cho cả người nước ngoài đang cư trú. Còn 국방의 의무 chỉ đặt ra với 대한민국 국민, nên người nước ngoài không phải nhập ngũ. Đây là điểm ranh giới hay được hỏi: sau khi 귀화 và trở thành công dân thì các nghĩa vụ của công dân mới bắt đầu áp dụng."
+      }
+    ],
+    "match": ["외국인의 권리와 의무", "국가인권위원회", "외국인 노동자", "외국인의 의무", "외국인 참정권", "근로기준법", "납세"]
+  },
+  {
+    "id": "law-l03",
+    "domain": "law",
+    "order": 3,
+    "title_ko": "한국 체류와 외국인등록",
+    "title_vi": "Cư trú tại Hàn Quốc và đăng ký người nước ngoài",
+    "icon": "🪪",
+    "summary_vi": "Toàn bộ nghĩa vụ hành chính của người nước ngoài nằm trong 출입국관리법. Bài này gom hết các con số phải nhớ — 90일, 15일, 4개월, 1년 — và các 체류자격 hay ra thi như F-6 và F-5. Với người chuẩn bị 귀화 thì đây còn là kiến thức dùng thật, vì hồ sơ nhập tịch đòi hỏi chứng minh cư trú liên tục và hợp pháp.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "출입국관리법과 외국인등록",
+        "h_vi": "Luật Quản lý Xuất nhập cảnh và việc đăng ký người nước ngoài",
+        "body_vi": "출입국관리법 là luật quy định việc nhập cảnh, xuất cảnh, 체류자격 và cư trú của người nước ngoài; cơ quan thi hành là 법무부 (Bộ Tư pháp) và các 출입국·외국인관서 địa phương. Người nước ngoài định lưu trú quá 90 ngày kể từ ngày nhập cảnh phải làm 외국인등록 và được cấp 외국인등록증. Người Hàn Quốc dùng 주민등록 và 주민등록증, còn người nước ngoài dùng 외국인등록 và 외국인등록증 — hai chế độ song song, đừng nhầm lẫn.",
+        "terms": [
+          { "ko": "출입국관리법", "vi": "Luật Quản lý Xuất nhập cảnh", "def_vi": "Luật quy định nhập cảnh, xuất cảnh, tư cách lưu trú và đăng ký của người nước ngoài tại Hàn Quốc." },
+          { "ko": "외국인등록", "vi": "đăng ký người nước ngoài", "def_vi": "Thủ tục bắt buộc với người lưu trú quá 90 ngày kể từ ngày nhập cảnh, làm tại cơ quan xuất nhập cảnh quản lý nơi ở." },
+          { "ko": "외국인등록증", "vi": "thẻ đăng ký người nước ngoài", "def_vi": "Giấy tờ tùy thân quan trọng nhất khi sống ở Hàn Quốc — dùng để mở tài khoản ngân hàng, ký hợp đồng thuê nhà, đăng ký bảo hiểm y tế." },
+          { "ko": "하이코리아", "vi": "Hi Korea", "def_vi": "Cổng dịch vụ hành chính xuất nhập cảnh trực tuyến (hikorea.go.kr). Nhiều thủ tục như gia hạn lưu trú có thể nộp tại đây." }
+        ]
+      },
+      {
+        "h_ko": "체류지 변경신고 — 15일",
+        "h_vi": "Khai báo thay đổi nơi cư trú — trong 15 ngày",
+        "body_vi": "Khi đã làm 외국인등록 mà chuyển nhà, bạn phải làm 체류지 변경신고 trong vòng 15 ngày kể từ ngày chuyển đến. Nơi nộp là 시·군·구청 hoặc 읍·면·동 주민센터 của địa chỉ mới, hoặc cơ quan xuất nhập cảnh quản lý địa chỉ mới. Không khai báo đúng hạn sẽ bị 과태료 (phạt tiền hành chính). Với người đang tích lũy thời gian cư trú để xin 귀화, việc khai báo chính xác đặc biệt quan trọng vì hồ sơ phải chứng minh cư trú liên tục.",
+        "terms": [
+          { "ko": "체류지 변경신고", "vi": "khai báo thay đổi nơi lưu trú", "def_vi": "Thủ tục báo địa chỉ mới trong 15 ngày kể từ ngày chuyển đến. Bắt buộc theo 출입국관리법 제36조." },
+          { "ko": "과태료", "vi": "tiền phạt hành chính", "def_vi": "Khoản phạt tiền cho việc vi phạm nghĩa vụ hành chính. Khác 벌금 — 벌금 là hình phạt hình sự do tòa tuyên và để lại tiền án." }
+        ]
+      },
+      {
+        "h_ko": "체류기간 연장허가 — 만료 전에!",
+        "h_vi": "Gia hạn thời hạn lưu trú — phải làm TRƯỚC khi hết hạn",
+        "body_vi": "Muốn ở lại quá thời hạn ghi trên 외국인등록증, bạn phải xin 체류기간 연장허가. Hồ sơ nộp được từ khoảng 4 tháng trước ngày hết hạn cho đến ngày hết hạn, tại cơ quan xuất nhập cảnh hoặc trực tuyến qua 하이코리아. Nếu để quá hạn mới nộp, bạn trở thành người cư trú bất hợp pháp (불법체류) và bị bất lợi rất lớn — đây là một trong những lý do khiến hồ sơ 귀화 bị đánh giá xấu ở phần 품행 단정. Mỗi lần gia hạn chỉ có hiệu lực trong thời hạn được cấp, nên phải lặp lại đều đặn.",
+        "terms": [
+          { "ko": "체류기간 연장허가", "vi": "giấy phép gia hạn thời hạn lưu trú", "def_vi": "Xin trước khi thời hạn kết thúc, nộp được từ khoảng 4 tháng trước ngày hết hạn." },
+          { "ko": "불법체류", "vi": "cư trú bất hợp pháp", "def_vi": "Ở lại quá thời hạn được phép. Có thể bị 강제퇴거 (trục xuất) và bị cấm nhập cảnh lại." }
+        ]
+      },
+      {
+        "h_ko": "재입국허가 면제 — 1년",
+        "h_vi": "Miễn giấy phép tái nhập cảnh — trong 1 năm",
+        "body_vi": "등록외국인 nếu ra nước ngoài rồi quay lại trong vòng 1 năm kể từ ngày xuất cảnh thì về nguyên tắc được miễn 재입국허가. Tuy nhiên nếu thời hạn lưu trú còn lại ngắn hơn 1 năm thì chỉ được đến ngày hết hạn lưu trú, nên phải tính kỹ trước khi đặt vé. Nếu định ở nước ngoài lâu hơn 1 năm, bạn phải xin 재입국허가 TRƯỚC khi xuất cảnh. Đi về Việt Nam thăm nhà ngắn ngày thì không cần thủ tục gì thêm, nhưng 외국인등록증 và hộ chiếu vẫn phải mang theo.",
+        "terms": [
+          { "ko": "재입국허가", "vi": "giấy phép tái nhập cảnh", "def_vi": "Giấy phép để người nước ngoài đã đăng ký ra nước ngoài rồi quay lại mà vẫn giữ tư cách lưu trú. Trong 1 năm thì về nguyên tắc được miễn." },
+          { "ko": "등록외국인", "vi": "người nước ngoài đã đăng ký", "def_vi": "Người đã hoàn tất 외국인등록 và có 외국인등록증." }
+        ]
+      },
+      {
+        "h_ko": "주요 체류자격 — F-6와 F-5",
+        "h_vi": "Các tư cách lưu trú chính — F-6 và F-5",
+        "body_vi": "체류자격 quyết định bạn được làm gì và ở bao lâu tại Hàn Quốc. F-6 (결혼이민) là tư cách dành cho người nước ngoài kết hôn với công dân Hàn Quốc — đây là tư cách của phần lớn người kết hôn di trú. F-5 (영주) cho phép ở lại không giới hạn thời hạn, nên không phải xin gia hạn nữa. Điểm cực kỳ quan trọng: 영주자격 KHÁC 국적. Người có F-5 vẫn là người nước ngoài; muốn thành công dân thì vẫn phải xin 귀화.",
+        "terms": [
+          { "ko": "체류자격", "vi": "tư cách lưu trú", "def_vi": "Loại tư cách quyết định mục đích, hoạt động và thời hạn được phép ở lại Hàn Quốc." },
+          { "ko": "F-6 (결혼이민)", "vi": "kết hôn di trú", "def_vi": "Tư cách cho người nước ngoài là vợ/chồng của công dân Hàn Quốc. Là bước đệm để sau này xin 간이귀화 hoặc chuyển sang F-5." },
+          { "ko": "F-5 (영주)", "vi": "vĩnh trú, thường trú", "def_vi": "Tư cách cho phép cư trú không giới hạn thời hạn, hoạt động nghề nghiệp gần như tự do. Vẫn là người nước ngoài, chưa phải công dân." },
+          { "ko": "E-9 (비전문취업)", "vi": "lao động phổ thông", "def_vi": "Tư cách cho lao động nước ngoài theo chế độ cấp phép việc làm (고용허가제)." },
+          { "ko": "D-2 (유학)", "vi": "du học", "def_vi": "Tư cách cho sinh viên học tại trường đại học trở lên ở Hàn Quốc." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "꼭 외워야 할 기간",
+        "cap_vi": "Các mốc thời gian bắt buộc phải nhớ",
+        "head": ["무엇 (việc gì)", "기간", "어디에 (nộp ở đâu)"],
+        "rows": [
+          ["외국인등록", "입국일부터 90일 초과 체류 시", "체류지 관할 출입국·외국인관서"],
+          ["체류지 변경신고", "전입한 날부터 15일 이내", "새 체류지 시·군·구청 또는 읍·면·동, 관할 출입국관서"],
+          ["체류기간 연장허가 신청", "만료 4개월 전 ~ 만료일", "출입국·외국인관서 또는 하이코리아"],
+          ["재입국허가 면제", "출국일부터 1년 이내 재입국", "별도 신청 불필요 (원칙)"]
+        ]
+      },
+      {
+        "cap_ko": "주요 체류자격",
+        "cap_vi": "Các tư cách lưu trú chính",
+        "head": ["기호", "명칭", "대상 (dành cho ai)"],
+        "rows": [
+          ["F-6", "결혼이민", "대한민국 국민과 혼인한 외국인"],
+          ["F-5", "영주", "체류기간 제한 없이 체류할 수 있는 사람"],
+          ["F-4", "재외동포", "외국 국적을 가진 한국계 동포"],
+          ["E-9", "비전문취업", "고용허가제로 입국한 외국인 근로자"],
+          ["D-2", "유학", "대학 이상 교육기관 유학생"]
+        ]
+      },
+      {
+        "cap_ko": "영주자격(F-5)과 국적의 차이",
+        "cap_vi": "Khác nhau giữa vĩnh trú F-5 và quốc tịch",
+        "head": ["구분", "영주자격 F-5", "대한민국 국적"],
+        "rows": [
+          ["신분 / thân phận", "외국인", "대한민국 국민"],
+          ["여권 / hộ chiếu", "본국 여권", "대한민국 여권"],
+          ["대통령 선거권", "없음", "있음"],
+          ["국방의 의무", "없음", "있음"],
+          ["취득 방법", "요건 충족 시 체류자격 변경", "출생·인지·귀화"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "외국인등록: 입국일부터 90일을 초과하여 체류하려는 외국인이 해야 한다",
+      "체류지 변경신고: 전입한 날부터 15일 이내",
+      "체류기간 연장허가: 만료 4개월 전부터 만료일까지, 반드시 만료 전에 신청",
+      "재입국허가: 등록외국인이 출국일부터 1년 이내 재입국하면 원칙적으로 면제",
+      "F-6 = 결혼이민 / F-5 = 영주 / F-4 = 재외동포 / E-9 = 비전문취업 / D-2 = 유학",
+      "영주자격(F-5)을 얻어도 국적이 생기는 것은 아니다 — 국적은 귀화로 취득한다",
+      "외국인의 출입국·체류를 정한 법 = 출입국관리법, 담당 부처 = 법무부"
+    ],
+    "traps": [
+      "90일(외국인등록) ↔ 15일(체류지 변경신고)을 뒤바꿔 놓은 선택지가 단골이다.",
+      "'영주자격을 얻으면 자동으로 국적을 갖는다'는 오답. 영주는 체류자격, 국적은 국민 자격이다.",
+      "체류기간 연장은 만료 '후'가 아니라 '전'에 신청해야 한다. 만료 후 신청은 불이익.",
+      "재입국허가 면제 기준은 3개월이나 6개월이 아니라 1년이다.",
+      "과태료(행정 제재)와 벌금(형벌)은 다르다. 신고 의무 위반은 보통 과태료다."
+    ],
+    "examples": [
+      {
+        "q": "외국인등록을 한 사람이 다른 지역으로 이사했을 때 해야 하는 일로 옳은 것은?",
+        "choices": [
+          "전입한 날부터 15일 이내에 체류지 변경신고를 한다",
+          "출국할 때 한꺼번에 신고한다",
+          "체류기간이 끝난 뒤에 신고한다",
+          "이사는 개인 사정이므로 신고할 필요가 없다"
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án thứ nhất. 출입국관리법 quy định người nước ngoài đã đăng ký khi chuyển nơi ở phải khai báo trong vòng 15 ngày kể từ ngày chuyển đến, tại 시·군·구 hoặc 읍·면·동 nơi ở mới, hoặc tại cơ quan xuất nhập cảnh quản lý nơi đó. Ba phương án còn lại đều sai vì đây là nghĩa vụ có thời hạn cố định; bỏ qua sẽ bị 과태료 và hồ sơ cư trú của bạn trở nên không khớp — điều rất bất lợi khi sau này nộp hồ sơ 귀화."
+      },
+      {
+        "q": "체류기간 연장허가에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "체류기간이 끝난 다음에 신청해도 문제가 없다",
+          "체류기간 만료 전에 출입국·외국인관서나 하이코리아를 통해 신청해야 한다",
+          "한 번 허가를 받으면 다시 연장할 필요가 없다",
+          "본국 대사관에서만 신청할 수 있다"
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án thứ hai. Đơn gia hạn phải nộp TRƯỚC ngày hết hạn, nộp được từ khoảng 4 tháng trước ngày đó, tại cơ quan xuất nhập cảnh hoặc trực tuyến qua 하이코리아. Nộp sau ngày hết hạn khiến bạn thành 불법체류 và bị xử lý. Mỗi lần gia hạn chỉ có hiệu lực trong khoảng thời gian được cấp nên phải làm lại định kỳ. Thủ tục làm trong nước, không qua đại sứ quán nước mình."
+      },
+      {
+        "q": "F-5(영주) 체류자격에 대한 설명으로 옳지 않은 것은?",
+        "choices": [
+          "체류기간의 제한 없이 한국에 머물 수 있다",
+          "체류기간 연장허가를 따로 받지 않아도 된다",
+          "영주자격을 취득하면 대한민국 국적도 함께 취득한다",
+          "일정 요건을 갖추면 지방선거 선거권을 가질 수 있다"
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án thứ ba là câu sai nên là đáp án cần chọn. 영주자격 và 국적 là hai thứ hoàn toàn khác nhau: người có F-5 vẫn giữ quốc tịch nước mình và vẫn là người nước ngoài, muốn thành công dân Hàn Quốc thì phải xin 귀화 riêng. Ba phương án còn lại đều đúng: F-5 không có thời hạn lưu trú nên không phải gia hạn, và sau khi có F-5 đủ 3 năm cùng điều kiện đăng ký địa phương thì được bỏ phiếu 지방선거."
+      }
+    ],
+    "match": ["한국 체류와 법", "외국인등록", "체류지 변경신고", "체류기간 연장", "재입국허가", "체류자격", "출입국관리법", "F-6"]
+  },
+  {
+    "id": "law-l04",
+    "domain": "law",
+    "order": 4,
+    "title_ko": "한국 국적을 얻는 방법",
+    "title_vi": "Cách có được quốc tịch Hàn Quốc",
+    "icon": "🇰🇷",
+    "summary_vi": "Đây là bài quan trọng nhất của cả phần 법 — và là bài liên quan trực tiếp đến chính hồ sơ nhập tịch của bạn. Phải phân biệt được 일반귀화 · 간이귀화 · 특별귀화, thuộc lòng hai con đường của 혼인귀화 (2년 / 3년+1년), và nhớ rằng quốc tịch chỉ phát sinh tại thời điểm 국민선서 + 귀화증서 수여. Mọi nội dung dưới đây dựa trên 국적법 제4조·제5조·제6조·제7조.",
+    "est_min": 12,
+    "sections": [
+      {
+        "h_ko": "국적을 얻는 세 가지 길",
+        "h_vi": "Ba con đường có quốc tịch",
+        "body_vi": "국적법 quy định các cách có quốc tịch Hàn Quốc là 출생 (do sinh ra), 인지 (được cha/mẹ là công dân Hàn Quốc nhận là con), và 귀화 (nhập tịch). Hàn Quốc theo nguyên tắc huyết thống (속인주의), tức là sinh ra có cha hoặc mẹ là công dân Hàn Quốc thì có quốc tịch, chứ không phải cứ sinh trên đất Hàn là có. Người nước ngoài trưởng thành như bạn thì con đường duy nhất là 귀화. Việc được cấp 외국인등록증 hay 영주자격 hoàn toàn không tạo ra quốc tịch.",
+        "terms": [
+          { "ko": "국적법", "vi": "Luật Quốc tịch", "def_vi": "Luật quy định việc có, mất và khôi phục quốc tịch Hàn Quốc. Các điều then chốt cho người nhập tịch là 제4조·제5조·제6조·제7조." },
+          { "ko": "출생에 의한 국적 취득", "vi": "có quốc tịch do sinh ra", "def_vi": "Khi sinh ra mà cha hoặc mẹ là công dân Hàn Quốc thì đứa trẻ có quốc tịch Hàn Quốc." },
+          { "ko": "인지", "vi": "nhận con", "def_vi": "Việc cha hoặc mẹ là công dân Hàn Quốc chính thức nhận một người là con mình; qua đó người đó có thể có quốc tịch." },
+          { "ko": "귀화", "vi": "nhập tịch", "def_vi": "Việc người nước ngoài xin và được 법무부장관 cho phép trở thành công dân Hàn Quốc." }
+        ]
+      },
+      {
+        "h_ko": "일반귀화 — 국적법 제5조",
+        "h_vi": "Nhập tịch thông thường — Điều 5 Luật Quốc tịch",
+        "body_vi": "일반귀화 là con đường dành cho người không thuộc diện 제6조 hay 제7조. Yêu cầu có địa chỉ liên tục tại Hàn Quốc từ 5 năm trở lên VÀ đang có 체류자격 cho phép định cư vĩnh viễn — nguyên tắc này gọi là 영주권 전치주의, nghĩa là phải có 영주자격 trước rồi mới xin nhập tịch. Ngoài ra còn phải là 성년 theo 민법 Hàn Quốc, 품행이 단정할 것 (hạnh kiểm ngay thẳng, tuân thủ pháp luật), có 생계유지능력 (khả năng duy trì sinh kế bằng tài sản, kỹ năng của mình hoặc dựa vào gia đình sống chung), có 기본소양 (năng lực tiếng Hàn và hiểu biết phong tục), và việc cho nhập tịch không phương hại an ninh quốc gia, trật tự, phúc lợi công cộng.",
+        "terms": [
+          { "ko": "영주권 전치주의", "vi": "nguyên tắc phải có vĩnh trú trước", "def_vi": "Nguyên tắc yêu cầu người xin 일반귀화 phải đang có 영주자격 (tư cách cho phép định cư vĩnh viễn). Đây là điểm mới hay ra thi." },
+          { "ko": "품행 단정", "vi": "hạnh kiểm ngay thẳng", "def_vi": "Điều kiện tuân thủ pháp luật, không có tiền án tiền sự hay vi phạm xuất nhập cảnh nghiêm trọng." },
+          { "ko": "생계유지능력", "vi": "khả năng duy trì sinh kế", "def_vi": "Có thể sống bằng tài sản, kỹ năng của bản thân HOẶC dựa vào gia đình sống chung. Không đòi hỏi phải sở hữu bất động sản." },
+          { "ko": "기본소양", "vi": "kiến thức cơ bản", "def_vi": "Năng lực tiếng Hàn và hiểu biết về phong tục Hàn Quốc. Kỳ thi 귀화용 종합평가 chính là cách chứng minh điều kiện này." }
+        ]
+      },
+      {
+        "h_ko": "간이귀화 — 국적법 제6조 (혼인귀화가 여기!)",
+        "h_vi": "Nhập tịch giản dị — Điều 6 (nhập tịch theo hôn nhân nằm ở đây)",
+        "body_vi": "간이귀화 là diện được rút ngắn yêu cầu về thời gian cư trú. 제6조 제1항 áp dụng cho người có địa chỉ tại Hàn Quốc từ 3 năm trở lên mà thuộc một trong các trường hợp: cha hoặc mẹ TỪNG là công dân Hàn Quốc; sinh ra tại Hàn Quốc và cha hoặc mẹ cũng sinh tại Hàn Quốc; là con nuôi của công dân Hàn Quốc và đã thành niên khi được nhận nuôi. 제6조 제2항 là diện vợ/chồng của công dân Hàn Quốc — chính là 혼인귀화. Có hai con đường chính: đang trong hôn nhân và có địa chỉ liên tục tại Hàn Quốc từ 2 NĂM trở lên, HOẶC đã kết hôn được 3 NĂM và đang trong hôn nhân với địa chỉ liên tục tại Hàn Quốc từ 1 NĂM trở lên. Ngoài ra 제2항 còn có hai trường hợp ngoại lệ: khi không thể duy trì hôn nhân bình thường vì vợ/chồng chết, mất tích hoặc lý do khác không do lỗi của mình, và khi đang nuôi dưỡng con sinh ra từ hôn nhân đó — hai trường hợp này được xét dựa trên thời gian đã tích lũy.",
+        "terms": [
+          { "ko": "간이귀화", "vi": "nhập tịch giản dị", "def_vi": "Diện nhập tịch có yêu cầu thời gian cư trú được rút ngắn so với 일반귀화. Vợ/chồng công dân Hàn Quốc thuộc diện này." },
+          { "ko": "혼인귀화", "vi": "nhập tịch theo hôn nhân", "def_vi": "Cách gọi thông thường của 간이귀화 theo 국적법 제6조 제2항 dành cho vợ/chồng của công dân Hàn Quốc." },
+          { "ko": "계속하여 주소가 있을 것", "vi": "có địa chỉ liên tục", "def_vi": "Phải cư trú hợp pháp và liên tục tại Hàn Quốc. Vì vậy 체류지 변경신고 và gia hạn lưu trú đúng hạn rất quan trọng." }
+        ]
+      },
+      {
+        "h_ko": "특별귀화 — 국적법 제7조",
+        "h_vi": "Nhập tịch đặc biệt — Điều 7",
+        "body_vi": "특별귀화 dành cho ba nhóm: người có cha hoặc mẹ ĐANG là công dân Hàn Quốc (trừ con nuôi của công dân Hàn Quốc mà khi được nhận nuôi còn là vị thành niên); người có công lao đặc biệt với Hàn Quốc; và người có năng lực rất xuất sắc trong các lĩnh vực như 과학·경제·문화·체육 được công nhận là đóng góp cho lợi ích quốc gia. Điểm mấu chốt: diện này vẫn cần có địa chỉ tại Hàn Quốc, nhưng KHÔNG áp dụng yêu cầu về số năm cư trú, và cũng không đòi hỏi điều kiện 생계유지능력 hay 성년 như 일반귀화.",
+        "terms": [
+          { "ko": "특별귀화", "vi": "nhập tịch đặc biệt", "def_vi": "Diện dành cho con của công dân Hàn Quốc, người có công lao đặc biệt, và nhân tài xuất sắc. Không áp dụng yêu cầu số năm cư trú." },
+          { "ko": "특별한 공로", "vi": "công lao đặc biệt", "def_vi": "Công lao với đất nước Hàn Quốc, ví dụ 독립유공자·국가유공자 hoặc người đóng góp lớn cho lợi ích quốc gia." }
+        ]
+      },
+      {
+        "h_ko": "귀화 절차와 국적 취득 시점",
+        "h_vi": "Thủ tục nhập tịch và thời điểm có quốc tịch",
+        "body_vi": "Điểm dễ sai nhất của cả bài: được cho phép nhập tịch KHÔNG có nghĩa là đã có quốc tịch. 국적법 제4조 quy định người được cho phép nhập tịch có quốc tịch Hàn Quốc tại thời điểm 법무부장관 앞에서 국민선서를 하고 귀화증서를 수여받은 때 — tức là tại buổi lễ trao chứng thư, sau khi tuyên thệ và nhận 귀화증서. Nội dung 국민선서 là lời thề tuân thủ Hiến pháp và pháp luật Hàn Quốc và làm tròn trách nhiệm, nghĩa vụ của công dân. Với người vì lý do tuổi tác hoặc khuyết tật thể chất, tinh thần mà không thể hiểu hoặc biểu đạt lời thề, 법무부장관 có thể miễn 국민선서. Sau khi có quốc tịch, trong vòng 1 NĂM bạn phải từ bỏ quốc tịch nước ngoài hoặc làm 외국국적불행사서약 (cam kết không sử dụng quốc tịch nước ngoài tại Hàn Quốc); không làm thì mất quốc tịch Hàn Quốc.",
+        "terms": [
+          { "ko": "국민선서", "vi": "tuyên thệ công dân", "def_vi": "Lời thề trước 법무부장관 rằng sẽ tuân thủ Hiến pháp và pháp luật Hàn Quốc và làm tròn trách nhiệm, nghĩa vụ của công dân." },
+          { "ko": "귀화증서", "vi": "giấy chứng nhận nhập tịch", "def_vi": "Chứng thư trao tại buổi lễ. Nhận được nó cùng với việc tuyên thệ chính là thời điểm có quốc tịch." },
+          { "ko": "외국국적불행사서약", "vi": "cam kết không sử dụng quốc tịch nước ngoài", "def_vi": "Một trong hai lựa chọn phải làm trong 1 năm sau khi có quốc tịch, thay cho việc từ bỏ quốc tịch gốc, trong các trường hợp luật cho phép." },
+          { "ko": "관보 고시", "vi": "công bố trên công báo", "def_vi": "Việc 법무부장관 công bố việc có quốc tịch trên 관보 và thông báo cho cơ quan đăng ký quan hệ gia đình." }
+        ]
+      },
+      {
+        "h_ko": "사회통합프로그램과 귀화의 관계",
+        "h_vi": "Quan hệ giữa Chương trình Hòa nhập Xã hội và nhập tịch",
+        "body_vi": "사회통합프로그램 (KIIP) là chương trình do 법무부 vận hành để người nước ngoài học tiếng Hàn và hiểu biết xã hội Hàn Quốc. Điều kiện 기본소양 của 국적법 được chứng minh qua việc hoàn thành chương trình và đỗ 귀화용 종합평가 — kỳ thi mà bạn đang chuẩn bị. Người đã hoàn thành đầy đủ chương trình và đỗ kỳ thi này (100점 만점에 60점 이상) có thể được miễn 면접심사 khi xét hồ sơ nhập tịch. Nhưng lưu ý hai điều: chỉ ghi danh thi mà không học đủ chương trình chính quy thì dù đỗ cũng không được miễn phỏng vấn; và hoàn thành chương trình KHÔNG làm giảm bớt yêu cầu về số năm cư trú theo 국적법.",
+        "terms": [
+          { "ko": "사회통합프로그램", "vi": "Chương trình Hòa nhập Xã hội (KIIP)", "def_vi": "Chương trình của 법무부 gồm các giai đoạn học tiếng Hàn và hiểu biết xã hội Hàn Quốc, kết thúc ở 5단계." },
+          { "ko": "귀화용 종합평가", "vi": "kỳ đánh giá tổng hợp dùng cho nhập tịch", "def_vi": "Kỳ thi chứng minh 기본소양. Đỗ với 60점 이상 trên thang 100점." },
+          { "ko": "면접심사", "vi": "phỏng vấn xét duyệt", "def_vi": "Buổi phỏng vấn kiểm tra năng lực tiếng Hàn và hiểu biết cơ bản. Người ở diện miễn theo quy định thì không phải trải qua." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "귀화 절차 전체 흐름",
+        "cap_vi": "Toàn bộ dòng chảy thủ tục nhập tịch",
+        "head": ["단계", "무엇을 하는가 (làm gì)", "꼭 기억할 점 (điểm phải nhớ)"],
+        "rows": [
+          ["1. 요건 충족", "거주 기간·체류자격·품행·생계·기본소양 요건을 갖춘다", "일반 5년+영주자격 / 혼인 2년 또는 3년+1년"],
+          ["2. 귀화허가 신청", "출입국·외국인관서에 귀화허가 신청서와 서류를 낸다", "혼인관계·거주 사실을 증명하는 서류가 핵심"],
+          ["3. 서류심사·실태조사", "법무부가 서류를 심사하고 사실 관계를 확인한다", "체류·신고 이력이 정확해야 유리"],
+          ["4. 귀화용 종합평가", "국어능력과 한국 사회 이해도를 평가하는 시험", "100점 만점 60점 이상 합격"],
+          ["5. 면접심사", "국어능력·기본소양을 면접으로 확인", "사회통합프로그램 이수 + 종합평가 합격자는 면제 가능"],
+          ["6. 심사·허가", "법무부장관이 귀화를 허가한다", "허가만으로는 아직 국적이 없다"],
+          ["7. 관보 고시", "국적 취득 사실을 관보에 고시하고 가족관계등록관서에 통보", "행정 절차"],
+          ["8. 국민선서·귀화증서 수여", "법무부장관 앞에서 선서하고 귀화증서를 받는다", "★ 바로 이때 대한민국 국적을 취득한다"],
+          ["9. 취득 후 절차", "가족관계등록 → 주민등록·주민등록증 발급, 외국인등록증 반납", "1년 이내에 외국 국적 포기 또는 외국국적불행사서약"]
+        ]
+      },
+      {
+        "cap_ko": "귀화 3종 비교 (가장 중요)",
+        "cap_vi": "So sánh ba loại nhập tịch (quan trọng nhất)",
+        "head": ["구분", "일반귀화 (제5조)", "간이귀화 (제6조)", "특별귀화 (제7조)"],
+        "rows": [
+          ["거주 기간", "5년 이상 계속 주소", "3년 이상 / 배우자는 2년 또는 3년+1년", "기간 요건 없음 (주소는 있어야 함)"],
+          ["영주자격", "필요 (영주권 전치주의)", "요건에 따라 다름", "요구되지 않음"],
+          ["성년 여부", "민법상 성년일 것", "민법상 성년일 것", "요구되지 않음"],
+          ["생계유지능력", "필요", "필요", "요구되지 않음"],
+          ["품행 단정·기본소양", "필요", "필요", "필요"],
+          ["대표 대상", "장기 체류 외국인", "국민의 배우자, 부모가 국민이었던 사람 등", "부 또는 모가 국민인 사람, 특별공로자, 우수인재"]
+        ]
+      },
+      {
+        "cap_ko": "혼인귀화 두 갈래 길 (국적법 제6조 제2항)",
+        "cap_vi": "Hai con đường của nhập tịch theo hôn nhân",
+        "head": ["경우", "요건", "핵심 숫자"],
+        "rows": [
+          ["① 계속 거주형", "배우자와 혼인한 상태로 국내에 계속 주소가 있을 것", "2년"],
+          ["② 혼인 경과형", "혼인 후 일정 기간이 지나고, 혼인한 상태로 국내에 계속 주소가 있을 것", "혼인 3년 + 국내 1년"],
+          ["③ 배우자 사망·실종 등", "본인 책임 없이 정상적 혼인생활을 할 수 없었던 경우, ①②의 잔여 기간을 채우면 신청 가능", "잔여 기간"],
+          ["④ 자녀 양육", "혼인에 따라 출생한 미성년 자녀를 양육하고 있거나 양육하여야 할 경우, ①②의 잔여 기간을 채우면 신청 가능", "잔여 기간"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "국적 취득 방법 = 출생 · 인지 · 귀화 (외국인등록증 발급은 국적과 무관)",
+      "일반귀화(국적법 제5조) = 5년 이상 계속 국내 주소 + 영주할 수 있는 체류자격(영주권 전치주의) + 성년 + 품행 단정 + 생계유지능력 + 기본소양",
+      "혼인귀화(국적법 제6조 제2항) = 혼인한 상태로 국내 2년 이상 계속 주소, 또는 혼인 후 3년 경과 + 혼인한 상태로 국내 1년 이상 계속 주소",
+      "간이귀화 제6조 제1항 = 국내 3년 이상 주소 + 부모가 국민이었던 사람 / 국내 출생자 / 성년일 때 입양된 양자",
+      "특별귀화(국적법 제7조) = 부 또는 모가 국민인 사람, 특별한 공로자, 과학·경제·문화·체육 우수인재 — 거주 기간 요건 없음",
+      "국적 취득 시점 = 법무부장관 앞에서 국민선서를 하고 귀화증서를 수여받은 때 (국적법 제4조)",
+      "사회통합프로그램 이수 + 귀화용 종합평가 합격(60점 이상) → 귀화 면접심사 면제 가능, 그러나 거주 기간 요건은 면제되지 않는다",
+      "귀화로 국적을 취득한 사람은 1년 이내에 외국 국적을 포기하거나 외국국적불행사서약을 해야 한다"
+    ],
+    "traps": [
+      "귀화허가를 받은 '때'가 아니라 국민선서 + 귀화증서 수여를 받은 '때' 국적을 취득한다. 가장 많이 틀리는 지점.",
+      "혼인귀화의 숫자를 뒤집은 선택지(1년/2년, 5년/1년 등)가 단골로 나온다. '국내 2년' 또는 '혼인 3년 + 국내 1년'만 정답.",
+      "영주자격(F-5)을 얻는 것과 국적을 얻는 것은 완전히 다른 절차다.",
+      "특별귀화도 '거주 기간 요건이 없다'는 것이지 '한국에 살지 않아도 된다'는 뜻은 아니다. 국내 주소는 있어야 한다.",
+      "부동산을 소유해야 귀화할 수 있다는 요건은 국적법에 없다. 생계유지능력은 가족에 의존해서도 인정될 수 있다.",
+      "사회통합프로그램을 이수해도 거주 기간 요건은 그대로다. 면제되는 것은 면접심사다."
+    ],
+    "examples": [
+      {
+        "q": "다음 ( ㉠ ), ( ㉡ )에 들어갈 숫자로 옳은 것은?\n\n대한민국 국민과 혼인한 외국인은 혼인한 상태로 국내에 ( ㉠ )년 이상 계속하여 주소가 있거나, 혼인한 후 ( ㉡ )년이 지나고 혼인한 상태로 국내에 1년 이상 계속하여 주소가 있으면 간이귀화를 신청할 수 있다.",
+        "choices": ["㉠ 1 - ㉡ 2", "㉠ 2 - ㉡ 3", "㉠ 3 - ㉡ 5", "㉠ 5 - ㉡ 1"],
+        "answer": 1,
+        "explain_vi": "Đáp án thứ hai. 국적법 제6조 제2항 nêu hai con đường cho vợ/chồng công dân Hàn Quốc: đang trong hôn nhân và cư trú liên tục tại Hàn Quốc từ 2 NĂM trở lên, hoặc đã kết hôn được 3 NĂM và đang trong hôn nhân với cư trú liên tục từ 1 năm trở lên. Cách nhớ ngắn gọn: \"2년 거주\" hoặc \"혼인 3년 + 거주 1년\". Con số 5년 thuộc về 일반귀화 nên đừng để bị dẫn dụ."
+      },
+      {
+        "q": "귀화허가를 받은 사람이 대한민국 국적을 취득하는 시점으로 옳은 것은?",
+        "choices": [
+          "귀화허가 신청서를 접수한 때",
+          "귀화용 종합평가에 합격한 때",
+          "법무부장관 앞에서 국민선서를 하고 귀화증서를 수여받은 때",
+          "외국인등록증을 반납한 때"
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án thứ ba. 국적법 제4조 quy định rõ quốc tịch phát sinh tại thời điểm tuyên thệ 국민선서 trước 법무부장관 và nhận 귀화증서. Nộp hồ sơ chỉ là bước bắt đầu; đỗ 종합평가 chỉ chứng minh điều kiện 기본소양; trả 외국인등록증 là thủ tục làm sau khi đã có quốc tịch. Vì vậy dù đã được cho phép nhập tịch, nếu chưa dự lễ trao chứng thư thì bạn vẫn chưa phải là công dân Hàn Quốc."
+      },
+      {
+        "q": "일반귀화의 요건에 해당하지 않는 것은?",
+        "choices": [
+          "5년 이상 계속하여 대한민국에 주소가 있을 것",
+          "대한민국에서 영주할 수 있는 체류자격을 가지고 있을 것",
+          "대한민국에 부동산을 소유하고 있을 것",
+          "국어능력과 대한민국의 풍습에 대한 이해 등 기본 소양을 갖출 것"
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án thứ ba. 국적법 KHÔNG hề yêu cầu người xin nhập tịch phải sở hữu bất động sản. Điều kiện 생계유지능력 có thể được chứng minh bằng tài sản, kỹ năng của bản thân HOẶC bằng việc dựa vào gia đình sống chung. Ba phương án còn lại đều là điều kiện thật của 일반귀화 theo 제5조: cư trú liên tục 5 năm, có tư cách cho phép định cư vĩnh viễn (영주권 전치주의), và có 기본소양 gồm năng lực tiếng Hàn cùng hiểu biết phong tục."
+      }
+    ],
+    "match": ["한국 국적을 얻는 방법", "일반귀화", "간이귀화", "특별귀화", "국민선서", "사회통합프로그램", "국적 취득", "귀화 요건"]
+  },
+  {
+    "id": "law-l05",
+    "domain": "law",
+    "order": 5,
+    "title_ko": "가족·재산 관련 법",
+    "title_vi": "Luật về gia đình và tài sản",
+    "icon": "🏠",
+    "summary_vi": "Bài này gom những quy định 민법 mà bạn sẽ dùng thật trong đời sống: 혼인신고, 출생신고, 협의이혼, 상속, và đặc biệt là cách bảo vệ 보증금 khi thuê nhà. Công thức thi bắt buộc phải thuộc: 주택 인도 + 전입신고 → 다음 날 0시 대항력, thêm 확정일자 → 우선변제권.",
+    "est_min": 11,
+    "sections": [
+      {
+        "h_ko": "혼인신고와 출생신고",
+        "h_vi": "Đăng ký kết hôn và khai sinh",
+        "body_vi": "Ở Hàn Quốc, hôn nhân chỉ có hiệu lực pháp lý khi nộp 혼인신고 tại 시청·군청·구청 hoặc 읍·면·동 주민센터 — lễ cưới hay việc sống chung đều không tạo ra 법률혼. Sống chung mà chưa đăng ký gọi là 사실혼, được bảo vệ hạn chế. Độ tuổi kết hôn theo 민법 제807조 là đủ 18 tuổi, trong khi tuổi thành niên là 19 tuổi — hai con số này rất hay bị hoán đổi trong đề. Khi có con, phải làm 출생신고 trong vòng 1 THÁNG kể từ ngày sinh; muộn không có lý do chính đáng sẽ bị 과태료.",
+        "terms": [
+          { "ko": "혼인신고", "vi": "đăng ký kết hôn", "def_vi": "Thủ tục nộp tại cơ quan hành chính để hôn nhân có hiệu lực pháp lý. Với người kết hôn di trú, ngày này là mốc tính thời gian hôn nhân cho hồ sơ 귀화." },
+          { "ko": "법률혼 / 사실혼", "vi": "hôn nhân hợp pháp / hôn nhân thực tế", "def_vi": "법률혼 là đã đăng ký; 사실혼 là sống chung như vợ chồng nhưng chưa đăng ký, chỉ được bảo vệ một phần." },
+          { "ko": "출생신고", "vi": "khai sinh", "def_vi": "Phải làm trong 1 tháng kể từ ngày sinh, tại 시·읍·면 hoặc 주민센터. Đây là cơ sở tạo 가족관계등록부." },
+          { "ko": "가족관계등록부", "vi": "sổ đăng ký quan hệ gia đình", "def_vi": "Hồ sơ ghi nhận sinh, kết hôn, ly hôn, tử của một người. Thay thế chế độ 호적 cũ." }
+        ]
+      },
+      {
+        "h_ko": "이혼 — 협의이혼과 재판상 이혼",
+        "h_vi": "Ly hôn — thuận tình và qua xét xử",
+        "body_vi": "협의이혼 là khi hai vợ chồng đồng ý: phải nộp đơn xin xác nhận ý chí tại 가정법원, nghe hướng dẫn, rồi trải qua 이혼숙려기간 (thời gian suy nghĩ) — 3 tháng nếu có con phải nuôi dưỡng, 1 tháng nếu không. Trường hợp cấp bách như bạo lực gia đình thì thời gian này có thể được rút ngắn hoặc miễn. Sau khi tòa xác nhận vẫn phải nộp 이혼신고 tại cơ quan hành chính mới hoàn tất. 재판상 이혼 là khi không thỏa thuận được và tòa phán quyết dựa trên lý do luật định. Khi ly hôn phải quyết định về 친권 (quyền cha mẹ), 양육자 (người trực tiếp nuôi), 양육비 (cấp dưỡng) và 면접교섭권 (quyền thăm gặp con).",
+        "terms": [
+          { "ko": "협의이혼", "vi": "ly hôn thuận tình", "def_vi": "Hai bên đồng ý, qua 가정법원 xác nhận ý chí sau 이혼숙려기간, rồi nộp 이혼신고." },
+          { "ko": "이혼숙려기간", "vi": "thời gian suy nghĩ trước ly hôn", "def_vi": "3 tháng nếu có con phải nuôi dưỡng, 1 tháng nếu không. Có thể rút ngắn hoặc miễn khi có lý do cấp bách." },
+          { "ko": "재판상 이혼", "vi": "ly hôn qua xét xử", "def_vi": "Khi không thỏa thuận được, tòa án phán quyết dựa trên các lý do luật định." },
+          { "ko": "면접교섭권", "vi": "quyền thăm gặp con", "def_vi": "Quyền của cha/mẹ không trực tiếp nuôi được gặp con, và cũng là quyền của chính đứa con." }
+        ]
+      },
+      {
+        "h_ko": "상속 — 재산도 빚도 함께 온다",
+        "h_vi": "Thừa kế — tài sản và cả nợ đều đến cùng nhau",
+        "body_vi": "Theo 민법, khi thừa kế cùng với con cái, 법정상속분 của vợ/chồng được cộng thêm 5할 (50%) so với phần của mỗi người con, tức tỷ lệ 1,5 : 1. Con trai và con gái có phần thừa kế NGANG NHAU. Điểm cần cẩn thận: 빚 (nợ) cũng được thừa kế cùng tài sản. Vì vậy luật cho phép 상속포기 (từ chối thừa kế) hoặc 한정승인 (thừa kế có giới hạn, chỉ trả nợ trong phạm vi tài sản nhận được) — thông thường phải làm trong vòng 3 tháng kể từ khi biết việc mở thừa kế.",
+        "terms": [
+          { "ko": "법정상속분", "vi": "phần thừa kế theo luật", "def_vi": "Tỷ lệ luật định khi không có di chúc. Vợ/chồng được cộng thêm 5할 so với phần của mỗi con." },
+          { "ko": "상속포기", "vi": "từ chối thừa kế", "def_vi": "Từ bỏ hoàn toàn cả tài sản lẫn nợ. Làm tại 가정법원 trong khoảng 3 tháng kể từ khi biết việc mở thừa kế." },
+          { "ko": "한정승인", "vi": "thừa kế có giới hạn", "def_vi": "Chỉ chịu trách nhiệm trả nợ trong phạm vi tài sản được thừa kế. Dùng khi không rõ tài sản nhiều hay nợ nhiều." }
+        ]
+      },
+      {
+        "h_ko": "금전 거래 — 차용증을 반드시",
+        "h_vi": "Giao dịch tiền bạc — nhất định phải có giấy vay nợ",
+        "body_vi": "Khi cho vay hoặc vay tiền, hãy lập 차용증 ghi rõ số tiền, lãi suất, ngày trả và thông tin, chữ ký của cả hai bên. Khi tranh chấp, đây là chứng cứ then chốt tại tòa; muốn chắc chắn hơn có thể lập 공정증서 tại văn phòng công chứng. Lãi suất bị giới hạn bởi 이자제한법 — phần vượt quá mức tối đa luật cho phép thì vô hiệu, nên đừng ký hợp đồng lãi cao vì tưởng rằng đã ký là phải trả. Khi bên vay không trả, có thể xin 지급명령 tại tòa, một thủ tục nhanh và ít tốn kém hơn kiện thông thường.",
+        "terms": [
+          { "ko": "차용증", "vi": "giấy vay nợ", "def_vi": "Văn bản ghi lại việc cho vay tiền. Là chứng cứ quan trọng nhất khi xảy ra tranh chấp." },
+          { "ko": "이자제한법", "vi": "Luật Hạn chế Lãi suất", "def_vi": "Luật quy định mức lãi suất tối đa; phần lãi vượt quá là vô hiệu." },
+          { "ko": "지급명령", "vi": "lệnh thanh toán", "def_vi": "Thủ tục tòa án đơn giản để buộc bên nợ trả tiền, nhanh và rẻ hơn kiện thông thường." }
+        ]
+      },
+      {
+        "h_ko": "부동산 임대차 — 보증금 지키는 법",
+        "h_vi": "Thuê nhà — cách giữ được tiền đặt cọc",
+        "body_vi": "주택임대차보호법 bảo vệ người thuê nhà, và có hai khái niệm bắt buộc phải thuộc. 대항력 (hiệu lực đối kháng) phát sinh khi bạn đã nhận nhà (주택의 인도) VÀ làm 전입신고 — hiệu lực bắt đầu từ 0 giờ NGÀY HÔM SAU, nghĩa là ngay cả khi chủ nhà đổi, bạn vẫn được tiếp tục ở và đòi lại tiền cọc. 우선변제권 (quyền được ưu tiên thanh toán) phát sinh khi bạn có đủ điều kiện đối kháng ấy VÀ có 확정일자 trên hợp đồng — nhờ đó khi nhà bị bán đấu giá, bạn được lấy lại 보증금 trước các chủ nợ thứ tự sau. Trước khi ký hợp đồng, luôn kiểm tra 등기부등본 xem trên nhà có 근저당 hay không.",
+        "terms": [
+          { "ko": "주택임대차보호법", "vi": "Luật Bảo hộ Thuê nhà ở", "def_vi": "Luật đặc biệt bảo vệ người thuê nhà, ưu tiên áp dụng trước 민법." },
+          { "ko": "전입신고", "vi": "khai báo chuyển đến", "def_vi": "Khai báo địa chỉ mới tại 주민센터. Người nước ngoài thực hiện qua 체류지 변경신고 tương ứng." },
+          { "ko": "대항력", "vi": "hiệu lực đối kháng", "def_vi": "Quyền tiếp tục ở và đòi tiền cọc ngay cả khi nhà đổi chủ. Có được nhờ 주택 인도 + 전입신고, hiệu lực từ 0 giờ ngày hôm sau." },
+          { "ko": "확정일자", "vi": "ngày xác định", "def_vi": "Dấu ngày đóng lên hợp đồng thuê tại 주민센터 hoặc cơ quan có thẩm quyền. Kết hợp với 대항요건 tạo ra 우선변제권." },
+          { "ko": "등기부등본", "vi": "bản sao sổ đăng ký bất động sản", "def_vi": "Giấy tờ cho biết ai là chủ nhà và trên nhà có khoản thế chấp 근저당 nào không. Phải xem TRƯỚC khi ký." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "가족 관련 신고 기한",
+        "cap_vi": "Thời hạn các loại khai báo về gia đình",
+        "head": ["신고 (khai báo)", "기한 / 기간", "어디에"],
+        "rows": [
+          ["혼인신고", "기한 없음 (신고해야 법률혼 성립)", "시·군·구청, 읍·면·동 주민센터"],
+          ["출생신고", "출생일부터 1개월 이내", "시·읍·면, 주민센터"],
+          ["협의이혼 숙려기간", "양육할 자녀 있으면 3개월 / 없으면 1개월", "가정법원 (확인 후 이혼신고)"],
+          ["상속포기·한정승인", "상속 개시를 안 날부터 3개월 이내", "가정법원"]
+        ]
+      },
+      {
+        "cap_ko": "보증금을 지키는 두 가지 힘",
+        "cap_vi": "Hai sức mạnh giữ tiền đặt cọc",
+        "head": ["권리", "무엇이 필요한가 (cần gì)", "효력 (hiệu lực)"],
+        "rows": [
+          ["대항력", "주택의 인도 + 전입신고", "다음 날 0시부터, 집주인이 바뀌어도 계속 거주·보증금 주장 가능"],
+          ["우선변제권", "대항요건 + 임대차계약서에 확정일자", "경매·공매 시 후순위 권리자보다 먼저 보증금을 받을 수 있음"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "혼인은 결혼식이 아니라 혼인신고(시·군·구청, 주민센터)를 해야 법률상 성립한다",
+      "혼인적령 = 만 18세 (민법 제807조), 성년 = 만 19세 — 두 숫자를 구분할 것",
+      "출생신고 = 출생일부터 1개월 이내",
+      "이혼숙려기간 = 양육할 자녀가 있으면 3개월, 없으면 1개월 (급박한 사정이 있으면 단축·면제 가능)",
+      "배우자의 법정상속분은 자녀 상속분에 5할을 가산하고, 아들과 딸의 상속분은 같다. 빚도 상속되므로 상속포기·한정승인 제도가 있다",
+      "대항력 = 주택의 인도 + 전입신고 → 그 다음 날 0시부터 효력 발생",
+      "우선변제권 = 대항요건 + 확정일자",
+      "계약 전에 등기부등본으로 소유자와 근저당을 반드시 확인한다"
+    ],
+    "traps": [
+      "결혼식을 올리거나 함께 살기만 해도 법률혼이 된다는 선택지는 오답. 혼인신고가 필수다.",
+      "혼인적령 18세와 성년 19세를 바꿔 놓은 선택지가 자주 나온다.",
+      "이혼숙려기간을 '자녀가 있으면 1개월, 없으면 3개월'로 뒤집어 놓는 함정에 주의.",
+      "'빚은 상속되지 않는다'는 오답. 그래서 상속포기·한정승인이 필요하다.",
+      "'아들이 딸보다 많이 상속받는다'는 오답. 현행 민법상 같다.",
+      "대항력은 전입신고한 '그날'이 아니라 '다음 날 0시'부터 생긴다 — 가장 잘 나오는 함정.",
+      "확정일자만 받고 전입신고를 안 하면 우선변제권이 생기지 않는다. 두 가지가 모두 필요하다."
+    ],
+    "examples": [
+      {
+        "q": "전세로 집을 구한 임차인이 보증금을 안전하게 지키기 위해 해야 할 일로 옳은 것은?",
+        "choices": [
+          "이사만 하면 자동으로 보증금이 보호된다",
+          "주택을 인도받고 전입신고를 한 뒤, 임대차계약서에 확정일자를 받는다",
+          "집주인에게 구두로 약속만 받아 두면 된다",
+          "등기부등본은 계약이 끝난 뒤에 확인하면 된다"
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án thứ hai. Nhận nhà cộng với 전입신고 tạo ra 대항력 (hiệu lực từ 0 giờ ngày hôm sau), và thêm 확정일자 trên hợp đồng thì có 우선변제권 để lấy lại 보증금 trước những chủ nợ thứ tự sau khi nhà bị bán đấu giá. Phương án một sai vì chỉ dọn vào ở mà không khai báo thì không có gì bảo vệ. Phương án ba sai vì lời hứa miệng không có giá trị chứng minh. Phương án bốn sai nghiêm trọng: 등기부등본 phải xem TRƯỚC khi ký để biết nhà có 근저당 hay không."
+      },
+      {
+        "q": "협의이혼에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "부부가 합의하면 법원을 거치지 않고 바로 이혼이 성립한다",
+          "가정법원의 안내를 받은 뒤 이혼숙려기간을 거쳐 이혼의사 확인을 받아야 한다",
+          "이혼숙려기간은 자녀가 있으면 1개월, 없으면 3개월이다",
+          "이혼의사 확인만 받으면 따로 신고할 필요가 없다"
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án thứ hai. 협의이혼 bắt buộc phải qua 가정법원: nghe hướng dẫn, trải qua 이혼숙려기간, rồi được xác nhận ý chí ly hôn. Phương án ba đảo ngược con số — đúng phải là có con cần nuôi dưỡng thì 3개월, không có thì 1개월. Phương án bốn sai vì sau khi được tòa xác nhận vẫn phải nộp 이혼신고 tại cơ quan hành chính thì ly hôn mới hoàn tất về mặt pháp lý."
+      },
+      {
+        "q": "한국의 상속에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "빚은 상속되지 않고 재산만 상속된다",
+          "아들이 딸보다 더 많은 몫을 상속받는다",
+          "배우자의 법정상속분은 자녀의 상속분에 5할을 가산한다",
+          "상속은 반드시 받아야 하고 포기할 수 없다"
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án thứ ba. Khi thừa kế cùng con cái, phần của vợ/chồng được cộng thêm 5할 so với phần mỗi người con, tức tỷ lệ 1,5 : 1. Phương án một sai vì nợ cũng được thừa kế — chính vì thế mới có chế độ 상속포기 và 한정승인, thường phải làm trong 3 tháng kể từ khi biết việc mở thừa kế, nên phương án bốn cũng sai. Phương án hai sai vì 민법 hiện hành cho con trai và con gái phần thừa kế ngang nhau."
+      }
+    ],
+    "match": ["가족 관련 법", "금전 거래 관련 법", "부동산 거래 관련 법", "혼인신고", "협의이혼", "상속", "확정일자", "대항력"]
+  },
+  {
+    "id": "law-l06",
+    "domain": "law",
+    "order": 6,
+    "title_ko": "범죄와 생활질서",
+    "title_vi": "Tội phạm và trật tự đời sống",
+    "icon": "🚨",
+    "summary_vi": "Bài cuối của phần 법 cơ bản: những hành vi nhỏ bị xử lý theo 경범죄처벌법, các vấn đề nghiêm trọng như 음주운전 và 학교폭력, chín loại hình phạt của 형법 제41조, và sự khác nhau giữa 경찰 với 검찰. Các số điện thoại 112·119·117 gần như chắc chắn xuất hiện trong đề.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "경범죄 — 작지만 처벌받는 행위",
+        "h_vi": "Vi cảnh — hành vi nhỏ nhưng vẫn bị xử lý",
+        "body_vi": "경범죄처벌법 xử lý các hành vi phá vỡ trật tự công cộng ở mức nhẹ, ví dụ gây ồn ào ban đêm (소란), tiểu tiện nơi công cộng (노상방뇨), vứt rác bừa bãi, dán quảng cáo trái phép, chen ngang hàng, hoặc gọi báo tin giả cho cơ quan công quyền. Hình thức xử lý thường gặp là 범칙금 — người vi phạm nộp trong thời hạn thì kết thúc, không nộp thì có thể bị chuyển sang thủ tục 즉결심판. Nhớ điểm này: hành vi nhỏ nhưng vẫn là vi phạm pháp luật, và với người đang chuẩn bị 귀화 thì hồ sơ vi phạm có thể ảnh hưởng tới điều kiện 품행 단정.",
+        "terms": [
+          { "ko": "경범죄처벌법", "vi": "Luật Xử phạt Vi cảnh", "def_vi": "Luật xử lý các hành vi gây rối trật tự công cộng ở mức độ nhẹ." },
+          { "ko": "범칙금", "vi": "tiền phạt vi cảnh", "def_vi": "Khoản tiền do cơ quan cảnh sát yêu cầu nộp với hành vi vi cảnh. Nộp đúng hạn thì kết thúc thủ tục." },
+          { "ko": "노상방뇨", "vi": "tiểu tiện nơi công cộng", "def_vi": "Một trong những ví dụ điển hình của 경범죄 hay xuất hiện trong đề thi." }
+        ]
+      },
+      {
+        "h_ko": "음주운전",
+        "h_vi": "Lái xe khi uống rượu",
+        "body_vi": "도로교통법 cấm lái xe trong tình trạng say rượu, và tiêu chuẩn \"say rượu\" là 혈중알코올농도 (nồng độ cồn trong máu) từ 0.03% trở lên. Từ mức đó đến dưới 0.08% thì bị 면허정지 (đình chỉ giấy phép), từ 0.08% trở lên thì bị 면허취소 (thu hồi giấy phép). Việc từ chối đo nồng độ cồn cũng bị xử lý. 음주운전 không chỉ là vi phạm hành chính mà là 형사처벌 — bị xử lý hình sự và để lại tiền án, điều rất bất lợi cho điều kiện 품행 단정 khi xét 귀화.",
+        "terms": [
+          { "ko": "혈중알코올농도", "vi": "nồng độ cồn trong máu", "def_vi": "Tiêu chuẩn \"say rượu\" khi lái xe là từ 0.03% trở lên." },
+          { "ko": "면허정지 / 면허취소", "vi": "đình chỉ / thu hồi giấy phép lái xe", "def_vi": "0.03% trở lên đến dưới 0.08% thì đình chỉ; từ 0.08% trở lên thì thu hồi." }
+        ]
+      },
+      {
+        "h_ko": "학교폭력",
+        "h_vi": "Bạo lực học đường",
+        "body_vi": "학교폭력 gồm cả bạo lực thân thể, lời nói, tống tiền, cô lập tập thể (따돌림) và 사이버폭력 (bạo lực trên mạng). Số điện thoại báo tin bạo lực học đường là 117, hoạt động 24 giờ. Khi có vụ việc, nhà trường và cơ quan giáo dục phải xử lý theo thủ tục quy định để bảo vệ học sinh bị hại và giáo dục học sinh gây ra hành vi. Với gia đình đa văn hóa, khi con bị trêu chọc vì lý do quốc tịch hay ngoại hình thì đó vừa là 학교폭력 vừa có thể là 차별 — có thể nhờ đến cả nhà trường lẫn 국가인권위원회.",
+        "terms": [
+          { "ko": "학교폭력", "vi": "bạo lực học đường", "def_vi": "Hành vi gây tổn hại thân thể, tinh thần hoặc tài sản cho học sinh, xảy ra trong hoặc ngoài trường." },
+          { "ko": "사이버폭력", "vi": "bạo lực trên mạng", "def_vi": "Bôi nhọ, lăng mạ, phát tán hình ảnh qua mạng và điện thoại. Cũng thuộc 학교폭력." },
+          { "ko": "117", "vi": "số báo tin bạo lực học đường", "def_vi": "Đường dây nóng 24 giờ để báo tin và tư vấn về 학교폭력." }
+        ]
+      },
+      {
+        "h_ko": "죄형법정주의와 형벌의 종류",
+        "h_vi": "Nguyên tắc tội hình định luật và các loại hình phạt",
+        "body_vi": "죄형법정주의 nghĩa là hành vi nào là tội và bị hình phạt gì đều phải do luật quy định TRƯỚC — không thể phạt ai vì một hành vi mà lúc đó luật chưa cấm. Đây là nguyên tắc bảo vệ người dân khỏi sự tùy tiện của nhà nước. 형법 제41조 liệt kê chín loại hình phạt: 사형, 징역, 금고, 자격상실, 자격정지, 벌금, 구류, 과료, 몰수. Phân biệt hay hỏi: 징역 là tù có lao động bắt buộc, còn 금고 là tù không kèm lao động bắt buộc. Ngoài ra, người nước ngoài phạm tội nghiêm trọng còn có thể bị 강제퇴거 theo 출입국관리법 — đây là biện pháp hành chính, không nằm trong danh sách chín hình phạt.",
+        "terms": [
+          { "ko": "죄형법정주의", "vi": "nguyên tắc tội và hình phạt phải do luật định", "def_vi": "Chỉ có thể xử phạt hành vi mà luật đã quy định trước là tội, với hình phạt đã được luật ấn định." },
+          { "ko": "징역 / 금고", "vi": "tù có lao động / tù không lao động", "def_vi": "징역 là giam giữ kèm lao động bắt buộc; 금고 là giam giữ không kèm lao động bắt buộc." },
+          { "ko": "벌금 / 과태료", "vi": "tiền phạt hình sự / tiền phạt hành chính", "def_vi": "벌금 là hình phạt hình sự do tòa tuyên và để lại tiền án; 과태료 là chế tài hành chính, không phải hình phạt." },
+          { "ko": "강제퇴거", "vi": "trục xuất", "def_vi": "Biện pháp theo 출입국관리법 buộc người nước ngoài vi phạm rời khỏi Hàn Quốc. Không phải một loại 형벌." }
+        ]
+      },
+      {
+        "h_ko": "경찰과 검찰 — 역할이 다르다",
+        "h_vi": "Cảnh sát và Viện kiểm sát — vai trò khác nhau",
+        "body_vi": "경찰 là cơ quan tiếp nhận tin báo, điều tra tại hiện trường và giữ gìn trật tự đời sống. 검찰 (검사) là cơ quan quyết định 공소 제기 (truy tố) — tức đưa vụ án ra tòa — và tham gia phiên tòa với tư cách bên buộc tội. Còn 법원 (판사) là nơi phán quyết có tội hay không. Một nguyên tắc nền tảng của tố tụng hình sự Hàn Quốc là 무죄추정의 원칙: cho đến khi bản án có tội xác định, người bị buộc tội vẫn được coi là vô tội. Số khẩn cấp: 112 cho cảnh sát (tội phạm), 119 cho cứu hỏa và cấp cứu.",
+        "terms": [
+          { "ko": "공소 제기", "vi": "truy tố", "def_vi": "Việc 검사 đưa vụ án ra tòa để xét xử. Ở Hàn Quốc quyền này thuộc về 검사." },
+          { "ko": "무죄추정의 원칙", "vi": "nguyên tắc suy đoán vô tội", "def_vi": "Người bị buộc tội được coi là vô tội cho đến khi có bản án có tội xác định." },
+          { "ko": "112 / 119", "vi": "số cảnh sát / số cứu hỏa, cứu thương", "def_vi": "112 gọi khi có tội phạm, tai nạn cần cảnh sát; 119 gọi khi cháy, cấp cứu, tai nạn cần cứu hộ." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "형법 제41조 형벌의 종류 (9가지)",
+        "cap_vi": "Chín loại hình phạt theo Điều 41 Hình luật",
+        "head": ["구분", "형벌", "설명 (giải thích)"],
+        "rows": [
+          ["생명형", "사형", "생명을 빼앗는 형벌"],
+          ["자유형", "징역 · 금고 · 구류", "자유를 제한. 징역은 노역 있음, 금고는 노역 없음, 구류는 단기 구금"],
+          ["명예형", "자격상실 · 자격정지", "일정한 자격을 잃거나 정지시킴"],
+          ["재산형", "벌금 · 과료 · 몰수", "재산을 빼앗음. 벌금이 과료보다 무겁고, 몰수는 범죄 관련 물건을 국가가 거둠"]
+        ]
+      },
+      {
+        "cap_ko": "경찰 · 검찰 · 법원의 역할",
+        "cap_vi": "Vai trò của cảnh sát, viện kiểm sát và tòa án",
+        "head": ["기관", "하는 일", "핵심어"],
+        "rows": [
+          ["경찰", "신고 접수, 수사, 생활 질서 유지", "112"],
+          ["검찰(검사)", "수사 지휘·보완, 공소 제기 여부 결정, 재판에서 죄를 주장", "공소 제기"],
+          ["법원(판사)", "유죄·무죄와 형량을 판결", "무죄추정의 원칙"]
+        ]
+      },
+      {
+        "cap_ko": "꼭 외워야 할 신고 전화",
+        "cap_vi": "Các số điện thoại phải thuộc lòng",
+        "head": ["번호", "용도 (dùng khi nào)"],
+        "rows": [
+          ["112", "범죄 신고 — 경찰"],
+          ["119", "화재·구조·응급환자 — 소방"],
+          ["117", "학교폭력 신고·상담"],
+          ["1345", "외국인종합안내센터 (체류·생활 안내)"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "경범죄처벌법 대상 예: 소란, 노상방뇨, 쓰레기 무단 투기, 허위 신고 — 처리 수단은 범칙금",
+      "음주운전 기준 = 혈중알코올농도 0.03% 이상, 0.08% 이상이면 면허취소",
+      "학교폭력 신고 = 117",
+      "형법 제41조 형벌 9가지: 사형·징역·금고·자격상실·자격정지·벌금·구류·과료·몰수",
+      "징역 = 노역 있음 / 금고 = 노역 없음",
+      "경찰 = 수사·신고 접수 / 검사 = 공소 제기 / 법원 = 판결",
+      "무죄추정의 원칙: 유죄 판결이 확정될 때까지 무죄로 추정한다",
+      "112 = 범죄 신고(경찰), 119 = 화재·구조·응급(소방)"
+    ],
+    "traps": [
+      "강제퇴거는 출입국관리법상 행정 처분이며 형법 제41조의 형벌 9가지에 들어가지 않는다.",
+      "징역과 금고를 뒤바꿔 설명한 선택지가 자주 나온다. 노역이 있는 쪽이 징역이다.",
+      "벌금(형벌)과 과태료(행정 제재)는 다르다. 과태료는 전과가 남지 않는다.",
+      "공소를 제기하는 것은 경찰이 아니라 검사다.",
+      "112와 119를 바꿔 놓는 문제에 주의. 화재·응급은 119다.",
+      "경범죄도 엄연한 법 위반이다. '가벼우니 법 위반이 아니다'라는 선택지는 오답."
+    ],
+    "examples": [
+      {
+        "q": "형법에서 정한 형벌의 종류에 해당하지 않는 것은?",
+        "choices": ["징역", "벌금", "몰수", "강제퇴거"],
+        "answer": 3,
+        "explain_vi": "Đáp án thứ tư. 강제퇴거 (trục xuất) là biện pháp hành chính theo 출입국관리법 áp dụng với người nước ngoài, không phải một loại 형벌. 형법 제41조 liệt kê đúng chín loại: 사형, 징역, 금고, 자격상실, 자격정지, 벌금, 구류, 과료, 몰수 — nên 징역, 벌금, 몰수 đều nằm trong đó. Lưu ý thực tế: người nước ngoài phạm tội nghiêm trọng có thể vừa bị hình phạt vừa bị trục xuất, đó là hai chế tài thuộc hai hệ thống khác nhau."
+      },
+      {
+        "q": "검사와 경찰의 역할에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "경찰이 재판에서 유죄·무죄를 판결한다",
+          "검사는 법원을 대신하여 형을 집행하는 판사이다",
+          "검사는 재판을 청구하는 공소 제기를 결정한다",
+          "경찰과 검사는 하는 일이 완전히 같다"
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án thứ ba. 검사 là người quyết định có 공소 제기 hay không, tức đưa vụ án ra tòa và tại phiên tòa đóng vai trò bên buộc tội. Phán quyết có tội hay không thuộc về 법원 và 판사 nên phương án một và hai đều sai. Phương án bốn sai vì 경찰 chủ yếu tiếp nhận tin báo và điều tra, còn 검사 quyết định truy tố — hai vai trò tách biệt. Hãy nhớ thêm nguyên tắc 무죄추정의 원칙 thường được hỏi kèm."
+      },
+      {
+        "q": "다음 상황에서 걸어야 할 전화번호로 옳은 것은?\n\n집 근처 건물에서 불이 나 연기가 나고 있다.",
+        "choices": ["112", "117", "119", "132"],
+        "answer": 2,
+        "explain_vi": "Đáp án thứ ba. 119 là số của 소방서, gọi khi có cháy, cần cứu hộ hoặc cấp cứu người bệnh. 112 dành cho báo tin tội phạm tới cảnh sát. 117 là đường dây báo tin 학교폭력. 132 là số tư vấn pháp luật miễn phí của 대한법률구조공단. Bốn số này rất hay được đưa chung vào một câu hỏi nên hãy học thuộc theo cặp: 112 tội phạm, 119 cháy và cấp cứu."
+      }
+    ],
+    "match": ["경범죄", "음주운전과 학교폭력", "범죄 관련 법", "검찰과 경찰의 역할", "형벌의 종류", "경범죄처벌법", "112", "죄형법정주의"]
+  },
+  {
+    "id": "adv_law-l01",
+    "domain": "adv_law",
+    "order": 1,
+    "title_ko": "직장생활과 법",
+    "title_vi": "Đời sống công sở và pháp luật",
+    "icon": "💼",
+    "summary_vi": "Phần nâng cao về lao động: 근로계약서, 부당해고, 임금체불, 직장 내 괴롭힘, 산업재해. Con số phải nhớ chắc nhất là 3개월 — thời hạn nộp đơn 부당해고 구제신청 lên 노동위원회. Đây cũng là kiến thức tự bảo vệ mình rất thực dụng khi đi làm ở Hàn Quốc.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "근로계약서 — 반드시 서면으로",
+        "h_vi": "Hợp đồng lao động — nhất định phải bằng văn bản",
+        "body_vi": "근로기준법 buộc người sử dụng lao động phải ghi rõ bằng văn bản và giao cho người lao động các nội dung chính: 임금 (tiền lương và cách trả), 소정근로시간 (giờ làm quy định), 휴일 (ngày nghỉ), 연차 유급휴가 (nghỉ phép năm có lương). Hợp đồng miệng vẫn có hiệu lực nhưng khi tranh chấp thì bạn gần như không có gì để chứng minh, nên hãy luôn nhận và giữ một bản. Điều kiện lao động ghi trong hợp đồng mà thấp hơn tiêu chuẩn của 근로기준법 thì phần đó vô hiệu và được thay bằng tiêu chuẩn của luật — nghĩa là bạn không mất quyền chỉ vì đã trót ký.",
+        "terms": [
+          { "ko": "근로계약서", "vi": "hợp đồng lao động", "def_vi": "Văn bản ghi các điều kiện làm việc. Chủ sử dụng lao động phải giao cho người lao động một bản." },
+          { "ko": "연차 유급휴가", "vi": "nghỉ phép năm có lương", "def_vi": "Ngày nghỉ được hưởng lương theo thời gian làm việc. Người lao động nước ngoài cũng được hưởng." },
+          { "ko": "최저임금", "vi": "lương tối thiểu", "def_vi": "Mức lương thấp nhất mà luật buộc phải trả. Hợp đồng trả thấp hơn mức này thì phần đó vô hiệu." }
+        ]
+      },
+      {
+        "h_ko": "부당해고와 구제신청 — 3개월",
+        "h_vi": "Sa thải bất công và đơn cứu trợ — trong 3 tháng",
+        "body_vi": "해고 (sa thải) chỉ hợp pháp khi có 정당한 이유 (lý do chính đáng), và về nguyên tắc phải được thông báo bằng văn bản nêu rõ lý do và thời điểm. Nếu bị sa thải bất công, người lao động có thể nộp 구제신청 lên 노동위원회 trong vòng 3 THÁNG kể từ ngày xảy ra việc sa thải. Nếu không đồng ý với quyết định của 지방노동위원회, hai bên có thể xin 재심 lên 중앙노동위원회 trong vòng 10 ngày kể từ ngày nhận được văn bản. Song song đó vẫn có thể khởi kiện tại tòa án — hai con đường không loại trừ nhau.",
+        "terms": [
+          { "ko": "부당해고", "vi": "sa thải bất công", "def_vi": "Sa thải không có lý do chính đáng hoặc không theo thủ tục luật định." },
+          { "ko": "노동위원회", "vi": "Ủy ban Lao động", "def_vi": "Cơ quan giải quyết tranh chấp lao động. Gồm 지방노동위원회 (sơ thẩm) và 중앙노동위원회 (tái thẩm)." },
+          { "ko": "구제신청", "vi": "đơn xin cứu trợ", "def_vi": "Đơn nộp lên 노동위원회 trong 3 tháng kể từ ngày bị sa thải bất công, xin được phục hồi và bồi thường." }
+        ]
+      },
+      {
+        "h_ko": "임금체불",
+        "h_vi": "Nợ lương",
+        "body_vi": "임금체불 là việc chủ sử dụng lao động không trả lương đúng hạn. Khi gặp tình huống này, hãy nộp 진정 tại 고용노동부 지방고용노동관서 hoặc gọi 1350 để được tư vấn; đây là thủ tục miễn phí và người nước ngoài cũng dùng được. 임금체불 không chỉ là tranh chấp dân sự mà còn có thể dẫn tới 형사처벌 với chủ sử dụng lao động. Hãy giữ lại bằng chứng: 근로계약서, bảng chấm công, sao kê ngân hàng, tin nhắn trao đổi — càng nhiều bằng chứng thì xử lý càng nhanh.",
+        "terms": [
+          { "ko": "임금체불", "vi": "nợ lương, chậm trả lương", "def_vi": "Việc không trả lương đúng kỳ hạn. Nộp 진정 tại 고용노동부, số tư vấn 1350." },
+          { "ko": "진정", "vi": "đơn trình báo", "def_vi": "Đơn đề nghị cơ quan hành chính điều tra và xử lý. Không mất phí." }
+        ]
+      },
+      {
+        "h_ko": "직장 내 괴롭힘",
+        "h_vi": "Bắt nạt nơi làm việc",
+        "body_vi": "근로기준법 định nghĩa 직장 내 괴롭힘 là hành vi lợi dụng ưu thế về địa vị hoặc quan hệ tại nơi làm việc, vượt quá phạm vi hợp lý của công việc, gây đau đớn thể chất, tinh thần hoặc làm xấu đi môi trường làm việc. Khi nhận được tin báo hoặc biết có việc xảy ra, người sử dụng lao động phải lập tức tiến hành điều tra khách quan, và trong thời gian đó có nghĩa vụ bảo vệ người bị hại. Quan trọng nhất: luật CẤM đối xử bất lợi, kể cả sa thải, với người đã báo tin hoặc người bị hại. Nếu công ty không xử lý, có thể trình báo lên 고용노동부.",
+        "terms": [
+          { "ko": "직장 내 괴롭힘", "vi": "bắt nạt nơi làm việc", "def_vi": "Lợi dụng ưu thế địa vị hay quan hệ, vượt quá phạm vi công việc hợp lý, gây đau khổ hoặc làm xấu môi trường làm việc." },
+          { "ko": "불리한 처우 금지", "vi": "cấm đối xử bất lợi", "def_vi": "Cấm sa thải hoặc gây bất lợi cho người báo tin và người bị hại vì việc báo tin." }
+        ]
+      },
+      {
+        "h_ko": "산업재해",
+        "h_vi": "Tai nạn lao động",
+        "body_vi": "산업재해 là thương tật, bệnh tật hoặc tử vong phát sinh do công việc. 산재보험 do 근로복지공단 vận hành, phí bảo hiểm do 사업주 (chủ sử dụng lao động) đóng toàn bộ, và người lao động nước ngoài cũng được hưởng. Chế độ gồm 요양급여 (chi phí điều trị), 휴업급여 (trợ cấp trong thời gian nghỉ điều trị), 장해급여 (trợ cấp thương tật còn lại) và trợ cấp cho thân nhân khi tử vong. Điểm cần nhớ: được công nhận là 산업재해 hay không phụ thuộc vào việc thương tật có phát sinh từ công việc hay không, chứ không phụ thuộc lỗi thuộc về ai.",
+        "terms": [
+          { "ko": "산업재해", "vi": "tai nạn lao động", "def_vi": "Thương tật, bệnh tật, tử vong do công việc gây ra. Còn gọi tắt là 산재." },
+          { "ko": "근로복지공단", "vi": "Cơ quan Phúc lợi Lao động", "def_vi": "Cơ quan vận hành 산재보험, tiếp nhận đơn và chi trả các khoản trợ cấp." },
+          { "ko": "업무상 재해", "vi": "tai nạn do công việc", "def_vi": "Tiêu chuẩn công nhận 산재: thương tật phải có quan hệ với việc thực hiện công việc." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "직장 문제별 대응 창구",
+        "cap_vi": "Nơi xử lý theo từng loại vấn đề công việc",
+        "head": ["문제 (vấn đề)", "어디로 (đến đâu)", "기한·연락"],
+        "rows": [
+          ["부당해고", "노동위원회 구제신청", "해고가 있었던 날부터 3개월 이내"],
+          ["지방노동위원회 결정에 불복", "중앙노동위원회 재심 신청", "통지받은 날부터 10일 이내"],
+          ["임금체불", "고용노동부에 진정", "상담 1350"],
+          ["직장 내 괴롭힘", "회사에 신고 → 미조치 시 고용노동부", "사용자는 지체 없이 조사 의무"],
+          ["산업재해", "근로복지공단에 산재 신청", "요양·휴업·장해급여 등"]
+        ]
+      },
+      {
+        "cap_ko": "벌금·과태료·구제의 성격 구분",
+        "cap_vi": "Phân biệt tính chất của các cơ chế",
+        "head": ["구분", "성격", "예"],
+        "rows": [
+          ["노동위원회 구제", "행정적 권리 구제 / cứu trợ hành chính", "부당해고 원직 복직 명령"],
+          ["법원 소송", "사법적 해결 / giải quyết tư pháp", "해고 무효 확인 소송, 임금 청구 소송"],
+          ["형사처벌", "국가의 형벌 / chế tài hình sự", "임금체불에 대한 사업주 처벌"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "근로계약서에는 임금, 소정근로시간, 휴일, 연차 유급휴가를 서면으로 명시해 교부해야 한다",
+      "근로기준법 기준에 못 미치는 근로계약 조항은 무효이며 법의 기준이 적용된다",
+      "부당해고 구제신청 = 해고가 있었던 날부터 3개월 이내, 노동위원회에",
+      "지방노동위원회 결정 불복 → 통지받은 날부터 10일 이내 중앙노동위원회에 재심 신청",
+      "임금체불 = 고용노동부에 진정, 상담전화 1350",
+      "직장 내 괴롭힘을 신고한 근로자와 피해근로자에게 불리한 처우를 하는 것은 금지된다",
+      "산재보험은 사업주가 보험료를 부담하며, 외국인 근로자에게도 적용된다"
+    ],
+    "traps": [
+      "부당해고 구제신청 기한은 3개월이다. 1개월·6개월·1년으로 바꿔 놓은 선택지에 주의.",
+      "산재보험료는 근로자가 아니라 사업주가 부담한다.",
+      "'외국인 근로자는 근로기준법 적용을 받지 않는다'는 항상 오답이다.",
+      "괴롭힘을 신고했다는 이유로 해고하는 것은 위법. '신고하면 불이익을 받는다'는 선택지는 오답.",
+      "근로계약서를 안 썼다고 해서 근로관계 자체가 없어지는 것은 아니다. 다만 증명이 어려워질 뿐이다."
+    ],
+    "examples": [
+      {
+        "q": "부당해고를 당한 근로자가 노동위원회에 구제를 신청할 수 있는 기간으로 옳은 것은?",
+        "choices": [
+          "해고가 있었던 날부터 3개월 이내",
+          "해고가 있었던 날부터 7일 이내",
+          "해고가 있었던 날부터 2년 이내",
+          "기간 제한 없이 언제든지"
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án thứ nhất. 근로기준법 quy định đơn 구제신청 phải nộp lên 노동위원회 trong vòng 3 tháng kể từ ngày xảy ra việc sa thải bất công. Quá hạn thì con đường cứu trợ hành chính này đóng lại, dù bạn vẫn có thể khởi kiện tại tòa. Nếu không đồng ý với quyết định của 지방노동위원회 thì trong 10 ngày kể từ ngày nhận thông báo có thể xin 재심 lên 중앙노동위원회 — hãy nhớ cặp số 3개월 và 10일 đi cùng nhau."
+      },
+      {
+        "q": "산업재해와 산재보험에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "산재보험료는 근로자가 전액 부담한다",
+          "외국인 근로자에게는 산재보험이 적용되지 않는다",
+          "업무상 재해로 인정되면 요양급여와 휴업급여 등을 받을 수 있다",
+          "산업재해는 근로자에게 잘못이 없을 때만 인정된다"
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án thứ ba. Khi được công nhận là 업무상 재해, người lao động nhận 요양급여 cho chi phí điều trị và 휴업급여 cho thời gian nghỉ, ngoài ra còn có 장해급여 và trợ cấp cho thân nhân. Phương án một sai vì phí 산재보험 do 사업주 đóng toàn bộ. Phương án hai sai vì bảo hiểm này áp dụng theo quan hệ lao động, không theo quốc tịch. Phương án bốn sai vì tiêu chuẩn công nhận là thương tật có phát sinh từ công việc hay không, chứ không phải xét lỗi thuộc về ai."
+      },
+      {
+        "q": "직장 내 괴롭힘에 대한 설명으로 옳지 않은 것은?",
+        "choices": [
+          "직장에서의 지위나 관계의 우위를 이용한 행위가 문제가 된다",
+          "사용자는 신고를 받으면 지체 없이 객관적으로 조사해야 한다",
+          "괴롭힘을 신고한 근로자에게 불이익을 주어서는 안 된다",
+          "괴롭힘을 신고하면 회사는 신고자를 해고할 수 있다"
+        ],
+        "answer": 3,
+        "explain_vi": "Đáp án thứ tư là câu sai nên là đáp án cần chọn. 근로기준법 cấm rõ ràng việc sa thải hay đối xử bất lợi với người báo tin và người bị hại vì lý do đã báo tin. Ba phương án còn lại đều đúng: yếu tố cấu thành là lợi dụng ưu thế địa vị hoặc quan hệ vượt quá phạm vi công việc hợp lý, và người sử dụng lao động có nghĩa vụ điều tra khách quan ngay khi nhận tin báo. Nếu công ty không làm gì, bạn có thể trình báo lên 고용노동부."
+      }
+    ],
+    "match": ["직장생활 관련 문제와 법", "부당해고", "노동위원회", "임금체불", "직장 내 괴롭힘", "고용노동부", "근로계약서"]
+  },
+  {
+    "id": "adv_law-l02",
+    "domain": "adv_law",
+    "order": 2,
+    "title_ko": "분쟁 해결과 권리 구제",
+    "title_vi": "Giải quyết tranh chấp và cứu trợ quyền lợi",
+    "icon": "🧑‍⚖️",
+    "summary_vi": "Khi xảy ra rắc rối, bạn cần biết đi đâu. Bài này phân biệt 민사 với 형사, giới thiệu 소송·조정·중재, và nêu con đường khiếu nại khi chính cơ quan nhà nước xử lý sai — 행정심판 và 행정소송. Các số 132 (대한법률구조공단) và 110 (국민권익위원회) gần như chắc chắn ra thi.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "민사와 형사의 차이",
+        "h_vi": "Khác nhau giữa dân sự và hình sự",
+        "body_vi": "민사 là tranh chấp giữa cá nhân với cá nhân về quyền lợi — không trả tiền vay, không trả 보증금, bồi thường thiệt hại. Người khởi kiện là 원고, người bị kiện là 피고, và kết quả thường là buộc trả tiền hoặc thực hiện nghĩa vụ. 형사 là việc nhà nước xử lý hành vi phạm tội: 검사 truy tố, người bị buộc tội gọi là 피고인, và kết quả là 형벌. Một sự việc có thể vừa là dân sự vừa là hình sự — ví dụ bị đánh thì kẻ đánh vừa bị xử lý hình sự vừa phải bồi thường 손해배상 theo dân sự.",
+        "terms": [
+          { "ko": "민사", "vi": "dân sự", "def_vi": "Tranh chấp về quyền lợi giữa các cá nhân. Bên kiện là 원고, bên bị kiện là 피고." },
+          { "ko": "형사", "vi": "hình sự", "def_vi": "Việc nhà nước truy cứu trách nhiệm với hành vi phạm tội. Người bị truy tố gọi là 피고인." },
+          { "ko": "손해배상", "vi": "bồi thường thiệt hại", "def_vi": "Nghĩa vụ đền bù thiệt hại đã gây ra cho người khác. Thuộc lĩnh vực dân sự." }
+        ]
+      },
+      {
+        "h_ko": "소송·조정·중재 — 세 가지 해결 방법",
+        "h_vi": "Kiện tụng, hòa giải, trọng tài — ba cách giải quyết",
+        "body_vi": "소송 là đưa vụ việc ra tòa để thẩm phán phán quyết — kết quả có hiệu lực cưỡng chế mạnh nhất nhưng tốn thời gian và chi phí. 조정 là cách bên thứ ba giúp hai bên tự đạt thỏa thuận; nếu thỏa thuận thành thì có hiệu lực và thủ tục nhanh, nhẹ nhàng hơn. 중재 là hai bên thỏa thuận trao quyền phán quyết cho 중재인, và quyết định của trọng tài có hiệu lực ràng buộc — về nguyên tắc không kiện lại ra tòa được nữa. Ngoài ra với khoản tiền nhỏ và rõ ràng thì 지급명령 là thủ tục nhanh, rẻ. Nếu không đủ tiền thuê luật sư, hãy gọi 대한법률구조공단 số 132.",
+        "terms": [
+          { "ko": "조정", "vi": "hòa giải", "def_vi": "Bên thứ ba giúp hai bên đạt thỏa thuận. Nhanh và ít tốn kém hơn kiện tụng." },
+          { "ko": "중재", "vi": "trọng tài", "def_vi": "Hai bên giao quyền phán quyết cho trọng tài viên; quyết định có hiệu lực ràng buộc." },
+          { "ko": "대한법률구조공단", "vi": "Tổng công ty Trợ giúp Pháp lý Hàn Quốc", "def_vi": "Cơ quan tư vấn và trợ giúp pháp lý, có hỗ trợ miễn phí cho người thu nhập thấp. Số điện thoại 132." },
+          { "ko": "지급명령", "vi": "lệnh thanh toán", "def_vi": "Thủ tục tòa án đơn giản để đòi khoản tiền rõ ràng, nhanh và rẻ hơn kiện thông thường." }
+        ]
+      },
+      {
+        "h_ko": "행정심판과 행정소송",
+        "h_vi": "Khiếu nại hành chính và kiện hành chính",
+        "body_vi": "Khi chính cơ quan nhà nước ra một 처분 (quyết định hành chính) trái luật hoặc bất hợp lý gây thiệt hại cho bạn, có hai con đường. 행정심판 là xin chính hệ thống hành chính xem xét lại — nhanh hơn và không mất phí; theo 행정심판법, phải nộp trong vòng 90 ngày kể từ ngày biết có quyết định, và không nộp được nữa nếu đã qua 180 ngày kể từ ngày có quyết định. 행정소송 là kiện ra 행정법원 để tòa phán quyết. Việc từ chối gia hạn lưu trú hay từ chối một đơn xin cũng là 처분 hành chính, nên đây là kiến thức thực tế cho người nước ngoài.",
+        "terms": [
+          { "ko": "처분", "vi": "quyết định hành chính", "def_vi": "Hành vi của cơ quan hành chính tạo ra hiệu lực pháp lý với người dân, ví dụ cấp phép, từ chối, xử phạt." },
+          { "ko": "행정심판", "vi": "khiếu nại hành chính", "def_vi": "Xin cơ quan hành chính xem xét lại quyết định. Nộp trong 90 ngày kể từ khi biết, và không quá 180 ngày kể từ khi có quyết định." },
+          { "ko": "행정소송", "vi": "kiện hành chính", "def_vi": "Khởi kiện tại tòa án để hủy hoặc xác nhận tính bất hợp pháp của quyết định hành chính." }
+        ]
+      },
+      {
+        "h_ko": "국민권익위원회와 국민신문고",
+        "h_vi": "Ủy ban Quyền lợi Quốc dân và cổng khiếu nại",
+        "body_vi": "국민권익위원회 xử lý 고충민원 — những khiếu nại về việc cơ quan hành chính xử lý trái luật, bất hợp lý hoặc tiêu cực, gây bất tiện cho người dân — và cũng phụ trách chống tham nhũng. Đơn được nộp qua cổng 국민신문고 (www.epeople.go.kr). Bên cạnh đó, 정부민원안내콜센터 국민콜 110 là nơi hướng dẫn mọi loại thủ tục hành chính qua điện thoại. Phân biệt cho rõ: khiếu nại về 차별 và xâm phạm nhân quyền thì đến 국가인권위원회, còn khiếu nại về cách cơ quan hành chính làm việc thì đến 국민권익위원회.",
+        "terms": [
+          { "ko": "국민권익위원회", "vi": "Ủy ban Quyền lợi Quốc dân", "def_vi": "Cơ quan xử lý 고충민원 về hành chính và phụ trách phòng chống tham nhũng." },
+          { "ko": "고충민원", "vi": "khiếu nại bức xúc hành chính", "def_vi": "Khiếu nại về việc cơ quan hành chính xử lý trái luật, bất hợp lý hoặc thụ động gây thiệt hại, bất tiện cho người dân." },
+          { "ko": "국민신문고", "vi": "cổng khiếu nại quốc dân", "def_vi": "Cổng trực tuyến tiếp nhận khiếu nại, kiến nghị của người dân với các cơ quan hành chính." },
+          { "ko": "110", "vi": "tổng đài hướng dẫn thủ tục hành chính", "def_vi": "국민콜 110 do 국민권익위원회 vận hành, hướng dẫn các thủ tục hành chính của chính phủ." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "민사와 형사 비교",
+        "cap_vi": "So sánh dân sự và hình sự",
+        "head": ["구분", "민사", "형사"],
+        "rows": [
+          ["다루는 일", "개인 간 권리·의무 다툼", "범죄에 대한 국가의 처벌"],
+          ["당사자 명칭", "원고 ↔ 피고", "검사 ↔ 피고인"],
+          ["결과", "손해배상, 이행 명령", "형벌 (징역·벌금 등)"],
+          ["예", "빌려준 돈을 못 받음, 보증금 미반환", "폭행, 절도, 사기"]
+        ]
+      },
+      {
+        "cap_ko": "분쟁 해결 방법",
+        "cap_vi": "Các phương thức giải quyết tranh chấp",
+        "head": ["방법", "누가 결정하나", "특징"],
+        "rows": [
+          ["소송", "법원(판사)", "강제력이 가장 강하나 시간·비용이 든다"],
+          ["조정", "당사자 스스로 (제3자가 도움)", "빠르고 부담이 적으며 관계 유지에 유리"],
+          ["중재", "중재인", "당사자 합의로 맡기며 판정에 구속력이 있다"],
+          ["지급명령", "법원 (간이 절차)", "금액이 분명한 채권을 빠르고 저렴하게 청구"]
+        ]
+      },
+      {
+        "cap_ko": "어디에 도움을 요청할까",
+        "cap_vi": "Xin trợ giúp ở đâu",
+        "head": ["상황", "기관", "번호·창구"],
+        "rows": [
+          ["법률 상담이 필요할 때", "대한법률구조공단", "132"],
+          ["행정 처리가 부당할 때", "국민권익위원회", "국민신문고 / 국민콜 110"],
+          ["인권 침해·차별을 당했을 때", "국가인권위원회", "진정 접수"],
+          ["행정 처분을 다투고 싶을 때", "행정심판위원회 / 행정법원", "행정심판·행정소송"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "민사 = 개인 간 권리 다툼(원고 ↔ 피고) / 형사 = 범죄에 대한 국가의 처벌(검사 ↔ 피고인)",
+      "조정 = 당사자가 합의하도록 제3자가 돕는 것 / 중재 = 중재인의 판정에 따르기로 하는 것",
+      "대한법률구조공단 법률 상담 = 132",
+      "국민권익위원회 = 고충민원 처리, 국민신문고로 접수, 정부민원안내 국민콜 110",
+      "행정심판 청구 기간 = 처분이 있음을 알게 된 날부터 90일 이내, 처분이 있었던 날부터 180일 경과 시 청구 불가",
+      "인권 침해·차별은 국가인권위원회, 행정 고충민원은 국민권익위원회"
+    ],
+    "traps": [
+      "132(대한법률구조공단)와 110(국민콜)을 바꿔 놓는 문제가 자주 나온다.",
+      "국가인권위원회와 국민권익위원회의 역할을 뒤바꾼 선택지에 주의.",
+      "조정과 중재를 혼동하지 말 것. 중재는 중재인의 판정에 구속되고, 조정은 당사자의 합의로 끝난다.",
+      "하나의 사건이 민사와 형사 양쪽으로 동시에 진행될 수 있다. '둘 중 하나만 가능하다'는 오답.",
+      "행정심판의 90일은 '처분이 있음을 알게 된 날'부터다. '처분이 있었던 날'부터 계산하는 것은 180일 쪽이다."
+    ],
+    "examples": [
+      {
+        "q": "민사 사건과 형사 사건에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "민사 사건에서는 검사가 공소를 제기한다",
+          "형사 사건의 결과는 손해배상금 지급이다",
+          "민사 사건은 개인 사이의 권리·의무 다툼을 다룬다",
+          "하나의 사건은 민사와 형사 중 하나로만 다루어진다"
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án thứ ba. 민사 giải quyết tranh chấp về quyền và nghĩa vụ giữa các cá nhân, với 원고 và 피고. Phương án một sai vì 검사 truy tố trong vụ hình sự, không phải dân sự. Phương án hai sai vì kết quả của vụ hình sự là 형벌, còn 손해배상 thuộc về dân sự. Phương án bốn sai vì một sự việc có thể đi cả hai đường: người đánh bạn vừa bị xử lý hình sự vừa phải bồi thường thiệt hại."
+      },
+      {
+        "q": "무료 법률 상담을 받고 싶을 때 이용할 수 있는 기관과 전화번호로 옳은 것은?",
+        "choices": [
+          "대한법률구조공단 - 132",
+          "국가인권위원회 - 119",
+          "국민권익위원회 - 112",
+          "근로복지공단 - 117"
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án thứ nhất. 대한법률구조공단 cung cấp tư vấn pháp luật và trợ giúp tố tụng, số điện thoại là 132, có chế độ hỗ trợ miễn phí cho người thu nhập thấp. Ba phương án còn lại đều ghép sai số: 119 là cứu hỏa và cấp cứu, 112 là báo tin tội phạm, 117 là báo tin bạo lực học đường. Hãy học các số này thành một cụm để không bị đánh lừa: 112, 119, 117, 132, 110, 1350, 1345, 1577-1366."
+      },
+      {
+        "q": "행정기관의 위법하거나 부당한 처분으로 권리를 침해받았을 때 이용할 수 있는 제도로 옳은 것은?",
+        "choices": ["행정심판", "가사조정", "중재", "즉결심판"],
+        "answer": 0,
+        "explain_vi": "Đáp án thứ nhất. 행정심판 là chế độ xin chính hệ thống hành chính xem xét lại một 처분 trái luật hoặc bất hợp lý; đơn phải nộp trong 90 ngày kể từ ngày biết có quyết định và không quá 180 ngày kể từ ngày có quyết định. 가사조정 là hòa giải trong các vụ việc gia đình, 중재 là giao cho trọng tài viên phán quyết trong tranh chấp tư, còn 즉결심판 là thủ tục xét xử giản lược với các vi phạm nhỏ. Nếu vẫn không thỏa đáng, bạn có thể tiếp tục bằng 행정소송."
+      }
+    ],
+    "match": ["분쟁 해결 제도", "재산 관련 문제와 법", "민사", "형사", "조정", "중재", "행정심판", "대한법률구조공단"]
+  },
+  {
+    "id": "adv_law-l03",
+    "domain": "adv_law",
+    "order": 3,
+    "title_ko": "인권 보호 제도",
+    "title_vi": "Các chế độ bảo vệ nhân quyền",
+    "icon": "🕊️",
+    "summary_vi": "Bài khép lại phần 법: hệ thống bảo vệ nhân quyền của Hàn Quốc và những chế độ dành riêng cho người nước ngoài, phụ nữ di trú và nạn nhân bạo lực. Hai số phải thuộc là 1366 (여성긴급전화) và 1577-1366 (다누리콜센터 — tư vấn đa ngôn ngữ, có tiếng Việt).",
+    "est_min": 9,
+    "sections": [
+      {
+        "h_ko": "국가인권위원회",
+        "h_vi": "Ủy ban Nhân quyền Quốc gia",
+        "body_vi": "국가인권위원회 là cơ quan độc lập, không thuộc hành pháp, tư pháp hay lập pháp, có nhiệm vụ điều tra và cứu trợ các vụ xâm phạm nhân quyền và 차별. Người nước ngoài đang cư trú tại Hàn Quốc cũng có quyền nộp 진정. Ủy ban có thể đưa ra 권고 (khuyến nghị) với cơ quan hoặc doanh nghiệp liên quan, tiến hành 직권조사 khi vụ việc nghiêm trọng, và làm giáo dục, nghiên cứu về nhân quyền. Đối tượng khiếu nại điển hình với người nước ngoài là bị từ chối thuê nhà, bị từ chối tuyển dụng hoặc bị đối xử khác biệt chỉ vì quốc tịch, chủng tộc hay ngôn ngữ.",
+        "terms": [
+          { "ko": "국가인권위원회", "vi": "Ủy ban Nhân quyền Quốc gia", "def_vi": "Cơ quan độc lập điều tra và cứu trợ các vụ xâm phạm nhân quyền, phân biệt đối xử. Người nước ngoài cư trú tại Hàn Quốc cũng nộp đơn được." },
+          { "ko": "권고", "vi": "khuyến nghị", "def_vi": "Ý kiến mà ủy ban đưa ra yêu cầu cơ quan, tổ chức khắc phục. Không phải bản án nhưng có sức nặng trên thực tế." },
+          { "ko": "직권조사", "vi": "điều tra theo thẩm quyền", "def_vi": "Việc ủy ban tự mình điều tra dù không có đơn, khi vụ việc nghiêm trọng." }
+        ]
+      },
+      {
+        "h_ko": "외국인 인권 보호",
+        "h_vi": "Bảo vệ nhân quyền người nước ngoài",
+        "body_vi": "Bên cạnh Hiến pháp, Hàn Quốc còn có 「재한외국인 처우 기본법」 làm nền cho chính sách đối với người nước ngoài, và 「다문화가족지원법」 làm cơ sở cho việc hỗ trợ gia đình đa văn hóa. Trên thực tế, 가족센터 (다문화가족지원센터) tại các địa phương cung cấp lớp tiếng Hàn, tư vấn, phiên dịch và các chương trình hỗ trợ gia đình. Cần nhớ nguyên tắc: quyền được bảo vệ khỏi bạo lực và được cứu trợ y tế khẩn cấp không phụ thuộc vào việc bạn đang có tư cách lưu trú hợp lệ hay không — nạn nhân trước hết là con người cần được bảo vệ.",
+        "terms": [
+          { "ko": "재한외국인 처우 기본법", "vi": "Luật Cơ bản về Đối xử với Người nước ngoài tại Hàn Quốc", "def_vi": "Luật nền tảng cho chính sách hòa nhập và đối xử với người nước ngoài cư trú tại Hàn Quốc." },
+          { "ko": "다문화가족지원법", "vi": "Luật Hỗ trợ Gia đình Đa văn hóa", "def_vi": "Luật làm cơ sở cho việc hỗ trợ gia đình đa văn hóa: giáo dục, tư vấn, dịch vụ dịch thuật." },
+          { "ko": "가족센터", "vi": "trung tâm gia đình", "def_vi": "Cơ sở tại địa phương cung cấp lớp tiếng Hàn, tư vấn, phiên dịch và chương trình hỗ trợ cho gia đình đa văn hóa." }
+        ]
+      },
+      {
+        "h_ko": "가정폭력 피해자 지원",
+        "h_vi": "Hỗ trợ nạn nhân bạo lực gia đình",
+        "body_vi": "가정폭력 không phải là \"chuyện riêng trong nhà\" mà là hành vi bị pháp luật xử lý. Khi nguy hiểm cấp bách hãy gọi 112. 여성긴급전화 1366 hoạt động 24 giờ, 365 ngày, kết nối bạn tới tư vấn, cơ sở y tế và 보호시설 (nơi tạm lánh). Với phụ nữ di trú, 다누리콜센터 1577-1366 cung cấp tư vấn bằng nhiều ngôn ngữ trong đó có tiếng Việt — đây là số quan trọng nhất cần lưu trong điện thoại. Tòa án có thể ra 임시조치 hoặc 피해자보호명령 để cách ly người gây bạo lực khỏi nạn nhân.",
+        "terms": [
+          { "ko": "가정폭력", "vi": "bạo lực gia đình", "def_vi": "Hành vi gây tổn hại thân thể, tinh thần hoặc tài sản giữa các thành viên trong gia đình. Là đối tượng bị pháp luật xử lý." },
+          { "ko": "여성긴급전화 1366", "vi": "đường dây khẩn cấp cho phụ nữ 1366", "def_vi": "Hoạt động 24 giờ, 365 ngày; tư vấn và kết nối tới cơ sở bảo hộ, y tế, pháp lý." },
+          { "ko": "다누리콜센터 1577-1366", "vi": "Tổng đài Danuri 1577-1366", "def_vi": "Tư vấn đa ngôn ngữ cho phụ nữ di trú và gia đình đa văn hóa, có hỗ trợ tiếng Việt, hoạt động 24 giờ." },
+          { "ko": "보호시설", "vi": "cơ sở bảo hộ, nơi tạm lánh", "def_vi": "Nơi nạn nhân bạo lực có thể tạm trú an toàn cùng con." }
+        ]
+      },
+      {
+        "h_ko": "성폭력 피해자 지원과 해바라기센터",
+        "h_vi": "Hỗ trợ nạn nhân bạo lực tình dục",
+        "body_vi": "해바라기센터 là cơ sở tích hợp cung cấp cùng lúc điều trị y tế, tư vấn tâm lý, hỗ trợ điều tra và hỗ trợ pháp lý cho nạn nhân bạo lực tình dục và bạo lực gia đình, hoạt động 24 giờ. Nạn nhân có thể được cung cấp phiên dịch, và việc trình báo hoàn toàn có thể thực hiện dù bạn không nói tốt tiếng Hàn. Danh tính của nạn nhân được pháp luật bảo vệ. Điểm cần nhớ chung cho cả bài: mọi chế độ này đều xuất phát từ nguyên tắc rằng nhân quyền gắn với con người, nên người nước ngoài cũng là đối tượng được bảo vệ.",
+        "terms": [
+          { "ko": "해바라기센터", "vi": "Trung tâm Hoa hướng dương", "def_vi": "Cơ sở tích hợp hỗ trợ nạn nhân bạo lực tình dục và bạo lực gia đình: y tế, tư vấn, điều tra, pháp lý — hoạt động 24 giờ." },
+          { "ko": "피해자 보호", "vi": "bảo vệ nạn nhân", "def_vi": "Nguyên tắc bảo vệ danh tính, sự an toàn và quyền lợi của nạn nhân trong suốt quá trình xử lý." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "인권 관련 기관 구분 (헷갈리기 쉬움)",
+        "cap_vi": "Phân biệt các cơ quan liên quan nhân quyền",
+        "head": ["기관", "무엇을 다루나", "누가 이용하나"],
+        "rows": [
+          ["국가인권위원회", "인권 침해·차별 진정, 조사·권고", "한국에 사는 외국인 포함 누구나"],
+          ["국민권익위원회", "행정기관의 부당한 처리에 대한 고충민원", "국민신문고 / 국민콜 110"],
+          ["대한법률구조공단", "법률 상담과 소송 지원", "132"],
+          ["고용노동부", "임금체불, 부당한 근로 조건", "1350"]
+        ]
+      },
+      {
+        "cap_ko": "위기 상황별 전화번호",
+        "cap_vi": "Số điện thoại theo tình huống khẩn cấp",
+        "head": ["상황", "번호", "특징"],
+        "rows": [
+          ["급박한 위험·범죄", "112", "경찰, 즉시 출동"],
+          ["화재·응급 환자", "119", "소방·구급"],
+          ["가정폭력·성폭력 피해 여성", "1366", "여성긴급전화, 24시간 365일"],
+          ["결혼이민자·다문화가족 상담", "1577-1366", "다누리콜센터, 다국어 상담(베트남어 포함)"],
+          ["체류·생활 전반 안내", "1345", "외국인종합안내센터"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "국가인권위원회 = 인권 침해·차별 진정을 조사하고 권고하는 독립 기관, 외국인도 진정 가능",
+      "다누리콜센터 = 1577-1366, 결혼이민자·다문화가족 대상 다국어 상담(베트남어 포함), 24시간",
+      "여성긴급전화 = 1366, 가정폭력·성폭력 피해자 24시간 365일 상담",
+      "해바라기센터 = 성폭력·가정폭력 피해자에게 의료·상담·수사·법률 지원을 한곳에서 제공",
+      "가정폭력은 개인의 집안 문제가 아니라 법으로 처벌되는 행위이며, 급박할 때는 112",
+      "재한외국인 처우 기본법·다문화가족지원법이 외국인·다문화가족 지원의 법적 근거"
+    ],
+    "traps": [
+      "1366(여성긴급전화)과 1577-1366(다누리콜센터)을 구분할 것. 다국어 상담이 필요하면 1577-1366이다.",
+      "국가인권위원회와 국민권익위원회를 바꿔 놓은 선택지가 자주 나온다.",
+      "'가정폭력은 집안 문제라 신고 대상이 아니다'는 항상 오답이다.",
+      "인권 보호 제도는 국적을 따지지 않는다. '외국인은 이용할 수 없다'는 선택지는 오답.",
+      "국가인권위원회의 결정은 형벌을 내리는 재판이 아니라 조사와 권고다."
+    ],
+    "examples": [
+      {
+        "q": "결혼이민자가 한국어가 서툴러 어려움을 겪을 때, 베트남어 등 여러 언어로 상담을 받을 수 있는 곳으로 옳은 것은?",
+        "choices": [
+          "다누리콜센터 1577-1366",
+          "학교폭력 신고 117",
+          "화재 신고 119",
+          "국세청 126"
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án thứ nhất. 다누리콜센터 1577-1366 chuyên tư vấn cho người kết hôn di trú và gia đình đa văn hóa, có tư vấn viên nói nhiều thứ tiếng trong đó có tiếng Việt, hoạt động 24 giờ. Ba số còn lại có mục đích hoàn toàn khác: 117 báo tin bạo lực học đường, 119 báo cháy và cấp cứu, 126 là tổng đài thuế. Hãy phân biệt 1366 (đường dây khẩn cấp cho phụ nữ) với 1577-1366 (tư vấn đa ngôn ngữ cho gia đình đa văn hóa)."
+      },
+      {
+        "q": "국가인권위원회에 대한 설명으로 옳지 않은 것은?",
+        "choices": [
+          "인권 침해와 차별 행위에 대한 진정을 받아 조사한다",
+          "한국에 사는 외국인도 진정을 낼 수 있다",
+          "조사 결과에 따라 관계 기관에 권고할 수 있다",
+          "범죄자에게 직접 징역형을 선고한다"
+        ],
+        "answer": 3,
+        "explain_vi": "Đáp án thứ tư là câu sai nên là đáp án cần chọn. Tuyên hình phạt như 징역 là quyền của 법원, không phải của 국가인권위원회. Ủy ban điều tra và đưa ra 권고 với cơ quan, tổ chức liên quan, chứ không xét xử. Ba phương án còn lại đều đúng: ủy ban nhận 진정 về xâm phạm nhân quyền và phân biệt đối xử, người nước ngoài cư trú tại Hàn Quốc cũng nộp đơn được, và kết quả điều tra dẫn tới khuyến nghị."
+      },
+      {
+        "q": "가정폭력 피해를 입은 사람에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "가정폭력은 집안 문제이므로 신고할 수 없다",
+          "여성긴급전화 1366을 통해 24시간 상담과 보호를 받을 수 있다",
+          "외국인은 보호시설을 이용할 수 없다",
+          "급박한 위험이 있어도 112에는 신고할 수 없다"
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án thứ hai. 여성긴급전화 1366 hoạt động 24 giờ, 365 ngày và kết nối nạn nhân tới tư vấn, cơ sở y tế cùng 보호시설. Phương án một sai vì 가정폭력 là hành vi bị pháp luật xử lý, không phải chuyện riêng trong nhà. Phương án ba sai vì việc bảo vệ nạn nhân dựa trên nhân quyền chứ không dựa trên quốc tịch. Phương án bốn sai vì khi nguy hiểm cấp bách thì 112 chính là số phải gọi đầu tiên."
+      }
+    ],
+    "match": ["인권 보호 제도", "국가인권위원회", "외국인 인권", "가정 폭력", "1366", "피해자 보호"]
+  }
+]

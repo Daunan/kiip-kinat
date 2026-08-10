@@ -1,0 +1,950 @@
+[
+  {
+    "id": "economy-l01",
+    "domain": "economy",
+    "order": 1,
+    "title_ko": "경제활동과 화폐",
+    "title_vi": "Hoạt động kinh tế và tiền tệ",
+    "icon": "💰",
+    "summary_vi": "Bài mở đầu của phần kinh tế. Ba hoạt động 생산·분배·소비, khái niệm 희소성 và 기회비용, nhân vật trên từng tờ tiền Hàn Quốc, và 인플레이션 — cả bốn nhóm này năm nào cũng ra thi, đặc biệt câu hỏi nối tờ tiền với nhân vật.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "경제활동의 세 가지",
+        "h_vi": "Ba hoạt động kinh tế cơ bản",
+        "body_vi": "경제활동 (hoạt động kinh tế) là toàn bộ việc con người làm ra, chia nhau và sử dụng những thứ cần cho cuộc sống. Sách giáo khoa Hàn Quốc luôn chia thành ba loại theo đúng thứ tự 생산 → 분배 → 소비, và đề thi hay cho một tình huống rồi hỏi nó thuộc loại nào. Điểm dễ nhầm nhất: nhận lương đi làm là 분배 chứ không phải 소비, còn cắt tóc cho khách cũng là 생산 vì dịch vụ (서비스) cũng được coi là sản xuất.",
+        "terms": [
+          { "ko": "생산", "vi": "sản xuất", "def_vi": "Làm ra hàng hóa hoặc cung cấp dịch vụ mà người khác cần. Trồng rau, lắp ráp ô tô, cắt tóc, dạy học đều là 생산." },
+          { "ko": "분배", "vi": "phân phối", "def_vi": "Nhận phần thù lao vì đã tham gia vào quá trình sản xuất. Gồm 임금 (lương), 지대 (tiền thuê đất), 이자 (lãi), 이윤 (lợi nhuận)." },
+          { "ko": "소비", "vi": "tiêu dùng", "def_vi": "Mua và sử dụng hàng hóa, dịch vụ để thỏa mãn nhu cầu của mình." }
+        ]
+      },
+      {
+        "h_ko": "희소성과 합리적 선택",
+        "h_vi": "Tính khan hiếm và lựa chọn hợp lý",
+        "body_vi": "Ham muốn của con người thì vô hạn nhưng tài nguyên lại có hạn — tình trạng đó gọi là 희소성 (tính khan hiếm), và chính vì 희소성 mà con người buộc phải LỰA CHỌN. Khi chọn một thứ thì phải từ bỏ thứ khác, giá trị của phương án tốt nhất bị từ bỏ gọi là 기회비용 (chi phí cơ hội). 합리적 선택 (lựa chọn hợp lý) là chọn phương án có 편익 (lợi ích) lớn hơn 비용 (chi phí) — tuyệt đối KHÔNG phải là chọn món đắt nhất hay mua nhiều nhất.",
+        "terms": [
+          { "ko": "희소성", "vi": "tính khan hiếm", "def_vi": "Nguồn lực ít hơn so với ham muốn của con người. Đây là lý do gốc rễ khiến vấn đề lựa chọn phát sinh." },
+          { "ko": "기회비용", "vi": "chi phí cơ hội", "def_vi": "Giá trị của phương án tốt nhất mà ta đã từ bỏ khi đưa ra một lựa chọn." },
+          { "ko": "합리적 선택", "vi": "lựa chọn hợp lý", "def_vi": "Lựa chọn mà lợi ích thu được lớn hơn chi phí bỏ ra, sau khi đã so sánh nhiều phương án." }
+        ]
+      },
+      {
+        "h_ko": "한국의 화폐",
+        "h_vi": "Tiền tệ Hàn Quốc",
+        "body_vi": "Đơn vị tiền của Hàn Quốc là 원 (won). Tiền xu (주화) đang lưu thông gồm 10원·50원·100원·500원 — KHÔNG có đồng 200원, đây là bẫy quen thuộc. Tiền giấy (지폐) gồm 1,000원·5,000원·10,000원·50,000원, mỗi tờ in một nhân vật lịch sử. Cơ quan duy nhất có quyền phát hành tiền là 한국은행 (Ngân hàng Trung ương Hàn Quốc); 한국조폐공사 chỉ IN và ĐÚC tiền theo đơn đặt hàng chứ không có quyền phát hành.",
+        "terms": [
+          { "ko": "한국은행", "vi": "Ngân hàng Trung ương Hàn Quốc", "def_vi": "Cơ quan phát hành tiền won và điều hành lãi suất để giữ ổn định vật giá. Tên 한국은행 được in trên mọi tờ tiền." },
+          { "ko": "신사임당", "vi": "Shin Saimdang", "def_vi": "Nữ họa sĩ, nhà thư pháp thời Joseon, in trên tờ 50,000원. Bà chính là mẹ của 이이 trên tờ 5,000원." },
+          { "ko": "세종대왕", "vi": "Vua Sejong", "def_vi": "Vị vua thứ 4 triều Joseon, người sáng chế 한글. In trên tờ 10,000원." }
+        ]
+      },
+      {
+        "h_ko": "물가와 인플레이션",
+        "h_vi": "Vật giá và lạm phát",
+        "body_vi": "물가 (mặt bằng giá cả) là mức giá chung của hàng hóa và dịch vụ trong xã hội. Khi 물가 tăng liên tục thì gọi là 인플레이션 (lạm phát), ngược lại giá giảm chung là 디플레이션. Điểm cốt lõi phải nhớ: 물가가 오르면 화폐 가치는 떨어진다 — giá tăng thì giá trị đồng tiền giảm, cùng một số tiền mua được ÍT hàng hơn. Người thiệt nhất khi lạm phát là người có thu nhập cố định và người gửi tiết kiệm; người vay nợ thì tương đối có lợi vì món nợ bị mất giá.",
+        "terms": [
+          { "ko": "인플레이션", "vi": "lạm phát", "def_vi": "Hiện tượng mặt bằng giá cả tăng liên tục, làm giá trị thực của đồng tiền giảm xuống." },
+          { "ko": "화폐 가치", "vi": "giá trị đồng tiền", "def_vi": "Sức mua của một đơn vị tiền. Vật giá tăng thì giá trị đồng tiền giảm, và ngược lại." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "경제활동의 세 가지",
+        "cap_vi": "Ba hoạt động kinh tế",
+        "head": ["구분", "뜻 (nghĩa)", "예시 (ví dụ)"],
+        "rows": [
+          ["생산", "Làm ra hàng hóa / cung cấp dịch vụ", "농사, 자동차 조립, 미용실 커트"],
+          ["분배", "Nhận thù lao vì đã tham gia sản xuất", "임금, 지대, 이자, 이윤"],
+          ["소비", "Mua và dùng hàng hóa, dịch vụ", "시장에서 과일 구입, 영화 관람"]
+        ]
+      },
+      {
+        "cap_ko": "한국 지폐와 인물",
+        "cap_vi": "Tiền giấy Hàn Quốc và nhân vật",
+        "head": ["지폐", "인물", "누구인가 (là ai)"],
+        "rows": [
+          ["천 원권 (1,000원)", "이황 (퇴계)", "Đại nho triều Joseon, phái Yeongnam"],
+          ["오천 원권 (5,000원)", "이이 (율곡)", "Đại nho triều Joseon, con trai 신사임당"],
+          ["만 원권 (10,000원)", "세종대왕", "Vua thứ 4 triều Joseon, sáng chế 한글"],
+          ["오만 원권 (50,000원)", "신사임당", "Nữ danh họa, thư pháp gia, mẹ của 이이"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "경제활동 3가지 순서: 생산 → 분배 → 소비",
+      "지폐 인물: 천 원 이황 · 오천 원 이이 · 만 원 세종대왕 · 오만 원 신사임당",
+      "주화(동전)는 10원·50원·100원·500원 — 200원짜리는 없다",
+      "화폐 발행 기관은 한국은행 (한국조폐공사는 제조만 담당)",
+      "희소성 때문에 선택이 생기고, 포기한 것의 가치가 기회비용",
+      "물가가 오르면(인플레이션) 화폐 가치는 떨어진다"
+    ],
+    "traps": [
+      "회사에서 월급을 받는 것은 소비가 아니라 분배다.",
+      "미용실에서 머리를 손질해 주는 것도 서비스를 만드는 생산이다.",
+      "화폐를 '만드는' 곳은 한국조폐공사지만 '발행'하는 곳은 한국은행 — 발행 권한을 묻는 문제에 주의.",
+      "합리적 선택은 '가장 비싼 것'이나 '가장 많이 사는 것'이 절대 아니다."
+    ],
+    "examples": [
+      {
+        "q": "다음 사례에 해당하는 경제활동으로 옳은 것은?\n\n회사에서 한 달 동안 일한 대가로 임금을 받았다.",
+        "choices": ["생산", "분배", "소비", "저축"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Nhận 임금 (lương) là ví dụ điển hình của 분배 — nhận phần thù lao vì đã góp sức vào quá trình sản xuất. ① 생산 là làm ra hàng hóa/dịch vụ; ③ 소비 là mua và dùng; ④ 저축 chỉ là cách xử lý thu nhập chưa dùng đến, không nằm trong ba hoạt động kinh tế cơ bản. Ngoài 임금, các khoản 지대·이자·이윤 cũng thuộc 분배."
+      },
+      {
+        "q": "한국의 지폐와 그려진 인물이 바르게 연결된 것은?",
+        "choices": ["천 원권 - 세종대왕", "오천 원권 - 이황", "만 원권 - 세종대왕", "오만 원권 - 이이"],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. Tờ 10,000원 in hình 세종대왕. Các phương án còn lại đều bị đảo: tờ 1,000원 là 이황, tờ 5,000원 là 이이, tờ 50,000원 là 신사임당. Mẹo nhớ: mẹ 신사임당 (50,000) mệnh giá lớn hơn con 이이 (5,000), cả hai đều bắt đầu bằng số 5."
+      },
+      {
+        "q": "물가가 크게 오를 때 나타나는 현상으로 옳은 것은?",
+        "choices": ["화폐 가치가 떨어져 생활비 부담이 커진다", "같은 돈으로 살 수 있는 물건이 많아진다", "저축한 돈의 실질 가치가 올라간다", "돈을 빌린 사람의 부담이 크게 늘어난다"],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. Lạm phát làm giá trị thực của đồng tiền giảm nên chi phí sinh hoạt nặng thêm. ② sai vì cùng số tiền mua được ÍT hàng hơn; ③ sai vì tiền tiết kiệm bị mất giá trị thực; ④ sai vì người đi vay tương đối CÓ LỢI, do khoản nợ bị mất giá theo thời gian."
+      }
+    ],
+    "match": ["경제활동", "생산", "분배", "희소성", "화폐", "한국은행", "인플레이션", "물가"]
+  },
+
+  {
+    "id": "economy-l02",
+    "domain": "economy",
+    "order": 2,
+    "title_ko": "한국 경제의 성장 과정",
+    "title_vi": "Quá trình tăng trưởng kinh tế Hàn Quốc",
+    "icon": "📈",
+    "summary_vi": "Đề thi hầu như luôn hỏi dạng \"thời kỳ nào — ngành gì\". Chỉ cần thuộc bảng theo thứ tự 원조경제 → 경공업 → 중화학공업 → 첨단산업 → 문화콘텐츠 là làm được gần hết, thêm mốc 1997 IMF 외환위기 và tên gọi 한강의 기적.",
+    "est_min": 9,
+    "sections": [
+      {
+        "h_ko": "1950년대 — 원조경제",
+        "h_vi": "Thập niên 1950 — kinh tế viện trợ",
+        "body_vi": "Sau 6·25 전쟁 (1950–1953), phần lớn nhà máy, đường sá và nhà cửa bị phá hủy, Hàn Quốc trở thành một trong những nước nghèo nhất thế giới. Giai đoạn này nền kinh tế sống nhờ viện trợ nước ngoài, chủ yếu là bột mì, đường và bông — nên gọi là 원조경제 (kinh tế viện trợ). Ba nguyên liệu trắng đó tạo ra ngành công nghiệp đầu tiên gọi vui là 삼백산업 (ngành ba màu trắng).",
+        "terms": [
+          { "ko": "원조경제", "vi": "kinh tế viện trợ", "def_vi": "Nền kinh tế phụ thuộc vào hàng viện trợ từ nước ngoài sau chiến tranh, đặc trưng của Hàn Quốc thập niên 1950." }
+        ]
+      },
+      {
+        "h_ko": "1960~1970년대 — 경공업",
+        "h_vi": "Thập niên 1960–1970 — công nghiệp nhẹ",
+        "body_vi": "Từ năm 1962 chính phủ bắt đầu 경제 개발 5개년 계획 (kế hoạch phát triển kinh tế 5 năm). Lúc đó Hàn Quốc thiếu vốn và kỹ thuật nhưng có nhiều lao động cần cù, giá rẻ, nên tập trung vào 경공업 (công nghiệp nhẹ): 가발 (tóc giả), 신발 (giày dép), 의류·섬유 (may mặc, dệt). Đây là những mặt hàng xuất khẩu chủ lực đầu tiên của Hàn Quốc.",
+        "terms": [
+          { "ko": "경공업", "vi": "công nghiệp nhẹ", "def_vi": "Ngành cần nhiều lao động, ít vốn — tóc giả, giày dép, dệt may. Trụ cột xuất khẩu của Hàn Quốc thập niên 1960–70." },
+          { "ko": "경제 개발 5개년 계획", "vi": "Kế hoạch phát triển kinh tế 5 năm", "def_vi": "Chính sách bắt đầu từ năm 1962, nhà nước đặt mục tiêu và dồn nguồn lực cho công nghiệp hóa, xuất khẩu." }
+        ]
+      },
+      {
+        "h_ko": "1970~1980년대 — 중화학공업",
+        "h_vi": "Thập niên 1970–1980 — công nghiệp nặng và hóa chất",
+        "body_vi": "Từ đầu thập niên 1970, chính phủ chuyển hướng sang 중화학공업 (công nghiệp nặng và hóa chất): 철강 (thép), 조선 (đóng tàu), 석유화학 (hóa dầu), 기계 (cơ khí). Các khu công nghiệp tiêu biểu ra đời trong giai đoạn này là 포항 (thép) và 울산 (đóng tàu, ô tô). Cùng thời gian đó, 새마을 운동 được triển khai để cải thiện đời sống nông thôn.",
+        "terms": [
+          { "ko": "중화학공업", "vi": "công nghiệp nặng và hóa chất", "def_vi": "Ngành cần nhiều vốn và kỹ thuật: thép, đóng tàu, hóa dầu, cơ khí. Trọng tâm chính sách thập niên 1970–80." },
+          { "ko": "새마을 운동", "vi": "Phong trào Làng mới", "def_vi": "Phong trào cải thiện đời sống và môi trường nông thôn thập niên 1970, khẩu hiệu 근면·자조·협동." }
+        ]
+      },
+      {
+        "h_ko": "1990~2000년대 — 첨단산업과 IMF 외환위기",
+        "h_vi": "Thập niên 1990–2000 — công nghệ cao và khủng hoảng IMF",
+        "body_vi": "Từ thập niên 1990, 반도체 (chất bán dẫn), 자동차, 휴대전화 trở thành mặt hàng xuất khẩu chủ lực. Nhưng cuối năm 1997 Hàn Quốc cạn ngoại tệ và phải xin 국제통화기금 (IMF) hỗ trợ — sự kiện gọi là 1997년 IMF 외환위기. Hàng loạt doanh nghiệp phá sản, thất nghiệp tăng vọt, và người dân tự nguyện tham gia 금 모으기 운동 (phong trào quyên góp vàng) để giúp nước trả nợ. Hàn Quốc đã trả hết khoản vay IMF trước thời hạn vào năm 2001.",
+        "terms": [
+          { "ko": "IMF 외환위기", "vi": "khủng hoảng ngoại hối IMF", "def_vi": "Năm 1997 Hàn Quốc thiếu ngoại tệ, phải nhận cứu trợ của Quỹ Tiền tệ Quốc tế và tái cơ cấu nền kinh tế." },
+          { "ko": "금 모으기 운동", "vi": "phong trào quyên góp vàng", "def_vi": "Năm 1998, người dân tự nguyện mang vàng của gia đình ra bán để giúp đất nước trả nợ ngoại tệ." }
+        ]
+      },
+      {
+        "h_ko": "오늘날의 한국 경제",
+        "h_vi": "Kinh tế Hàn Quốc ngày nay",
+        "body_vi": "Hiện nay 반도체·자동차·조선 vẫn là trụ cột, đồng thời 문화 콘텐츠 (nội dung văn hóa) như phim truyền hình, K-pop, trò chơi trở thành ngành xuất khẩu quan trọng — hiện tượng gọi là 한류. Hàn Quốc nghèo tài nguyên nên phải nhập khẩu dầu thô, khí đốt, lúa mì rồi chế biến thành sản phẩm để xuất khẩu, vì vậy rất nhạy cảm với biến động kinh tế thế giới. Quá trình đi lên từ đống tro tàn chiến tranh này được thế giới gọi là 한강의 기적 (Kỳ tích sông Hàn).",
+        "terms": [
+          { "ko": "한강의 기적", "vi": "Kỳ tích sông Hàn", "def_vi": "Cách thế giới gọi sự tăng trưởng thần tốc của Hàn Quốc sau chiến tranh. Tên bắt nguồn từ sông Hàn chảy qua Seoul." },
+          { "ko": "한류", "vi": "Làn sóng Hàn Quốc", "def_vi": "Hiện tượng phim ảnh, âm nhạc, ẩm thực Hàn Quốc phổ biến ra thế giới và trở thành ngành xuất khẩu." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "시대별 한국 경제 (시험 필수 암기)",
+        "cap_vi": "Kinh tế Hàn Quốc theo thời kỳ (bắt buộc thuộc)",
+        "head": ["시대", "특징", "주요 산업·수출품"],
+        "rows": [
+          ["1950년대", "6·25 전쟁 후 폐허, 외국 원조 의존 (원조경제)", "삼백산업 (밀가루·설탕·면화)"],
+          ["1960~1970년대", "경제 개발 5개년 계획 시작, 값싼 노동력 활용", "경공업 — 가발, 신발, 의류·섬유"],
+          ["1970~1980년대", "정부 주도로 산업 구조 전환, 포항·울산 공업단지", "중화학공업 — 철강, 조선, 석유화학"],
+          ["1990~2000년대", "첨단 기술 산업 성장 / 1997년 IMF 외환위기", "반도체, 자동차, 휴대전화"],
+          ["오늘날", "서비스업 비중 확대, 한류 확산", "반도체·자동차 + 드라마·음악 등 문화 콘텐츠"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "성장 순서: 원조경제(1950) → 경공업(1960~70) → 중화학공업(1970~80) → 반도체·자동차(1990~2000) → 문화 콘텐츠(오늘날)",
+      "1960~70년대 대표 수출품 = 가발·신발·섬유 (경공업)",
+      "1970~80년대 대표 산업 = 철강·조선·석유화학 (중화학공업)",
+      "경제 개발 5개년 계획은 1962년 시작",
+      "1997년 IMF 외환위기 → 금 모으기 운동 → 2001년 조기 상환",
+      "전후 한국의 빠른 성장을 세계는 '한강의 기적'이라 부른다"
+    ],
+    "traps": [
+      "경제 개발 5개년 계획(1962)은 IMF 외환위기(1997)와 아무 관계가 없다 — 시기를 뒤바꾼 선택지가 자주 나온다.",
+      "1997년은 '평화 협정'이 아니라 '외환위기'. 그리고 IMF는 돈을 준 국제기구 이름이지 위기의 원인이 아니다.",
+      "새마을 운동은 1970년대 농촌 개선 운동이지, 경제 성장 전체를 가리키는 이름이 아니다.",
+      "오늘날 한국은 식량·에너지를 자급자족하지 못하고 대부분 수입한다."
+    ],
+    "examples": [
+      {
+        "q": "1960~1970년대 한국의 주요 수출품으로 옳은 것은?",
+        "choices": ["반도체와 컴퓨터", "가발과 신발", "철강과 선박", "드라마와 음악"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Thập niên 1960–70 Hàn Quốc thiếu vốn và kỹ thuật nhưng dồi dào lao động giá rẻ nên tập trung vào 경공업 — tóc giả, giày dép, dệt may. ③ thép và tàu biển thuộc giai đoạn 중화학공업 1970–80; ① là công nghệ cao thập niên 1990–2000; ④ là nội dung văn hóa của ngày nay."
+      },
+      {
+        "q": "다음 설명에 해당하는 시기로 옳은 것은?\n\n정부가 철강, 조선, 석유화학 등을 집중 육성하여 산업 구조를 바꾸었고, 포항과 울산에 큰 공업단지가 만들어졌다.",
+        "choices": ["1950년대", "1970~1980년대", "1990년대", "2020년대"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Đây là mô tả chính sách 중화학공업 của thập niên 1970–1980, gắn với khu công nghiệp 포항 (thép) và 울산 (đóng tàu, ô tô). ① những năm 1950 còn sống nhờ viện trợ; ③ thập niên 1990 là thời của 반도체 và 자동차; ④ hiện nay thì công nghệ cao và 문화 콘텐츠 dẫn đầu."
+      },
+      {
+        "q": "1997년 IMF 외환위기에 대한 설명으로 옳지 않은 것은?",
+        "choices": ["외화가 부족해 국제통화기금에 자금 지원을 요청하였다", "많은 기업이 문을 닫고 실업자가 크게 늘어났다", "국민들이 금 모으기 운동에 참여하였다", "이 위기를 계기로 경제 개발 5개년 계획이 처음 시작되었다"],
+        "answer": 3,
+        "explain_vi": "Đáp án ④. 경제 개발 5개년 계획 bắt đầu từ năm 1962, tức hơn 30 năm TRƯỚC khủng hoảng 1997 nên không thể do khủng hoảng sinh ra. ①②③ đều đúng: cạn ngoại tệ phải xin IMF, doanh nghiệp phá sản hàng loạt, người dân tham gia 금 모으기 운동. Hàn Quốc trả hết nợ IMF sớm hạn vào năm 2001."
+      }
+    ],
+    "match": ["한국 경제 성장 과정", "1950년대", "원조경제", "경공업", "가발", "중화학공업", "IMF 외환위기", "한강의 기적"]
+  },
+
+  {
+    "id": "economy-l03",
+    "domain": "economy",
+    "order": 3,
+    "title_ko": "장보기와 소비자의 권리",
+    "title_vi": "Đi chợ và quyền của người tiêu dùng",
+    "icon": "🛒",
+    "summary_vi": "Phần này gắn liền với đời sống hằng ngày ở Hàn Quốc: nơi mua sắm, 원산지 표시, 소비기한 (đổi từ 2023.1.1), quyền 청약철회 7 ngày, và số 1372. Các con số và tên cơ quan là thứ ra thi trực tiếp.",
+    "est_min": 9,
+    "sections": [
+      {
+        "h_ko": "물건을 사는 곳",
+        "h_vi": "Những nơi mua sắm",
+        "body_vi": "Ở Hàn Quốc có thể mua hàng ở 전통시장 (chợ truyền thống), 대형마트 (siêu thị lớn), 편의점 (cửa hàng tiện lợi) và 온라인 쇼핑 (mua sắm trực tuyến). 전통시장 có nông thủy sản tươi, đặc sản địa phương, có thể mặc cả và được cho thêm hàng (덤); nhiều sạp nhận 온누리상품권 — phiếu mua hàng do nhà nước phát hành để hỗ trợ tiểu thương. Khác với Việt Nam nơi chợ họp cả ngày, nhiều chợ Hàn Quốc đóng cửa vào buổi tối và có loại chỉ họp 5 ngày một lần gọi là 오일장. 온라인 쇼핑 tiện lợi và dễ so giá nhưng không sờ được hàng thật và phải chờ giao.",
+        "terms": [
+          { "ko": "전통시장", "vi": "chợ truyền thống", "def_vi": "Chợ dân sinh với nhiều sạp nhỏ. Có thể mặc cả, mua đồ tươi, không mở 24 giờ." },
+          { "ko": "온누리상품권", "vi": "phiếu mua hàng Onnuri", "def_vi": "Phiếu do nhà nước phát hành, dùng được tại chợ truyền thống và khu thương mại nhỏ để hỗ trợ tiểu thương." },
+          { "ko": "오일장", "vi": "chợ phiên 5 ngày", "def_vi": "Chợ chỉ họp vào những ngày cố định, cách nhau 5 ngày, thường thấy ở vùng nông thôn." }
+        ]
+      },
+      {
+        "h_ko": "원산지 표시와 소비기한",
+        "h_vi": "Ghi xuất xứ và hạn sử dụng",
+        "body_vi": "원산지 표시 (ghi xuất xứ) là chế độ bắt buộc ghi rõ nông thủy sản và nguyên liệu món ăn trong nhà hàng đến từ nước nào, vùng nào — bạn sẽ thấy bảng ghi kiểu \"쇠고기: 국내산\". Ghi sai xuất xứ là hành vi bị pháp luật xử phạt. Về thời hạn, từ ngày 1 tháng 1 năm 2023 Hàn Quốc đã đổi từ 유통기한 sang 소비기한. Đây là điểm rất hay ra thi: 유통기한 là hạn người bán được phép BÁN, còn 소비기한 là hạn cuối còn ĂN ĐƯỢC an toàn nếu bảo quản đúng cách, nên 소비기한 dài hơn và giúp giảm lãng phí thực phẩm.",
+        "terms": [
+          { "ko": "원산지 표시", "vi": "ghi xuất xứ", "def_vi": "Chế độ bắt buộc công khai nơi sản xuất của nông thủy sản và nguyên liệu món ăn, giúp người tiêu dùng chọn lựa có thông tin." },
+          { "ko": "소비기한", "vi": "hạn sử dụng an toàn", "def_vi": "Ngày cuối cùng còn ăn được an toàn nếu tuân thủ cách bảo quản ghi trên bao bì. Áp dụng từ 2023.1.1." },
+          { "ko": "유통기한", "vi": "hạn lưu thông", "def_vi": "Hạn chót người bán được phép bán sản phẩm. Chế độ cũ, ngắn hơn 소비기한." }
+        ]
+      },
+      {
+        "h_ko": "소비자의 권리와 책임",
+        "h_vi": "Quyền và trách nhiệm của người tiêu dùng",
+        "body_vi": "Người tiêu dùng có các QUYỀN (권리) như: quyền được an toàn, quyền được cung cấp thông tin, quyền được lựa chọn, quyền được bồi thường thiệt hại. Nhưng đi kèm là TRÁCH NHIỆM (책임): kiểm tra kỹ thông tin trước khi mua, giữ đúng nội dung hợp đồng, tiêu dùng có ý thức với môi trường, và không khiếu nại vô lý quá đáng. Đề thi rất hay hỏi phân biệt \"cái nào là 권리, cái nào là 책임\" — cứ nhớ: đòi hỏi từ người bán = 권리, việc mình phải tự làm = 책임.",
+        "terms": [
+          { "ko": "합리적 소비", "vi": "tiêu dùng hợp lý", "def_vi": "Chi tiêu trong khả năng thu nhập và đạt sự hài lòng lớn nhất — không phải mua càng nhiều càng tốt." },
+          { "ko": "충동구매", "vi": "mua sắm bốc đồng", "def_vi": "Mua thứ không cần chỉ vì đang giảm giá hay vì cảm xúc nhất thời. Đây KHÔNG phải tiêu dùng hợp lý." }
+        ]
+      },
+      {
+        "h_ko": "피해를 입었을 때 — 청약철회와 상담 기관",
+        "h_vi": "Khi bị thiệt hại — rút đơn hàng và cơ quan tư vấn",
+        "body_vi": "Khi mua hàng qua mạng (전자상거래), người tiêu dùng có quyền 청약철회 (rút lại đơn hàng) trong vòng 7 ngày kể từ ngày NHẬN hàng, kể cả khi chỉ đơn giản là đổi ý. Nếu hàng khác hẳn với quảng cáo thì thời hạn còn được kéo dài. Muốn đổi hàng hay hoàn tiền thì 영수증 (hóa đơn) là thứ quan trọng nhất vì nó chứng minh giao dịch. Khi cần tư vấn, hãy gọi 1372 — số đại diện toàn quốc của 소비자상담센터; nếu không giải quyết được thì xin cứu trợ tại 한국소비자원, cơ quan chuyên hòa giải tranh chấp và cứu trợ thiệt hại cho người tiêu dùng.",
+        "terms": [
+          { "ko": "청약철회", "vi": "rút lại đơn hàng", "def_vi": "Quyền hủy giao dịch trong 7 ngày kể từ khi nhận hàng đối với mua sắm trực tuyến, kể cả khi chỉ đổi ý." },
+          { "ko": "1372", "vi": "số tư vấn người tiêu dùng", "def_vi": "Số điện thoại đại diện toàn quốc của 소비자상담센터, kết nối 한국소비자원 và các đoàn thể người tiêu dùng." },
+          { "ko": "한국소비자원", "vi": "Cơ quan Người tiêu dùng Hàn Quốc", "def_vi": "Tổ chức bảo vệ quyền lợi người tiêu dùng, phụ trách cứu trợ thiệt hại (피해 구제) và hòa giải tranh chấp (분쟁 조정)." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "소비기한 vs 유통기한",
+        "cap_vi": "So sánh 소비기한 và 유통기한",
+        "head": ["구분", "유통기한", "소비기한"],
+        "rows": [
+          ["뜻", "판매자가 팔 수 있는 마지막 날", "보관법을 지키면 먹어도 안전한 마지막 날"],
+          ["기준", "파는 사람 중심", "먹는 사람(소비자) 중심"],
+          ["기간", "상대적으로 짧다", "상대적으로 길다"],
+          ["시행", "이전 제도", "2023년 1월 1일부터 시행"]
+        ]
+      },
+      {
+        "cap_ko": "헷갈리는 상담 전화번호",
+        "cap_vi": "Các số tổng đài dễ nhầm",
+        "head": ["번호", "기관", "무엇을 상담하나"],
+        "rows": [
+          ["1372", "소비자상담센터", "Thiệt hại khi mua bán, khiếu nại tiêu dùng"],
+          ["1345", "외국인종합안내센터", "Thủ tục cư trú, nhập cảnh cho người nước ngoài"],
+          ["1350", "고용노동부 상담센터", "Tiền lương, hợp đồng lao động, vấn đề lao động"],
+          ["1330", "관광통역안내", "Thông tin du lịch, phiên dịch cho khách"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "소비기한 표시제는 2023년 1월 1일부터 시행 (유통기한 → 소비기한)",
+      "소비기한이 유통기한보다 길다 — 소비기한은 '먹어도 안전한' 기한",
+      "온라인 쇼핑은 단순 변심이어도 물건 받은 날부터 7일 이내 청약철회 가능",
+      "소비자 상담 대표 번호는 1372 (소비자상담센터)",
+      "소비자 피해 구제·분쟁 조정 기관은 한국소비자원",
+      "교환·환불을 요구할 때 가장 필요한 것은 영수증",
+      "원산지 표시는 농수산물과 음식점 재료의 생산지를 알리는 제도"
+    ],
+    "traps": [
+      "1372(소비), 1345(외국인), 1350(노동), 1330(관광) — 번호 4개를 서로 바꿔 놓는 문제가 매우 자주 나온다.",
+      "전통시장은 24시간 연중무휴가 아니다. 24시간 여는 곳은 편의점.",
+      "'정보를 확인하고 계약을 지키는 것'은 권리가 아니라 소비자의 책임이다.",
+      "청약철회 기간은 '주문한 날'이 아니라 '물건을 받은 날'부터 센다."
+    ],
+    "examples": [
+      {
+        "q": "다음 설명에 해당하는 것으로 옳은 것은?\n\n표시된 보관 방법을 지켰을 때 식품을 먹어도 안전한 마지막 날짜를 뜻하며, 2023년 1월 1일부터 표시하도록 바뀌었다.",
+        "choices": ["제조일자", "유통기한", "소비기한", "원산지"],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. 소비기한 là ngày cuối cùng còn ăn được an toàn nếu bảo quản đúng cách, áp dụng từ 1/1/2023. ② 유통기한 là hạn người bán được phép bán, ngắn hơn; ① 제조일자 chỉ là ngày sản xuất; ④ 원산지 là nơi xuất xứ, không liên quan thời hạn. Vì 소비기한 dài hơn nên chế độ mới giúp giảm lãng phí thực phẩm."
+      },
+      {
+        "q": "소비자가 피해를 입었을 때 상담을 받을 수 있는 전국 대표 전화번호로 옳은 것은?",
+        "choices": ["1330", "1345", "1350", "1372"],
+        "answer": 3,
+        "explain_vi": "Đáp án ④. 1372 là số đại diện toàn quốc của 소비자상담센터. ① 1330 là tổng đài du lịch; ② 1345 là trung tâm tư vấn tổng hợp cho người nước ngoài; ③ 1350 là tổng đài tư vấn lao động của 고용노동부. Hãy học theo cặp: 1372 = tiêu dùng, 1345 = người nước ngoài, 1350 = lao động, 1330 = du lịch."
+      },
+      {
+        "q": "소비자의 '책임'에 해당하는 것으로 옳은 것은?",
+        "choices": ["안전할 권리를 요구하는 것", "물건을 사기 전에 정보를 확인하고 계약 내용을 지키는 것", "피해를 보상받을 권리를 주장하는 것", "필요한 정보를 제공받을 권리를 요구하는 것"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Kiểm tra thông tin trước khi mua và giữ đúng hợp đồng là TRÁCH NHIỆM (책임) của người tiêu dùng. ①③④ đều thuộc nhóm QUYỀN (권리): quyền được an toàn, quyền được bồi thường, quyền được cung cấp thông tin. Mẹo phân biệt: đòi hỏi từ người bán = 권리, việc mình tự phải làm = 책임."
+      }
+    ],
+    "match": ["장보기", "전통시장", "원산지 표시", "소비기한", "청약철회", "1372", "한국소비자원", "소비자 권리"]
+  },
+
+  {
+    "id": "economy-l04",
+    "domain": "economy",
+    "order": 4,
+    "title_ko": "금융기관과 금융거래",
+    "title_vi": "Tổ chức tài chính và giao dịch tài chính",
+    "icon": "🏦",
+    "summary_vi": "Bài quan trọng nhất của phần kinh tế cơ bản. Hai bảng so sánh 체크카드 vs 신용카드 và 예금 vs 적금 gần như ra thi nguyên văn. Thêm vào đó là cách mở 통장 và cách phòng 보이스피싱 với hai số 112 và 1332.",
+    "est_min": 11,
+    "sections": [
+      {
+        "h_ko": "금융기관의 종류",
+        "h_vi": "Các loại tổ chức tài chính",
+        "body_vi": "금융기관 (tổ chức tài chính) là nơi kết nối người có tiền dư với người cần tiền. 은행 nhận 예금 và cho 대출; 저축은행 cũng nhận gửi và cho vay nhưng lãi gửi cao hơn, lãi vay cũng cao hơn và rủi ro lớn hơn; 보험회사 thu 보험료 để chi trả 보험금 khi có rủi ro; 증권회사 môi giới mua bán 주식 và 채권. 우체국 (bưu điện) ngoài chuyển thư còn có dịch vụ tiết kiệm và bảo hiểm. Nhớ kỹ: KHÔNG tổ chức nào trong số này được phát hành tiền — quyền đó chỉ thuộc 한국은행.",
+        "terms": [
+          { "ko": "은행", "vi": "ngân hàng", "def_vi": "Nhận tiền gửi (예금) và cho vay (대출), thực hiện chuyển khoản, đổi ngoại tệ." },
+          { "ko": "저축은행", "vi": "ngân hàng tiết kiệm", "def_vi": "Tổ chức nhận gửi và cho vay như ngân hàng nhưng quy mô nhỏ hơn, lãi suất cao hơn cả hai chiều." },
+          { "ko": "보험료 / 보험금", "vi": "phí bảo hiểm / tiền bảo hiểm", "def_vi": "보험료 là tiền mình ĐÓNG định kỳ; 보험금 là tiền mình NHẬN khi xảy ra sự cố. Rất hay bị hoán đổi trong đề thi." }
+        ]
+      },
+      {
+        "h_ko": "통장 개설과 금융거래",
+        "h_vi": "Mở tài khoản và giao dịch",
+        "body_vi": "Ở Hàn Quốc hầu như mọi việc — nhận lương, đóng tiền nhà, đóng bảo hiểm — đều đi qua 통장 (sổ tài khoản), nên mở 통장 là việc đầu tiên khi bắt đầu sinh sống. Người nước ngoài cần mang 외국인등록증 và giấy tờ chứng minh mục đích giao dịch (hợp đồng lao động, giấy chứng nhận đi học...) đến quầy ngân hàng. Điểm khác với thói quen dùng tiền mặt phổ biến ở Việt Nam: ở Hàn Quốc gần như mọi khoản chi tiêu hằng ngày đều thanh toán bằng thẻ hoặc điện thoại, và tài khoản mới mở thường bị giới hạn hạn mức chuyển tiền một thời gian để phòng lừa đảo.",
+        "terms": [
+          { "ko": "통장", "vi": "sổ tài khoản ngân hàng", "def_vi": "Tài khoản để gửi, rút, nhận lương và thanh toán tự động các hóa đơn." },
+          { "ko": "외국인등록증", "vi": "thẻ đăng ký người nước ngoài", "def_vi": "Giấy tờ tùy thân bắt buộc của người nước ngoài cư trú, cần khi mở tài khoản, ký hợp đồng." },
+          { "ko": "대포통장", "vi": "tài khoản cho mượn tên", "def_vi": "Tài khoản đứng tên mình nhưng người khác dùng. Cho mượn hoặc bán 통장 là hành vi phạm pháp — tuyệt đối không làm." }
+        ]
+      },
+      {
+        "h_ko": "체크카드와 신용카드",
+        "h_vi": "Thẻ ghi nợ và thẻ tín dụng",
+        "body_vi": "체크카드 rút tiền NGAY từ số dư trong tài khoản liên kết, nên hết tiền là không dùng được — nhờ vậy dễ kiểm soát chi tiêu. 신용카드 thì trả tiền trước bằng \"uy tín\" của bạn rồi tháng sau ngân hàng thu một lần, nên dùng được cả khi tài khoản trống, nhưng phải qua thẩm định thu nhập và tín nhiệm mới được cấp — không phải ai xin cũng có. Nếu không trả đúng hạn, điểm tín nhiệm (신용점수) giảm và về sau khó vay tiền. Hãy xem kỹ bảng so sánh dưới đây, đề thi thường hỏi đúng những dòng này.",
+        "terms": [
+          { "ko": "체크카드", "vi": "thẻ ghi nợ", "def_vi": "Thẻ trừ tiền ngay lập tức trong phạm vi số dư tài khoản liên kết." },
+          { "ko": "신용카드", "vi": "thẻ tín dụng", "def_vi": "Thẻ chi tiêu trước, thanh toán sau vào ngày định kỳ tháng sau. Cần thẩm định tín nhiệm mới được phát hành." },
+          { "ko": "신용점수", "vi": "điểm tín nhiệm", "def_vi": "Chỉ số đánh giá khả năng trả nợ. Trả thẻ và trả nợ đúng hạn thì điểm tăng, trễ hạn thì giảm." }
+        ]
+      },
+      {
+        "h_ko": "예금·적금과 대출·이자",
+        "h_vi": "Tiền gửi, tiết kiệm và vay, lãi",
+        "body_vi": "예금 là gửi một khoản tiền lớn vào một lần, còn 적금 là mỗi tháng gửi đều một số tiền cố định trong thời hạn đã định. Mẹo nhớ cực đơn giản: 적금 = góp dần từng tháng, 예금 = gửi cả cục một lần. Ngược lại với gửi là 대출 (vay) — ngân hàng cho vay và thu 이자 (lãi). Lãi mình nhận khi gửi gọi là 예금 이자, lãi mình trả khi vay gọi là 대출 이자, và lãi vay bao giờ cũng cao hơn lãi gửi. Trước khi vay phải tính kỹ khả năng trả hằng tháng của mình. Ngoài ra Hàn Quốc có 예금자보호제도, bảo vệ một phần tiền gửi của khách hàng khi tổ chức tài chính phá sản.",
+        "terms": [
+          { "ko": "예금", "vi": "tiền gửi", "def_vi": "Gửi một khoản tiền lớn vào ngân hàng một lần. 정기예금 là gửi có kỳ hạn cố định." },
+          { "ko": "적금", "vi": "tiết kiệm góp dần", "def_vi": "Mỗi tháng gửi một số tiền cố định trong thời hạn đã định, phù hợp để tích cóp từ lương tháng." },
+          { "ko": "이자", "vi": "lãi", "def_vi": "Khoản trả thêm cho việc dùng tiền của người khác. Nhận khi gửi, trả khi vay." },
+          { "ko": "예금자보호제도", "vi": "chế độ bảo vệ người gửi tiền", "def_vi": "Khi tổ chức tài chính phá sản, nhà nước bảo vệ tiền gửi của khách hàng trong hạn mức pháp định." }
+        ]
+      },
+      {
+        "h_ko": "보이스피싱 예방과 신고",
+        "h_vi": "Phòng và tố giác lừa đảo qua điện thoại",
+        "body_vi": "보이스피싱 (lừa đảo qua điện thoại) là thủ đoạn giả danh 검찰·경찰·금융기관 hoặc người thân để dọa nạt rồi bắt chuyển tiền. Nguyên tắc vàng: cơ quan công quyền và ngân hàng KHÔNG BAO GIỜ gọi điện yêu cầu chuyển tiền, đọc mật khẩu, hay cài ứng dụng lạ. Người nước ngoài hay bị nhắm vì rào cản ngôn ngữ, nên nếu nhận cuộc gọi như vậy hãy cúp máy và tự gọi lại số chính thức để xác nhận. Khi đã lỡ chuyển tiền, phải lập tức báo 112 (경찰) hoặc 1332 (금융감독원), hoặc gọi tổng đài ngân hàng để yêu cầu 지급정지 (phong tỏa thanh toán) — càng nhanh càng có cơ hội chặn được tiền.",
+        "terms": [
+          { "ko": "보이스피싱", "vi": "lừa đảo qua điện thoại", "def_vi": "Thủ đoạn giả danh cơ quan nhà nước, ngân hàng hoặc người thân để lừa nạn nhân chuyển tiền." },
+          { "ko": "지급정지", "vi": "phong tỏa thanh toán", "def_vi": "Biện pháp chặn tài khoản của kẻ lừa đảo để tiền không bị rút ra. Phải yêu cầu càng sớm càng tốt." },
+          { "ko": "1332", "vi": "tổng đài Cơ quan Giám sát Tài chính", "def_vi": "Số tư vấn và tiếp nhận tố giác của 금융감독원 về lừa đảo tài chính, cùng với 112 của cảnh sát." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "체크카드 vs 신용카드 (시험 단골)",
+        "cap_vi": "Thẻ ghi nợ và thẻ tín dụng (ra thi thường xuyên)",
+        "head": ["구분", "체크카드", "신용카드"],
+        "rows": [
+          ["결제 시점", "즉시 통장에서 빠져나감", "다음 달 정해진 날에 한꺼번에 결제"],
+          ["사용 한도", "통장 잔액 범위 안에서만", "카드사가 정해 준 한도 안에서"],
+          ["잔액이 없으면", "사용할 수 없다", "잔액이 없어도 사용 가능"],
+          ["발급 조건", "통장만 있으면 대체로 발급", "소득·신용 심사를 거쳐야 발급"],
+          ["장단점", "과소비를 막기 쉽다", "편리하지만 연체 시 신용점수가 떨어진다"]
+        ]
+      },
+      {
+        "cap_ko": "예금 vs 적금 (시험 단골)",
+        "cap_vi": "Tiền gửi và tiết kiệm góp dần (ra thi thường xuyên)",
+        "head": ["구분", "예금", "적금"],
+        "rows": [
+          ["넣는 방법", "목돈을 한 번에 맡긴다", "매달 일정한 금액을 나누어 넣는다"],
+          ["알맞은 사람", "이미 큰돈이 있는 사람", "월급에서 조금씩 모으려는 사람"],
+          ["대표 상품", "정기예금, 보통예금", "정기적금, 자유적금"],
+          ["공통점", "이자가 붙는다 / 예금자보호 대상", "이자가 붙는다 / 예금자보호 대상"]
+        ]
+      },
+      {
+        "cap_ko": "주요 금융기관이 하는 일",
+        "cap_vi": "Công việc của các tổ chức tài chính chính",
+        "head": ["기관", "주요 업무"],
+        "rows": [
+          ["한국은행", "화폐 발행, 물가 안정 (개인 예금·대출은 하지 않음)"],
+          ["은행 · 저축은행", "예금, 적금, 대출, 송금"],
+          ["보험회사", "보험료를 모아 사고·질병 시 보험금 지급"],
+          ["증권회사", "주식·채권 매매 중개"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "체크카드 = 통장 잔액 범위 안에서 즉시 결제 / 신용카드 = 다음 달에 한꺼번에 결제",
+      "신용카드는 소득·신용 심사를 거쳐야 발급되며 누구나 바로 받을 수 없다",
+      "예금 = 목돈을 한 번에 / 적금 = 매달 일정 금액을 나누어",
+      "보이스피싱 피해 신고는 경찰 112, 금융감독원 1332 → 즉시 지급정지 요청",
+      "공공기관·은행은 절대 전화로 돈을 보내라거나 비밀번호를 묻지 않는다",
+      "통장 개설 시 외국인은 외국인등록증이 필요하며, 통장을 남에게 빌려주면 처벌받는다",
+      "화폐 발행은 한국은행만 가능 — 저축은행·증권회사는 할 수 없다"
+    ],
+    "traps": [
+      "'체크카드는 다음 달에 결제한다'는 틀린 설명이다. 다음 달 결제는 신용카드.",
+      "'신용카드는 신청하면 누구나 바로 발급된다'도 틀렸다 — 심사가 필요하다.",
+      "'적금은 목돈을 한 번에 맡기는 것'이라는 선택지는 예금 설명을 바꿔치기한 함정.",
+      "보이스피싱 신고 번호는 1332(금융감독원)와 112(경찰). 1372는 소비자 상담이므로 헷갈리지 말 것."
+    ],
+    "examples": [
+      {
+        "q": "체크카드와 신용카드에 대한 설명으로 옳은 것은?",
+        "choices": ["체크카드는 결제한 돈을 다음 달에 한꺼번에 낸다", "체크카드는 연결된 통장의 잔액 범위 안에서만 쓸 수 있다", "신용카드는 통장에 잔액이 없으면 사용할 수 없다", "신용카드는 신청하면 누구나 바로 발급받을 수 있다"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. 체크카드 trừ tiền ngay trong phạm vi số dư tài khoản liên kết. ① mô tả nhầm sang 신용카드 vốn mới là loại thanh toán vào tháng sau; ③ ngược lại, 신용카드 dùng được cả khi tài khoản trống vì đó là chi tiêu bằng tín nhiệm; ④ sai vì 신용카드 phải qua thẩm định thu nhập và tín nhiệm mới được cấp."
+      },
+      {
+        "q": "예금과 적금에 대한 설명으로 옳은 것은?",
+        "choices": ["적금은 정해진 기간 동안 매달 일정한 돈을 나누어 넣는 상품이다", "예금과 적금에는 이자가 전혀 붙지 않는다", "적금은 목돈을 한 번에 맡겨 두는 상품이다", "예금은 은행이 아닌 곳에서만 가입할 수 있다"],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. 적금 là gửi đều mỗi tháng một khoản cố định trong thời hạn đã định. ③ mô tả sai vì gửi cả cục một lần mới là 예금; ② sai vì cả hai đều có 이자; ④ sai vì 예금 chính là sản phẩm cơ bản của ngân hàng. Nhớ: 적금 góp dần, 예금 gửi một lần."
+      },
+      {
+        "q": "보이스피싱 전화를 받았을 때의 대처로 옳지 않은 것은?",
+        "choices": ["전화를 끊고 해당 기관의 공식 번호로 직접 확인한다", "이미 돈을 보냈다면 112나 1332에 신고해 지급정지를 요청한다", "상대가 알려 준 앱을 설치하고 계좌 비밀번호를 알려 준다", "공공기관은 전화로 돈을 요구하지 않는다는 점을 기억한다"],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. Cài ứng dụng lạ và đọc mật khẩu tài khoản chính là điều kẻ lừa đảo muốn — tuyệt đối không được làm. ①②④ đều là cách xử lý đúng: cúp máy rồi tự gọi số chính thức, báo ngay 112 (경찰) hoặc 1332 (금융감독원) để yêu cầu 지급정지, và ghi nhớ nguyên tắc cơ quan công quyền không bao giờ đòi tiền qua điện thoại."
+      }
+    ],
+    "match": ["금융 기관", "금융 거래", "예금", "적금", "체크카드", "신용카드", "보이스피싱", "통장 개설"]
+  },
+
+  {
+    "id": "economy-l05",
+    "domain": "economy",
+    "order": 5,
+    "title_ko": "일자리와 취업",
+    "title_vi": "Việc làm và tìm việc",
+    "icon": "💼",
+    "summary_vi": "Phần này hỏi về nơi tìm thông tin việc làm (워크넷, 고용노동부), giấy tờ xin việc (이력서·자기소개서) và đặc biệt là 근로계약서 — nội dung bắt buộc phải ghi và nghĩa vụ giao bản sao cho người lao động.",
+    "est_min": 9,
+    "sections": [
+      {
+        "h_ko": "한국의 일자리 변화",
+        "h_vi": "Sự thay đổi việc làm ở Hàn Quốc",
+        "body_vi": "Cơ cấu việc làm Hàn Quốc đã thay đổi cùng quá trình phát triển: xưa phần lớn người dân làm 농업, sau đó chuyển sang 제조업 (chế tạo), còn ngày nay 서비스업 (dịch vụ) chiếm tỷ trọng lớn nhất. Gần đây các ngành gắn với công nghệ thông tin, chăm sóc người cao tuổi và nội dung văn hóa tăng nhanh, trong khi nhiều công việc lặp đi lặp lại bị máy móc thay thế. Vì vậy 평생학습 (học suốt đời) và học nghề lại (직업훈련) ngày càng quan trọng.",
+        "terms": [
+          { "ko": "서비스업", "vi": "ngành dịch vụ", "def_vi": "Ngành cung cấp dịch vụ như bán lẻ, y tế, giáo dục, du lịch. Hiện chiếm tỷ trọng việc làm lớn nhất ở Hàn Quốc." },
+          { "ko": "직업훈련", "vi": "đào tạo nghề", "def_vi": "Chương trình học kỹ năng nghề do nhà nước hỗ trợ, giúp chuyển nghề hoặc nâng cao tay nghề." }
+        ]
+      },
+      {
+        "h_ko": "취업 정보 찾기",
+        "h_vi": "Tìm thông tin việc làm",
+        "body_vi": "Cổng thông tin việc làm công lập tiêu biểu là 워크넷 (work.go.kr), do 고용노동부 và 한국고용정보원 vận hành — hoàn toàn miễn phí, có tin tuyển dụng, thông tin nghề nghiệp và đăng ký 직업훈련. Dịch vụ này hiện được tích hợp vào cổng 고용24. Ngoài ra còn có 고용센터 ở từng địa phương để tư vấn trực tiếp, và người nước ngoài có thể được hỗ trợ tại 외국인력지원센터 hoặc 다문화가족지원센터. Khi có vướng mắc về tiền lương hay điều kiện làm việc, hãy gọi tổng đài tư vấn lao động 1350 của 고용노동부.",
+        "terms": [
+          { "ko": "워크넷", "vi": "Worknet", "def_vi": "Cổng thông tin việc làm công lập do 고용노동부 và 한국고용정보원 vận hành, dùng miễn phí. Nay tích hợp trong 고용24." },
+          { "ko": "고용노동부", "vi": "Bộ Việc làm và Lao động", "def_vi": "Cơ quan trung ương phụ trách chính sách việc làm, tiêu chuẩn lao động và bảo vệ người lao động. Tổng đài tư vấn 1350." },
+          { "ko": "고용센터", "vi": "Trung tâm việc làm", "def_vi": "Cơ quan địa phương của 고용노동부, tư vấn tìm việc, trợ cấp thất nghiệp và đào tạo nghề." }
+        ]
+      },
+      {
+        "h_ko": "이력서와 자기소개서",
+        "h_vi": "Sơ yếu lý lịch và bản tự giới thiệu",
+        "body_vi": "Hồ sơ xin việc ở Hàn Quốc thường gồm 이력서 và 자기소개서. 이력서 ghi ngắn gọn thông tin thực tế: 인적사항 (thông tin cá nhân), 학력 (học vấn), 경력 (kinh nghiệm), 자격증 (chứng chỉ). 자기소개서 thì viết thành văn về động cơ ứng tuyển (지원 동기), điểm mạnh, kế hoạch sau khi vào làm. Nguyên tắc quan trọng: viết trung thực — khai man học vấn hay kinh nghiệm có thể dẫn tới bị hủy tuyển dụng. Sau khi nộp hồ sơ thường là vòng 면접 (phỏng vấn).",
+        "terms": [
+          { "ko": "이력서", "vi": "sơ yếu lý lịch", "def_vi": "Bản ghi tóm tắt thông tin cá nhân, học vấn, kinh nghiệm, chứng chỉ theo mẫu." },
+          { "ko": "자기소개서", "vi": "bản tự giới thiệu", "def_vi": "Bài viết trình bày động cơ ứng tuyển, điểm mạnh, mục tiêu — thể hiện con người mình bằng câu văn." },
+          { "ko": "면접", "vi": "phỏng vấn", "def_vi": "Vòng gặp trực tiếp nhà tuyển dụng để trả lời câu hỏi và thể hiện thái độ, năng lực." }
+        ]
+      },
+      {
+        "h_ko": "근로계약서",
+        "h_vi": "Hợp đồng lao động",
+        "body_vi": "근로계약서 là văn bản ghi rõ điều kiện làm việc giữa 근로자 (người lao động) và 사용자 (người sử dụng lao động), và phải được viết TRƯỚC KHI bắt đầu làm việc. Theo 근로기준법, chủ sử dụng bắt buộc phải ghi rõ bằng văn bản 임금 (thành phần, cách tính, cách trả), 소정근로시간 (giờ làm đã thỏa thuận), 휴일 và 연차유급휴가, rồi GIAO một bản cho người lao động; không giao là vi phạm và bị xử phạt. Đây là điểm rất khác thực tế nhiều nơi ở Việt Nam vốn hay thỏa thuận miệng: ở Hàn Quốc, không có 근로계약서 thì khi bị nợ lương hay ép tăng ca bạn sẽ rất khó chứng minh. Hãy đọc kỹ và giữ bản của mình cẩn thận.",
+        "terms": [
+          { "ko": "근로계약서", "vi": "hợp đồng lao động", "def_vi": "Văn bản ghi điều kiện làm việc, lập trước khi vào làm và chủ sử dụng phải giao một bản cho người lao động." },
+          { "ko": "근로기준법", "vi": "Luật Tiêu chuẩn Lao động", "def_vi": "Luật quy định điều kiện lao động tối thiểu: giờ làm, nghỉ ngơi, trả lương, sa thải." },
+          { "ko": "소정근로시간", "vi": "giờ làm việc đã thỏa thuận", "def_vi": "Số giờ làm hai bên thống nhất trong hợp đồng, nằm trong giới hạn luật cho phép." },
+          { "ko": "연차유급휴가", "vi": "phép năm có lương", "def_vi": "Số ngày nghỉ vẫn được trả lương theo luật, tính dựa trên thời gian làm việc và tỷ lệ đi làm." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "이력서 vs 자기소개서",
+        "cap_vi": "Sơ yếu lý lịch và bản tự giới thiệu",
+        "head": ["구분", "이력서", "자기소개서"],
+        "rows": [
+          ["형식", "정해진 항목에 사실을 적음", "문장으로 자유롭게 씀"],
+          ["내용", "인적사항·학력·경력·자격증", "지원 동기·장점·입사 후 계획"],
+          ["핵심", "간결하고 정확하게", "구체적인 경험으로 설득력 있게"]
+        ]
+      },
+      {
+        "cap_ko": "근로계약서에 반드시 들어가야 할 내용",
+        "cap_vi": "Nội dung bắt buộc trong hợp đồng lao động",
+        "head": ["항목", "설명"],
+        "rows": [
+          ["임금", "구성 항목, 계산 방법, 지급 방법과 지급일"],
+          ["소정근로시간", "하루·일주일에 일하기로 정한 시간"],
+          ["휴일", "주휴일 등 쉬는 날"],
+          ["연차유급휴가", "법에 따라 주어지는 유급 휴가"],
+          ["교부 의무", "사용자는 위 내용을 적은 서면을 근로자에게 반드시 주어야 함"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "워크넷은 고용노동부와 한국고용정보원이 운영하는 무료 취업정보 사이트 (현재 고용24로 통합)",
+      "근로계약서는 일을 시작하기 전에 작성하고, 사용자는 근로자에게 한 부를 반드시 교부해야 한다",
+      "근로계약서 필수 기재 사항: 임금 · 소정근로시간 · 휴일 · 연차유급휴가",
+      "근로 조건의 최저 기준을 정한 법은 근로기준법",
+      "노동 문제 상담 전화는 고용노동부 1350",
+      "이력서는 사실 중심, 자기소개서는 지원 동기·장점을 문장으로",
+      "한국의 일자리는 농업 → 제조업 → 서비스업 중심으로 변해 왔다"
+    ],
+    "traps": [
+      "근로계약서는 일을 시작한 뒤에 써도 되는 것이 아니라 '시작 전'에 작성해야 한다.",
+      "구두(말)로만 한 약속도 계약이긴 하지만, 서면 교부는 법이 정한 의무다.",
+      "1350(노동)과 1372(소비자)를 바꿔 놓은 선택지에 주의.",
+      "워크넷은 민간 회사가 아니라 정부(고용노동부)가 운영하는 공공 서비스다."
+    ],
+    "examples": [
+      {
+        "q": "근로계약서에 대한 설명으로 옳지 않은 것은?",
+        "choices": ["임금, 소정근로시간, 휴일, 연차유급휴가를 적어야 한다", "일을 시작하기 전에 작성하는 것이 원칙이다", "사용자는 작성한 서면을 근로자에게 주어야 한다", "사용자가 보관만 하면 되고 근로자에게는 주지 않아도 된다"],
+        "answer": 3,
+        "explain_vi": "Đáp án ④. Theo 근로기준법, chủ sử dụng lao động BẮT BUỘC phải giao một bản hợp đồng cho người lao động, giữ riêng cho mình là vi phạm và bị xử phạt. ①②③ đều đúng: phải ghi rõ 임금·소정근로시간·휴일·연차유급휴가, lập trước khi bắt đầu làm việc, và giao bản viết cho người lao động."
+      },
+      {
+        "q": "다음 설명에 해당하는 것으로 옳은 것은?\n\n고용노동부와 한국고용정보원이 운영하는 취업정보 사이트로, 구인·구직 정보와 직업 정보를 무료로 제공한다.",
+        "choices": ["워크넷", "한국소비자원", "국민연금공단", "한국조폐공사"],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. 워크넷 là cổng thông tin việc làm công lập miễn phí do 고용노동부 và 한국고용정보원 vận hành, nay được tích hợp vào 고용24. ② 한국소비자원 bảo vệ người tiêu dùng; ③ 국민연금공단 quản lý lương hưu quốc dân; ④ 한국조폐공사 in và đúc tiền — không cơ quan nào trong ba lựa chọn này liên quan tới thông tin tuyển dụng."
+      },
+      {
+        "q": "취업을 준비하는 태도로 알맞지 않은 것은?",
+        "choices": ["이력서에 학력과 경력을 사실대로 적는다", "자기소개서에 지원 동기와 장점을 구체적으로 쓴다", "경력을 부풀려 적어서라도 먼저 합격하는 것이 좋다", "면접에서는 예의를 지키고 성실하게 답한다"],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. Khai khống kinh nghiệm là gian dối trong hồ sơ — nếu bị phát hiện có thể bị hủy kết quả tuyển dụng hoặc cho thôi việc, nên tuyệt đối không nên. ①②④ đều là thái độ đúng: ghi trung thực trong 이력서, viết cụ thể động cơ và điểm mạnh trong 자기소개서, giữ lễ độ và trả lời thành thật khi 면접."
+      }
+    ],
+    "match": ["한국의 일자리", "취업 준비", "워크넷", "고용노동부", "근로계약서", "이력서", "자기소개서", "취업"]
+  },
+
+  {
+    "id": "adv_economy-l01",
+    "domain": "adv_economy",
+    "order": 1,
+    "title_ko": "시장경제체제와 정부의 역할",
+    "title_vi": "Thể chế kinh tế thị trường và vai trò của chính phủ",
+    "icon": "⚖️",
+    "summary_vi": "Bài mở đầu phần kinh tế nâng cao. Ba đặc trưng của 시장경제 (사유재산권·자유경쟁·이윤추구), khái niệm 시장 실패 và ba vai trò của chính phủ — cung cấp 공공재, kiểm soát 독과점, tái phân phối thu nhập — là bộ khung ra thi cố định.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "시장경제체제의 특징",
+        "h_vi": "Đặc trưng của thể chế kinh tế thị trường",
+        "body_vi": "Hàn Quốc theo 시장경제체제 (thể chế kinh tế thị trường), và Hiến pháp cũng ghi rằng trật tự kinh tế dựa trên sự tôn trọng quyền tự do và sáng kiến của cá nhân, doanh nghiệp. Ba đặc trưng cốt lõi là: 사유재산권 (quyền sở hữu tư nhân — của cải mình làm ra là của mình và được pháp luật bảo vệ), 자유 경쟁 (cạnh tranh tự do — ai cũng được tự do sản xuất, kinh doanh, chọn nghề), và 이윤 추구 (theo đuổi lợi nhuận — động lực khiến người ta làm việc hiệu quả hơn). Việc \"sản xuất cái gì, bao nhiêu, cho ai\" được quyết định bởi 가격 (giá cả) hình thành từ 수요 và 공급 — cơ chế này Adam Smith gọi là \"bàn tay vô hình\".",
+        "terms": [
+          { "ko": "사유재산권", "vi": "quyền sở hữu tư nhân", "def_vi": "Quyền cá nhân sở hữu, sử dụng và định đoạt tài sản của mình, được pháp luật bảo vệ." },
+          { "ko": "자유 경쟁", "vi": "cạnh tranh tự do", "def_vi": "Ai cũng được tự do tham gia sản xuất và kinh doanh, cạnh tranh với nhau bằng giá và chất lượng." },
+          { "ko": "이윤 추구", "vi": "theo đuổi lợi nhuận", "def_vi": "Động cơ tìm kiếm lợi nhuận của cá nhân và doanh nghiệp — động lực chính vận hành kinh tế thị trường." },
+          { "ko": "수요와 공급", "vi": "cung và cầu", "def_vi": "Lượng người muốn mua và lượng người muốn bán. Giá cả hình thành tại điểm hai bên gặp nhau." }
+        ]
+      },
+      {
+        "h_ko": "계획경제체제와의 차이",
+        "h_vi": "Khác biệt với thể chế kinh tế kế hoạch",
+        "body_vi": "Đối lập với 시장경제 là 계획경제체제 (kinh tế kế hoạch), nơi nhà nước sở hữu tư liệu sản xuất và quyết định sản xuất cái gì, bao nhiêu, phân cho ai. Ưu điểm trên lý thuyết là giảm bất bình đẳng, nhưng thực tế thiếu động lực làm việc nên hiệu quả thấp và hàng hóa khan hiếm. Đa số các nước ngày nay theo 혼합경제 — lấy thị trường làm nền tảng nhưng nhà nước vẫn can thiệp ở những chỗ cần thiết, và Hàn Quốc thuộc nhóm này.",
+        "terms": [
+          { "ko": "계획경제체제", "vi": "thể chế kinh tế kế hoạch", "def_vi": "Nhà nước sở hữu tư liệu sản xuất và quyết định mọi vấn đề kinh tế theo kế hoạch." },
+          { "ko": "혼합경제", "vi": "kinh tế hỗn hợp", "def_vi": "Nền kinh tế lấy thị trường làm chính nhưng nhà nước bổ sung, điều chỉnh khi thị trường thất bại." }
+        ]
+      },
+      {
+        "h_ko": "시장 실패와 공공재",
+        "h_vi": "Thất bại thị trường và hàng hóa công",
+        "body_vi": "Thị trường không phải lúc nào cũng cho kết quả tốt — tình huống thị trường tự nó không phân bổ hiệu quả gọi là 시장 실패 (thất bại thị trường). Ví dụ điển hình là 공공재 (hàng hóa công) như 국방, 도로, 가로등, 치안: ai cũng dùng được và không thể loại trừ người không trả tiền, nên tư nhân không muốn sản xuất vì không thu được lợi. Vì vậy nhà nước phải cung cấp bằng tiền thuế. Một dạng thất bại khác là 외부효과 (ngoại ứng), chẳng hạn nhà máy xả ô nhiễm gây thiệt hại cho người khác mà không phải trả giá.",
+        "terms": [
+          { "ko": "시장 실패", "vi": "thất bại thị trường", "def_vi": "Tình trạng thị trường tự nó không phân bổ nguồn lực hiệu quả — do công cộng, độc quyền, ngoại ứng, thông tin bất cân xứng." },
+          { "ko": "공공재", "vi": "hàng hóa công", "def_vi": "Hàng hóa mọi người cùng dùng và không loại trừ được ai, như 국방·도로·가로등. Nhà nước phải cung cấp." },
+          { "ko": "외부효과", "vi": "ngoại ứng", "def_vi": "Hoạt động kinh tế gây ảnh hưởng tốt hoặc xấu cho bên thứ ba mà không thanh toán qua giá cả." }
+        ]
+      },
+      {
+        "h_ko": "정부의 역할",
+        "h_vi": "Vai trò của chính phủ",
+        "body_vi": "Chính phủ bù đắp cho những chỗ thị trường làm không tốt, và có ba vai trò được hỏi thi nhiều nhất. Thứ nhất, 공공재 공급 — xây đường, bảo đảm quốc phòng, trị an bằng ngân sách thuế. Thứ hai, 독과점 규제 — ngăn một hoặc vài doanh nghiệp thao túng giá; cơ quan phụ trách là 공정거래위원회, và hành vi các doanh nghiệp bắt tay nâng giá gọi là 담합, bị pháp luật cấm. Thứ ba, 소득 재분배 — dùng 누진세 (thuế lũy tiến: thu nhập càng cao, thuế suất càng cao) rồi chi cho 사회보장제도 để thu hẹp khoảng cách giàu nghèo. Ngoài ra chính phủ còn giữ ổn định vật giá và việc làm.",
+        "terms": [
+          { "ko": "독과점", "vi": "độc quyền và thiểu quyền", "def_vi": "Tình trạng một (독점) hoặc vài (과점) doanh nghiệp thống trị thị trường, có thể tùy ý nâng giá." },
+          { "ko": "공정거래위원회", "vi": "Ủy ban Thương mại Công bằng", "def_vi": "Cơ quan giám sát và xử lý độc quyền, thông đồng giá, giao dịch bất công bằng." },
+          { "ko": "담합", "vi": "thông đồng giá", "def_vi": "Các doanh nghiệp cùng ngành bí mật thỏa thuận nâng giá hoặc chia thị trường. Hành vi bị pháp luật cấm." },
+          { "ko": "누진세", "vi": "thuế lũy tiến", "def_vi": "Thu nhập càng cao thì thuế suất áp dụng càng cao. Công cụ chính để tái phân phối thu nhập." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "시장경제 vs 계획경제",
+        "cap_vi": "Kinh tế thị trường và kinh tế kế hoạch",
+        "head": ["구분", "시장경제체제", "계획경제체제"],
+        "rows": [
+          ["재산 소유", "사유재산권 인정", "국가가 생산 수단 소유"],
+          ["무엇을 얼마나 생산할지", "가격(수요·공급)이 결정", "국가의 계획이 결정"],
+          ["움직이는 힘", "이윤 추구와 자유 경쟁", "국가의 지시와 목표"],
+          ["장점", "효율성이 높고 기술 발전이 빠르다", "이론상 빈부 격차가 작다"],
+          ["단점", "빈부 격차·독과점·환경 문제", "동기 부족으로 생산성이 낮다"]
+        ]
+      },
+      {
+        "cap_ko": "정부의 역할 세 가지",
+        "cap_vi": "Ba vai trò của chính phủ",
+        "head": ["역할", "이유", "구체적인 예"],
+        "rows": [
+          ["공공재 공급", "이익이 안 나 민간이 만들지 않음", "국방, 도로, 가로등, 치안"],
+          ["독과점 규제", "경쟁이 사라지면 소비자가 손해", "공정거래위원회의 담합 조사·제재"],
+          ["소득 재분배", "시장은 빈부 격차를 스스로 줄이지 못함", "누진세, 사회보장제도, 공공부조"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "시장경제의 세 가지 특징: 사유재산권 · 자유 경쟁 · 이윤 추구",
+      "시장경제에서 무엇을 얼마나 생산할지는 가격(수요와 공급)이 결정한다",
+      "공공재는 국방·도로·가로등처럼 모두가 함께 쓰는 재화로, 정부가 세금으로 공급한다",
+      "정부의 3대 역할: 공공재 공급 · 독과점 규제 · 소득 재분배",
+      "담합과 독과점을 감시·규제하는 기관은 공정거래위원회",
+      "누진세는 소득이 많을수록 세율이 높아지는 세금으로 소득 재분배 수단이다",
+      "계획경제는 국가가 생산 수단을 소유하고 계획으로 결정하는 체제이다"
+    ],
+    "traps": [
+      "'시장경제에서는 정부가 전혀 개입하지 않는다'는 틀린 설명 — 오늘날 대부분 국가는 혼합경제다.",
+      "공공재는 '정부가 파는 상품'이 아니라 '시장에 맡기면 공급되지 않는 재화'라서 정부가 맡는 것이다.",
+      "담합은 기업들이 서로 경쟁을 줄이는 행위이므로 소비자에게 이익이 아니라 손해다.",
+      "누진세를 '모두 같은 세율로 내는 세금'으로 설명한 선택지는 오답(그건 비례세)."
+    ],
+    "examples": [
+      {
+        "q": "시장경제체제의 특징으로 옳지 않은 것은?",
+        "choices": ["개인의 사유재산권을 법으로 보장한다", "기업은 자유롭게 경쟁하며 이윤을 추구한다", "무엇을 얼마나 생산할지 국가가 계획으로 정한다", "상품의 가격은 수요와 공급에 따라 정해진다"],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. Nhà nước quyết định sản xuất gì, bao nhiêu bằng kế hoạch là đặc trưng của 계획경제체제, không phải 시장경제. ①②④ đều đúng với kinh tế thị trường: bảo hộ 사유재산권, doanh nghiệp 자유 경쟁 và 이윤 추구, giá cả do 수요와 공급 quyết định."
+      },
+      {
+        "q": "다음 설명에 해당하는 것으로 옳은 것은?\n\n국방, 도로, 가로등처럼 여러 사람이 함께 이용하지만 이익이 남지 않아 민간 기업이 만들려 하지 않는 재화이다.",
+        "choices": ["사치재", "공공재", "수입품", "중간재"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. 공공재 là hàng hóa ai cũng dùng và không thể loại trừ người không trả tiền, nên tư nhân không muốn sản xuất và nhà nước phải cung cấp bằng tiền thuế. Các lựa chọn còn lại đều là hàng hóa thông thường được thị trường cung cấp bình thường, không liên quan tới 시장 실패."
+      },
+      {
+        "q": "정부가 하는 일과 그 목적이 바르게 연결되지 않은 것은?",
+        "choices": ["공공재 공급 - 민간이 제공하기 어려운 서비스를 제공하기 위해", "독과점 규제 - 공정한 경쟁을 지키고 소비자를 보호하기 위해", "누진세 부과 - 소득 격차를 줄이기 위해", "기업 담합 허용 - 물가를 안정시키기 위해"],
+        "answer": 3,
+        "explain_vi": "Đáp án ④. 담합 là hành vi doanh nghiệp bắt tay nhau nâng giá, làm vật giá TĂNG chứ không ổn định, và bị 공정거래위원회 xử phạt — chính phủ không bao giờ cho phép. ①②③ đều là ghép đúng: cung cấp 공공재, kiểm soát 독과점, và đánh 누진세 để tái phân phối thu nhập."
+      }
+    ],
+    "match": ["시장경제", "사유재산권", "자유 경쟁", "공공재", "정부의 역할", "독과점 규제", "공정거래위원회", "소득 재분배"]
+  },
+
+  {
+    "id": "adv_economy-l02",
+    "domain": "adv_economy",
+    "order": 2,
+    "title_ko": "자산관리와 노후 대비",
+    "title_vi": "Quản lý tài sản và chuẩn bị tuổi già",
+    "icon": "🏠",
+    "summary_vi": "Trọng tâm là ba yếu tố 안전성·수익성·유동성 và quan hệ đánh đổi giữa chúng — bảng dưới đây gần như ra thi nguyên văn. Phần sau là 3층 연금 để chuẩn bị tuổi già trong xã hội siêu già hóa của Hàn Quốc.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "자산관리란 무엇인가",
+        "h_vi": "Quản lý tài sản là gì",
+        "body_vi": "자산관리 (quản lý tài sản) là việc lên kế hoạch kiếm, tiêu, tích lũy và đầu tư tiền theo từng giai đoạn của đời người. Thu nhập chủ yếu tập trung ở tuổi lao động, nhưng chi tiêu thì kéo dài suốt đời — kể cả sau khi nghỉ hưu — nên nếu không chuẩn bị từ sớm sẽ thiếu hụt về già. Nguyên tắc cơ bản là không dồn hết vào một chỗ mà 분산투자 (đầu tư phân tán), theo đúng câu \"đừng bỏ tất cả trứng vào một giỏ\".",
+        "terms": [
+          { "ko": "자산관리", "vi": "quản lý tài sản", "def_vi": "Lập kế hoạch dài hạn cho việc kiếm, tiêu, tiết kiệm và đầu tư phù hợp với từng giai đoạn cuộc đời." },
+          { "ko": "분산투자", "vi": "đầu tư phân tán", "def_vi": "Chia tài sản vào nhiều loại khác nhau để giảm rủi ro thay vì dồn hết vào một tài sản." }
+        ]
+      },
+      {
+        "h_ko": "자산의 종류",
+        "h_vi": "Các loại tài sản",
+        "body_vi": "예금·적금 là gửi ngân hàng, gần như chắc chắn nhận lại vốn và lãi, được 예금자보호제도 bảo vệ trong hạn mức pháp định. 주식 là mua phần sở hữu doanh nghiệp — có thể lời lớn nhưng cũng có thể mất vốn, và KHÔNG thuộc diện bảo vệ tiền gửi. 채권 là cho chính phủ hay doanh nghiệp vay và nhận lãi định kỳ, rủi ro thấp hơn cổ phiếu. 부동산 là nhà đất, giá trị lớn nhưng khó bán nhanh nên tính thanh khoản thấp. 연금 là sản phẩm dành riêng cho tuổi già. Một điểm đặc thù Hàn Quốc mà người Việt hay bỡ ngỡ: chế độ 전세 — người thuê đặt một khoản tiền cọc rất lớn thay vì trả tiền hằng tháng, hết hạn hợp đồng thì lấy lại; khoản 전세금 đó là phần tài sản lớn nhất của nhiều hộ gia đình, nên phải kiểm tra 등기부등본 và đăng ký 확정일자 để bảo vệ.",
+        "terms": [
+          { "ko": "주식", "vi": "cổ phiếu", "def_vi": "Chứng chỉ sở hữu một phần doanh nghiệp. Sinh lời cao nhưng có thể mất vốn, không được bảo vệ tiền gửi." },
+          { "ko": "채권", "vi": "trái phiếu", "def_vi": "Giấy chứng nhận cho chính phủ hoặc doanh nghiệp vay tiền, nhận lãi theo kỳ hạn. Rủi ro thấp hơn cổ phiếu." },
+          { "ko": "전세", "vi": "chế độ thuê nhà đặt cọc lớn", "def_vi": "Hình thức thuê nhà đặc thù Hàn Quốc: đặt một khoản cọc lớn, không trả tiền thuê hằng tháng, hết hợp đồng nhận lại tiền cọc." },
+          { "ko": "예금자보호제도", "vi": "chế độ bảo vệ người gửi tiền", "def_vi": "Bảo vệ tiền gửi trong hạn mức pháp định khi tổ chức tài chính phá sản. Cổ phiếu và đầu tư không thuộc diện này." }
+        ]
+      },
+      {
+        "h_ko": "자산관리의 세 가지 원칙",
+        "h_vi": "Ba nguyên tắc quản lý tài sản",
+        "body_vi": "Mọi tài sản đều được đánh giá bằng ba tiêu chí: 안전성 (mức độ giữ được vốn gốc), 수익성 (khả năng sinh lời), 유동성 (mức độ dễ đổi thành tiền mặt). Điểm mấu chốt phải hiểu là ba yếu tố này 상충 관계 (đánh đổi lẫn nhau): 안전성이 높으면 수익성이 낮고, 수익성이 높으면 안전성이 낮다. Vì vậy KHÔNG tồn tại tài sản nào vừa an toàn tuyệt đối vừa sinh lời cao — bất cứ ai quảng cáo \"vừa an toàn vừa lãi lớn\" thì gần như chắc chắn là lừa đảo. Người quản lý tài sản khôn ngoan sẽ phối hợp cả ba theo mục tiêu và độ tuổi của mình.",
+        "terms": [
+          { "ko": "안전성", "vi": "tính an toàn", "def_vi": "Mức độ bảo toàn được vốn gốc, tức khả năng không bị mất tiền đã bỏ ra." },
+          { "ko": "수익성", "vi": "tính sinh lời", "def_vi": "Mức lợi nhuận có thể thu được từ tài sản." },
+          { "ko": "유동성", "vi": "tính thanh khoản", "def_vi": "Mức độ dễ dàng đổi tài sản thành tiền mặt mà không bị thiệt. Tiền mặt cao nhất, bất động sản thấp nhất." },
+          { "ko": "상충 관계", "vi": "quan hệ đánh đổi", "def_vi": "Được cái này thì mất cái kia. An toàn cao thì sinh lời thấp, sinh lời cao thì an toàn thấp." }
+        ]
+      },
+      {
+        "h_ko": "노후 대비와 3층 연금",
+        "h_vi": "Chuẩn bị tuổi già và ba tầng lương hưu",
+        "body_vi": "Hàn Quốc đang già hóa với tốc độ nhanh bậc nhất thế giới, tuổi thọ dài trong khi thời gian đi làm có hạn, nên chuẩn bị tuổi già là việc bắt buộc chứ không phải tùy chọn. Hệ thống bảo đảm thu nhập tuổi già được gọi là 3층 연금: tầng 1 là 국민연금 do nhà nước vận hành và bắt buộc tham gia, tầng 2 là 퇴직연금 do doanh nghiệp lo, tầng 3 là 개인연금 tự mình chuẩn bị thêm. 국민연금 về nguyên tắc áp dụng cho cả người nước ngoài làm việc tại Hàn Quốc; tùy hiệp định giữa hai nước mà có thể được hoàn trả một lần (반환일시금) khi rời Hàn Quốc, nên hãy hỏi kỹ 국민연금공단. Ngoài lương hưu, việc giữ sức khỏe và duy trì hoạt động xã hội cũng là một phần của chuẩn bị tuổi già.",
+        "terms": [
+          { "ko": "국민연금", "vi": "lương hưu quốc dân", "def_vi": "Bảo hiểm xã hội bắt buộc do nhà nước vận hành, chi trả thu nhập khi về già, tàn tật hoặc tử vong." },
+          { "ko": "퇴직연금", "vi": "lương hưu doanh nghiệp", "def_vi": "Chế độ doanh nghiệp tích lũy tiền nghỉ việc của người lao động ở tổ chức tài chính bên ngoài rồi chi trả khi nghỉ hưu." },
+          { "ko": "개인연금", "vi": "lương hưu cá nhân", "def_vi": "Sản phẩm hưu trí tự nguyện cá nhân mua thêm để bổ sung cho hai tầng trước." },
+          { "ko": "고령화", "vi": "già hóa dân số", "def_vi": "Tỷ trọng người từ 65 tuổi trở lên tăng lên: từ 7% là 고령화사회, 14% là 고령사회, 20% là 초고령사회." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "안전성 · 수익성 · 유동성 (시험 필수)",
+        "cap_vi": "An toàn · Sinh lời · Thanh khoản (bắt buộc thuộc)",
+        "head": ["원칙", "뜻", "높은 자산의 예"],
+        "rows": [
+          ["안전성", "원금을 잃지 않고 지킬 수 있는 정도", "예금·적금, 국채"],
+          ["수익성", "이익을 얻을 수 있는 정도", "주식, 부동산"],
+          ["유동성", "필요할 때 쉽게 현금으로 바꿀 수 있는 정도", "현금, 보통예금"]
+        ]
+      },
+      {
+        "cap_ko": "자산 종류별 특징 비교",
+        "cap_vi": "So sánh đặc điểm các loại tài sản",
+        "head": ["자산", "안전성", "수익성", "유동성"],
+        "rows": [
+          ["예금·적금", "높음", "낮음", "비교적 높음"],
+          ["채권", "비교적 높음", "보통", "보통"],
+          ["주식", "낮음", "높을 수 있음", "비교적 높음"],
+          ["부동산", "보통", "높을 수 있음", "낮음 (팔기 어렵다)"]
+        ]
+      },
+      {
+        "cap_ko": "노후 대비 3층 연금",
+        "cap_vi": "Ba tầng lương hưu chuẩn bị tuổi già",
+        "head": ["층", "이름", "누가 준비하나"],
+        "rows": [
+          ["1층", "국민연금", "국가 (의무 가입)"],
+          ["2층", "퇴직연금", "기업(사업주)"],
+          ["3층", "개인연금", "개인 스스로 (선택)"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "자산관리의 3원칙: 안전성 · 수익성 · 유동성",
+      "안전성과 수익성은 상충 관계 — 안전하면 수익이 낮고, 수익이 높으면 위험하다",
+      "유동성이 가장 높은 것은 현금, 가장 낮은 것은 부동산",
+      "예금·적금은 예금자보호 대상이지만 주식 투자 손실은 보호되지 않는다",
+      "노후 대비 3층 연금: 1층 국민연금(국가) · 2층 퇴직연금(기업) · 3층 개인연금(개인)",
+      "'안전하면서 수익도 매우 높은 상품'은 존재하지 않는다 — 그런 광고는 사기다",
+      "분산투자는 위험을 줄이기 위해 여러 자산에 나누어 투자하는 것"
+    ],
+    "traps": [
+      "'수익성이 높으면 안전성도 높다'는 선택지는 언제나 오답이다.",
+      "유동성을 '수익이 많이 나는 성질'로 설명한 선택지에 속지 말 것 — 유동성은 '현금화가 쉬운 정도'다.",
+      "주식은 예금자보호제도의 대상이 아니다.",
+      "부동산은 값이 크게 오를 수 있지만 필요할 때 바로 팔기 어렵다는 점(낮은 유동성)을 함께 기억."
+    ],
+    "examples": [
+      {
+        "q": "자산관리의 원칙 중 '유동성'에 대한 설명으로 옳은 것은?",
+        "choices": ["원금을 잃지 않고 지킬 수 있는 정도", "필요할 때 쉽게 현금으로 바꿀 수 있는 정도", "이익을 얼마나 많이 얻을 수 있는지의 정도", "투자한 기간이 얼마나 긴지를 나타내는 정도"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. 유동성 (tính thanh khoản) là mức độ dễ đổi tài sản thành tiền mặt khi cần mà không chịu thiệt. ① là định nghĩa của 안전성; ③ là 수익성; ④ không phải nguyên tắc quản lý tài sản nào cả. Tiền mặt có 유동성 cao nhất, còn 부동산 thấp nhất vì khó bán nhanh."
+      },
+      {
+        "q": "자산관리에 대한 설명으로 옳지 않은 것은?",
+        "choices": ["안전성이 높은 자산은 대체로 수익성이 낮다", "주식은 수익성이 높을 수 있지만 원금을 잃을 위험도 있다", "안전성과 수익성을 모두 최고로 갖춘 상품이 존재한다", "위험을 줄이기 위해 여러 자산에 나누어 투자하는 것이 좋다"],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. 안전성 và 수익성 có quan hệ 상충 (đánh đổi), nên KHÔNG tồn tại sản phẩm vừa an toàn tuyệt đối vừa sinh lời cao — quảng cáo như vậy hầu như luôn là lừa đảo. ①②④ đều đúng: an toàn cao thì lời thấp, cổ phiếu lời cao kèm rủi ro mất vốn, và 분산투자 giúp giảm rủi ro."
+      },
+      {
+        "q": "노후 대비를 위한 3층 연금의 연결이 바른 것은?",
+        "choices": ["1층 개인연금 - 2층 국민연금 - 3층 퇴직연금", "1층 국민연금 - 2층 퇴직연금 - 3층 개인연금", "1층 퇴직연금 - 2층 개인연금 - 3층 국민연금", "1층 국민연금 - 2층 개인연금 - 3층 퇴직연금"],
+        "answer": 1,
+        "explain_vi": "Đáp án ②. Thứ tự đúng là 국민연금 (nhà nước, bắt buộc) → 퇴직연금 (doanh nghiệp) → 개인연금 (cá nhân tự chuẩn bị thêm). Cách nhớ: đi từ trách nhiệm của nhà nước, tới trách nhiệm của công ty, rồi mới tới lựa chọn của bản thân. Các phương án còn lại đều đảo lộn thứ tự này."
+      }
+    ],
+    "match": ["자산관리", "안전성", "유동성", "노후 대비", "국민연금", "3층 연금", "예금자보호", "금융기관 이용"]
+  },
+
+  {
+    "id": "adv_economy-l03",
+    "domain": "adv_economy",
+    "order": 3,
+    "title_ko": "기업·근로자·국제거래",
+    "title_vi": "Doanh nghiệp, người lao động và giao dịch quốc tế",
+    "icon": "🌐",
+    "summary_vi": "Bài tổng hợp cuối phần kinh tế nâng cao. 근로3권 theo 헌법 제33조 và 4대보험 là hai nội dung ra thi chắc chắn; phần GDP và 환율 thì chỉ cần nắm nguyên lý \"환율이 오르면 원화 가치는 떨어진다\".",
+    "est_min": 11,
+    "sections": [
+      {
+        "h_ko": "기업의 역할과 사회적 책임",
+        "h_vi": "Vai trò và trách nhiệm xã hội của doanh nghiệp",
+        "body_vi": "기업 (doanh nghiệp) sản xuất hàng hóa và dịch vụ, tạo 일자리 và trả 임금, đồng thời nộp 세금 cho nhà nước — đây là ba vai trò kinh tế cơ bản. Mục tiêu của doanh nghiệp là 이윤 추구, nhưng phải theo đuổi trong khuôn khổ pháp luật và đạo đức, gọi là 기업의 사회적 책임 (trách nhiệm xã hội của doanh nghiệp). Cụ thể là 준법 경영 (kinh doanh tuân thủ pháp luật), nộp thuế trung thực chứ không 탈세 (trốn thuế), bảo đảm an toàn cho người lao động, bảo vệ môi trường và đóng góp cho cộng đồng.",
+        "terms": [
+          { "ko": "기업의 사회적 책임", "vi": "trách nhiệm xã hội của doanh nghiệp", "def_vi": "Nghĩa vụ của doanh nghiệp không chỉ kiếm lợi nhuận mà còn tuân thủ pháp luật, bảo vệ môi trường và đóng góp cho xã hội." },
+          { "ko": "탈세", "vi": "trốn thuế", "def_vi": "Hành vi che giấu thu nhập để không nộp thuế. Là hành vi phạm pháp, khác với việc giảm thuế hợp pháp (절세)." },
+          { "ko": "준법 경영", "vi": "kinh doanh tuân thủ pháp luật", "def_vi": "Vận hành doanh nghiệp theo đúng quy định pháp luật và chuẩn mực đạo đức." }
+        ]
+      },
+      {
+        "h_ko": "근로자의 권리 — 근로3권",
+        "h_vi": "Quyền của người lao động — ba quyền lao động",
+        "body_vi": "헌법 제33조 quy định người lao động có ba quyền để cải thiện điều kiện làm việc, gọi là 근로3권 (또는 노동3권): 단결권 (quyền lập và gia nhập công đoàn), 단체교섭권 (quyền thông qua công đoàn thương lượng với chủ sử dụng), 단체행동권 (quyền hành động tập thể như đình công để đòi yêu sách). Ba quyền này là quyền HIẾN ĐỊNH, tức được Hiến pháp bảo đảm, và áp dụng cho cả người lao động nước ngoài đang làm việc hợp pháp tại Hàn Quốc. Đề thi hầu như luôn hỏi \"đủ ba quyền nào\" hoặc \"quyền nào KHÔNG thuộc 근로3권\", nên phải thuộc đúng ba chữ.",
+        "terms": [
+          { "ko": "단결권", "vi": "quyền đoàn kết", "def_vi": "Quyền của người lao động thành lập, gia nhập và vận hành 노동조합 (công đoàn)." },
+          { "ko": "단체교섭권", "vi": "quyền thương lượng tập thể", "def_vi": "Quyền thông qua đại diện công đoàn thương lượng với chủ sử dụng về lương và điều kiện làm việc." },
+          { "ko": "단체행동권", "vi": "quyền hành động tập thể", "def_vi": "Quyền tiến hành đình công (파업) và các hành vi tập thể khác để đạt yêu sách." },
+          { "ko": "노동조합", "vi": "công đoàn", "def_vi": "Tổ chức do người lao động tự chủ lập ra để bảo vệ và nâng cao điều kiện làm việc." }
+        ]
+      },
+      {
+        "h_ko": "근로 조건의 보호 — 최저임금제와 4대보험",
+        "h_vi": "Bảo vệ điều kiện lao động — lương tối thiểu và bốn bảo hiểm",
+        "body_vi": "근로기준법 quy định tiêu chuẩn TỐI THIỂU về điều kiện lao động, và mọi thỏa thuận thấp hơn luật đều vô hiệu — nghĩa là dù người lao động đã ký, điều khoản dưới chuẩn cũng không có hiệu lực. 최저임금제 (chế độ lương tối thiểu) buộc chủ sử dụng phải trả không thấp hơn mức tối thiểu; mức này do 최저임금위원회 thẩm định mỗi năm và chính phủ công bố, áp dụng cho cả người lao động nước ngoài. Bên cạnh đó là 4대보험 — 국민연금, 국민건강보험, 고용보험, 산업재해보상보험 — về nguyên tắc là bảo hiểm BẮT BUỘC, chủ sử dụng phải cho người lao động tham gia chứ không phải chuyện tự nguyện. Đây là điểm rất khác với thói quen ở nhiều nơi tại Việt Nam nơi lao động thời vụ hay làm việc không có bảo hiểm: ở Hàn Quốc, riêng 산재보험 do chủ sử dụng đóng toàn bộ và vẫn được bồi thường ngay cả khi tai nạn có phần lỗi của người lao động.",
+        "terms": [
+          { "ko": "최저임금제", "vi": "chế độ lương tối thiểu", "def_vi": "Chế độ nhà nước ấn định mức lương thấp nhất mà chủ sử dụng phải trả, nhằm bảo đảm đời sống người lao động." },
+          { "ko": "4대보험", "vi": "bốn bảo hiểm xã hội", "def_vi": "국민연금·국민건강보험·고용보험·산업재해보상보험. Bảo hiểm bắt buộc theo luật." },
+          { "ko": "산업재해보상보험", "vi": "bảo hiểm tai nạn lao động", "def_vi": "Chi trả viện phí và bồi thường khi bị thương, bệnh do công việc. Phí do chủ sử dụng đóng toàn bộ." }
+        ]
+      },
+      {
+        "h_ko": "국민경제와 GDP",
+        "h_vi": "Kinh tế quốc dân và GDP",
+        "body_vi": "GDP (국내총생산) là tổng giá trị thị trường của toàn bộ hàng hóa và dịch vụ CUỐI CÙNG được sản xuất MỚI trong lãnh thổ một nước trong một khoảng thời gian nhất định. Điểm mấu chốt là tiêu chuẩn \"lãnh thổ\": người nước ngoài làm việc tại Hàn Quốc thì sản lượng của họ TÍNH vào GDP Hàn Quốc, còn người Hàn làm việc ở nước ngoài thì không. Mức tăng của GDP so với năm trước gọi là 경제성장률. GDP là chỉ số quan trọng nhưng không phản ánh được chất lượng cuộc sống, chênh lệch giàu nghèo hay ô nhiễm môi trường.",
+        "terms": [
+          { "ko": "국내총생산(GDP)", "vi": "tổng sản phẩm quốc nội", "def_vi": "Tổng giá trị thị trường của hàng hóa, dịch vụ cuối cùng sản xuất mới trong lãnh thổ một nước trong một kỳ." },
+          { "ko": "경제성장률", "vi": "tốc độ tăng trưởng kinh tế", "def_vi": "Tỷ lệ tăng của GDP thực tế so với kỳ trước, cho biết nền kinh tế lớn lên nhanh hay chậm." }
+        ]
+      },
+      {
+        "h_ko": "국제거래와 환율",
+        "h_vi": "Giao dịch quốc tế và tỷ giá",
+        "body_vi": "Các nước trao đổi hàng hóa và dịch vụ vì điều kiện tự nhiên, tài nguyên và trình độ kỹ thuật khác nhau, nên mỗi nước chuyên sản xuất thứ mình làm giỏi rồi 수출 và 수입 — nguyên lý này gọi là lợi thế so sánh. Hàn Quốc nghèo tài nguyên, nhập nguyên liệu về chế biến rồi xuất khẩu, nên phụ thuộc thương mại rất cao. 환율 (tỷ giá) là giá của ngoại tệ tính bằng 원. Quy tắc cốt lõi phải nhớ: 환율이 오르면 원화 가치는 떨어진다 — khi đó xuất khẩu có lợi (hàng Hàn rẻ đi với người nước ngoài) nhưng nhập khẩu và du học, du lịch nước ngoài đắt lên, và giá hàng nhập khẩu tăng kéo vật giá trong nước lên theo. Với người Việt sống ở Hàn Quốc, tỷ giá cao nghĩa là gửi tiền về nhà đổi được nhiều tiền Việt hơn.",
+        "terms": [
+          { "ko": "환율", "vi": "tỷ giá hối đoái", "def_vi": "Giá trị của tiền nước ngoài quy đổi ra 원. 환율 tăng nghĩa là giá trị đồng won giảm." },
+          { "ko": "무역 흑자 / 무역 적자", "vi": "thặng dư / thâm hụt thương mại", "def_vi": "Xuất khẩu nhiều hơn nhập khẩu là 흑자, ngược lại là 적자." },
+          { "ko": "관세", "vi": "thuế quan", "def_vi": "Thuế đánh vào hàng nhập khẩu. FTA (자유무역협정) là hiệp định cắt giảm hoặc xóa bỏ thuế quan giữa các nước." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "근로3권 (헌법 제33조) — 시험 필수",
+        "cap_vi": "Ba quyền lao động (Điều 33 Hiến pháp) — bắt buộc thuộc",
+        "head": ["권리", "내용", "구체적인 예"],
+        "rows": [
+          ["단결권", "노동조합을 만들고 가입할 권리", "회사에 노동조합을 결성한다"],
+          ["단체교섭권", "노동조합 대표가 사용자와 교섭할 권리", "임금·근로시간을 놓고 회사와 협상한다"],
+          ["단체행동권", "주장을 관철하기 위해 집단행동을 할 권리", "파업, 태업 등을 한다"]
+        ]
+      },
+      {
+        "cap_ko": "4대보험",
+        "cap_vi": "Bốn loại bảo hiểm xã hội",
+        "head": ["보험", "언제 도움을 받나", "보험료 부담"],
+        "rows": [
+          ["국민연금", "노령·장애·사망 시 소득 보장", "근로자와 사업주가 나누어 부담"],
+          ["국민건강보험", "질병·부상 치료비 부담을 낮춰 줌", "근로자와 사업주가 나누어 부담"],
+          ["고용보험", "실업 시 급여 지급, 재취업·훈련 지원", "근로자와 사업주가 나누어 부담"],
+          ["산업재해보상보험", "업무상 재해·질병 치료와 보상", "원칙적으로 사업주가 전액 부담"]
+        ]
+      },
+      {
+        "cap_ko": "환율이 오를 때 (원화 가치 하락)",
+        "cap_vi": "Khi tỷ giá tăng (giá trị đồng won giảm)",
+        "head": ["구분", "영향"],
+        "rows": [
+          ["수출", "유리해진다 (외국에서 한국 상품이 싸 보임)"],
+          ["수입", "불리해진다 (수입품 값이 비싸짐)"],
+          ["국내 물가", "수입 원자재 값이 올라 물가 상승 압력"],
+          ["해외여행·유학", "비용 부담이 커진다"],
+          ["본국 송금", "같은 원화로 더 많은 외화를 보낼 수 있다"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "근로3권 = 단결권 · 단체교섭권 · 단체행동권 (헌법 제33조)",
+      "근로 조건의 최저 기준을 정한 법은 근로기준법이며, 법보다 불리한 계약은 무효다",
+      "4대보험 = 국민연금 · 국민건강보험 · 고용보험 · 산업재해보상보험 (의무 가입)",
+      "산업재해보상보험의 보험료는 원칙적으로 사업주가 전액 부담한다",
+      "최저임금제는 외국인 근로자에게도 똑같이 적용된다",
+      "GDP(국내총생산)는 '한 나라 안에서' 새로 생산된 최종 재화·서비스의 시장 가치 합계",
+      "환율이 오르면 원화 가치는 떨어지고 수출은 유리, 수입은 불리해진다"
+    ],
+    "traps": [
+      "근로3권에 '단체행동권' 대신 '단체휴가권'이나 '평등권'을 끼워 넣은 선택지에 주의.",
+      "4대보험은 원하는 사람만 드는 임의 가입이 아니라 법이 정한 의무 가입이다.",
+      "GDP는 '국민' 기준이 아니라 '국내(영토)' 기준 — 한국에서 일하는 외국인의 생산도 한국 GDP에 포함된다.",
+      "'환율이 오르면 원화 가치도 오른다'는 항상 오답 — 환율과 원화 가치는 반대로 움직인다."
+    ],
+    "examples": [
+      {
+        "q": "헌법이 보장하는 근로3권에 해당하지 않는 것은?",
+        "choices": ["단결권", "단체교섭권", "단체행동권", "재산권"],
+        "answer": 3,
+        "explain_vi": "Đáp án ④. 재산권 là quyền tài sản, thuộc nhóm quyền tự do chứ không nằm trong 근로3권. Ba quyền lao động theo 헌법 제33조 là 단결권 (lập công đoàn), 단체교섭권 (thương lượng tập thể), 단체행동권 (hành động tập thể như đình công). Đề thi hay thay một trong ba bằng một quyền nghe có vẻ giống, nên phải thuộc đúng ba chữ."
+      },
+      {
+        "q": "한국의 4대보험에 대한 설명으로 옳지 않은 것은?",
+        "choices": ["국민연금, 국민건강보험, 고용보험, 산업재해보상보험을 말한다", "산업재해보상보험료는 원칙적으로 사업주가 전액 부담한다", "가입하고 싶은 사람만 선택해서 가입하는 임의 제도이다", "고용보험은 실업 시 급여와 재취업 지원을 제공한다"],
+        "answer": 2,
+        "explain_vi": "Đáp án ③. 4대보험 là bảo hiểm BẮT BUỘC theo luật, chủ sử dụng phải cho người lao động tham gia chứ không phải tự nguyện chọn. ①②④ đều đúng: bốn loại là 국민연금·국민건강보험·고용보험·산업재해보상보험, riêng 산재보험 do chủ sử dụng đóng toàn bộ, và 고용보험 hỗ trợ trợ cấp thất nghiệp cùng tái tuyển dụng."
+      },
+      {
+        "q": "환율이 오를 때(원화 가치가 떨어질 때) 나타나는 현상으로 옳은 것은?",
+        "choices": ["수출 기업에 유리하고 수입품 가격은 올라간다", "수입품 가격이 내려가 국내 물가가 안정된다", "해외여행 비용이 줄어들어 부담이 작아진다", "원화의 가치가 함께 올라가 외화를 싸게 살 수 있다"],
+        "answer": 0,
+        "explain_vi": "Đáp án ①. 환율 tăng nghĩa là giá trị đồng won giảm: hàng Hàn rẻ đi với người nước ngoài nên xuất khẩu có lợi, còn hàng nhập khẩu đắt lên. ② sai vì giá hàng nhập TĂNG và kéo vật giá trong nước lên; ③ sai vì đi nước ngoài tốn kém hơn; ④ sai vì 환율과 원화 가치는 반대 방향으로 움직인다."
+      }
+    ],
+    "match": ["기업의 역할", "근로자의 권리", "근로 3권", "단결권", "최저임금제", "국민경제", "GDP", "환율"]
+  }
+]

@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "history-l01",
+    "domain": "history",
+    "order": 1,
+    "title_ko": "한국 역사의 큰 흐름",
+    "title_vi": "Dòng chảy lớn của lịch sử Hàn Quốc",
+    "icon": "🕰️",
+    "summary_vi": "Câu hỏi kiểu \"sắp xếp thứ tự các triều đại\" gần như chắc chắn ra thi. Bài này dựng sẵn bộ khung 고조선 → 삼국 → 남북국 → 고려 → 조선 → 대한제국 → 일제 강점기 → 대한민국 để bạn treo mọi chi tiết ở các bài sau lên đó.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "왜 흐름부터 외워야 하나",
+        "h_vi": "Vì sao phải thuộc dòng chảy trước",
+        "body_vi": "Đề thi 귀화용 종합평가 rất hay hỏi \"thứ tự thành lập các nước\" chứ không hỏi chi tiết vụn vặt. Nếu bạn thuộc khung 8 giai đoạn, bạn loại được ngay 3 phương án sai mà không cần nhớ năm chính xác. Hãy đọc bảng niên biểu bên dưới thành tiếng vài lần trước khi học các bài chi tiết.",
+        "terms": [
+          { "ko": "시대 순서", "vi": "thứ tự các thời đại", "def_vi": "Dạng câu hỏi yêu cầu xếp các nước/triều đại theo thứ tự thời gian. Đây là dạng ra thi đều nhất trong phần 역사." }
+        ]
+      },
+      {
+        "h_ko": "고대 — 고조선과 삼국, 남북국",
+        "h_vi": "Cổ đại — Gojoseon, Tam Quốc và Nam Bắc Quốc",
+        "body_vi": "고조선 (Gojoseon) là nhà nước đầu tiên của Hàn Quốc, do 단군왕검 lập nên. Sau đó bán đảo bước vào 삼국 시대 với ba nước 고구려·백제·신라 cạnh tranh nhau. Năm 676, 신라 thống nhất bán đảo; cùng lúc ở phía bắc 발해 ra đời, nên giai đoạn này gọi là 남북국 시대 (Thời Nam Bắc Quốc).",
+        "terms": [
+          { "ko": "고조선", "vi": "Gojoseon", "def_vi": "Nhà nước đầu tiên trong lịch sử Hàn Quốc. Chữ 고(古) nghĩa là \"cổ\", được người đời sau thêm vào để phân biệt với 조선 (1392)." },
+          { "ko": "남북국 시대", "vi": "Thời Nam Bắc Quốc", "def_vi": "Giai đoạn 통일 신라 ở phía nam và 발해 ở phía bắc cùng tồn tại (676~926)." }
+        ]
+      },
+      {
+        "h_ko": "중세 — 고려",
+        "h_vi": "Trung đại — Goryeo",
+        "body_vi": "Năm 918, 왕건 lập ra 고려 và thống nhất lại bán đảo. Tên tiếng Anh \"Korea\" chính là phiên âm của 고려 — chi tiết này ra thi rất nhiều. 고려 nổi tiếng với 고려청자, 팔만대장경 và 직지심체요절 (bản in kim loại cổ nhất thế giới còn lại).",
+        "terms": [
+          { "ko": "고려", "vi": "Goryeo (918~1392)", "def_vi": "Triều đại kế tục 통일 신라. Tên gọi \"Korea\" trong tiếng Anh bắt nguồn từ tên nước này." }
+        ]
+      },
+      {
+        "h_ko": "근세·근대 — 조선에서 일제 강점기까지",
+        "h_vi": "Cận thế và cận đại — từ Joseon đến thời Nhật chiếm đóng",
+        "body_vi": "Năm 1392, 이성계 lật đổ 고려 và lập 조선, triều đại kéo dài hơn 500 năm với Nho giáo làm nền tảng. Năm 1897, 고종 đổi quốc hiệu thành 대한제국 để tuyên bố Hàn Quốc là nước độc lập ngang hàng các đế quốc. Nhưng đến năm 1910, Nhật Bản cưỡng chiếm chủ quyền (국권 피탈) và mở ra 일제 강점기 kéo dài 35 năm.",
+        "terms": [
+          { "ko": "조선", "vi": "Joseon (1392~1897)", "def_vi": "Triều đại cuối cùng của Hàn Quốc, do 이성계 sáng lập. Thời kỳ sinh ra 한글, 종묘, 경복궁." },
+          { "ko": "대한제국", "vi": "Đại Hàn Đế quốc (1897~1910)", "def_vi": "Quốc hiệu do 고종 tuyên bố năm 1897 để khẳng định chủ quyền. Bị Nhật Bản thôn tính năm 1910." }
+        ]
+      },
+      {
+        "h_ko": "현대 — 광복과 대한민국",
+        "h_vi": "Hiện đại — Quang phục và Đại Hàn Dân Quốc",
+        "body_vi": "Ngày 15 tháng 8 năm 1945, Hàn Quốc giành lại chủ quyền — gọi là 광복 (\"lấy lại ánh sáng\"). Đúng ba năm sau, ngày 15/8/1948, chính phủ 대한민국 chính thức được thành lập. Hãy so với Việt Nam: cũng năm 1945 Việt Nam thoát ách thống trị và tuyên ngôn độc lập — hai nước có cùng một mốc thời gian dễ nhớ.",
+        "terms": [
+          { "ko": "광복", "vi": "Quang phục (giành lại độc lập)", "def_vi": "Ngày 15/8/1945, Hàn Quốc thoát khỏi ách thống trị của Nhật Bản. Ngày này là quốc khánh 광복절." }
+        ]
+      },
+      {
+        "h_ko": "나라를 구한 인물의 흐름",
+        "h_vi": "Những nhân vật cứu nước qua các thời đại",
+        "body_vi": "Đề thi hay hỏi \"ai đánh thắng ai\". Mẹo: mỗi thời đại có một anh hùng chống một kẻ thù khác nhau — 을지문덕 chống 수나라 (nhà Tùy), 강감찬 chống 거란 (Khiết Đan), 이순신 chống 일본, 안중근 chống 일본 thời cận đại. Ghép cặp \"nhân vật – kẻ thù\" là đủ trả lời.",
+        "terms": [
+          { "ko": "을지문덕", "vi": "Eulji Mundeok", "def_vi": "Tướng 고구려, thắng quân Tùy ở 살수 대첩 năm 612." },
+          { "ko": "강감찬", "vi": "Gang Gam-chan", "def_vi": "Tướng 고려, đại thắng quân Khiết Đan ở 귀주 대첩 năm 1019." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "한국사 시대 연표",
+        "cap_vi": "Niên biểu các thời đại",
+        "head": ["시대", "시기", "대표 인물", "기억 포인트"],
+        "rows": [
+          ["고조선", "기원전 2333년 건국(전승)", "단군왕검", "한국 최초의 국가"],
+          ["삼국 시대", "기원전 1세기~668년", "고구려·백제·신라", "세 나라가 경쟁"],
+          ["남북국 시대", "676년~926년", "문무왕 · 대조영", "통일 신라 + 발해"],
+          ["고려", "918년~1392년", "왕건(태조)", "'Korea'의 어원"],
+          ["조선", "1392년~1897년", "이성계(태조)", "한글과 유교의 나라"],
+          ["대한제국", "1897년~1910년", "고종 황제", "마지막 황제 국가"],
+          ["일제 강점기", "1910년~1945년", "독립운동가들", "35년간 국권 상실"],
+          ["대한민국", "1948년~", "—", "민주공화국"]
+        ]
+      },
+      {
+        "cap_ko": "외침을 막은 인물",
+        "cap_vi": "Người đẩy lui ngoại xâm",
+        "head": ["인물", "나라", "전투·사건", "상대"],
+        "rows": [
+          ["을지문덕", "고구려", "살수 대첩 (612년)", "수나라"],
+          ["강감찬", "고려", "귀주 대첩 (1019년)", "거란"],
+          ["이순신", "조선", "한산도 대첩 · 명량 대첩", "일본"],
+          ["안중근", "대한제국", "하얼빈 의거 (1909년)", "일본"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "시대 순서: 고조선 → 삼국 시대 → 남북국 시대 → 고려 → 조선 → 대한제국 → 일제 강점기 → 대한민국",
+      "고려 건국 918년 (왕건), 조선 건국 1392년 (이성계) — 두 연도는 반드시 암기",
+      "영어 국호 'Korea'는 '고려'에서 유래했다",
+      "일제 강점기: 1910년 ~ 1945년, 총 35년",
+      "광복 1945년 8월 15일 → 대한민국 정부 수립 1948년 8월 15일 (3년 차이)",
+      "삼국을 통일한 나라는 신라, 통일 연도는 676년"
+    ],
+    "traps": [
+      "고려(918년)와 고구려(기원전 37년)는 완전히 다른 나라. 이름이 비슷해 가장 많이 틀리는 함정.",
+      "고조선(기원전)과 조선(1392년)도 다른 나라. '고(古)'는 '옛날'이라는 뜻으로 후대에 붙인 말이다.",
+      "광복(1945년)과 대한민국 정부 수립(1948년)은 날짜가 8월 15일로 같지만 연도가 다르다."
+    ],
+    "examples": [
+      {
+        "q": "한국 역사에서 다음 나라가 세워진 순서로 옳은 것은?",
+        "choices": [
+          "고조선 → 삼국 시대 → 고려 → 조선",
+          "고조선 → 고려 → 삼국 시대 → 조선",
+          "삼국 시대 → 고조선 → 고려 → 조선",
+          "고려 → 고조선 → 조선 → 삼국 시대"
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án 1. Khung chuẩn là 고조선 → 삼국 시대 → 고려 → 조선. 고려 (918) và 조선 (1392) là hai triều đại rất muộn, không thể đứng trước 고조선 hay 삼국 시대. Mẹo loại trừ: phương án nào để 고조선 không đứng đầu thì sai ngay."
+      },
+      {
+        "q": "영어 국호 'Korea'의 어원이 된 나라는?",
+        "choices": ["고조선", "신라", "고려", "조선"],
+        "answer": 2,
+        "explain_vi": "Đáp án 3. \"Korea\" là phiên âm của 고려 — thời đó thương nhân Ả Rập và phương Tây giao thương với 고려 nên gọi bán đảo bằng tên này. 조선 là triều đại sau, còn tên gọi quốc tế thì vẫn giữ theo 고려."
+      },
+      {
+        "q": "일제 강점기가 지속된 기간으로 옳은 것은?",
+        "choices": ["1876년 ~ 1910년", "1897년 ~ 1945년", "1910년 ~ 1945년", "1919년 ~ 1948년"],
+        "answer": 2,
+        "explain_vi": "Đáp án 3. Nhật Bản cưỡng chiếm chủ quyền năm 1910 (국권 피탈) và Hàn Quốc giành lại độc lập ngày 15/8/1945, tổng cộng 35 năm. 1876 là năm ký 강화도 조약 (mở cửa), 1897 là năm tuyên bố 대한제국, 1948 là năm thành lập chính phủ 대한민국."
+      }
+    ],
+    "match": ["한국사 흐름", "시대 순서", "한국 역사의 흐름", "최초의 국가", "남북국 시대", "나라를 구한 인물"]
+  },
+
+  {
+    "id": "history-l02",
+    "domain": "history",
+    "order": 2,
+    "title_ko": "고조선",
+    "title_vi": "Gojoseon — nhà nước đầu tiên",
+    "icon": "🐻",
+    "summary_vi": "고조선 là nhà nước đầu tiên của Hàn Quốc. Ba từ khóa chắc chắn ra thi: 단군왕검 (người lập nước), 홍익인간 (lý tưởng lập quốc) và 8조법 (bộ luật cổ nhất). Ngày 개천절 3/10 cũng gắn với bài này.",
+    "est_min": 8,
+    "sections": [
+      {
+        "h_ko": "고조선의 건국",
+        "h_vi": "Sự thành lập của Gojoseon",
+        "body_vi": "고조선 là nhà nước đầu tiên trên bán đảo Hàn, theo truyền thuyết được 단군왕검 lập nên vào năm 2333 trước Công nguyên. Câu chuyện lập nước được ghi trong sách 삼국유사 thời 고려. Nếu so với Việt Nam, 고조선 tương ứng với thời 문랑 (Văn Lang) – 어우락 (Âu Lạc) — đều là nhà nước đầu tiên xuất hiện trong truyền thuyết dựng nước.",
+        "terms": [
+          { "ko": "단군왕검", "vi": "Dangun Wanggeom", "def_vi": "Người lập nên 고조선. Tên gọi ghép hai vai trò: 단군 là thầy tế (tôn giáo), 왕검 là vua (chính trị) — cho thấy xã hội thời đó hợp nhất thần quyền và vương quyền." },
+          { "ko": "삼국유사", "vi": "Tam Quốc Di Sự", "def_vi": "Sách sử do nhà sư 일연 biên soạn thế kỷ 13, ghi lại truyền thuyết 단군 lập nước — nguồn xưa nhất kể chuyện này." }
+        ]
+      },
+      {
+        "h_ko": "홍익인간 — 건국 이념",
+        "h_vi": "Hongik Ingan — lý tưởng lập quốc",
+        "body_vi": "홍익인간 (弘益人間) nghĩa là \"làm lợi rộng khắp cho con người\". Đây là lý tưởng lập quốc của 고조선 và đến nay vẫn được ghi trong 교육기본법 làm lý tưởng giáo dục của Hàn Quốc. Đề thi hay hỏi trực tiếp: \"고조선의 건국 이념은?\" — đáp án luôn là 홍익인간.",
+        "terms": [
+          { "ko": "홍익인간", "vi": "Hoằng ích nhân gian", "def_vi": "\"Làm lợi rộng khắp cho con người\" — lý tưởng lập quốc của 고조선, đồng thời là lý tưởng giáo dục của Hàn Quốc hiện nay." }
+        ]
+      },
+      {
+        "h_ko": "8조법 — 가장 오래된 법",
+        "h_vi": "Bát điều pháp — bộ luật cổ nhất",
+        "body_vi": "고조선 có bộ luật 8 điều gọi là 8조법 (còn gọi 범금 8조), nhưng đến nay chỉ còn truyền lại 3 điều. Ba điều này cho biết xã hội 고조선 đã coi trọng mạng người, có nông nghiệp (bồi thường bằng ngũ cốc) và đã có chế độ nô lệ cùng khái niệm tư hữu tài sản.",
+        "terms": [
+          { "ko": "8조법", "vi": "Bát điều pháp", "def_vi": "Luật của 고조선 gồm 8 điều, hiện chỉ còn 3 điều được ghi lại. Là bộ luật thành văn cổ nhất của Hàn Quốc." },
+          { "ko": "노비", "vi": "nô tì, nô lệ", "def_vi": "Tầng lớp thấp nhất trong xã hội cổ. Điều luật về 노비 chứng minh 고조선 đã phân chia giai cấp." }
+        ]
+      },
+      {
+        "h_ko": "청동기 문화와 유물",
+        "h_vi": "Văn hóa đồ đồng và di vật",
+        "body_vi": "고조선 phát triển trên nền 청동기 문화 (văn hóa đồ đồng). Kim loại chỉ dành cho tầng lớp cai trị, còn dân thường vẫn dùng công cụ đá — chính sự chênh lệch này đẻ ra giai cấp và nhà nước. Di vật tiêu biểu: 비파형 동검 (kiếm đồng hình đàn tỳ bà), 미송리식 토기 và 고인돌 (mộ đá bàn).",
+        "terms": [
+          { "ko": "청동기", "vi": "đồ đồng", "def_vi": "Thời kỳ dùng công cụ bằng đồng. Nền tảng vật chất để 고조선 ra đời." },
+          { "ko": "고인돌", "vi": "mộ đá bàn (dolmen)", "def_vi": "Mộ của tầng lớp cai trị thời đồ đồng. Hàn Quốc có số lượng 고인돌 nhiều nhất thế giới và đã được UNESCO công nhận." }
+        ]
+      },
+      {
+        "h_ko": "개천절 — 10월 3일",
+        "h_vi": "Gaecheonjeol — ngày 3 tháng 10",
+        "body_vi": "개천절 (\"ngày mở trời\") là quốc khánh kỷ niệm việc 단군왕검 lập nước 고조선, rơi vào ngày 3 tháng 10 hằng năm. Đây là một trong 5 quốc khánh (국경일) của Hàn Quốc và là ngày nghỉ lễ. Đề thi rất hay ghép cặp \"개천절 – 고조선 건국\".",
+        "terms": [
+          { "ko": "개천절", "vi": "Gaecheonjeol (Ngày mở trời)", "def_vi": "Quốc khánh ngày 3/10, kỷ niệm 단군왕검 lập nước 고조선." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "전해지는 8조법 3개 조항",
+        "cap_vi": "3 điều còn lại của Bát điều pháp",
+        "head": ["조항", "내용", "알 수 있는 사실"],
+        "rows": [
+          ["살인", "사람을 죽인 자는 사형에 처한다", "생명을 중시한 사회"],
+          ["상해", "남을 다치게 한 자는 곡식으로 갚는다", "농경 사회 · 사유 재산"],
+          ["절도", "도둑질한 자는 노비로 삼는다", "신분제(계급) 사회"]
+        ]
+      },
+      {
+        "cap_ko": "고조선 핵심 정리",
+        "cap_vi": "Tổng hợp trọng tâm Gojoseon",
+        "head": ["항목", "내용"],
+        "rows": [
+          ["건국자", "단군왕검"],
+          ["건국 연도(전승)", "기원전 2333년"],
+          ["건국 이념", "홍익인간"],
+          ["법", "8조법 (3개 조항만 전함)"],
+          ["문화", "청동기 문화"],
+          ["기념일", "개천절 (10월 3일)"],
+          ["기록한 책", "삼국유사"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "고조선 = 한국 최초의 국가, 세운 사람은 단군왕검",
+      "건국 이념은 홍익인간 — '널리 인간을 이롭게 한다'",
+      "8조법 중 오늘날 전해지는 것은 3개 조항뿐",
+      "고조선은 청동기 문화를 바탕으로 세워졌다",
+      "개천절은 10월 3일, 고조선 건국을 기념하는 국경일",
+      "단군 이야기가 실린 책은 삼국유사 (일연 지음)"
+    ],
+    "traps": [
+      "8조법은 조항이 8개였지만 '전해지는' 것은 3개다. '3개 조항의 법'이라고 하면 틀린 설명.",
+      "고조선은 '조선(1392년)'과 다른 나라다. 이성계의 조선과 혼동하지 말 것.",
+      "개천절(10월 3일)과 한글날(10월 9일)은 둘 다 10월이라 자주 헷갈린다."
+    ],
+    "examples": [
+      {
+        "q": "고조선을 세운 인물과 건국 이념이 바르게 연결된 것은?",
+        "choices": [
+          "왕건 — 홍익인간",
+          "단군왕검 — 홍익인간",
+          "단군왕검 — 훈민정음",
+          "이성계 — 홍익인간"
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. 고조선 do 단군왕검 lập, lý tưởng lập quốc là 홍익인간. 왕건 lập 고려 (918), 이성계 lập 조선 (1392), còn 훈민정음 là bộ chữ do 세종대왕 sáng tạo — không liên quan gì đến 고조선."
+      },
+      {
+        "q": "고조선의 법인 8조법에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "여덟 개 조항이 모두 오늘날까지 전해진다",
+          "세 개의 조항만 오늘날까지 전해진다",
+          "세종대왕이 만든 법이다",
+          "일제 강점기에 만들어진 법이다"
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. 8조법 vốn có 8 điều nhưng chỉ còn 3 điều được ghi lại: giết người thì đền mạng, gây thương tích thì đền ngũ cốc, trộm cắp thì làm 노비. Đây là bộ luật của 고조선, không phải của 세종대왕 hay thời Nhật thuộc."
+      },
+      {
+        "q": "고조선의 건국을 기념하는 국경일은?",
+        "choices": ["삼일절", "제헌절", "개천절", "한글날"],
+        "answer": 2,
+        "explain_vi": "Đáp án 3. 개천절 (3/10) kỷ niệm 단군왕검 lập nước 고조선. 삼일절 (1/3) kỷ niệm phong trào 3·1; 제헌절 (17/7) kỷ niệm ban hành Hiến pháp; 한글날 (9/10) kỷ niệm công bố 훈민정음."
+      }
+    ],
+    "match": ["고조선", "단군왕검", "홍익인간", "8조법", "청동기 문화", "개천절", "최초의 국가"]
+  },
+
+  {
+    "id": "history-l03",
+    "domain": "history",
+    "order": 3,
+    "title_ko": "삼국 시대",
+    "title_vi": "Thời Tam Quốc",
+    "icon": "🏯",
+    "summary_vi": "Ba nước 고구려·백제·신라 cùng tồn tại và cạnh tranh. Phần này ra thi rất đều — bắt buộc nhớ thứ tự thời kỳ cực thịnh (백제 → 고구려 → 신라) và thứ tự tiếp nhận Phật giáo.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "삼국의 성립",
+        "h_vi": "Sự hình thành của ba nước",
+        "body_vi": "Theo 삼국사기, 신라 lập năm 57 TCN, 고구려 năm 37 TCN, 백제 năm 18 TCN. 고구려 nằm ở phía bắc (bao gồm cả vùng Mãn Châu), 백제 ở tây nam, 신라 ở đông nam bán đảo. Cả ba đều chịu ảnh hưởng văn hóa Trung Hoa và dùng 한자 — điểm này giống Việt Nam thời Bắc thuộc.",
+        "terms": [
+          { "ko": "삼국사기", "vi": "Tam Quốc Sử Ký", "def_vi": "Sách sử do 김부식 biên soạn năm 1145 thời 고려, ghi chép về ba nước 고구려·백제·신라." },
+          { "ko": "한자", "vi": "chữ Hán", "def_vi": "Chữ viết dùng chung ở Đông Á. Trước khi có 한글 (1443), người Hàn viết bằng 한자 — giống như Việt Nam từng dùng chữ Hán và chữ Nôm." }
+        ]
+      },
+      {
+        "h_ko": "고구려",
+        "h_vi": "Goguryeo",
+        "body_vi": "고구려 là nước mạnh nhất về quân sự, lãnh thổ rộng nhất, trải cả vùng Mãn Châu. Thời cực thịnh là thế kỷ 5 dưới thời 광개토대왕 và con là 장수왕. 고구려 cũng là lá chắn chặn các cuộc xâm lược từ Trung Quốc: năm 612, tướng 을지문덕 đại thắng quân Tùy ở 살수 대첩.",
+        "terms": [
+          { "ko": "광개토대왕", "vi": "Gwanggaeto Đại đế", "def_vi": "Vua mở rộng lãnh thổ 고구려 lớn nhất, thế kỷ 5. Công lao của ông được khắc trên bia đá 광개토대왕릉비." },
+          { "ko": "장수왕", "vi": "Jangsu Vương", "def_vi": "Con của 광개토대왕, dời đô về 평양 và tiếp tục mở rộng xuống phía nam." },
+          { "ko": "살수 대첩", "vi": "Đại thắng Salsu (612)", "def_vi": "Trận 을지문덕 tiêu diệt quân nhà Tùy (수나라) ở sông Salsu." }
+        ]
+      },
+      {
+        "h_ko": "백제",
+        "h_vi": "Baekje",
+        "body_vi": "백제 mạnh sớm nhất — thời cực thịnh là thế kỷ 4 dưới thời 근초고왕. 백제 giỏi hàng hải, giao thương mạnh với Trung Quốc và Nhật Bản, và chính 백제 đã truyền Phật giáo cùng chữ Hán sang Nhật. Văn hóa 백제 tinh tế, mềm mại — tiêu biểu là 금동대향로 và 미륵사지 석탑.",
+        "terms": [
+          { "ko": "근초고왕", "vi": "Geunchogo Vương", "def_vi": "Vua đưa 백제 lên cực thịnh ở thế kỷ 4, mở rộng lãnh thổ và giao lưu quốc tế mạnh." }
+        ]
+      },
+      {
+        "h_ko": "신라",
+        "h_vi": "Silla",
+        "body_vi": "신라 nằm xa nhất về phía đông nam nên phát triển chậm nhất, cực thịnh vào thế kỷ 6 dưới thời 진흥왕. 신라 có tổ chức thanh niên 화랑도 đào tạo nhân tài, và 선덕여왕 — nữ vương đầu tiên — cho xây 첨성대, đài quan sát thiên văn cổ nhất còn lại ở Đông Á. Cuối cùng chính 신라 là nước thống nhất Tam Quốc.",
+        "terms": [
+          { "ko": "진흥왕", "vi": "Jinheung Vương", "def_vi": "Vua đưa 신라 lên cực thịnh ở thế kỷ 6, chiếm lưu vực sông Hàn và dựng các bia 순수비." },
+          { "ko": "화랑도", "vi": "Hwarangdo", "def_vi": "Tổ chức thanh niên quý tộc của 신라, rèn luyện võ nghệ và đạo đức, cung cấp tướng lĩnh cho việc thống nhất Tam Quốc." },
+          { "ko": "첨성대", "vi": "Cheomseongdae", "def_vi": "Đài quan sát thiên văn xây thời 선덕여왕 ở 경주, được coi là đài thiên văn cổ nhất còn lại ở phương Đông." }
+        ]
+      },
+      {
+        "h_ko": "불교의 전래",
+        "h_vi": "Phật giáo du nhập",
+        "body_vi": "Phật giáo vào 고구려 năm 372, 백제 năm 384, còn 신라 mãi đến năm 527 mới chính thức công nhận. Ở 신라 quý tộc phản đối rất mạnh, phải đến khi nhà sư 이차돈 tuẫn đạo thì 법흥왕 mới công nhận Phật giáo được (불교 공인). Các vua dùng Phật giáo để tập hợp lòng dân và củng cố vương quyền.",
+        "terms": [
+          { "ko": "이차돈", "vi": "Ichadon", "def_vi": "Người tuẫn đạo năm 527, nhờ đó 신라 chính thức công nhận Phật giáo dưới thời 법흥왕." },
+          { "ko": "불교 공인", "vi": "công nhận Phật giáo", "def_vi": "Việc nhà nước chính thức thừa nhận Phật giáo làm quốc giáo. 신라 công nhận muộn nhất, năm 527." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "삼국 비교",
+        "cap_vi": "So sánh ba nước",
+        "head": ["나라", "건국(삼국사기)", "위치", "전성기", "대표 왕"],
+        "rows": [
+          ["고구려", "기원전 37년", "북쪽 (만주~한반도 북부)", "5세기", "광개토대왕 · 장수왕"],
+          ["백제", "기원전 18년", "남서쪽", "4세기", "근초고왕"],
+          ["신라", "기원전 57년", "남동쪽", "6세기", "진흥왕"]
+        ]
+      },
+      {
+        "cap_ko": "불교 전래 순서",
+        "cap_vi": "Thứ tự du nhập Phật giáo",
+        "head": ["나라", "연도", "왕", "특징"],
+        "rows": [
+          ["고구려", "372년", "소수림왕", "가장 먼저 수용"],
+          ["백제", "384년", "침류왕", "일본에 불교 전파"],
+          ["신라", "527년", "법흥왕", "이차돈의 순교 후 공인"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "삼국 = 고구려 · 백제 · 신라",
+      "전성기 순서: 백제(4세기) → 고구려(5세기) → 신라(6세기)",
+      "불교 전래: 고구려 372년 → 백제 384년 → 신라 527년(공인)",
+      "고구려 광개토대왕 = 영토 최대 확장, 광개토대왕릉비",
+      "을지문덕이 수나라를 물리친 전투는 살수 대첩(612년)",
+      "첨성대는 신라 선덕여왕 때 만든 천문 관측대"
+    ],
+    "traps": [
+      "'삼국을 통일한 나라'는 신라다. 가장 강했던 고구려가 아니다 — 최다 출제 함정.",
+      "전성기 순서를 건국 순서와 헷갈리지 말 것. 건국은 신라가 가장 이르지만 전성기는 가장 늦다.",
+      "불교를 가장 먼저 받아들인 나라는 고구려(372년)이고, 가장 늦게 공인한 나라는 신라(527년)다."
+    ],
+    "examples": [
+      {
+        "q": "삼국의 전성기 순서로 옳은 것은?",
+        "choices": [
+          "고구려(4세기) → 백제(5세기) → 신라(6세기)",
+          "백제(4세기) → 고구려(5세기) → 신라(6세기)",
+          "신라(4세기) → 백제(5세기) → 고구려(6세기)",
+          "백제(4세기) → 신라(5세기) → 고구려(6세기)"
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. Trật tự cực thịnh là 백제 thế kỷ 4 (근초고왕) → 고구려 thế kỷ 5 (광개토대왕·장수왕) → 신라 thế kỷ 6 (진흥왕). Mẹo nhớ: nước ở gần Trung Quốc và biển thì phát triển trước, 신라 ở góc đông nam xa nhất nên mạnh sau cùng."
+      },
+      {
+        "q": "고구려의 영토를 가장 크게 넓힌 왕은?",
+        "choices": ["근초고왕", "진흥왕", "광개토대왕", "문무왕"],
+        "answer": 2,
+        "explain_vi": "Đáp án 3. 광개토대왕 (thế kỷ 5) mở rộng lãnh thổ 고구려 lớn nhất, công lao ghi trên bia 광개토대왕릉비. 근초고왕 là vua thời cực thịnh của 백제, 진흥왕 của 신라, còn 문무왕 là vua hoàn thành thống nhất Tam Quốc."
+      },
+      {
+        "q": "신라에서 불교가 공인된 계기가 된 인물은?",
+        "choices": ["이차돈", "을지문덕", "김유신", "대조영"],
+        "answer": 0,
+        "explain_vi": "Đáp án 1. Năm 527, 이차돈 tuẫn đạo và nhờ đó 법흥왕 chính thức công nhận Phật giáo ở 신라. 을지문덕 là tướng 고구려 (살수 대첩), 김유신 là tướng 신라 trong việc thống nhất, 대조영 là người lập 발해."
+      }
+    ],
+    "match": ["삼국 시대", "삼국의 발전과 문화", "고구려", "백제", "신라", "불교 전래", "을지문덕", "선덕여왕"]
+  },
+
+  {
+    "id": "history-l04",
+    "domain": "history",
+    "order": 4,
+    "title_ko": "삼국 통일과 발해",
+    "title_vi": "Thống nhất Tam Quốc và Balhae",
+    "icon": "⚔️",
+    "summary_vi": "신라 thống nhất Tam Quốc năm 676 dưới thời 문무왕, còn 대조영 lập 발해 ở phía bắc năm 698 — hai nước cùng tồn tại nên gọi là 남북국 시대. Câu hỏi hay ra: ai thống nhất, năm nào, và 발해 kế thừa nước nào.",
+    "est_min": 9,
+    "sections": [
+      {
+        "h_ko": "신라의 삼국 통일",
+        "h_vi": "Silla thống nhất Tam Quốc",
+        "body_vi": "신라 liên minh với nhà Đường (당나라) của Trung Quốc, diệt 백제 năm 660 rồi diệt 고구려 năm 668. Nhưng sau đó nhà Đường muốn nuốt luôn bán đảo, nên 신라 quay sang đánh Đường và thắng ở 매소성 (675) và 기벌포 (676). Năm 676, dưới thời 문무왕, 신라 hoàn thành thống nhất.",
+        "terms": [
+          { "ko": "문무왕", "vi": "Munmu Vương", "def_vi": "Vua 신라 hoàn thành thống nhất Tam Quốc năm 676. Theo di nguyện, ông được an táng dưới biển ở 대왕암 để làm rồng bảo vệ đất nước khỏi giặc Nhật." },
+          { "ko": "김유신", "vi": "Kim Yu-sin", "def_vi": "Danh tướng 신라 xuất thân 화랑, giữ vai trò trung tâm trong việc diệt 백제 và 고구려." }
+        ]
+      },
+      {
+        "h_ko": "통일 신라의 문화",
+        "h_vi": "Văn hóa Silla thống nhất",
+        "body_vi": "통일 신라 lấy 경주 làm kinh đô và phát triển rực rỡ văn hóa Phật giáo. 불국사 và 석굴암 là hai di sản tiêu biểu, đã được UNESCO công nhận là 세계문화유산. 석굴암 là hang đá nhân tạo bằng đá granit với tượng Phật ở giữa — kỹ thuật kiến trúc đỉnh cao của thế kỷ 8.",
+        "terms": [
+          { "ko": "불국사", "vi": "Chùa Bulguksa", "def_vi": "Chùa tiêu biểu của 통일 신라 ở 경주, có 다보탑 và 석가탑. Di sản văn hóa thế giới UNESCO." },
+          { "ko": "석굴암", "vi": "Seokguram", "def_vi": "Hang đá nhân tạo bằng đá granit ở 경주, bên trong có tượng Phật lớn. Cùng 불국사 được UNESCO công nhận." }
+        ]
+      },
+      {
+        "h_ko": "발해의 건국",
+        "h_vi": "Sự thành lập của Balhae",
+        "body_vi": "Năm 698, 대조영 — vốn là tướng cũ của 고구려 — dẫn dân 고구려 và người 말갈 lên vùng Mãn Châu lập nước 발해. 발해 tự nhận là nước kế thừa 고구려, thậm chí trong quốc thư gửi Nhật Bản còn tự xưng là \"고려 (Goguryeo)\". Đây là điểm rất hay ra thi: 발해 kế thừa 고구려.",
+        "terms": [
+          { "ko": "대조영", "vi": "Dae Jo-yeong", "def_vi": "Người lập 발해 năm 698, xuất thân là tướng của 고구려." },
+          { "ko": "해동성국", "vi": "Hải Đông Thịnh Quốc", "def_vi": "\"Nước thịnh vượng ở phía đông biển\" — cách nhà Đường gọi 발해 khi nước này cực thịnh, chứng tỏ 발해 rất phát triển." }
+        ]
+      },
+      {
+        "h_ko": "남북국 시대",
+        "h_vi": "Thời Nam Bắc Quốc",
+        "body_vi": "Từ năm 698 đến 926, phía nam là 통일 신라 và phía bắc là 발해 cùng tồn tại, nên các nhà sử học gọi giai đoạn này là 남북국 시대. 발해 bị nước 거란 (Khiết Đan) tiêu diệt năm 926, còn 통일 신라 suy yếu và quy thuận 고려 năm 935.",
+        "terms": [
+          { "ko": "남북국 시대", "vi": "Thời Nam Bắc Quốc", "def_vi": "Giai đoạn 통일 신라 (nam) và 발해 (bắc) cùng tồn tại, 698~926." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "삼국 통일 과정",
+        "cap_vi": "Tiến trình thống nhất Tam Quốc",
+        "head": ["연도", "사건"],
+        "rows": [
+          ["660년", "신라·당 연합군이 백제를 멸망시킴"],
+          ["668년", "신라·당 연합군이 고구려를 멸망시킴"],
+          ["675년", "매소성 전투 — 신라가 당군을 격파"],
+          ["676년", "기벌포 전투 — 신라의 삼국 통일 완성 (문무왕)"],
+          ["698년", "대조영이 발해를 건국"]
+        ]
+      },
+      {
+        "cap_ko": "통일 신라와 발해",
+        "cap_vi": "So sánh Silla thống nhất và Balhae",
+        "head": ["구분", "통일 신라", "발해"],
+        "rows": [
+          ["위치", "한반도 남부", "만주·한반도 북부"],
+          ["건국·완성", "676년 (문무왕)", "698년 (대조영)"],
+          ["계승 의식", "신라 계승", "고구려 계승"],
+          ["대표 문화유산", "불국사 · 석굴암", "정혜공주 묘 · 상경성"],
+          ["멸망", "935년 (고려에 귀순)", "926년 (거란에 멸망)"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "삼국을 통일한 나라는 신라, 완성한 왕은 문무왕, 연도는 676년",
+      "백제 멸망 660년 → 고구려 멸망 668년 → 삼국 통일 676년",
+      "발해를 세운 사람은 대조영, 건국 연도는 698년",
+      "발해는 고구려를 계승한 나라이며 '해동성국'이라 불렸다",
+      "통일 신라 + 발해가 공존한 시기를 남북국 시대라고 한다",
+      "불국사와 석굴암은 통일 신라의 대표 불교 문화유산 (경주, 유네스코 세계문화유산)"
+    ],
+    "traps": [
+      "삼국을 통일한 나라는 신라다. 고구려나 백제가 아니다.",
+      "발해는 백제를 계승한 나라가 아니라 고구려를 계승한 나라다.",
+      "불국사·석굴암은 통일 신라의 유산이지 고려나 조선의 유산이 아니다."
+    ],
+    "examples": [
+      {
+        "q": "삼국을 통일한 나라와 통일을 완성한 왕이 바르게 연결된 것은?",
+        "choices": [
+          "고구려 — 광개토대왕",
+          "백제 — 근초고왕",
+          "신라 — 문무왕",
+          "발해 — 대조영"
+        ],
+        "answer": 2,
+        "explain_vi": "Đáp án 3. 신라 hoàn thành thống nhất Tam Quốc năm 676 dưới thời 문무왕. 광개토대왕 là vua mở rộng lãnh thổ 고구려, 근초고왕 đưa 백제 lên cực thịnh, còn 대조영 lập 발해 chứ không thống nhất Tam Quốc."
+      },
+      {
+        "q": "발해에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "대조영이 세웠으며 고구려를 계승한 나라이다",
+          "이성계가 세웠으며 백제를 계승한 나라이다",
+          "왕건이 세웠으며 신라를 계승한 나라이다",
+          "단군왕검이 세운 한국 최초의 국가이다"
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án 1. 발해 do 대조영 lập năm 698, tự nhận kế thừa 고구려 và từng được gọi là 해동성국. 이성계 lập 조선, 왕건 lập 고려, còn 단군왕검 lập 고조선."
+      },
+      {
+        "q": "통일 신라의 대표적인 불교 문화유산으로 옳은 것은?",
+        "choices": ["팔만대장경", "불국사와 석굴암", "훈민정음", "수원 화성"],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. 불국사 và 석굴암 ở 경주 là di sản Phật giáo tiêu biểu của 통일 신라, đã được UNESCO công nhận. 팔만대장경 là của 고려, 훈민정음 và 수원 화성 là của 조선."
+      }
+    ],
+    "match": ["삼국 통일", "문무왕", "발해", "대조영", "해동성국", "남북국 시대", "통일 신라", "불교와 유교 문화유산"]
+  },
+
+  {
+    "id": "history-l05",
+    "domain": "history",
+    "order": 5,
+    "title_ko": "고려",
+    "title_vi": "Goryeo",
+    "icon": "🏺",
+    "summary_vi": "고려 (918~1392) là triều đại mà tên tiếng Anh \"Korea\" bắt nguồn. Trọng tâm thi: 왕건 lập nước, ngoại giao của 서희, kháng chiến chống Mông Cổ (삼별초, 팔만대장경) và ba báu vật văn hóa 고려청자 · 팔만대장경 · 직지.",
+    "est_min": 11,
+    "sections": [
+      {
+        "h_ko": "고려의 건국과 통일",
+        "h_vi": "Goryeo lập quốc và thống nhất",
+        "body_vi": "Năm 918, 왕건 lập nước 고려 và đến năm 936 thì thống nhất lại toàn bán đảo. Ông lấy tên nước là 고려 để tuyên bố kế thừa 고구려, dời đô về 개경 (nay là 개성) và thi hành chính sách hòa hợp: đối đãi tử tế với dòng dõi 신라 và tiếp nhận cả người 발해 chạy sang.",
+        "terms": [
+          { "ko": "왕건", "vi": "Wang Geon (Thái Tổ)", "def_vi": "Người lập nước 고려 năm 918, hiệu là 태조. Thống nhất bán đảo năm 936." },
+          { "ko": "개경", "vi": "Gaegyeong", "def_vi": "Kinh đô của 고려, nay là thành phố 개성 thuộc Bắc Triều Tiên." }
+        ]
+      },
+      {
+        "h_ko": "거란의 침입과 서희·강감찬",
+        "h_vi": "Khiết Đan xâm lược — Seo Hui và Gang Gam-chan",
+        "body_vi": "Nước 거란 (Khiết Đan) xâm lược 고려 ba lần. Lần thứ nhất năm 993, 서희 không đánh mà đi đàm phán, kết quả không những đẩy lui được quân địch mà còn giành thêm vùng đất 강동 6주 — đây là ví dụ kinh điển về sức mạnh ngoại giao. Lần thứ ba, năm 1019, tướng 강감찬 đại thắng quân Khiết Đan ở 귀주 대첩.",
+        "terms": [
+          { "ko": "서희", "vi": "Seo Hui", "def_vi": "Quan 고려, năm 993 đàm phán với tướng Khiết Đan 소손녕, đẩy lui quân địch mà không cần đánh và giành được 강동 6주." },
+          { "ko": "강동 6주", "vi": "Gangdong Lục Châu", "def_vi": "Sáu châu ở phía đông sông 압록강 mà 서희 giành được qua đàm phán năm 993." },
+          { "ko": "귀주 대첩", "vi": "Đại thắng Gwiju (1019)", "def_vi": "Trận 강감찬 tiêu diệt quân Khiết Đan, chấm dứt các cuộc xâm lược của 거란." }
+        ]
+      },
+      {
+        "h_ko": "몽골 항쟁과 삼별초",
+        "h_vi": "Kháng chiến chống Mông Cổ và Sambyeolcho",
+        "body_vi": "Từ năm 1231, quân Mông Cổ (몽골) liên tục xâm lược. Triều đình 고려 dời đô ra đảo 강화도 để cầm cự, nhưng cuối cùng vẫn phải giảng hòa. Riêng đội quân 삼별초 không chấp nhận, tiếp tục kháng chiến ở 진도 rồi 제주도 đến năm 1273. Người Việt sẽ thấy quen: nhà Trần cũng ba lần đánh bại quân Nguyên Mông trong cùng thế kỷ 13.",
+        "terms": [
+          { "ko": "삼별초", "vi": "Sambyeolcho", "def_vi": "Đội quân tinh nhuệ của 고려 tiếp tục chống Mông Cổ sau khi triều đình giảng hòa, chuyển căn cứ từ 강화도 → 진도 → 제주도." },
+          { "ko": "강화도", "vi": "đảo Ganghwa", "def_vi": "Hòn đảo gần 개경 mà triều đình 고려 dời đô ra để tránh kỵ binh Mông Cổ." }
+        ]
+      },
+      {
+        "h_ko": "팔만대장경",
+        "h_vi": "Bát Vạn Đại Tạng Kinh",
+        "body_vi": "Trong lúc bị Mông Cổ xâm lược, 고려 khắc bộ kinh Phật khổng lồ lên hơn 80.000 bản gỗ, gọi là 팔만대장경, với mong muốn dùng sức mạnh Phật giáo để đẩy lui giặc. Bộ mộc bản này được khắc từ năm 1236 đến 1251 và ngày nay được bảo quản tại chùa 해인사, đã được UNESCO công nhận là 세계기록유산.",
+        "terms": [
+          { "ko": "팔만대장경", "vi": "Bát Vạn Đại Tạng Kinh", "def_vi": "Hơn 80.000 mộc bản khắc kinh Phật, làm trong thời kháng chiến chống Mông Cổ (1236~1251)." },
+          { "ko": "해인사", "vi": "Chùa Haeinsa", "def_vi": "Chùa ở 합천, tỉnh 경상남도, nơi bảo quản 팔만대장경 trong kho gỗ 장경판전." }
+        ]
+      },
+      {
+        "h_ko": "고려청자와 직지",
+        "h_vi": "Gốm sứ Goryeo và Jikji",
+        "body_vi": "고려청자 là đồ sứ men ngọc màu xanh biếc, nổi tiếng nhờ kỹ thuật 상감 기법 — khắc hoa văn rồi lấp đất màu vào chỗ khắc. Ngoài ra, 직지심체요절 in năm 1377 tại chùa 흥덕사 ở 청주 là sách in bằng chữ rời kim loại (금속활자) cổ nhất thế giới còn lại, sớm hơn Kinh Thánh Gutenberg khoảng 78 năm.",
+        "terms": [
+          { "ko": "고려청자", "vi": "gốm men ngọc Goryeo", "def_vi": "Đồ sứ màu xanh ngọc tiêu biểu của 고려, nổi bật với kỹ thuật khảm 상감." },
+          { "ko": "직지심체요절", "vi": "Jikji", "def_vi": "Sách in bằng 금속활자 năm 1377 tại 흥덕사, 청주 — bản in kim loại cổ nhất thế giới còn lại, được UNESCO công nhận." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "고려의 외침과 대응",
+        "cap_vi": "Ngoại xâm và cách ứng phó của Goryeo",
+        "head": ["침입 세력", "시기", "인물·세력", "결과"],
+        "rows": [
+          ["거란 (1차)", "993년", "서희", "외교 담판으로 강동 6주 획득"],
+          ["거란 (3차)", "1019년", "강감찬", "귀주 대첩에서 대승"],
+          ["몽골", "1231년~", "최씨 정권 · 삼별초", "강화도 천도, 삼별초는 1273년까지 항쟁"]
+        ]
+      },
+      {
+        "cap_ko": "고려의 대표 문화유산",
+        "cap_vi": "Di sản văn hóa tiêu biểu của Goryeo",
+        "head": ["문화유산", "시기", "특징"],
+        "rows": [
+          ["고려청자", "11~13세기", "상감 기법, 비색 청자"],
+          ["팔만대장경", "1236~1251년", "몽골 격퇴 기원, 해인사 보관"],
+          ["직지심체요절", "1377년", "현존 세계 최고(最古) 금속활자본, 청주 흥덕사"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "고려 건국 918년, 건국자는 왕건(태조), 수도는 개경",
+      "서희는 993년 거란과의 외교 담판으로 강동 6주를 얻었다",
+      "강감찬은 1019년 귀주 대첩에서 거란을 물리쳤다",
+      "삼별초는 몽골에 끝까지 저항한 부대 (강화도 → 진도 → 제주도)",
+      "팔만대장경은 몽골 침입을 물리치려는 염원으로 만들었고 해인사에 있다",
+      "직지심체요절(1377년)은 현존하는 세계에서 가장 오래된 금속활자 인쇄본",
+      "고려청자의 대표 기술은 상감 기법"
+    ],
+    "traps": [
+      "서희는 싸워서 이긴 것이 아니라 '외교 담판'으로 이겼다 — 표현을 그대로 기억할 것.",
+      "팔만대장경은 몽골 침입 때 만든 것이지 거란 침입 때가 아니다.",
+      "직지는 '세계 최초의 금속활자'가 아니라 '현존하는 가장 오래된 금속활자 인쇄본'이다."
+    ],
+    "examples": [
+      {
+        "q": "거란의 침입 때 외교 담판으로 강동 6주를 얻은 인물은?",
+        "choices": ["강감찬", "서희", "이순신", "김유신"],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. Năm 993, 서희 đàm phán với tướng Khiết Đan và giành được 강동 6주 mà không phải giao chiến. 강감찬 thì thắng bằng quân sự ở 귀주 대첩 (1019), 이순신 là danh tướng thủy quân thời 조선, 김유신 là tướng 신라."
+      },
+      {
+        "q": "몽골의 침입을 물리치려는 염원으로 만들어졌으며 현재 해인사에 보관된 문화유산은?",
+        "choices": ["고려청자", "팔만대장경", "직지심체요절", "훈민정음"],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. 팔만대장경 gồm hơn 80.000 mộc bản khắc kinh Phật, làm trong thời kháng chiến chống Mông Cổ và nay lưu tại 해인사. 고려청자 là đồ sứ, 직지 là sách in kim loại, còn 훈민정음 là bộ chữ của 조선."
+      },
+      {
+        "q": "직지심체요절에 대한 설명으로 옳은 것은?",
+        "choices": [
+          "조선 세종 때 만든 한글 해설서이다",
+          "현존하는 세계에서 가장 오래된 금속활자 인쇄본이다",
+          "몽골에 저항한 삼별초가 만든 기록이다",
+          "신라의 천문 관측 기록이다"
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. 직지심체요절 in năm 1377 tại chùa 흥덕사 ở 청주 bằng 금속활자, là bản in kim loại cổ nhất thế giới còn lại, sớm hơn Kinh Thánh Gutenberg. Đây là di sản của 고려, không phải của 조선 hay 신라."
+      }
+    ],
+    "match": ["고려", "왕건", "서희", "팔만대장경", "삼별초", "고려청자", "직지심체요절", "강감찬"]
+  },
+
+  {
+    "id": "history-l06",
+    "domain": "history",
+    "order": 6,
+    "title_ko": "조선 전기",
+    "title_vi": "Joseon thời kỳ đầu",
+    "icon": "📜",
+    "summary_vi": "조선 do 이성계 lập năm 1392, lấy Nho giáo làm nền tảng. Phần ra thi nhiều nhất cả kỳ thi: 세종대왕 và 훈민정음 (sáng chế 1443, ban bố 1446, 한글날 9/10), khoa học kỹ thuật thời 세종, và chế độ đẳng cấp 신분제.",
+    "est_min": 11,
+    "sections": [
+      {
+        "h_ko": "조선의 건국",
+        "h_vi": "Sự thành lập của Joseon",
+        "body_vi": "Năm 1392, tướng 이성계 lật đổ 고려 và lập nước 조선, hiệu là 태조. Ông dời đô về 한양 (nay là 서울) và chọn 유교 (Nho giáo) làm tư tưởng trị nước thay cho Phật giáo. Cung điện chính 경복궁 và miếu thờ tổ tiên hoàng gia 종묘 đều được xây trong giai đoạn này; 종묘 nay là di sản thế giới UNESCO.",
+        "terms": [
+          { "ko": "이성계", "vi": "Yi Seong-gye (Thái Tổ)", "def_vi": "Võ tướng cuối thời 고려, lập nước 조선 năm 1392 và dời đô về 한양." },
+          { "ko": "유교", "vi": "Nho giáo", "def_vi": "Tư tưởng trị nước của 조선, đề cao trật tự vua–tôi, cha–con, lễ nghĩa. Việt Nam thời Lê–Nguyễn cũng lấy Nho giáo làm nền tảng." },
+          { "ko": "종묘", "vi": "Jongmyo", "def_vi": "Miếu thờ bài vị các vua 조선. Nghi lễ 종묘제례 và nhạc lễ 종묘제례악 được UNESCO công nhận." }
+        ]
+      },
+      {
+        "h_ko": "세종대왕과 훈민정음",
+        "h_vi": "Vua Sejong và Hunminjeongeum",
+        "body_vi": "세종대왕 là vị vua được yêu quý nhất trong lịch sử Hàn Quốc. Trước đó người Hàn phải viết bằng 한자 rất khó học, nên dân thường hầu như mù chữ. 세종 sáng chế bộ chữ 훈민정음 năm 1443 và ban bố năm 1446. Tên 훈민정음 nghĩa là \"âm đúng để dạy dân\" — mục đích rõ ràng là để dân thường cũng viết được. Việt Nam cũng có hành trình tương tự: từ chữ Hán và chữ Nôm khó học sang chữ Quốc ngữ dễ học.",
+        "terms": [
+          { "ko": "세종대왕", "vi": "Vua Sejong Đại đế", "def_vi": "Vị vua thứ 4 của 조선, sáng chế 훈민정음 và bảo trợ khoa học kỹ thuật. Chân dung ông in trên tờ 10.000 원." },
+          { "ko": "훈민정음", "vi": "Hunminjeongeum", "def_vi": "Tên gốc của 한글, nghĩa là \"âm đúng để dạy dân\". Sáng chế 1443, ban bố 1446." },
+          { "ko": "한글날", "vi": "Ngày Hangeul", "def_vi": "Quốc khánh ngày 9/10, kỷ niệm việc ban bố 훈민정음 năm 1446." }
+        ]
+      },
+      {
+        "h_ko": "세종 때의 과학 기술",
+        "h_vi": "Khoa học kỹ thuật thời Sejong",
+        "body_vi": "Thời 세종, nhà khoa học 장영실 chế tạo hàng loạt thiết bị phục vụ nông nghiệp và đời sống. 측우기 là máy đo lượng mưa — thiết bị đo mưa theo tiêu chuẩn đầu tiên trên thế giới, giúp nắm tình hình mùa màng và định thuế công bằng. Ngoài ra còn có 앙부일구 (đồng hồ mặt trời hình nồi) và 자격루 (đồng hồ nước tự đánh chuông).",
+        "terms": [
+          { "ko": "장영실", "vi": "Jang Yeong-sil", "def_vi": "Nhà khoa học thời 세종, xuất thân tầng lớp thấp nhưng được vua trọng dụng, chế tạo 측우기, 자격루, 앙부일구." },
+          { "ko": "측우기", "vi": "Cheugugi (máy đo mưa)", "def_vi": "Thiết bị đo lượng mưa chế tạo thời 세종, dùng để nắm tình hình nông nghiệp." },
+          { "ko": "앙부일구", "vi": "Angbuilgu (đồng hồ mặt trời)", "def_vi": "Đồng hồ mặt trời hình nồi, đặt ở nơi công cộng cho dân xem giờ." }
+        ]
+      },
+      {
+        "h_ko": "조선의 신분제",
+        "h_vi": "Chế độ đẳng cấp của Joseon",
+        "body_vi": "Xã hội 조선 chia làm bốn tầng: 양반 (quý tộc, làm quan), 중인 (kỹ thuật viên, thông dịch, thầy thuốc), 상민 (nông dân, thợ thủ công, thương nhân — nộp thuế và đi lính) và 천민 (tầng lớp thấp nhất, gồm 노비). Thân phận này truyền theo dòng máu. Chế độ 신분제 chính thức bị bãi bỏ trong cuộc cải cách 갑오개혁 năm 1894.",
+        "terms": [
+          { "ko": "양반", "vi": "Yangban (quý tộc)", "def_vi": "Tầng lớp cai trị của 조선, học Nho giáo và thi 과거 để làm quan." },
+          { "ko": "천민", "vi": "Cheonmin (tiện dân)", "def_vi": "Tầng lớp thấp nhất, bao gồm 노비. Không được đi thi làm quan." },
+          { "ko": "과거", "vi": "khoa cử", "def_vi": "Kỳ thi tuyển quan lại. Việt Nam thời phong kiến cũng có chế độ khoa cử giống hệt." }
+        ]
+      },
+      {
+        "h_ko": "조선의 여성 인물",
+        "h_vi": "Những người phụ nữ tiêu biểu của Joseon",
+        "body_vi": "Dù xã hội 조선 hạn chế phụ nữ, vẫn có những người để lại dấu ấn lớn. 신사임당 là họa sĩ, thư pháp gia và là mẹ của học giả 이이 — chân dung bà in trên tờ 50.000 원. 허난설헌 là nữ thi sĩ nổi tiếng với thơ chữ Hán. 김만덕 là nữ thương nhân ở 제주도, đã bỏ toàn bộ tài sản cứu đói dân đảo khi có nạn đói.",
+        "terms": [
+          { "ko": "신사임당", "vi": "Shin Saimdang", "def_vi": "Nữ nghệ sĩ thời 조선, mẹ của học giả 이이. Chân dung in trên tờ tiền 5만 원권." },
+          { "ko": "김만덕", "vi": "Kim Man-deok", "def_vi": "Nữ thương nhân 제주도, dùng toàn bộ gia sản cứu đói (구휼) cho dân đảo." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "훈민정음 핵심 연도",
+        "cap_vi": "Các mốc năm của Hunminjeongeum",
+        "head": ["연도", "사건"],
+        "rows": [
+          ["1443년", "세종대왕이 훈민정음을 창제"],
+          ["1446년", "훈민정음을 반포 (백성에게 공포)"],
+          ["10월 9일", "한글날 — 반포를 기념하는 국경일"]
+        ]
+      },
+      {
+        "cap_ko": "조선의 신분",
+        "cap_vi": "Bốn tầng lớp của Joseon",
+        "head": ["신분", "구성", "역할"],
+        "rows": [
+          ["양반", "문반 · 무반", "관직 진출, 지배층"],
+          ["중인", "역관 · 의관 · 기술관", "전문 기술직"],
+          ["상민", "농민 · 수공업자 · 상인", "세금과 군역 부담"],
+          ["천민", "노비 등", "가장 낮은 신분"]
+        ]
+      },
+      {
+        "cap_ko": "세종 때의 과학 기구",
+        "cap_vi": "Thiết bị khoa học thời Sejong",
+        "head": ["기구", "용도"],
+        "rows": [
+          ["측우기", "비의 양을 재는 기구"],
+          ["앙부일구", "해시계"],
+          ["자격루", "스스로 시간을 알리는 물시계"],
+          ["혼천의", "천체의 움직임을 관측하는 기구"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "조선 건국 1392년, 건국자는 이성계(태조), 수도는 한양(오늘날 서울)",
+      "조선의 통치 이념은 유교",
+      "훈민정음 창제 1443년, 반포 1446년 — 만든 사람은 세종대왕",
+      "한글날은 10월 9일 (훈민정음 반포 기념)",
+      "측우기 = 비의 양을 재는 기구, 장영실이 만들었다",
+      "조선의 신분: 양반 → 중인 → 상민 → 천민",
+      "신사임당은 5만 원권 인물이며 이이의 어머니"
+    ],
+    "traps": [
+      "창제(1443년)와 반포(1446년)는 다른 해다. 한글날은 반포 연도인 1446년을 기준으로 한다.",
+      "'훈민정음'은 처음 만들 때의 이름이고 '한글'은 근대에 붙인 이름이다. 같은 문자다.",
+      "측우기는 시간을 재는 기구가 아니라 '비의 양'을 재는 기구다. 시간은 앙부일구·자격루."
+    ],
+    "examples": [
+      {
+        "q": "훈민정음을 창제한 왕과 반포 연도가 바르게 연결된 것은?",
+        "choices": [
+          "태조 이성계 — 1392년",
+          "세종대왕 — 1446년",
+          "정조 — 1796년",
+          "고종 — 1897년"
+        ],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. 세종대왕 sáng chế 훈민정음 năm 1443 và ban bố năm 1446. 이성계 lập nước 조선 năm 1392, 정조 xây 수원 화성, 고종 tuyên bố 대한제국 năm 1897."
+      },
+      {
+        "q": "조선 세종 때 만들어진 것으로, 비가 내린 양을 재는 기구는?",
+        "choices": ["측우기", "첨성대", "거북선", "혼천의"],
+        "answer": 0,
+        "explain_vi": "Đáp án 1. 측우기 là máy đo lượng mưa, do 장영실 chế tạo thời 세종, giúp nắm tình hình nông nghiệp. 첨성대 là đài thiên văn của 신라, 거북선 là tàu chiến của 이순신, 혼천의 là dụng cụ quan sát thiên thể."
+      },
+      {
+        "q": "조선의 신분 중 가장 높은 지배층에 해당하는 것은?",
+        "choices": ["천민", "상민", "중인", "양반"],
+        "answer": 3,
+        "explain_vi": "Đáp án 4. Trật tự từ cao xuống thấp là 양반 → 중인 → 상민 → 천민. 양반 học Nho giáo, thi 과거 và làm quan; 천민 là tầng lớp thấp nhất, gồm cả 노비. Chế độ này bị bãi bỏ năm 1894."
+      }
+    ],
+    "match": ["조선", "이성계", "세종대왕", "훈민정음", "한글날", "과학기술 문화유산", "조선 신분제", "여성 인물"]
+  },
+
+  {
+    "id": "history-l07",
+    "domain": "history",
+    "order": 7,
+    "title_ko": "임진왜란과 이순신",
+    "title_vi": "Chiến tranh Imjin và Yi Sun-sin",
+    "icon": "🚢",
+    "summary_vi": "임진왜란 (1592~1598) là cuộc xâm lược lớn nhất của Nhật vào 조선. 이순신 với 거북선 đã thắng ở 한산도 대첩 và 명량 대첩. Nhớ thêm 병자호란 (1636) với 인조 và 남한산성 — hai cuộc chiến này rất hay bị lẫn.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "임진왜란의 발발",
+        "h_vi": "Chiến tranh Imjin bùng nổ",
+        "body_vi": "Năm 1592, Nhật Bản dưới quyền 도요토미 히데요시 đưa quân xâm lược 조선, mở đầu cuộc chiến kéo dài 7 năm gọi là 임진왜란. Quân Nhật có súng hỏa mai nên tiến rất nhanh, chỉ khoảng 20 ngày đã chiếm 한양. Nhưng trên biển thì hoàn toàn ngược lại — thủy quân 조선 dưới quyền 이순신 thắng liên tiếp và cắt đứt đường tiếp tế của địch.",
+        "terms": [
+          { "ko": "임진왜란", "vi": "Chiến tranh Nhâm Thìn (1592~1598)", "def_vi": "Cuộc xâm lược của Nhật Bản vào 조선, kéo dài 7 năm. Giai đoạn tái xâm lược từ 1597 gọi riêng là 정유재란." }
+        ]
+      },
+      {
+        "h_ko": "이순신과 거북선",
+        "h_vi": "Yi Sun-sin và tàu Rùa",
+        "body_vi": "이순신 là 전라좌수사 — chỉ huy thủy quân vùng 전라도. Ông cho đóng 거북선, loại tàu chiến bọc mái có gắn gai sắt để địch không nhảy lên boong được, đầu rồng phía trước bắn ra khói và đạn. 이순신 chưa từng thua một trận thủy chiến nào. Người Việt có thể so với 쩐흥다오 (Trần Hưng Đạo) — cùng là danh tướng thắng giặc ngoại xâm bằng thủy chiến.",
+        "terms": [
+          { "ko": "이순신", "vi": "Yi Sun-sin", "def_vi": "Danh tướng thủy quân 조선, bất bại trong mọi trận hải chiến thời 임진왜란. Chân dung in trên tờ 100 원 và tượng đài ở 광화문 quảng trường." },
+          { "ko": "거북선", "vi": "Geobukseon (tàu Rùa)", "def_vi": "Tàu chiến bọc mái do 이순신 cho đóng, hình dáng như con rùa, đầu rồng phía mũi tàu." }
+        ]
+      },
+      {
+        "h_ko": "한산도 대첩과 명량 대첩",
+        "h_vi": "Đại thắng Hansando và Myeongnyang",
+        "body_vi": "Năm 1592, ở 한산도 대첩, 이순신 dùng trận pháp 학익진 (dàn quân hình cánh hạc) tiêu diệt chủ lực thủy quân Nhật. Năm 1597, sau khi bị vu oan và cách chức rồi được phục chức, ông chỉ còn 13 chiến thuyền nhưng vẫn đánh tan hạm đội Nhật đông gấp nhiều lần ở eo biển hẹp 울돌목 — đó là 명량 대첩. Năm 1598, ông hy sinh trong trận cuối 노량 해전.",
+        "terms": [
+          { "ko": "한산도 대첩", "vi": "Đại thắng Hansando (1592)", "def_vi": "Trận 이순신 dùng trận pháp 학익진 tiêu diệt thủy quân chủ lực Nhật, chặn đứng kế hoạch tiến quân thủy bộ song song của địch." },
+          { "ko": "명량 대첩", "vi": "Đại thắng Myeongnyang (1597)", "def_vi": "Trận 이순신 chỉ với 13 chiến thuyền đánh bại hạm đội Nhật lớn hơn nhiều lần tại eo 울돌목." }
+        ]
+      },
+      {
+        "h_ko": "육지의 의병과 관군",
+        "h_vi": "Nghĩa binh và quân triều đình trên bộ",
+        "body_vi": "Trên bộ, dân thường tự lập 의병 (nghĩa binh) đánh du kích ở khắp nơi, còn quân chính quy cũng lập chiến công lớn: 김시민 giữ thành ở 진주 대첩 (1592), 권율 đại thắng ở 행주 대첩 (1593). Nhà Minh (명나라) cũng gửi viện binh. Chiến tranh kết thúc năm 1598 khi 도요토미 히데요시 chết và quân Nhật rút về.",
+        "terms": [
+          { "ko": "의병", "vi": "nghĩa binh", "def_vi": "Đội quân do dân thường và nho sĩ tự lập để chống ngoại xâm, không phải quân chính quy." },
+          { "ko": "권율", "vi": "Gwon Yul", "def_vi": "Tướng 조선, đại thắng quân Nhật ở 행주 대첩 năm 1593." }
+        ]
+      },
+      {
+        "h_ko": "병자호란",
+        "h_vi": "Chiến tranh Byeongja",
+        "body_vi": "Sau 임진왜란, đến lượt nước 청 (nhà Thanh) ở phía bắc xâm lược. Năm 1636 nổ ra 병자호란: vua 인조 chạy vào cố thủ ở 남한산성 suốt 45 ngày nhưng cuối cùng phải ra hàng ở 삼전도. Điểm phân biệt then chốt: 임진왜란 là đánh với Nhật, còn 병자호란 là đánh với nhà Thanh (Trung Quốc).",
+        "terms": [
+          { "ko": "병자호란", "vi": "Chiến tranh Byeongja (1636~1637)", "def_vi": "Cuộc xâm lược của nhà Thanh (청) vào 조선. Vua 인조 cố thủ ở 남한산성 rồi đầu hàng." },
+          { "ko": "남한산성", "vi": "Namhansanseong", "def_vi": "Thành lũy trên núi ở 경기도, nơi vua 인조 cố thủ trong 병자호란. Di sản thế giới UNESCO." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "임진왜란 주요 전투",
+        "cap_vi": "Các trận đánh chính của chiến tranh Imjin",
+        "head": ["전투", "연도", "인물", "특징"],
+        "rows": [
+          ["옥포 해전", "1592년", "이순신", "임진왜란 최초의 승리"],
+          ["한산도 대첩", "1592년", "이순신", "학익진 전법으로 대승"],
+          ["진주 대첩", "1592년", "김시민", "진주성을 지켜냄"],
+          ["행주 대첩", "1593년", "권율", "행주산성에서 대승"],
+          ["명량 대첩", "1597년", "이순신", "배 13척으로 대승"],
+          ["노량 해전", "1598년", "이순신", "마지막 전투, 이순신 전사"]
+        ]
+      },
+      {
+        "cap_ko": "임진왜란 vs 병자호란",
+        "cap_vi": "Phân biệt hai cuộc chiến",
+        "head": ["구분", "임진왜란", "병자호란"],
+        "rows": [
+          ["시기", "1592년~1598년", "1636년~1637년"],
+          ["침입국", "일본", "청 (중국)"],
+          ["당시 왕", "선조", "인조"],
+          ["대표 인물·장소", "이순신 · 한산도 · 명량", "남한산성 · 삼전도"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "임진왜란은 1592년에 일본이 조선을 침략한 전쟁",
+      "이순신은 거북선을 만들어 한산도 대첩(1592년)과 명량 대첩(1597년)에서 승리했다",
+      "명량 대첩은 배 13척으로 일본 수군을 물리친 전투",
+      "이순신은 마지막 전투인 노량 해전(1598년)에서 전사했다",
+      "행주 대첩은 권율, 진주 대첩은 김시민",
+      "병자호란(1636년)은 청나라의 침입이고, 인조는 남한산성에서 항전했다"
+    ],
+    "traps": [
+      "임진왜란(일본)과 병자호란(청나라)은 상대 나라가 다르다. 가장 많이 헷갈리는 부분.",
+      "거북선을 만든 사람은 이순신이지 세종대왕이 아니다.",
+      "명량 대첩은 육지 전투가 아니라 바다에서 벌어진 해전이다."
+    ],
+    "examples": [
+      {
+        "q": "임진왜란 때 거북선을 이용해 일본 수군을 물리친 인물은?",
+        "choices": ["권율", "이순신", "강감찬", "김구"],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. 이순신 chỉ huy thủy quân 조선, cho đóng 거북선 và thắng ở 한산도 대첩, 명량 대첩. 권율 thắng trên bộ ở 행주 대첩, 강감찬 là tướng 고려 chống Khiết Đan, 김구 là nhà hoạt động độc lập thế kỷ 20."
+      },
+      {
+        "q": "이순신이 배 13척으로 일본 수군을 크게 물리친 전투는?",
+        "choices": ["한산도 대첩", "행주 대첩", "명량 대첩", "귀주 대첩"],
+        "answer": 2,
+        "explain_vi": "Đáp án 3. 명량 대첩 (1597) là trận 이순신 chỉ còn 13 chiến thuyền nhưng vẫn đánh tan hạm đội Nhật ở eo biển hẹp 울돌목. 한산도 대첩 (1592) là trận dùng 학익진, 행주 대첩 là của 권율 trên bộ, 귀주 대첩 là của 강감찬 thời 고려."
+      },
+      {
+        "q": "병자호란 때 인조가 들어가 항전한 산성은?",
+        "choices": ["남한산성", "행주산성", "수원 화성", "진주성"],
+        "answer": 0,
+        "explain_vi": "Đáp án 1. Trong 병자호란 (1636), vua 인조 cố thủ ở 남한산성 45 ngày rồi đầu hàng ở 삼전도. 행주산성 gắn với 권율 thời 임진왜란, 수원 화성 do 정조 xây, còn 진주성 gắn với 김시민."
+      }
+    ],
+    "match": ["임진왜란", "이순신", "거북선", "한산도 대첩", "명량 대첩", "병자호란", "남한산성", "인조"]
+  },
+
+  {
+    "id": "history-l08",
+    "domain": "history",
+    "order": 8,
+    "title_ko": "조선 후기와 개항",
+    "title_vi": "Hậu kỳ Joseon và mở cửa",
+    "icon": "🏛️",
+    "summary_vi": "Sau chiến tranh, 조선 sinh ra 실학 — học phái đòi học vấn phải có ích cho dân. 정조 xây 수원 화성 với cần trục 거중기 của 정약용. Rồi 강화도 조약 1876 mở cửa, và năm 1897 ra đời 대한제국.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "실학의 등장",
+        "h_vi": "Sự xuất hiện của Thực học",
+        "body_vi": "Sau hai cuộc chiến tranh, đời sống dân chúng kiệt quệ trong khi giới 양반 vẫn tranh cãi lý thuyết Nho giáo trừu tượng. Một nhóm học giả phản ứng lại và chủ trương 실학 (Thực học) — học vấn phải giải quyết vấn đề thực tế: cải cách ruộng đất, phát triển thương nghiệp, du nhập kỹ thuật. Học phái này chuẩn bị nền tảng tư tưởng cho cận đại.",
+        "terms": [
+          { "ko": "실학", "vi": "Thực học", "def_vi": "Học phái hậu kỳ 조선 chủ trương học vấn phải thiết thực, có ích cho đời sống dân chúng và đất nước." },
+          { "ko": "박지원", "vi": "Park Ji-won", "def_vi": "Học giả 실학 chủ trương học kỹ thuật và thương nghiệp từ nhà Thanh, tác giả 열하일기." }
+        ]
+      },
+      {
+        "h_ko": "정약용",
+        "h_vi": "Jeong Yak-yong",
+        "body_vi": "정약용 là học giả 실학 tiêu biểu nhất. Ông viết 목민심서 — cuốn sách dạy quan lại địa phương phải chăm dân thế nào, đến nay vẫn được đọc như sách về đạo đức công vụ. Ông cũng thiết kế 거중기, chiếc cần trục dùng ròng rọc giúp nâng đá nặng khi xây 수원 화성, rút ngắn đáng kể thời gian và chi phí.",
+        "terms": [
+          { "ko": "정약용", "vi": "Jeong Yak-yong (hiệu 다산)", "def_vi": "Học giả 실학 tiêu biểu, tác giả 목민심서, người thiết kế 거중기." },
+          { "ko": "거중기", "vi": "Geojunggi (cần trục)", "def_vi": "Thiết bị dùng ròng rọc để nâng đá nặng, do 정약용 thiết kế cho công trường 수원 화성." }
+        ]
+      },
+      {
+        "h_ko": "영조와 정조, 수원 화성",
+        "h_vi": "Vua Yeongjo, Jeongjo và thành Hwaseong",
+        "body_vi": "영조 thi hành 탕평책 — chính sách dùng người cân bằng giữa các phe phái để chặn nạn bè đảng. Cháu ông là 정조 tiếp tục cải cách, lập thư viện hoàng gia 규장각 và xây 수원 화성 (1794~1796) làm cứ điểm cho chính trị mới. 수원 화성 nay là di sản thế giới UNESCO.",
+        "terms": [
+          { "ko": "정조", "vi": "Vua Jeongjo", "def_vi": "Vua cải cách hậu kỳ 조선, lập 규장각 và xây 수원 화성." },
+          { "ko": "수원 화성", "vi": "Thành Hwaseong ở Suwon", "def_vi": "Thành do 정조 xây ở 경기도 수원, dùng 거중기 của 정약용. Di sản thế giới UNESCO." }
+        ]
+      },
+      {
+        "h_ko": "개항 — 강화도 조약",
+        "h_vi": "Mở cửa — Điều ước Ganghwado",
+        "body_vi": "조선 vốn đóng cửa với phương Tây, nhưng năm 1876 bị Nhật Bản ép ký 강화도 조약 và phải mở cảng. Đây là hiệp ước hiện đại đầu tiên của 조선, đồng thời là hiệp ước bất bình đẳng vì công nhận quyền tài phán lãnh sự cho Nhật. Sau đó, các nước phương Tây lần lượt tiến vào, xã hội 조선 biến động mạnh.",
+        "terms": [
+          { "ko": "강화도 조약", "vi": "Điều ước Ganghwado (1876)", "def_vi": "Hiệp ước đầu tiên 조선 ký với Nhật Bản, mở đầu thời kỳ mở cửa (개항). Là hiệp ước bất bình đẳng." },
+          { "ko": "개항", "vi": "mở cửa cảng biển", "def_vi": "Việc mở cảng cho tàu và thương nhân nước ngoài vào buôn bán." }
+        ]
+      },
+      {
+        "h_ko": "대한제국의 선포",
+        "h_vi": "Tuyên bố Đại Hàn Đế quốc",
+        "body_vi": "Năm 1897, vua 고종 đổi quốc hiệu thành 대한제국, tự xưng hoàng đế và tuyên bố với thế giới rằng đây là một nước độc lập ngang hàng, không lệ thuộc nước nào. 대한제국 thi hành cải cách 광무개혁, xây đường sắt, mở trường học và bệnh viện hiện đại. Nhưng áp lực từ Nhật ngày càng lớn và nước này chỉ tồn tại được 13 năm.",
+        "terms": [
+          { "ko": "대한제국", "vi": "Đại Hàn Đế quốc (1897~1910)", "def_vi": "Quốc hiệu do 고종 tuyên bố năm 1897 để khẳng định chủ quyền. Chữ '대한' trong 대한민국 ngày nay bắt nguồn từ đây." },
+          { "ko": "고종", "vi": "Vua/Hoàng đế Gojong", "def_vi": "Vị vua cuối thời 조선, tuyên bố 대한제국 năm 1897 và trở thành hoàng đế." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "조선 후기~근대 연표",
+        "cap_vi": "Niên biểu hậu kỳ Joseon đến cận đại",
+        "head": ["연도", "사건", "핵심 인물"],
+        "rows": [
+          ["1796년", "수원 화성 완공", "정조 · 정약용"],
+          ["1876년", "강화도 조약 — 개항", "고종"],
+          ["1894년", "갑오개혁 — 신분제 폐지", "—"],
+          ["1897년", "대한제국 선포", "고종 황제"],
+          ["1905년", "을사늑약 — 외교권 박탈", "—"],
+          ["1910년", "국권 피탈", "—"]
+        ]
+      },
+      {
+        "cap_ko": "대표 실학자",
+        "cap_vi": "Các học giả Thực học tiêu biểu",
+        "head": ["인물", "대표 저서·업적"],
+        "rows": [
+          ["정약용", "목민심서, 거중기"],
+          ["박지원", "열하일기 — 청의 문물 수용 주장"],
+          ["박제가", "북학의 — 상업과 소비의 중요성 강조"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "실학은 조선 후기에 '실제 생활에 도움이 되는 학문'을 주장한 학문",
+      "정약용의 대표 저서는 목민심서, 발명품은 거중기",
+      "수원 화성은 정조 때 만들었고 유네스코 세계문화유산이다",
+      "강화도 조약(1876년)으로 조선이 개항했다 — 일본과 맺은 불평등 조약",
+      "1897년 고종이 대한제국을 선포했다",
+      "신분제는 1894년 갑오개혁으로 폐지되었다"
+    ],
+    "traps": [
+      "수원 화성은 조선 후기 정조 때 만든 것이지 세종 때가 아니다.",
+      "'대한제국(1897년)'과 '대한민국(1948년)'은 다른 나라다. 앞은 황제의 나라, 뒤는 민주공화국.",
+      "강화도 조약은 조선이 스스로 원해서 맺은 것이 아니라 일본의 압력으로 맺은 불평등 조약이다."
+    ],
+    "examples": [
+      {
+        "q": "조선 후기 실학자로 목민심서를 쓰고 거중기를 만든 인물은?",
+        "choices": ["정약용", "이순신", "장영실", "김구"],
+        "answer": 0,
+        "explain_vi": "Đáp án 1. 정약용 là học giả 실학 tiêu biểu, viết 목민심서 dạy quan lại chăm dân và thiết kế 거중기 để xây 수원 화성. 장영실 là nhà khoa học thời 세종 (측우기), 이순신 là danh tướng 임진왜란, 김구 là nhà hoạt động độc lập."
+      },
+      {
+        "q": "정조 때 만들어졌으며 유네스코 세계문화유산으로 지정된 성은?",
+        "choices": ["남한산성", "수원 화성", "경복궁", "첨성대"],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. 수원 화성 do vua 정조 xây (1794~1796) với sự trợ giúp của 거중기, nay là di sản thế giới UNESCO. 남한산성 gắn với 병자호란, 경복궁 là cung điện do 태조 xây, 첨성대 là đài thiên văn của 신라."
+      },
+      {
+        "q": "1897년에 고종이 선포한 나라 이름은?",
+        "choices": ["고려", "조선", "대한제국", "대한민국"],
+        "answer": 2,
+        "explain_vi": "Đáp án 3. Năm 1897, 고종 đổi quốc hiệu thành 대한제국 và xưng hoàng đế để tuyên bố chủ quyền độc lập. 대한민국 là quốc hiệu của nhà nước cộng hòa dân chủ thành lập sau này (chính phủ lập năm 1948)."
+      }
+    ],
+    "match": ["실학", "정약용", "정조", "수원 화성", "대한제국", "양반", "천민"]
+  },
+
+  {
+    "id": "history-l09",
+    "domain": "history",
+    "order": 9,
+    "title_ko": "일제 강점기",
+    "title_vi": "Thời kỳ Nhật chiếm đóng",
+    "icon": "⛓️",
+    "summary_vi": "1910~1945, Hàn Quốc mất chủ quyền suốt 35 năm. Nhớ ba giai đoạn cai trị (무단 통치 → 문화 통치 → 민족 말살 통치) và các chính sách 토지 조사 사업, 창씨개명. Người Việt sẽ thấy quen vì Việt Nam cũng trải qua thời Pháp thuộc.",
+    "est_min": 10,
+    "sections": [
+      {
+        "h_ko": "국권 피탈까지의 과정",
+        "h_vi": "Tiến trình mất chủ quyền",
+        "body_vi": "Sau khi thắng Nga trong chiến tranh Nga–Nhật, Nhật Bản ép 대한제국 ký 을사늑약 năm 1905, tước quyền ngoại giao và biến Hàn Quốc thành nước bảo hộ. Năm 1907, 고종 bị ép thoái vị và quân đội bị giải tán. Cuối cùng ngày 29 tháng 8 năm 1910, Nhật Bản cưỡng chiếm hoàn toàn chủ quyền — gọi là 국권 피탈.",
+        "terms": [
+          { "ko": "을사늑약", "vi": "Điều ước Eulsa (1905)", "def_vi": "Hiệp ước Nhật Bản cưỡng ép ký, tước quyền ngoại giao (외교권) của 대한제국." },
+          { "ko": "국권 피탈", "vi": "mất chủ quyền quốc gia (1910)", "def_vi": "Ngày 29/8/1910, Nhật Bản thôn tính hoàn toàn 대한제국, mở đầu 35 năm thống trị." }
+        ]
+      },
+      {
+        "h_ko": "1단계 — 무단 통치 (1910~1919)",
+        "h_vi": "Giai đoạn 1 — Cai trị bằng vũ lực",
+        "body_vi": "Giai đoạn đầu Nhật Bản cai trị bằng bạo lực trần trụi, gọi là 무단 통치. 헌병 경찰 (hiến binh làm cảnh sát) kiểm soát mọi mặt đời sống, thầy giáo cũng phải đeo kiếm khi lên lớp. Báo chí và hội họp của người Hàn bị cấm hoàn toàn, người vi phạm bị đánh roi theo 조선 태형령.",
+        "terms": [
+          { "ko": "무단 통치", "vi": "cai trị bằng vũ lực", "def_vi": "Phương thức cai trị 1910~1919, dùng hiến binh và bạo lực, tước mọi quyền tự do ngôn luận và hội họp." },
+          { "ko": "헌병 경찰", "vi": "hiến binh cảnh sát", "def_vi": "Cảnh sát quân sự của Nhật, có quyền xử phạt người Hàn ngay tại chỗ mà không qua xét xử." }
+        ]
+      },
+      {
+        "h_ko": "토지 조사 사업",
+        "h_vi": "Điều tra ruộng đất",
+        "body_vi": "Từ 1910 đến 1918, Nhật Bản tiến hành 토지 조사 사업, danh nghĩa là đo đạc và đăng ký ruộng đất cho \"hiện đại hóa\". Nhưng thủ tục khai báo phức tạp và thời hạn ngắn khiến rất nhiều nông dân mất đất, và số ruộng đó rơi vào tay chính quyền Nhật cùng người Nhật di cư. Mục đích thật là tăng thuế và chiếm đất.",
+        "terms": [
+          { "ko": "토지 조사 사업", "vi": "Sự nghiệp điều tra ruộng đất (1910~1918)", "def_vi": "Chính sách của Nhật nhằm nắm và chiếm đoạt ruộng đất Hàn Quốc, khiến nhiều nông dân mất đất." }
+        ]
+      },
+      {
+        "h_ko": "2단계 — 문화 통치 (1919~1931)",
+        "h_vi": "Giai đoạn 2 — Cai trị \"văn hóa\"",
+        "body_vi": "Sau khi phong trào 3·1 운동 năm 1919 nổ ra khắp nước, Nhật Bản thấy không thể đàn áp thuần túy bằng vũ lực nên chuyển sang 문화 통치. Bề ngoài họ cho phép ra báo tiếng Hàn và nới lỏng đôi chút, nhưng thực chất là chia rẽ dân tộc và mua chuộc tầng lớp trên. Về kinh tế, 산미 증식 계획 vơ vét gạo Hàn Quốc chở về Nhật.",
+        "terms": [
+          { "ko": "문화 통치", "vi": "cai trị kiểu \"văn hóa\"", "def_vi": "Chính sách 1919~1931 sau 3·1 운동, bề ngoài mềm mỏng nhưng thực chất nhằm chia rẽ và lung lạc dân tộc Hàn." }
+        ]
+      },
+      {
+        "h_ko": "3단계 — 민족 말살 통치 (1931~1945)",
+        "h_vi": "Giai đoạn 3 — Xóa sổ dân tộc",
+        "body_vi": "Khi bước vào chiến tranh, Nhật Bản thi hành 민족 말살 정책 nhằm xóa bỏ bản sắc Hàn Quốc: bắt đổi họ tên sang kiểu Nhật (창씨개명), cấm dùng tiếng Hàn ở trường học, ép đọc 황국신민서사 và đi 신사 참배. Đồng thời cưỡng bức 강제 징용 và 징병 để lấy nhân lực cho chiến tranh.",
+        "terms": [
+          { "ko": "창씨개명", "vi": "đổi họ đổi tên", "def_vi": "Chính sách bắt người Hàn đổi họ tên sang kiểu Nhật (thi hành từ 1940) — biểu tượng của chính sách xóa sổ dân tộc." },
+          { "ko": "민족 말살 정책", "vi": "chính sách xóa sổ dân tộc", "def_vi": "Chính sách xóa bỏ ngôn ngữ, họ tên và tín ngưỡng Hàn Quốc để biến người Hàn thành thần dân Nhật." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "일제 통치 3단계",
+        "cap_vi": "Ba giai đoạn cai trị của Nhật",
+        "head": ["시기", "명칭", "핵심 정책"],
+        "rows": [
+          ["1910~1919", "무단 통치", "헌병 경찰, 토지 조사 사업"],
+          ["1919~1931", "문화 통치", "산미 증식 계획, 민족 분열 정책"],
+          ["1931~1945", "민족 말살 통치", "창씨개명, 신사 참배, 강제 징용"]
+        ]
+      },
+      {
+        "cap_ko": "국권 피탈 과정",
+        "cap_vi": "Tiến trình mất chủ quyền",
+        "head": ["연도", "사건", "결과"],
+        "rows": [
+          ["1905년", "을사늑약", "외교권 박탈, 통감부 설치"],
+          ["1907년", "고종 강제 퇴위 · 군대 해산", "저항 수단 상실"],
+          ["1910년", "국권 피탈 (8월 29일)", "일제 강점기 시작"],
+          ["1945년", "광복 (8월 15일)", "35년 만에 국권 회복"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "일제 강점기: 1910년 ~ 1945년, 총 35년",
+      "1905년 을사늑약으로 외교권을 빼앗겼다",
+      "무단 통치의 상징은 헌병 경찰",
+      "토지 조사 사업(1910~1918)으로 많은 농민이 땅을 잃었다",
+      "창씨개명은 한국인의 성과 이름을 일본식으로 바꾸게 한 민족 말살 정책",
+      "3·1 운동(1919년) 이후 무단 통치에서 문화 통치로 바뀌었다"
+    ],
+    "traps": [
+      "'문화 통치'라는 이름 때문에 대우가 좋아진 것으로 오해하기 쉽다. 실제로는 민족을 분열시키려는 정책이었다.",
+      "토지 조사 사업의 목적은 '농민을 돕기 위한 것'이 아니라 토지와 세금을 빼앗기 위한 것이었다.",
+      "국권 피탈은 1910년, 광복은 1945년. 을사늑약(1905년)과 헷갈리지 말 것."
+    ],
+    "examples": [
+      {
+        "q": "일제 강점기의 기간으로 옳은 것은?",
+        "choices": ["1876년 ~ 1910년", "1897년 ~ 1919년", "1910년 ~ 1945년", "1919년 ~ 1948년"],
+        "answer": 2,
+        "explain_vi": "Đáp án 3. Nhật Bản cưỡng chiếm chủ quyền năm 1910 và Hàn Quốc giành lại độc lập ngày 15/8/1945, tổng cộng 35 năm. 1876 là 강화도 조약, 1897 là 대한제국, 1948 là năm thành lập chính phủ 대한민국."
+      },
+      {
+        "q": "일제가 한국인의 성과 이름을 일본식으로 바꾸도록 강요한 정책은?",
+        "choices": ["창씨개명", "토지 조사 사업", "산미 증식 계획", "갑오개혁"],
+        "answer": 0,
+        "explain_vi": "Đáp án 1. 창씨개명 là chính sách ép người Hàn đổi họ tên sang kiểu Nhật, thuộc 민족 말살 정책. 토지 조사 사업 là điều tra để chiếm ruộng đất, 산미 증식 계획 là vơ vét gạo, còn 갑오개혁 (1894) là cải cách trước thời Nhật thuộc."
+      },
+      {
+        "q": "1910년대 일제의 통치 방식으로, 헌병 경찰을 앞세워 폭력적으로 지배한 것을 무엇이라 하는가?",
+        "choices": ["문화 통치", "무단 통치", "민족 말살 통치", "탕평책"],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. 무단 통치 (1910~1919) dùng 헌병 경찰 và bạo lực, cấm mọi quyền tự do. 문화 통치 là giai đoạn sau 3·1 운동, 민족 말살 통치 là giai đoạn 1931~1945, còn 탕평책 là chính sách dùng người của vua 영조 thời 조선."
+      }
+    ],
+    "match": ["일제 강점기", "국권 피탈", "무단 통치", "헌병 경찰", "토지 조사 사업", "창씨개명", "민족 말살 정책", "1910년"]
+  },
+
+  {
+    "id": "history-l10",
+    "domain": "history",
+    "order": 10,
+    "title_ko": "독립운동과 광복",
+    "title_vi": "Phong trào độc lập và Quang phục",
+    "icon": "🕊️",
+    "summary_vi": "Đây là bài ra thi nhiều nhất phần lịch sử. Bắt buộc thuộc: 3·1 운동 (1/3/1919), 대한민국 임시 정부 (1919), 안중근 · 유관순 · 김구 · 윤봉길, 봉오동·청산리, và 광복 15/8/1945 cùng 5 quốc khánh.",
+    "est_min": 12,
+    "sections": [
+      {
+        "h_ko": "안중근 의거",
+        "h_vi": "Nghĩa cử của An Jung-geun",
+        "body_vi": "Ngày 26 tháng 10 năm 1909, 안중근 bắn chết 이토 히로부미 — kẻ chủ mưu thôn tính Hàn Quốc — tại nhà ga 하얼빈 ở Trung Quốc. Trước tòa án Nhật, ông không nhận mình là kẻ ám sát mà khẳng định mình là quân nhân của quân đội nghĩa binh Hàn Quốc. Trong tù ông viết 동양평화론, chủ trương Hàn – Trung – Nhật cùng hòa bình. Ông bị xử tử ngày 26/3/1910.",
+        "terms": [
+          { "ko": "안중근", "vi": "An Jung-geun", "def_vi": "Người bắn 이토 히로부미 tại ga 하얼빈 ngày 26/10/1909, hy sinh năm 1910. Tác giả 동양평화론." },
+          { "ko": "이토 히로부미", "vi": "Ito Hirobumi", "def_vi": "Thống giám đầu tiên của Nhật ở Hàn Quốc, nhân vật trung tâm trong việc tước chủ quyền 대한제국." }
+        ]
+      },
+      {
+        "h_ko": "3·1 운동",
+        "h_vi": "Phong trào Mùng 1 tháng 3",
+        "body_vi": "Ngày 1 tháng 3 năm 1919, 민족대표 33인 công bố 기미독립선언서 và học sinh, dân chúng đổ ra 탑골공원 cùng khắp cả nước hô vang \"대한 독립 만세\". Đây là phong trào phi bạo lực lớn nhất, lan ra toàn quốc và cả hải ngoại. 유관순, nữ sinh 16 tuổi, dẫn đầu cuộc biểu tình ở chợ 아우내 và hy sinh trong tù năm 1920. Ngày 1/3 nay là quốc khánh 삼일절.",
+        "terms": [
+          { "ko": "3·1 운동", "vi": "Phong trào 1/3 (1919)", "def_vi": "Phong trào đòi độc lập phi bạo lực lớn nhất, nổ ra ngày 1/3/1919 trên toàn quốc." },
+          { "ko": "유관순", "vi": "Yu Gwan-sun", "def_vi": "Nữ sinh dẫn đầu biểu tình 만세 ở chợ 아우내 (천안), bị bắt và hy sinh trong tù năm 1920." },
+          { "ko": "삼일절", "vi": "Samiljeol", "def_vi": "Quốc khánh ngày 1/3, kỷ niệm 3·1 운동." }
+        ]
+      },
+      {
+        "h_ko": "대한민국 임시 정부",
+        "h_vi": "Chính phủ Lâm thời Đại Hàn Dân Quốc",
+        "body_vi": "Ngay sau 3·1 운동, ngày 11 tháng 4 năm 1919, 대한민국 임시 정부 được thành lập tại 상하이, Trung Quốc. Đây là chính phủ cộng hòa dân chủ đầu tiên trong lịch sử Hàn Quốc — hiến pháp lâm thời ghi rõ nước theo chế độ 민주공화제, tức là quyền lực thuộc về nhân dân chứ không thuộc về vua. Hiến pháp 대한민국 ngày nay vẫn ghi rằng nước này kế thừa tinh thần của 임시 정부.",
+        "terms": [
+          { "ko": "대한민국 임시 정부", "vi": "Chính phủ Lâm thời", "def_vi": "Chính phủ lưu vong lập ngày 11/4/1919 tại 상하이, theo chế độ cộng hòa dân chủ." },
+          { "ko": "김구", "vi": "Kim Gu", "def_vi": "Nhà lãnh đạo 임시 정부, lập 한인애국단 năm 1931 và về sau đứng đầu chính phủ lâm thời với chức 주석." }
+        ]
+      },
+      {
+        "h_ko": "무장 독립 투쟁",
+        "h_vi": "Đấu tranh vũ trang",
+        "body_vi": "Ở vùng Mãn Châu, quân độc lập Hàn Quốc đánh thắng quân Nhật hai trận lớn trong năm 1920: 봉오동 전투 tháng 6 do 홍범도 chỉ huy, và 청산리 대첩 tháng 10 do 김좌진 cùng 홍범도 chỉ huy. 청산리 là chiến thắng lớn nhất của quân độc lập. Đến năm 1940, 임시 정부 lập quân đội chính quy mang tên 한국광복군.",
+        "terms": [
+          { "ko": "봉오동 전투", "vi": "Trận Bongodong (6/1920)", "def_vi": "Trận thắng của quân độc lập do 홍범도 chỉ huy tại Mãn Châu." },
+          { "ko": "청산리 대첩", "vi": "Đại thắng Cheongsanri (10/1920)", "def_vi": "Chiến thắng lớn nhất của quân độc lập, do 김좌진 và 홍범도 chỉ huy." }
+        ]
+      },
+      {
+        "h_ko": "한인애국단 — 이봉창과 윤봉길",
+        "h_vi": "Hanin Aegukdan — Lee Bong-chang và Yun Bong-gil",
+        "body_vi": "Năm 1931, 김구 lập 한인애국단 để đánh vào các nhân vật đầu não của Nhật. Ngày 8/1/1932, 이봉창 ném bom vào đoàn xe Thiên hoàng Nhật ở Tokyo. Ngày 29/4/1932, 윤봉길 ném bom tại lễ mừng ở 훙커우 공원 (Thượng Hải), tiêu diệt nhiều tướng lĩnh Nhật. Sự kiện này khiến chính phủ Trung Quốc bắt đầu ủng hộ mạnh mẽ 임시 정부.",
+        "terms": [
+          { "ko": "한인애국단", "vi": "Hanin Aegukdan", "def_vi": "Tổ chức do 김구 lập năm 1931 tại 상하이 để tiến hành các nghĩa cử chống Nhật." },
+          { "ko": "윤봉길", "vi": "Yun Bong-gil", "def_vi": "Ném bom tại 훙커우 공원, Thượng Hải ngày 29/4/1932, hy sinh cùng năm." }
+        ]
+      },
+      {
+        "h_ko": "광복과 5대 국경일",
+        "h_vi": "Quang phục và 5 ngày quốc khánh",
+        "body_vi": "Ngày 15 tháng 8 năm 1945, Nhật Bản đầu hàng và Hàn Quốc giành lại chủ quyền sau 35 năm — gọi là 광복. Đúng ngày này ba năm sau, 15/8/1948, chính phủ 대한민국 được thành lập. Hàn Quốc có 5 quốc khánh (국경일): 삼일절 (1/3), 제헌절 (17/7), 광복절 (15/8), 개천절 (3/10), 한글날 (9/10). Trong đó chỉ 제헌절 không phải ngày nghỉ.",
+        "terms": [
+          { "ko": "광복절", "vi": "Gwangbokjeol", "def_vi": "Quốc khánh ngày 15/8, kỷ niệm giành lại độc lập năm 1945 và thành lập chính phủ 대한민국 năm 1948." },
+          { "ko": "제헌절", "vi": "Jeheonjeol", "def_vi": "Quốc khánh ngày 17/7, kỷ niệm ban hành Hiến pháp 대한민국 năm 1948. Là quốc khánh duy nhất không phải ngày nghỉ." }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "cap_ko": "독립운동 인물 정리",
+        "cap_vi": "Tổng hợp nhân vật phong trào độc lập",
+        "head": ["인물", "활동", "연도", "장소"],
+        "rows": [
+          ["안중근", "이토 히로부미 처단", "1909년", "하얼빈역 (중국)"],
+          ["유관순", "만세 운동 주도", "1919년", "아우내 장터 (천안)"],
+          ["홍범도", "봉오동 전투 승리", "1920년", "만주"],
+          ["김좌진", "청산리 대첩 승리", "1920년", "만주"],
+          ["이봉창", "일왕 마차에 폭탄 투척", "1932년", "도쿄 (일본)"],
+          ["윤봉길", "훙커우 공원 의거", "1932년", "상하이 (중국)"],
+          ["김구", "한인애국단 조직, 임시 정부 지도", "1931년~", "상하이 · 충칭"]
+        ]
+      },
+      {
+        "cap_ko": "대한민국 5대 국경일",
+        "cap_vi": "5 ngày quốc khánh của Hàn Quốc",
+        "head": ["국경일", "날짜", "기념 내용"],
+        "rows": [
+          ["삼일절", "3월 1일", "3·1 운동 (1919년)"],
+          ["제헌절", "7월 17일", "헌법 공포 (1948년)"],
+          ["광복절", "8월 15일", "광복 (1945년) · 정부 수립 (1948년)"],
+          ["개천절", "10월 3일", "고조선 건국"],
+          ["한글날", "10월 9일", "훈민정음 반포 (1446년)"]
+        ]
+      }
+    ],
+    "must_memorize": [
+      "3·1 운동은 1919년 3월 1일에 일어난 비폭력 독립운동 → 국경일은 삼일절(3월 1일)",
+      "대한민국 임시 정부는 1919년 중국 상하이에 세워졌다",
+      "안중근은 1909년 하얼빈역에서 이토 히로부미를 처단했다",
+      "유관순은 아우내 장터에서 만세 운동을 이끌었다",
+      "봉오동 전투는 홍범도, 청산리 대첩은 김좌진",
+      "윤봉길은 1932년 상하이 훙커우 공원에서 의거했고, 한인애국단은 김구가 만들었다",
+      "광복은 1945년 8월 15일 → 광복절",
+      "5대 국경일: 삼일절 3.1 · 제헌절 7.17 · 광복절 8.15 · 개천절 10.3 · 한글날 10.9"
+    ],
+    "traps": [
+      "임시 정부가 세워진 곳은 서울이 아니라 중국 상하이다.",
+      "안중근이 처단한 사람은 이토 히로부미다. 장소는 하얼빈역(중국)이지 일본이 아니다.",
+      "광복절(8월 15일)과 개천절(10월 3일), 제헌절(7월 17일)을 서로 바꾸어 내는 문제가 자주 나온다.",
+      "3·1 운동은 무장 투쟁이 아니라 비폭력 만세 운동이었다."
+    ],
+    "examples": [
+      {
+        "q": "1919년 3월 1일에 일어난 독립운동과 이를 기념하는 국경일이 바르게 연결된 것은?",
+        "choices": [
+          "3·1 운동 — 삼일절",
+          "청산리 대첩 — 광복절",
+          "3·1 운동 — 개천절",
+          "봉오동 전투 — 제헌절"
+        ],
+        "answer": 0,
+        "explain_vi": "Đáp án 1. 3·1 운동 nổ ra ngày 1/3/1919 và được kỷ niệm bằng quốc khánh 삼일절 (1/3). 개천절 (3/10) là ngày lập nước 고조선, 광복절 (15/8) kỷ niệm giành lại độc lập, 제헌절 (17/7) kỷ niệm ban hành Hiến pháp."
+      },
+      {
+        "q": "1909년 하얼빈역에서 이토 히로부미를 처단한 인물은?",
+        "choices": ["김구", "안중근", "윤봉길", "유관순"],
+        "answer": 1,
+        "explain_vi": "Đáp án 2. 안중근 bắn 이토 히로부미 tại ga 하얼빈 ngày 26/10/1909. 김구 lập 한인애국단, 윤봉길 ném bom ở 훙커우 공원 Thượng Hải năm 1932, 유관순 dẫn đầu biểu tình 만세 ở chợ 아우내 năm 1919."
+      },
+      {
+        "q": "대한민국 임시 정부가 처음 세워진 곳은?",
+        "choices": ["서울", "평양", "상하이", "도쿄"],
+        "answer": 2,
+        "explain_vi": "Đáp án 3. 대한민국 임시 정부 được lập ngày 11/4/1919 tại 상하이, Trung Quốc — nơi an toàn khỏi sự đàn áp của Nhật và thuận tiện cho hoạt động ngoại giao. Đây là chính phủ theo chế độ cộng hòa dân chủ đầu tiên của Hàn Quốc."
+      }
+    ],
+    "match": ["독립 운동", "3·1 운동", "대한민국 임시 정부", "안중근", "유관순", "윤봉길", "광복", "한인애국단"]
+  }
+]

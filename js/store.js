@@ -27,6 +27,7 @@ const Store = (() => {
     // đã xem qua writing/speaking nào
     wrDone: [],
     spDone: [],
+    lsDone: [],        // bài lý thuyết đã học xong
     // ===== DỰ ÁN 100 NGÀY =====
     planStart: '',                 // 'YYYY-MM-DD' ngày bắt đầu
     daily: {},                     // { 'YYYY-MM-DD': {n,c,w,s,e,done} }

@@ -36,11 +36,19 @@ const Data = (() => {
     'korean','society','culture','politics','economy','law','history','geography','advanced'
   ];
 
+  /* giáo trình lý thuyết — 이론 교재 */
+  const LESSON_FILES = [
+    'lessons_history','lessons_politics','lessons_law','lessons_citizen',
+    'lessons_society','lessons_economy','lessons_geo_kor'
+  ];
+
   let questions = [];
   let byDomain = {};
   let writing = [];
   let speaking = [];
   let fun = [];
+  let lessons = [];
+  let lessonsByDomain = {};
   let loadErrors = [];
 
   async function grab(path) {
@@ -88,7 +96,41 @@ const Data = (() => {
     fun = fun.filter(f => f && Array.isArray(f.choices_vi) && f.choices_vi.length === 4 &&
       Number.isInteger(f.answer) && f.answer >= 0 && f.answer <= 3);
 
-    return { n: questions.length, errors: loadErrors };
+    /* ---- giáo trình ---- */
+    const lparts = await Promise.all(LESSON_FILES.map(f => grab('data/' + f + '.json')));
+    const lseen = new Set();
+    lessons = [];
+    for (const arr of lparts) {
+      for (const l of arr) {
+        if (!l || typeof l.id !== 'string' || !Array.isArray(l.sections)) continue;
+        if (lseen.has(l.id)) continue;
+        lseen.add(l.id);
+        lessons.push(l);
+      }
+    }
+    lessons.sort((a, b) => (a.order || 0) - (b.order || 0));
+    lessonsByDomain = {};
+    for (const l of lessons) (lessonsByDomain[l.domain] ||= []).push(l);
+
+    return { n: questions.length, nl: lessons.length, errors: loadErrors };
+  }
+
+  function lessonsIn(domain) { return lessonsByDomain[domain] || []; }
+  function lessonById(id) { return lessons.find(l => l.id === id); }
+  function domainsWithLessons() {
+    return DOMAINS.filter(d => (lessonsByDomain[d.id] || []).length > 0);
+  }
+
+  /* câu hỏi thuộc về một bài lý thuyết: cùng domain + khớp từ khóa `match` */
+  function questionsForLesson(l) {
+    const pool = inDomain(l.domain);
+    const keys = (l.match || []).map(x => String(x).toLowerCase()).filter(Boolean);
+    if (!keys.length) return pool;
+    const hit = pool.filter(q => {
+      const hay = ((q.topic || '') + ' ' + (q.keywords || []).join(' ') + ' ' + q.q).toLowerCase();
+      return keys.some(k => hay.includes(k));
+    });
+    return hit.length >= 4 ? hit : pool;   // khớp quá ít thì lấy cả lĩnh vực
   }
 
   function domainMeta(id) {
@@ -155,6 +197,8 @@ const Data = (() => {
     load, DOMAINS, GROUPS,
     domainMeta, inDomain, byId, activeDomains,
     shuffle, pick, makeExam,
+    lessonsIn, lessonById, domainsWithLessons, questionsForLesson,
+    get lessons(){ return lessons },
     get questions(){ return questions },
     get writing(){ return writing },
     get speaking(){ return speaking },
