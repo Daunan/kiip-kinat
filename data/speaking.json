@@ -1,0 +1,818 @@
+[
+  {
+    "id": "sp-001",
+    "topic": "한국의 문화재(국가유산)",
+    "passage": "한 나라의 역사와 정신이 담긴 소중한 유산을 예전에는 '문화재'라고 불렀습니다. 그러나 2024년 5월부터 법이 바뀌어 이제는 '국가유산'이라는 이름을 사용하고, 담당 기관의 이름도 국가유산청으로 바뀌었습니다. 국가유산은 크게 문화유산, 자연유산, 무형유산으로 나뉩니다. 문화유산 가운데 건축물이나 그림, 도자기처럼 형태가 있어 눈으로 볼 수 있는 것을 유형유산이라고 합니다. 반대로 판소리나 탈춤, 김장 문화처럼 형태는 없지만 사람에게서 사람으로 전해지는 것을 무형유산이라고 합니다. 이러한 유산은 한번 훼손되면 원래 모습으로 되돌리기가 매우 어렵습니다. 그래서 나라에서는 중요한 유산을 지정해 보호하고, 국민들도 함께 아끼고 지켜야 합니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "유형유산(유형문화재)이란 무엇인지 말해 보세요.",
+        "model_answer_ko": "유형유산은 눈으로 볼 수 있고 형태가 있는 유산을 말합니다. 예를 들면 오래된 건축물이나 그림, 도자기 같은 것이 있습니다. 반대로 형태가 없는 판소리나 탈춤은 무형유산이라고 합니다.",
+        "key_points_vi": [
+          "Định nghĩa: di sản CÓ hình thể, nhìn thấy được",
+          "Nêu 2-3 ví dụ: kiến trúc cổ, tranh, đồ gốm",
+          "Đối chiếu với 무형유산 để chứng minh hiểu rõ"
+        ],
+        "hint_vi": "Cách trả lời an toàn nhất là: định nghĩa → ví dụ → so sánh với loại đối lập. Chỉ cần nhớ 유형 = có hình, 무형 = không có hình."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "문화재라는 말이 국가유산으로 바뀐 이유는 무엇이라고 생각하세요?",
+        "model_answer_ko": "'재'라는 말은 재산이나 물건이라는 뜻이 강해서 눈에 보이는 것만 가리키는 느낌이 있습니다. 그런데 우리가 지켜야 할 것에는 자연과 무형의 문화도 있습니다. 그래서 더 넓은 뜻을 담고 국제 기준에도 맞추기 위해 국가유산으로 바꾼 것 같습니다.",
+        "key_points_vi": [
+          "'재(財)' mang nghĩa tài sản vật chất, phạm vi quá hẹp",
+          "Cần bao gồm cả di sản thiên nhiên và phi vật thể",
+          "Phù hợp với tiêu chuẩn quốc tế (UNESCO)"
+        ],
+        "hint_vi": "Câu hỏi có chữ '생각하세요' nên bắt buộc phải nêu ý kiến, không chỉ đọc lại bài. Kết bằng ~것 같습니다 để thể hiện đây là suy nghĩ riêng."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "○○ 씨 나라의 대표적인 문화유산을 하나 소개하고 그 특징을 이야기해 보세요.",
+        "model_answer_ko": "제 고향 베트남에는 호이안 옛 거리라는 문화유산이 있습니다. 수백 년 전 항구 도시의 모습이 그대로 남아 있어서 오래된 집과 다리를 볼 수 있습니다. 밤이 되면 집집마다 등불을 켜 놓아서 아주 아름답습니다. 유네스코에도 등재되어 세계 여러 나라 사람들이 찾아옵니다.",
+        "key_points_vi": [
+          "Nêu TÊN RIÊNG cụ thể của di sản, không nói chung chung",
+          "Mô tả 2 đặc điểm nhìn thấy được",
+          "Có thể thêm giá trị/ý nghĩa hoặc việc được UNESCO công nhận"
+        ],
+        "hint_vi": "Đây là câu chắc chắn ra ở mọi đề văn hoá, hãy chuẩn bị sẵn một di sản quê hương và học thuộc 3 câu. Đừng kể nhiều di sản cùng lúc — một cái thật kỹ sẽ được điểm cao hơn."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "대한민국 국민의 4대 의무에는 무엇이 있는지 말하고, 그중 하나를 골라 구체적으로 설명해 보세요.",
+        "model_answer_ko": "국민의 4대 의무에는 납세의 의무, 국방의 의무, 교육의 의무, 근로의 의무가 있습니다. 이 중에서 납세의 의무는 소득이 있는 국민이 법에 따라 세금을 내는 것입니다. 이렇게 모인 세금으로 도로를 만들고 학교를 짓고 어려운 이웃도 돕습니다. 그래서 납세는 나라를 함께 운영하는 일이라고 생각합니다.",
+        "key_points_vi": [
+          "Bắt buộc kể đủ 4: 납세·국방·교육·근로",
+          "Chọn 1 nghĩa vụ và giải thích nội dung của nó",
+          "Nêu tác dụng thực tế (thuế dùng để làm gì)",
+          "Kết bằng một câu đánh giá/ý kiến"
+        ],
+        "hint_vi": "Đây là câu ra rất nhiều lần trong thi quốc tịch, phải học thuộc lòng. Mẹo nhớ 4 chữ: 납-국-교-근. Nên chọn 납세 hoặc 교육 để giải thích vì dễ nói và không nhạy cảm."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "한국에 살면서 인상 깊었던 전통문화 경험이 있으면 이야기해 보세요.",
+        "model_answer_ko": "저는 작년 설날에 시댁에서 처음으로 차례를 지내 본 것이 가장 기억에 남습니다. 온 가족이 새벽부터 모여 음식을 차리고 조상님께 인사를 드렸습니다. 처음에는 순서가 어려워서 긴장했지만, 가족을 소중히 여기는 마음은 제 고향과 똑같다고 느꼈습니다.",
+        "key_points_vi": [
+          "Kể MỘT trải nghiệm cụ thể có thời gian và địa điểm",
+          "Miêu tả bạn đã làm gì trong dịp đó",
+          "Nói cảm nhận: lúc đầu thế nào, giờ nghĩ thế nào"
+        ],
+        "hint_vi": "Câu cá nhân chấm khả năng kể chuyện, nên hãy theo thứ tự: khi nào → ở đâu → làm gì → cảm thấy gì. Trải nghiệm dễ kể: 설날 차례, 김장, 한복 입기, 결혼식, 돌잔치."
+      }
+    ]
+  },
+  {
+    "id": "sp-002",
+    "topic": "한국의 가족 형태 변화",
+    "passage": "예전에 한국에서는 할아버지, 할머니와 부모, 자녀가 한집에서 함께 사는 대가족이 흔했습니다. 농사를 지으려면 여러 사람의 손이 필요했기 때문입니다. 그러나 산업화가 진행되면서 많은 사람이 일자리를 찾아 도시로 옮겨 갔고, 부모와 자녀만 사는 핵가족이 늘어났습니다. 요즘은 혼자 사는 1인 가구와 자녀 없이 부부만 사는 가구도 빠르게 늘고 있습니다. 부부가 함께 일하는 맞벌이 가정이 많아지면서 집안일과 자녀 양육을 나누어 맡는 모습도 자연스러워졌습니다. 국제결혼으로 이루어진 다문화 가족도 우리 사회의 한 부분이 되었습니다. 이렇게 가족의 모습은 달라졌지만, 서로 돌보고 아끼는 가족의 역할은 변하지 않았습니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "대가족과 핵가족은 어떻게 다른지 설명해 보세요.",
+        "model_answer_ko": "대가족은 할아버지, 할머니와 부모, 자녀가 한집에서 함께 사는 가족입니다. 반면에 핵가족은 부모와 결혼하지 않은 자녀만 함께 사는 가족을 말합니다. 옛날에는 대가족이 많았지만 지금은 핵가족이 훨씬 많습니다.",
+        "key_points_vi": [
+          "대가족 = 3 thế hệ trở lên sống chung",
+          "핵가족 = chỉ có bố mẹ và con cái",
+          "Thêm bối cảnh: xưa nhiều 대가족, nay chủ yếu 핵가족"
+        ],
+        "hint_vi": "Dùng cặp liên từ 반면에 / 하지만 để câu trả lời có cấu trúc so sánh rõ ràng — giám khảo rất thích cấu trúc này."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "가족의 형태가 이렇게 달라진 이유는 무엇입니까?",
+        "model_answer_ko": "가장 큰 이유는 산업화 때문입니다. 공장과 회사가 도시에 생기면서 많은 사람이 일자리를 찾아 도시로 옮겨 갔습니다. 그러다 보니 부모와 떨어져 사는 경우가 많아졌습니다. 또 여성의 사회 활동이 늘고 결혼을 늦게 하는 사람이 많아진 것도 이유라고 생각합니다.",
+        "key_points_vi": [
+          "Nguyên nhân chính: công nghiệp hoá và di cư ra thành phố",
+          "Thêm 1 nguyên nhân xã hội: phụ nữ đi làm, kết hôn muộn",
+          "Dùng 때문입니다 / 그러다 보니 để nối nguyên nhân - kết quả"
+        ],
+        "hint_vi": "Nên nêu 2 nguyên nhân: một cái lấy từ bài đọc (산업화·도시화) và một cái tự thêm. Trả lời chỉ bằng đúng chữ trong bài sẽ bị đánh giá là chưa hiểu."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "1인 가구가 늘어나면 어떤 문제가 생길 수 있다고 생각하세요?",
+        "model_answer_ko": "혼자 사는 사람이 많아지면 외로움을 느끼기 쉽고, 갑자기 아플 때 도와줄 사람이 없어서 위험할 수 있습니다. 특히 혼자 사시는 어르신은 더 걱정이 됩니다. 그래서 이웃이나 지역 사회가 자주 안부를 확인하는 제도가 필요하다고 생각합니다.",
+        "key_points_vi": [
+          "Nêu 1-2 vấn đề cụ thể: cô đơn, không ai giúp khi ốm",
+          "Chỉ ra nhóm dễ tổn thương: người già sống một mình",
+          "Đề xuất một giải pháp — luôn cộng điểm"
+        ],
+        "hint_vi": "Với câu hỏi '어떤 문제가 생길까요', công thức ăn điểm là: vấn đề → đối tượng bị ảnh hưởng → giải pháp. Đừng dừng lại ở việc chỉ nêu vấn đề."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "대한민국을 상징하는 것에는 무엇이 있는지 말하고, 하나를 골라 설명해 보세요.",
+        "model_answer_ko": "대한민국을 상징하는 것에는 국기인 태극기, 국가인 애국가, 그리고 나라꽃인 무궁화가 있습니다. 이 중에서 태극기는 흰 바탕에 가운데 태극 무늬가 있고 네 모서리에 검은 괘가 있습니다. 흰색은 밝음과 평화를 뜻하고, 태극 무늬는 조화를 뜻한다고 배웠습니다.",
+        "key_points_vi": [
+          "Kể đủ 3 biểu tượng: 태극기, 애국가, 무궁화 (có thể thêm 한글)",
+          "Chọn 1 cái và mô tả hình dáng",
+          "Nêu ý nghĩa: màu trắng = hoà bình/thuần khiết, 태극 = hài hoà"
+        ],
+        "hint_vi": "Câu về biểu tượng quốc gia ra rất thường xuyên vì liên quan tới 국가정체성. Hãy học thuộc: 태극기(국기), 애국가(국가), 무궁화(국화), 한글(문자). Mô tả lá cờ theo thứ tự: nền trắng → 태극 ở giữa → 4 quẻ đen ở 4 góc."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "○○ 씨 가족 중에서 가장 존경하는 사람은 누구이고 그 이유는 무엇입니까?",
+        "model_answer_ko": "저는 제 어머니를 가장 존경합니다. 어머니는 형편이 어려운 중에도 저희 삼 남매를 모두 학교에 보내 주셨습니다. 힘든 일이 있어도 한 번도 불평하지 않으시고 항상 웃으셨습니다. 저도 어머니처럼 참을성 있고 따뜻한 사람이 되고 싶습니다.",
+        "key_points_vi": [
+          "Nêu rõ người đó là ai (관계)",
+          "Kể 1-2 việc cụ thể người đó đã làm",
+          "Nói lý do kính trọng + điều bạn muốn học theo",
+          "Dùng kính ngữ cho người lớn: 주셨습니다, 웃으셨습니다"
+        ],
+        "hint_vi": "Lỗi thường gặp là quên kính ngữ khi nói về bố mẹ. Mọi động từ của người được kính trọng phải có -시-: 보내 주셨습니다, 말씀하셨습니다. Kết bằng 저도 ~고 싶습니다 là cách kết tự nhiên nhất."
+      }
+    ]
+  },
+  {
+    "id": "sp-003",
+    "topic": "한국의 명절",
+    "passage": "한국의 대표적인 명절은 설날과 추석입니다. 설날은 음력 1월 1일로 한 해가 새로 시작되는 날입니다. 이날 사람들은 아침에 차례를 지내고 떡국을 먹으며, 아이들은 어른들께 세배를 하고 덕담과 세뱃돈을 받습니다. 추석은 음력 8월 15일로, 한 해 농사를 잘 마친 것에 감사하는 날입니다. 사람들은 송편을 빚어 먹고 조상의 산소를 찾아가 성묘를 합니다. 두 명절에는 고향을 찾는 사람이 많아 도로가 크게 붐비는데, 이것을 민족 대이동이라고 부르기도 합니다. 요즘은 명절에 여행을 가거나 간단히 지내는 가정도 늘고 있습니다. 그래도 온 가족이 모여 안부를 나누는 명절의 의미는 여전히 소중합니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "설날에는 어떤 일을 하는지 이야기해 보세요.",
+        "model_answer_ko": "설날 아침에는 온 가족이 모여 조상님께 차례를 지냅니다. 그다음에 떡국을 함께 먹는데, 떡국을 먹으면 한 살을 더 먹는다고 합니다. 그리고 아이들이 어른들께 세배를 하면 어른들은 덕담을 해 주시고 세뱃돈을 주십니다.",
+        "key_points_vi": [
+          "Kể tối thiểu 3 việc: 차례 → 떡국 → 세배",
+          "Nêu đúng thứ tự trong ngày (아침에 → 그다음에)",
+          "Thêm chi tiết văn hoá: ăn 떡국 là thêm một tuổi"
+        ],
+        "hint_vi": "Chú ý phân biệt: 떡국 và 세배 là của 설날; 송편 và 성묘 là của 추석. Nhầm hai cái này là mất điểm nặng vì đó chính là điểm kiểm tra."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "추석은 어떤 의미를 가진 날입니까?",
+        "model_answer_ko": "추석은 음력 8월 15일로, 한 해 동안 지은 농사를 잘 마친 것에 감사하는 날입니다. 그래서 새로 거둔 곡식으로 송편을 빚어 먹습니다. 또 조상의 산소를 찾아가 성묘를 하면서 조상께 감사하는 마음을 전합니다.",
+        "key_points_vi": [
+          "Nêu ngày âm lịch: 음력 8월 15일",
+          "Ý nghĩa cốt lõi: tạ ơn mùa màng bội thu",
+          "Gắn với phong tục: 송편, 성묘"
+        ],
+        "hint_vi": "Từ khoá phải bật ra là 감사 (biết ơn) — biết ơn mùa màng và biết ơn tổ tiên. Nếu chỉ nói '가족이 모이는 날' thì chưa đủ ý nghĩa."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "요즘 명절을 보내는 모습이 예전과 어떻게 달라졌습니까?",
+        "model_answer_ko": "예전에는 명절이면 모두 고향에 내려가 며칠씩 함께 지냈습니다. 그런데 요즘은 여행을 가거나 음식을 사서 간단하게 지내는 가정이 늘었습니다. 가족이 멀리 떨어져 살고 일이 바쁘기 때문인 것 같습니다.",
+        "key_points_vi": [
+          "So sánh rõ xưa - nay: 예전에는 ~았지만 요즘은 ~습니다",
+          "Nêu thay đổi cụ thể: đi du lịch, mua đồ ăn sẵn, tổ chức gọn nhẹ",
+          "Thêm lý do của thay đổi"
+        ],
+        "hint_vi": "Mọi câu hỏi dạng '달라졌습니까' đều dùng khung 예전에는 ~았/었지만 요즘은 ~습니다, rồi thêm 왜냐하면/때문입니다. Học một khung này dùng được cho rất nhiều đề."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "민주주의란 무엇인지 설명하고, 한국 민주주의의 특징을 이야기해 보세요.",
+        "model_answer_ko": "민주주의는 나라의 주인이 국민이고, 중요한 일을 국민의 뜻에 따라 결정하는 정치 제도입니다. 한국에서는 국민이 선거로 대통령과 국회의원을 직접 뽑습니다. 또 권력이 한곳에 모이지 않도록 입법부, 행정부, 사법부로 나누어져 있습니다. 국민이 스스로 노력해서 민주주의를 이룬 점도 큰 특징이라고 생각합니다.",
+        "key_points_vi": [
+          "Định nghĩa: chủ quyền thuộc về nhân dân (국민이 주인)",
+          "Hình thức thực hiện: bầu cử trực tiếp",
+          "Tam quyền phân lập: 입법부·행정부·사법부",
+          "Đặc điểm Hàn Quốc: dân chủ giành được bằng nỗ lực của người dân"
+        ],
+        "hint_vi": "Ba từ khoá bắt buộc: 국민이 주인, 선거, 권력 분립 (tam quyền phân lập). Nhớ tên 3 nhánh: 입법부(국회), 행정부(정부), 사법부(법원). Đây là câu điểm cao vì nhiều người trả lời được rất mơ hồ."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "○○ 씨 고향의 명절과 한국의 명절은 어떤 점이 비슷하고 어떤 점이 다릅니까?",
+        "model_answer_ko": "제 고향 베트남에도 설날이 있어서 가족이 모두 모이는 것은 한국과 비슷합니다. 조상님께 인사를 드리는 것도 똑같습니다. 하지만 먹는 음식이 달라서 한국에서는 떡국을 먹고 저희 고향에서는 찹쌀떡을 먹습니다. 형식은 달라도 가족을 생각하는 마음은 같다고 느꼈습니다.",
+        "key_points_vi": [
+          "Phải nói CẢ điểm giống VÀ điểm khác — thiếu một vế là mất điểm",
+          "Điểm giống nên là: sum họp gia đình, cúng tổ tiên",
+          "Điểm khác nên cụ thể: món ăn, thời gian nghỉ, cách chúc",
+          "Kết bằng một câu tổng: hình thức khác nhưng tấm lòng giống"
+        ],
+        "hint_vi": "Đây là câu hỏi so sánh, hãy nói theo đúng thứ tự: giống trước, khác sau, rồi kết. Câu kết '형식은 달라도 마음은 같습니다' là câu vàng, dùng được cho mọi đề so sánh văn hoá."
+      }
+    ]
+  },
+  {
+    "id": "sp-004",
+    "topic": "한국의 선거 제도",
+    "passage": "민주주의 국가에서 국민이 나라의 주인임을 가장 잘 보여 주는 것이 선거입니다. 한국에서는 만 18세 이상의 국민이면 누구나 투표할 수 있습니다. 국민은 5년마다 대통령을 뽑고, 4년마다 국회의원과 지방자치단체의 대표를 뽑습니다. 공정한 선거를 위해 네 가지 원칙이 지켜지는데, 일정한 나이가 되면 누구나 투표하는 보통 선거, 한 사람이 한 표씩 행사하는 평등 선거, 대리인을 두지 않고 자신이 직접 투표하는 직접 선거, 누구를 뽑았는지 밝히지 않는 비밀 선거입니다. 또 선거일에 투표하기 어려운 사람을 위해 미리 투표할 수 있는 사전투표 제도도 있습니다. 선거와 관련된 일은 선거관리위원회가 공정하게 맡아서 처리합니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "공정한 선거를 위한 네 가지 원칙에는 무엇이 있습니까?",
+        "model_answer_ko": "보통 선거, 평등 선거, 직접 선거, 비밀 선거 이렇게 네 가지가 있습니다. 보통 선거는 일정한 나이가 되면 누구나 투표할 수 있다는 것이고, 평등 선거는 한 사람이 한 표씩 행사한다는 뜻입니다. 직접 선거는 본인이 직접 투표하는 것이고, 비밀 선거는 누구를 뽑았는지 다른 사람이 알 수 없게 하는 것입니다.",
+        "key_points_vi": [
+          "Kể đủ 4 nguyên tắc: 보통·평등·직접·비밀",
+          "Giải thích ngắn từng nguyên tắc, không chỉ đọc tên",
+          "Đặc biệt phân biệt 보통 (ai cũng được bầu) và 평등 (mỗi người 1 phiếu)"
+        ],
+        "hint_vi": "Câu này ra cả ở phần trắc nghiệm lẫn vấn đáp, phải thuộc lòng. Mẹo nhớ: 보-평-직-비. Dễ nhầm nhất là 보통 và 평등: 보통 nói về AI ĐƯỢC bầu, 평등 nói về GIÁ TRỊ lá phiếu."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "한국에서 대통령과 국회의원은 각각 몇 년마다 뽑습니까?",
+        "model_answer_ko": "대통령은 5년마다 한 번씩 뽑고, 국회의원은 4년마다 뽑습니다. 지방자치단체의 대표와 지방의회 의원도 4년마다 뽑습니다. 투표는 만 18세 이상이면 누구나 할 수 있습니다.",
+        "key_points_vi": [
+          "Tổng thống: 5 năm; Quốc hội: 4 năm — con số phải chính xác",
+          "Bầu cử địa phương cũng 4 năm",
+          "Thêm độ tuổi có quyền bầu cử: 만 18세"
+        ],
+        "hint_vi": "Nhớ 5-4-4: 대통령 5년, 국회의원 4년, 지방선거 4년. Tổng thống Hàn Quốc chỉ làm 1 nhiệm kỳ duy nhất (5년 단임) — nói thêm ý này sẽ được đánh giá cao."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "사전투표 제도가 왜 필요하다고 생각하세요?",
+        "model_answer_ko": "선거일에 일을 하거나 멀리 가야 해서 투표하지 못하는 사람이 있기 때문입니다. 사전투표가 있으면 이런 사람들도 미리 투표할 수 있습니다. 그래서 더 많은 국민이 참여할 수 있고 투표율도 높아진다고 생각합니다.",
+        "key_points_vi": [
+          "Lý do: nhiều người bận đi làm hoặc đi xa vào ngày bầu cử",
+          "Hiệu quả: tăng tỉ lệ tham gia (투표율)",
+          "Liên hệ với nguyên tắc 보통 선거 sẽ là điểm cộng"
+        ],
+        "hint_vi": "Câu hỏi 왜 필요합니까 luôn trả lời theo khung: có vấn đề gì → chế độ này giải quyết ra sao → kết quả tốt là gì. Từ khoá cần nói: 투표율 (tỉ lệ đi bầu)."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "한국이 다문화 사회가 되면서 생기는 어려움에는 무엇이 있고, 어떻게 해결하면 좋겠습니까?",
+        "model_answer_ko": "먼저 말이 잘 통하지 않아서 생기는 오해가 있습니다. 또 서로의 문화를 잘 몰라서 편견을 갖는 경우도 있습니다. 이런 문제를 줄이려면 외국인에게는 한국어와 한국 문화를 배울 기회를 더 많이 주고, 한국 사람에게도 다른 나라 문화를 알리는 교육이 필요하다고 생각합니다. 서로 다름을 인정하는 것이 가장 중요합니다.",
+        "key_points_vi": [
+          "Nêu 2 khó khăn: rào cản ngôn ngữ, định kiến do thiếu hiểu biết",
+          "Giải pháp phải HAI CHIỀU: hỗ trợ người nước ngoài VÀ giáo dục người Hàn",
+          "Kết bằng tinh thần tôn trọng khác biệt (다름을 인정하다)"
+        ],
+        "hint_vi": "Điểm mấu chốt của câu này là giải pháp hai chiều — rất nhiều thí sinh chỉ nói 'người nước ngoài phải học tiếng Hàn' và bị đánh giá là thiếu chiều sâu. Tránh kể chuyện bị phân biệt đối xử theo giọng oán trách."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "○○ 씨가 한국 국민이 된다면 어떤 사회 활동에 참여하고 싶습니까?",
+        "model_answer_ko": "저는 먼저 선거에 꼭 참여해서 소중한 한 표를 행사하고 싶습니다. 그리고 저처럼 한국에 처음 온 이주민들을 위해 통역 봉사를 하고 싶습니다. 제가 겪었던 어려움을 잘 알기 때문에 더 잘 도울 수 있을 것 같습니다.",
+        "key_points_vi": [
+          "Nêu 1-2 hoạt động cụ thể: bầu cử, tình nguyện, hoạt động khu dân cư",
+          "Giải thích lý do gắn với trải nghiệm bản thân",
+          "Tránh trả lời chung chung kiểu '열심히 살겠습니다'"
+        ],
+        "hint_vi": "Nhắc tới 선거 참여 là an toàn nhất vì đúng trọng tâm bài đọc và cho thấy ý thức công dân. Thêm một hoạt động tình nguyện cụ thể (통역, 다문화 강사, 봉사) sẽ làm câu trả lời sinh động."
+      }
+    ]
+  },
+  {
+    "id": "sp-005",
+    "topic": "한국의 사회보험",
+    "passage": "사회보험은 국민이 살면서 겪을 수 있는 여러 위험에 미리 대비하기 위해 나라가 운영하는 제도입니다. 대표적인 것으로 네 가지가 있습니다. 국민연금은 나이가 들거나 장애를 입어 소득이 줄었을 때 매달 연금을 받을 수 있게 해 줍니다. 건강보험은 병원에 갔을 때 진료비의 일부만 내도록 하여 부담을 덜어 줍니다. 고용보험은 일자리를 잃었을 때 실업급여를 주고 다시 일할 수 있도록 도와줍니다. 산재보험은 일하다가 다치거나 병에 걸렸을 때 치료비와 보상을 해 줍니다. 사회보험은 국민이 낸 보험료로 운영되며, 조건이 되면 반드시 가입해야 합니다. 이와 달리 공공부조는 생활이 어려운 사람에게 세금으로 최소한의 생활을 보장해 주는 제도입니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "한국의 4대 사회보험에는 무엇이 있는지 말해 보세요.",
+        "model_answer_ko": "국민연금, 건강보험, 고용보험, 산재보험 이렇게 네 가지가 있습니다. 국민연금은 나이가 들었을 때 연금을 받는 것이고, 건강보험은 병원비 부담을 줄여 주는 것입니다. 고용보험은 일자리를 잃었을 때 도와주고, 산재보험은 일하다가 다쳤을 때 보상해 줍니다.",
+        "key_points_vi": [
+          "Kể đủ 4: 국민연금·건강보험·고용보험·산재보험",
+          "Gắn mỗi loại với một tình huống được bảo vệ",
+          "Không nhầm 고용보험 (thất nghiệp) với 산재보험 (tai nạn lao động)"
+        ],
+        "hint_vi": "Mẹo nhớ theo tình huống: già → 국민연금, ốm → 건강보험, mất việc → 고용보험, tai nạn khi làm → 산재보험. Đây là câu chắc chắn ra, phải thuộc."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "고용보험은 어떤 경우에 도움을 받을 수 있습니까?",
+        "model_answer_ko": "고용보험은 다니던 회사를 그만두게 되어 일자리를 잃었을 때 도움을 받습니다. 일정한 조건을 갖추면 실업급여를 받을 수 있어서 생활에 보탬이 됩니다. 또 새로운 기술을 배우는 직업 훈련도 지원받을 수 있습니다.",
+        "key_points_vi": [
+          "Tình huống: mất việc làm (실직)",
+          "Quyền lợi chính: 실업급여 (trợ cấp thất nghiệp)",
+          "Quyền lợi thêm: hỗ trợ đào tạo nghề để tái tuyển dụng"
+        ],
+        "hint_vi": "Từ khoá phải nói được là 실업급여. Nếu nói thêm 직업 훈련 지원 thì câu trả lời đủ 3 câu và được đánh giá đầy đủ."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "사회보험과 공공부조는 어떤 점이 다릅니까?",
+        "model_answer_ko": "가장 큰 차이는 돈을 어디에서 마련하는가입니다. 사회보험은 국민이 매달 내는 보험료로 운영되고, 공공부조는 나라가 걷은 세금으로 운영됩니다. 그래서 사회보험은 보험료를 낸 사람이 혜택을 받고, 공공부조는 생활이 어려운 사람을 도와주는 제도입니다.",
+        "key_points_vi": [
+          "Điểm khác cốt lõi: nguồn tiền — 보험료 vs 세금",
+          "Đối tượng: người đóng bảo hiểm vs người khó khăn",
+          "Ví dụ 공공부조: 국민기초생활보장제도, 의료급여"
+        ],
+        "hint_vi": "Đây là câu phân biệt kinh điển trong chương trình nâng cao. Chỉ cần nhớ một câu: 사회보험은 보험료, 공공부조는 세금. Nắm được ý này là trả lời được cả câu trắc nghiệm lẫn vấn đáp."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "헌법이 보장하는 근로자의 세 가지 권리에 대해 이야기해 보세요.",
+        "model_answer_ko": "헌법은 근로자에게 단결권, 단체교섭권, 단체행동권을 보장하고 있습니다. 단결권은 노동조합을 만들거나 가입할 수 있는 권리이고, 단체교섭권은 노동조합이 회사와 임금이나 근무 조건을 협상할 수 있는 권리입니다. 단체행동권은 협상이 잘되지 않을 때 파업 같은 방법으로 뜻을 나타낼 수 있는 권리입니다.",
+        "key_points_vi": [
+          "Kể đủ 근로3권: 단결권·단체교섭권·단체행동권",
+          "Giải thích: lập công đoàn → thương lượng → đình công",
+          "Nhấn mạnh đây là quyền được HIẾN PHÁP bảo đảm"
+        ],
+        "hint_vi": "Mẹo nhớ theo trình tự thực tế: tập hợp lại (단결) → đàm phán (교섭) → hành động (행동). Người lao động nước ngoài ở Hàn cũng được hưởng 근로3권 — nói thêm ý này rất được điểm."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "한국에서 병원을 이용해 본 경험을 이야기해 보세요.",
+        "model_answer_ko": "작년 겨울에 열이 심하게 나서 집 근처 내과에 간 적이 있습니다. 접수할 때 건강보험증과 신분증을 냈고, 진료를 받은 뒤에 처방전을 받아 약국에서 약을 샀습니다. 건강보험이 있어서 생각보다 진료비가 적게 나와 다행이었습니다.",
+        "key_points_vi": [
+          "Kể theo trình tự: triệu chứng → đi khám → làm thủ tục → nhận thuốc",
+          "Dùng từ vựng y tế: 접수, 진료, 처방전, 약국, 건강보험증",
+          "Kết bằng cảm nhận về chế độ bảo hiểm y tế"
+        ],
+        "hint_vi": "Câu này chấm từ vựng chuyên đề y tế, hãy dùng đúng: 접수하다 (đăng ký khám), 진료를 받다 (được khám), 처방전 (đơn thuốc), 약국 (nhà thuốc). Kết nối với 건강보험 trong bài đọc để câu trả lời liền mạch với đề."
+      }
+    ]
+  },
+  {
+    "id": "sp-006",
+    "topic": "저출산과 고령화",
+    "passage": "요즘 한국 사회에서 가장 큰 걱정거리 가운데 하나가 저출산과 고령화입니다. 저출산은 태어나는 아이의 수가 줄어드는 것이고, 고령화는 전체 인구에서 노인이 차지하는 비율이 높아지는 것입니다. 보통 65세 이상 인구가 전체의 7퍼센트를 넘으면 고령화 사회, 14퍼센트를 넘으면 고령 사회, 20퍼센트를 넘으면 초고령 사회라고 부릅니다. 아이를 적게 낳는 이유로는 집값과 교육비 부담, 일과 육아를 함께하기 어려운 환경 등이 꼽힙니다. 아이가 줄고 노인이 늘면 일할 사람이 부족해지고 젊은 세대가 부담해야 할 몫이 커집니다. 그래서 정부는 육아 휴직과 보육 지원을 늘리고 노인 일자리를 만드는 등 여러 대책을 마련하고 있습니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "저출산과 고령화는 각각 어떤 현상을 말합니까?",
+        "model_answer_ko": "저출산은 태어나는 아이의 수가 점점 줄어드는 현상을 말합니다. 그리고 고령화는 전체 인구 가운데 노인이 차지하는 비율이 점점 높아지는 현상입니다. 이 두 가지가 함께 나타나면 인구 구조가 크게 달라집니다.",
+        "key_points_vi": [
+          "저출산 = số trẻ được sinh ra giảm",
+          "고령화 = tỉ lệ người cao tuổi trong dân số tăng",
+          "Định nghĩa hai khái niệm TÁCH BIỆT, không gộp làm một"
+        ],
+        "hint_vi": "Hai từ này hay bị nói lẫn. Nhớ theo chữ: 저출산 = 出産 ít (sinh ít), 고령화 = 高齡 nhiều (già hoá). Trả lời theo đúng cấu trúc '~은/는 ~하는 현상입니다'."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "한국 사람들이 아이를 적게 낳는 이유는 무엇이라고 했습니까?",
+        "model_answer_ko": "집값과 교육비 부담이 크기 때문입니다. 아이를 키우려면 돈이 많이 드는데 집을 마련하기도 어려운 상황입니다. 또 일과 육아를 함께하기 어려워서 아이 낳기를 미루는 사람도 많습니다.",
+        "key_points_vi": [
+          "Gánh nặng kinh tế: giá nhà, chi phí giáo dục",
+          "Khó cân bằng công việc và nuôi con",
+          "Có thể thêm: kết hôn muộn, thiếu chỗ gửi trẻ"
+        ],
+        "hint_vi": "Câu hỏi có chữ '~고 했습니까' nghĩa là phải lấy ý TỪ BÀI ĐỌC. Hãy nêu đúng 2 lý do trong bài rồi mới thêm ý của mình, đừng bỏ qua bài đọc."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "저출산과 고령화가 계속되면 사회에 어떤 문제가 생깁니까?",
+        "model_answer_ko": "먼저 일할 수 있는 사람이 줄어들어서 경제가 어려워질 수 있습니다. 그리고 노인을 돌보는 데 드는 비용이 늘어나 젊은 세대의 부담이 커집니다. 학생이 줄어서 문을 닫는 학교가 생기는 것도 문제입니다.",
+        "key_points_vi": [
+          "Thiếu lực lượng lao động → kinh tế chậm lại",
+          "Gánh nặng phúc lợi dồn lên thế hệ trẻ",
+          "Hệ quả cụ thể: trường học đóng cửa, làng quê vắng người"
+        ],
+        "hint_vi": "Nên nêu 3 hệ quả ở 3 lĩnh vực khác nhau (kinh tế - phúc lợi - giáo dục) thay vì 3 ý giống nhau. Cấu trúc 먼저 ~고, 그리고 ~습니다 giúp câu trả lời rõ ràng."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "대한민국 헌법이 보장하는 국민의 기본권에는 어떤 것들이 있습니까?",
+        "model_answer_ko": "헌법은 국민에게 여러 가지 기본권을 보장하고 있습니다. 차별받지 않을 평등권, 자유롭게 생각하고 행동할 수 있는 자유권, 선거에 참여할 수 있는 참정권이 있습니다. 또 인간답게 살 권리인 사회권과, 권리를 침해당했을 때 국가에 요구할 수 있는 청구권도 있습니다.",
+        "key_points_vi": [
+          "Kể được 3-5 loại: 평등권·자유권·참정권·사회권·청구권",
+          "Mỗi quyền kèm một giải thích rất ngắn",
+          "사회권 = quyền được sống xứng đáng với con người (인간다운 생활)"
+        ],
+        "hint_vi": "Đề thi thật đã từng hỏi riêng về 사회권, nên hãy nhớ kỹ: 사회권 là quyền được sống một cuộc sống xứng đáng, ví dụ như quyền được học, được chăm sóc y tế, được bảo đảm mức sống tối thiểu."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "저출산 문제를 해결하려면 어떻게 해야 한다고 생각합니까?",
+        "model_answer_ko": "저는 아이를 키우는 부담을 줄여 주는 것이 가장 중요하다고 생각합니다. 예를 들어 믿고 맡길 수 있는 어린이집을 늘리고 교육비를 지원해 주면 좋겠습니다. 또 아빠도 육아 휴직을 편하게 쓸 수 있는 회사 분위기가 필요합니다. 아이를 키우기 좋은 사회가 되어야 사람들이 안심하고 아이를 낳을 것 같습니다.",
+        "key_points_vi": [
+          "Nêu ít nhất 2 giải pháp cụ thể, không nói chung chung",
+          "Giải pháp nên thuộc 2 hướng: hỗ trợ tiền/cơ sở VÀ thay đổi văn hoá công sở",
+          "Kết bằng câu tổng có 제 생각에는 / ~것 같습니다"
+        ],
+        "hint_vi": "Câu '저출산 해결책' đã ra thật trong kỳ thi vấn đáp, gần như bắt buộc phải chuẩn bị. Từ khoá ăn điểm: 육아 휴직 (nghỉ chăm con), 어린이집 (nhà trẻ), 교육비 지원, 일과 가정의 양립. Tuyệt đối tránh trả lời kiểu 'phải sinh nhiều con' mà không có giải pháp."
+      }
+    ]
+  },
+  {
+    "id": "sp-007",
+    "topic": "다문화 사회",
+    "passage": "다문화 사회란 여러 나라에서 온 사람들이 서로 다른 문화를 지닌 채 함께 살아가는 사회를 말합니다. 한국에도 결혼이민자와 외국인 근로자, 유학생 등이 늘어나면서 이러한 모습이 자연스러워졌습니다. 학교에는 여러 나라 출신의 학생들이 함께 공부하고, 동네에는 다양한 나라의 음식점이 문을 열었습니다. 서로 다른 문화가 만나면 새로운 생각과 기회가 생겨나 사회가 더 풍요로워집니다. 그러나 말이 잘 통하지 않아 오해가 생기거나 편견 때문에 마음을 다치는 일도 있습니다. 그래서 나라와 지역에서는 한국어 교육과 상담, 통역 같은 지원을 하고 있습니다. 중요한 것은 다름을 틀림으로 보지 않고 서로 존중하는 태도입니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "다문화 사회란 무엇인지 설명해 보세요.",
+        "model_answer_ko": "다문화 사회는 여러 나라에서 온 사람들이 서로 다른 문화를 지닌 채 함께 살아가는 사회를 말합니다. 한국에도 결혼이민자와 외국인 근로자, 유학생이 많이 늘었습니다. 그래서 한국도 이제 다문화 사회가 되었다고 할 수 있습니다.",
+        "key_points_vi": [
+          "Định nghĩa: nhiều nền văn hoá cùng tồn tại trong một xã hội",
+          "Nêu các nhóm cụ thể: 결혼이민자, 외국인 근로자, 유학생",
+          "Kết luận: Hàn Quốc hiện cũng là xã hội đa văn hoá"
+        ],
+        "hint_vi": "Nhớ ba nhóm chính bằng chữ: KẾT HÔN - LAO ĐỘNG - DU HỌC (결혼이민자·외국인 근로자·유학생). Nêu được ba nhóm này là chắc điểm phần định nghĩa."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "다문화 사회의 좋은 점은 무엇이라고 했습니까?",
+        "model_answer_ko": "서로 다른 문화가 만나면 새로운 생각과 기회가 생긴다고 했습니다. 여러 나라의 음식과 문화를 가까이에서 경험할 수 있는 것도 좋은 점입니다. 그리고 다양한 사람이 함께 일하면서 사회가 더 풍요로워집니다.",
+        "key_points_vi": [
+          "Ý chính từ bài: nảy sinh ý tưởng và cơ hội mới",
+          "Thêm ví dụ đời thường: ẩm thực, văn hoá đa dạng",
+          "Từ khoá: 풍요로워지다 (trở nên phong phú)"
+        ],
+        "hint_vi": "Câu hỏi về '좋은 점' rất dễ trả lời hời hợt. Hãy nói một lợi ích trừu tượng (ý tưởng mới) cộng một lợi ích cụ thể (món ăn, ngôn ngữ) để câu trả lời có chiều sâu."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "다문화 사회에서 서로를 존중하려면 어떤 태도가 필요합니까?",
+        "model_answer_ko": "먼저 다른 것을 틀린 것으로 생각하지 않는 태도가 필요합니다. 문화가 다르다고 해서 나쁜 것은 아니기 때문입니다. 그리고 상대의 입장에서 한 번 더 생각해 보고, 궁금한 것이 있으면 편견을 갖기 전에 직접 물어보는 것이 좋다고 생각합니다.",
+        "key_points_vi": [
+          "Câu cốt lõi: 다름을 틀림으로 보지 않는다",
+          "Đặt mình vào vị trí đối phương (상대의 입장에서)",
+          "Chủ động tìm hiểu thay vì mang định kiến"
+        ],
+        "hint_vi": "Phân biệt 다르다 (khác) và 틀리다 (sai) chính là điểm chấm của câu này — hãy nói rõ câu '다른 것은 틀린 것이 아닙니다'. Đây cũng là câu dùng lại được cho phần thi 면접심사."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "남북통일이 필요하다고 생각하십니까? 그 이유는 무엇입니까?",
+        "model_answer_ko": "저는 통일이 필요하다고 생각합니다. 먼저 헤어진 이산가족들이 다시 만날 수 있기 때문입니다. 또 전쟁의 걱정이 없어져서 한반도가 더 평화로워질 것입니다. 남과 북이 힘을 합치면 경제도 더 크게 발전할 수 있다고 생각합니다.",
+        "key_points_vi": [
+          "Nêu lập trường rõ ràng ngay câu đầu",
+          "Đưa 2-3 lý do: đoàn tụ gia đình ly tán, hoà bình, phát triển kinh tế",
+          "Từ khoá: 이산가족, 평화, 한반도"
+        ],
+        "hint_vi": "Có thể trả lời cần hoặc chưa cần, nhưng nếu nói 'chưa cần' thì phải nêu lý do hợp lý (chi phí thống nhất, khác biệt xã hội) và vẫn kết bằng mong muốn hoà bình. An toàn nhất là ủng hộ thống nhất kèm 3 lý do."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "한국에서 생활하면서 도움을 받았거나 아쉬웠던 경험이 있으면 이야기해 보세요.",
+        "model_answer_ko": "처음 한국에 왔을 때 서류를 어떻게 써야 할지 몰라서 많이 당황했습니다. 그때 주민센터 직원분이 천천히 설명해 주셔서 큰 도움이 되었습니다. 다만 외국인을 위한 통역 서비스가 더 많아지면 좋겠다는 생각을 했습니다.",
+        "key_points_vi": [
+          "Kể một tình huống cụ thể có bối cảnh",
+          "Nêu ai đã giúp và giúp thế nào (dùng kính ngữ ~아/어 주셨습니다)",
+          "Phần 'tiếc nuối' nên chuyển thành ĐỀ XUẤT, không phải lời than phiền"
+        ],
+        "hint_vi": "Bí quyết của câu này: kể chuyện tích cực trước, rồi mới nói mong muốn cải thiện bằng mẫu ~면 좋겠습니다. Nói theo hướng trách móc xã hội Hàn Quốc sẽ để lại ấn tượng xấu với giám khảo."
+      }
+    ]
+  },
+  {
+    "id": "sp-008",
+    "topic": "한국의 교육",
+    "passage": "한국의 학교 제도는 초등학교 6년, 중학교 3년, 고등학교 3년, 대학교 4년으로 이루어져 있습니다. 이 가운데 초등학교와 중학교 9년은 의무 교육이라서 모든 아이가 반드시 다녀야 하며 나라에서 비용을 지원합니다. 고등학교를 마친 학생들은 대부분 대학에 가기 위해 대학수학능력시험을 봅니다. 시험을 보는 날에는 온 나라가 조용해지고, 교통을 조정하거나 응원을 나오는 모습도 볼 수 있습니다. 한국 부모들은 자녀 교육에 관심이 매우 높아 학교가 끝난 뒤 학원에 다니는 학생도 많습니다. 그러나 지나친 경쟁과 사교육비 부담은 사회 문제로 지적되기도 합니다. 한편 나이와 상관없이 배울 수 있는 평생 교육 기관도 늘어나고 있습니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "한국의 의무 교육은 몇 년이고 어떤 학교가 해당됩니까?",
+        "model_answer_ko": "한국의 의무 교육은 모두 9년입니다. 초등학교 6년과 중학교 3년이 여기에 해당합니다. 의무 교육이기 때문에 모든 아이가 반드시 다녀야 하고 나라에서 비용을 지원해 줍니다.",
+        "key_points_vi": [
+          "Con số chính xác: 9 năm",
+          "Gồm tiểu học 6 năm + THCS 3 năm (KHÔNG bao gồm THPT)",
+          "Đặc điểm: bắt buộc và được nhà nước hỗ trợ chi phí"
+        ],
+        "hint_vi": "Bẫy lớn nhất: nhiều người tưởng cấp 3 cũng là giáo dục bắt buộc. 고등학교 KHÔNG thuộc 의무 교육 (dù được miễn học phí). Nhớ 6-3 = 9년."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "대학수학능력시험을 보는 날에는 어떤 모습을 볼 수 있습니까?",
+        "model_answer_ko": "그날은 온 나라가 조용해집니다. 수험생들이 시험에 늦지 않도록 회사 출근 시간을 늦추기도 하고, 듣기 평가 시간에는 비행기도 잠시 뜨지 않습니다. 학교 앞에서는 후배들이 나와 응원하는 모습도 볼 수 있습니다.",
+        "key_points_vi": [
+          "Cả nước im lặng, ưu tiên cho thí sinh",
+          "Ví dụ cụ thể: lùi giờ làm, tạm dừng máy bay khi thi nghe",
+          "Không khí cổ vũ trước cổng trường"
+        ],
+        "hint_vi": "Đây là câu kiểm tra hiểu biết văn hoá xã hội, hãy kể 2 ví dụ cụ thể thay vì chỉ nói '조용합니다'. Tên đầy đủ của kỳ thi là 대학수학능력시험, gọi tắt là 수능."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "한국 교육에서 문제로 지적되는 점은 무엇이라고 했습니까?",
+        "model_answer_ko": "지나친 경쟁과 사교육비 부담이 문제로 지적된다고 했습니다. 학생들이 학교가 끝난 뒤에도 학원에 다니느라 쉴 시간이 부족합니다. 그리고 학원비가 비싸서 부모님의 부담도 매우 큽니다.",
+        "key_points_vi": [
+          "Hai vấn đề trong bài: cạnh tranh quá mức, gánh nặng 사교육비",
+          "Hệ quả cho học sinh: thiếu thời gian nghỉ ngơi",
+          "Hệ quả cho phụ huynh: áp lực tài chính"
+        ],
+        "hint_vi": "Từ khoá bắt buộc là 사교육비 (chi phí học thêm ngoài trường). Trả lời theo hai phía: học sinh mệt và phụ huynh tốn tiền — như vậy là đủ chiều."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "지방자치제도가 무엇인지 설명하고, 왜 필요한지 이야기해 보세요.",
+        "model_answer_ko": "지방자치제도는 그 지역의 일을 지역 주민이 뽑은 대표가 스스로 결정하고 처리하는 제도입니다. 그래서 시장이나 도지사, 지방의회 의원을 주민이 직접 선거로 뽑습니다. 지역마다 사정이 다르기 때문에 그 지역을 잘 아는 사람이 결정하는 것이 좋습니다. 주민의 뜻이 잘 반영되어서 민주주의가 더 발전한다고 생각합니다.",
+        "key_points_vi": [
+          "Định nghĩa: người dân địa phương tự quyết việc của địa phương",
+          "Cách thực hiện: bầu trực tiếp 시장·도지사·지방의회 의원",
+          "Lý do cần: mỗi vùng có hoàn cảnh riêng, phản ánh ý dân tốt hơn",
+          "Cụm từ hay: 풀뿌리 민주주의 (dân chủ cơ sở)"
+        ],
+        "hint_vi": "Chế độ tự trị địa phương thường được gọi là '민주주의의 학교' hoặc '풀뿌리 민주주의' — nói được một trong hai cụm này là điểm cộng lớn. Nhớ 지방선거 diễn ra 4 năm một lần."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "○○ 씨는 앞으로 무엇을 더 배우고 싶습니까? 그 이유는 무엇입니까?",
+        "model_answer_ko": "저는 컴퓨터 자격증 공부를 더 하고 싶습니다. 요즘은 어느 회사에서나 컴퓨터를 다룰 줄 알아야 하기 때문입니다. 자격증을 따면 지금보다 더 좋은 조건으로 일할 수 있을 것 같습니다. 그래서 주민센터의 평생 교육 프로그램을 알아보고 있습니다.",
+        "key_points_vi": [
+          "Nêu một thứ cụ thể muốn học (chứng chỉ, tiếng Hàn, nghề)",
+          "Lý do gắn với công việc hoặc gia đình",
+          "Nêu kế hoạch hành động thực tế",
+          "Nhắc tới 평생 교육 để nối với bài đọc"
+        ],
+        "hint_vi": "Nối câu trả lời cá nhân với từ khoá 평생 교육 trong bài đọc sẽ được đánh giá là hiểu bài. Các lựa chọn dễ nói: 한국어능력시험, 컴퓨터 자격증, 요리, 운전면허."
+      }
+    ]
+  },
+  {
+    "id": "sp-009",
+    "topic": "환경 보호",
+    "passage": "오늘날 환경 문제는 어느 한 나라만의 일이 아니라 온 세계가 함께 풀어야 할 과제가 되었습니다. 공장과 자동차에서 나오는 매연은 공기를 더럽히고, 버려지는 쓰레기는 땅과 바다를 오염시킵니다. 특히 한번 쓰고 버리는 일회용품과 플라스틱은 잘 썩지 않아 오랫동안 남습니다. 한국에서는 쓰레기를 종류별로 나누어 버리는 분리배출을 하고 있으며, 음식물 쓰레기는 버린 양만큼 돈을 내도록 하고 있습니다. 또 장바구니를 쓰거나 개인 컵을 가지고 다니는 사람도 늘고 있습니다. 대중교통을 이용하고 쓰지 않는 전기 제품의 플러그를 뽑는 것도 환경을 지키는 방법입니다. 작은 실천이 모이면 큰 변화를 만들 수 있습니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "환경을 오염시키는 원인에는 어떤 것들이 있다고 했습니까?",
+        "model_answer_ko": "공장과 자동차에서 나오는 매연이 공기를 더럽힙니다. 그리고 함부로 버려지는 쓰레기가 땅과 바다를 오염시킵니다. 특히 일회용품과 플라스틱은 잘 썩지 않아서 오랫동안 문제가 됩니다.",
+        "key_points_vi": [
+          "Nguyên nhân ô nhiễm không khí: khói từ nhà máy và xe cộ",
+          "Nguyên nhân ô nhiễm đất/biển: rác thải",
+          "Nhấn mạnh đồ nhựa và đồ dùng một lần khó phân huỷ"
+        ],
+        "hint_vi": "Hãy chia câu trả lời theo môi trường bị ảnh hưởng: không khí → đất/biển → rác nhựa. Từ vựng cần thuộc: 매연 (khói thải), 오염시키다 (làm ô nhiễm), 썩다 (phân huỷ)."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "한국에서 하고 있는 쓰레기 관련 제도에는 무엇이 있습니까?",
+        "model_answer_ko": "한국에서는 쓰레기를 종이, 플라스틱, 캔처럼 종류별로 나누어 버리는 분리배출을 하고 있습니다. 그리고 음식물 쓰레기는 버린 양만큼 돈을 내도록 하고 있습니다. 이렇게 하면 쓰레기를 줄이고 다시 쓸 수 있는 것을 모을 수 있습니다.",
+        "key_points_vi": [
+          "분리배출 = phân loại rác theo chủng loại",
+          "Rác thực phẩm tính phí theo lượng (종량제)",
+          "Nêu hiệu quả: giảm rác và tái chế được"
+        ],
+        "hint_vi": "Từ khoá ghi điểm là 분리배출 và 종량제. Nếu kể được tên các loại rác (종이·플라스틱·캔·유리) thì câu trả lời sẽ cụ thể hơn hẳn."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "일상생활에서 에너지를 아낄 수 있는 방법을 이야기해 보세요.",
+        "model_answer_ko": "가까운 거리는 걸어가거나 자전거를 타고, 먼 곳은 대중교통을 이용하면 좋습니다. 그리고 쓰지 않는 전기 제품은 플러그를 뽑아 두면 전기를 아낄 수 있습니다. 여름에는 에어컨 온도를 너무 낮게 하지 않는 것도 좋은 방법입니다.",
+        "key_points_vi": [
+          "Nêu ít nhất 3 cách cụ thể",
+          "Phân bổ ở các lĩnh vực khác nhau: đi lại, điện, điều hoà",
+          "Cụm từ hay dùng: 플러그를 뽑다, 대중교통을 이용하다, 절약하다"
+        ],
+        "hint_vi": "Đừng chỉ nói '아껴 씁니다'. Mỗi ý phải là một hành động nhìn thấy được. Nói được 3 hành động ở 3 lĩnh vực khác nhau là đủ điểm tối đa cho câu này."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "대한민국 헌법은 어떤 역할을 하는지 이야기해 보세요.",
+        "model_answer_ko": "헌법은 우리나라의 가장 기본이 되는 최고의 법입니다. 헌법에는 대한민국이 민주공화국이고 주권이 국민에게 있다는 내용이 들어 있습니다. 또 국민의 권리와 의무, 그리고 국가 기관이 어떤 일을 하는지도 정해 놓았습니다. 다른 모든 법은 헌법에 어긋나게 만들 수 없습니다.",
+        "key_points_vi": [
+          "Vị trí: luật cơ bản và cao nhất (최고법)",
+          "Nội dung: 민주공화국, chủ quyền thuộc về nhân dân",
+          "Quy định quyền - nghĩa vụ công dân và tổ chức nhà nước",
+          "Mọi luật khác không được trái hiến pháp"
+        ],
+        "hint_vi": "Nên thuộc lòng câu mở đầu Điều 1 Hiến pháp: '대한민국은 민주공화국이다. 대한민국의 주권은 국민에게 있고, 모든 권력은 국민으로부터 나온다.' Đọc được câu này là gây ấn tượng rất mạnh."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "○○ 씨는 환경을 위해 무엇을 실천하고 있습니까?",
+        "model_answer_ko": "저는 장을 보러 갈 때 꼭 장바구니를 가지고 갑니다. 그리고 집에서는 종이와 플라스틱을 나누어 버리고 있습니다. 아이들에게도 물을 아껴 쓰라고 자주 이야기합니다. 작은 일이지만 꾸준히 하려고 노력하고 있습니다.",
+        "key_points_vi": [
+          "Kể 2-3 việc bạn THỰC SỰ làm hằng ngày",
+          "Dùng thì hiện tại tiếp diễn: ~고 있습니다",
+          "Kết bằng thái độ kiên trì: 꾸준히 실천하려고 노력합니다"
+        ],
+        "hint_vi": "Câu này chấm sự chân thật và cụ thể, không cần nói điều to tát. Ba việc dễ kể nhất: mang túi đi chợ, phân loại rác, tắt điện/rút phích. Nhớ dùng ~고 있습니다 vì đề hỏi việc đang làm."
+      }
+    ]
+  },
+  {
+    "id": "sp-010",
+    "topic": "한국의 경제 성장",
+    "passage": "한국은 전쟁이 끝난 뒤 매우 가난한 나라였지만 짧은 기간에 큰 경제 성장을 이루었습니다. 사람들은 이것을 한강의 기적이라고 부릅니다. 1960년대에는 옷과 신발처럼 사람의 손이 많이 필요한 경공업을 중심으로 수출을 늘렸습니다. 1970년대에는 철강, 배, 화학처럼 규모가 큰 중화학공업을 키웠습니다. 그 뒤에는 자동차와 반도체, 전자 제품이 한국을 대표하는 상품이 되었습니다. 1997년에는 외환 위기를 겪어 많은 회사가 문을 닫고 실업자가 늘었지만, 국민들이 금 모으기 운동을 벌이며 함께 어려움을 이겨 냈습니다. 요즘에는 드라마와 음악 같은 문화 산업도 세계에서 큰 사랑을 받고 있습니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "한강의 기적이란 무엇을 뜻하는 말입니까?",
+        "model_answer_ko": "한강의 기적은 한국이 아주 가난한 나라에서 짧은 기간에 크게 성장한 것을 가리키는 말입니다. 전쟁이 끝난 뒤에는 먹고살기도 어려웠는데 사람들이 열심히 일해서 경제를 일으켰습니다. 그 놀라운 변화를 기적이라고 부르는 것입니다.",
+        "key_points_vi": [
+          "Nghĩa: kỳ tích tăng trưởng kinh tế thần tốc sau chiến tranh",
+          "Bối cảnh xuất phát: nước rất nghèo",
+          "Yếu tố: nỗ lực lao động của người dân"
+        ],
+        "hint_vi": "Sông Hàn (한강) chảy qua Seoul, nên cụm từ này ví sự phát triển của Hàn Quốc như một điều kỳ diệu bên bờ sông ấy. Trả lời cần có cả điểm xuất phát nghèo VÀ tốc độ nhanh."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "1960년대와 1970년대의 산업은 어떻게 달랐습니까?",
+        "model_answer_ko": "1960년대에는 옷이나 신발처럼 사람의 손이 많이 필요한 경공업이 중심이었습니다. 그런데 1970년대에는 철강이나 배, 화학처럼 규모가 크고 기술이 필요한 중화학공업을 키웠습니다. 그러니까 가벼운 산업에서 무거운 산업으로 옮겨 간 것입니다.",
+        "key_points_vi": [
+          "Thập niên 1960: 경공업 (dệt may, giày dép) — cần nhiều nhân công",
+          "Thập niên 1970: 중화학공업 (thép, tàu thuỷ, hoá chất)",
+          "Câu tổng kết: từ công nghiệp nhẹ sang công nghiệp nặng"
+        ],
+        "hint_vi": "Nhớ theo mốc: 60년대 = 경공업(nhẹ), 70년대 = 중화학공업(nặng), sau đó là 자동차·반도체. Câu này ra rất nhiều trong phần trắc nghiệm, nên học một lần dùng được hai phần."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "1997년 외환 위기 때 국민들은 어떻게 했습니까?",
+        "model_answer_ko": "그때 많은 회사가 문을 닫고 일자리를 잃은 사람이 많았습니다. 국민들은 나라를 돕기 위해 집에 있던 금반지나 금목걸이를 내놓는 금 모으기 운동을 했습니다. 이렇게 국민이 힘을 모아 함께 어려움을 이겨 냈습니다.",
+        "key_points_vi": [
+          "Tình hình: doanh nghiệp phá sản, thất nghiệp tăng",
+          "Hành động: 금 모으기 운동 (phong trào quyên góp vàng)",
+          "Ý nghĩa: tinh thần đoàn kết vượt khó của toàn dân"
+        ],
+        "hint_vi": "Từ khoá bắt buộc là 금 모으기 운동. Đây là ví dụ kinh điển về tinh thần cộng đồng của người Hàn, thường được hỏi cả ở phần thi viết lẫn vấn đáp."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "시장경제에서 정부는 어떤 역할을 한다고 생각하십니까?",
+        "model_answer_ko": "시장경제에서는 기업과 개인이 자유롭게 경제 활동을 합니다. 하지만 정부도 해야 할 일이 있습니다. 먼저 규칙을 만들어서 공정하게 경쟁하도록 하고, 소비자가 피해를 입지 않게 보호합니다. 또 세금을 걷어서 도로나 학교 같은 시설을 만들고 어려운 사람을 도와줍니다.",
+        "key_points_vi": [
+          "Nguyên tắc gốc: cá nhân và doanh nghiệp tự do hoạt động kinh tế",
+          "Vai trò 1: đặt luật chơi, bảo đảm cạnh tranh công bằng",
+          "Vai trò 2: bảo vệ người tiêu dùng",
+          "Vai trò 3: thu thuế, xây hạ tầng, hỗ trợ người khó khăn"
+        ],
+        "hint_vi": "Khung trả lời: thị trường tự do trước, rồi 'nhưng chính phủ vẫn cần làm 3 việc'. Từ khoá: 공정한 경쟁, 소비자 보호, 사회 복지. Đây là nội dung chương 시장경제체제 phần nâng cao."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "한국에서 일하면서 느낀 점이 있으면 이야기해 보세요.",
+        "model_answer_ko": "저는 한국 사람들이 시간을 아주 잘 지킨다는 점이 인상 깊었습니다. 처음에는 빠른 속도에 적응하기가 힘들었습니다. 그런데 일하면서 동료들이 하나하나 알려 주셔서 지금은 많이 익숙해졌습니다. 성실하게 일하면 인정받을 수 있는 곳이라고 생각합니다.",
+        "key_points_vi": [
+          "Nêu một đặc điểm văn hoá công sở Hàn (đúng giờ, nhanh, tôn ti)",
+          "Kể quá trình: lúc đầu khó → được giúp → nay quen",
+          "Kết bằng đánh giá tích cực"
+        ],
+        "hint_vi": "Giữ giọng tích cực, tránh kể chuyện bị đối xử tệ. Từ vựng công sở nên dùng: 성실하다 (chăm chỉ), 시간을 지키다 (đúng giờ), 적응하다 (thích nghi), 인정받다 (được công nhận)."
+      }
+    ]
+  },
+  {
+    "id": "sp-011",
+    "topic": "근로자의 권리",
+    "passage": "일하는 사람은 누구나 법으로 보호를 받습니다. 근로기준법은 일하는 시간과 쉬는 시간, 임금 등에 대한 가장 기본적인 기준을 정해 놓은 법입니다. 회사는 일을 시작하기 전에 근로계약서를 써서 근로자에게 주어야 하고, 임금은 정해진 날에 제때 주어야 합니다. 또 나라에서는 해마다 최저임금을 정해 그보다 적은 임금을 주지 못하게 하고 있습니다. 헌법은 근로자에게 세 가지 권리를 보장하는데, 노동조합을 만들 수 있는 단결권, 회사와 근로 조건을 협상할 수 있는 단체교섭권, 그리고 뜻을 모아 행동할 수 있는 단체행동권입니다. 이러한 권리는 국적과 상관없이 한국에서 일하는 외국인 근로자에게도 똑같이 적용됩니다. 부당한 일을 당했을 때는 고용노동부나 노동청에 도움을 요청할 수 있습니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "근로계약서는 왜 꼭 써야 합니까?",
+        "model_answer_ko": "근로계약서에는 임금과 일하는 시간, 쉬는 날 같은 중요한 내용이 적혀 있기 때문입니다. 나중에 회사와 문제가 생겼을 때 계약서가 증거가 되어 줍니다. 그래서 일을 시작하기 전에 반드시 쓰고 한 장을 받아 두어야 합니다.",
+        "key_points_vi": [
+          "Nội dung hợp đồng: lương, giờ làm, ngày nghỉ",
+          "Tác dụng: là bằng chứng khi có tranh chấp",
+          "Lưu ý thực tế: phải ký TRƯỚC khi làm và giữ một bản"
+        ],
+        "hint_vi": "Đây là kiến thức sống còn cho lao động nước ngoài. Nhớ hai điểm: ký trước khi bắt đầu làm, và phải được GIAO một bản (교부받다). Nói được ý 'giữ một bản' là điểm cộng."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "헌법이 보장하는 근로자의 세 가지 권리는 무엇입니까?",
+        "model_answer_ko": "단결권과 단체교섭권, 단체행동권입니다. 단결권은 노동조합을 만들거나 가입할 수 있는 권리이고, 단체교섭권은 노동조합이 회사와 임금이나 근무 조건을 이야기할 수 있는 권리입니다. 단체행동권은 협상이 잘 안 될 때 뜻을 모아 행동할 수 있는 권리입니다.",
+        "key_points_vi": [
+          "Kể đủ và đúng tên 3 quyền (근로3권)",
+          "Giải thích ngắn gọn từng quyền theo trình tự thực tế",
+          "Nhấn mạnh đây là quyền hiến định"
+        ],
+        "hint_vi": "Trình tự tự nhiên: lập công đoàn → thương lượng → hành động tập thể. Đừng đảo thứ tự vì ba quyền này có quan hệ nối tiếp nhau."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "외국인 근로자도 이러한 권리를 보장받을 수 있습니까?",
+        "model_answer_ko": "네, 국적과 상관없이 한국에서 일하는 외국인 근로자에게도 똑같이 적용됩니다. 임금이나 근로 시간에 대한 보호도 한국 사람과 같습니다. 만약 부당한 일을 당하면 고용노동부나 노동청에 도움을 요청할 수 있습니다.",
+        "key_points_vi": [
+          "Trả lời rõ ràng: CÓ, không phân biệt quốc tịch",
+          "Được bảo vệ ngang bằng về lương và giờ làm",
+          "Nêu cơ quan hỗ trợ: 고용노동부 / 노동청"
+        ],
+        "hint_vi": "Hãy nhớ tên cơ quan 고용노동부 (Bộ Việc làm và Lao động) — nói được tên cơ quan cụ thể luôn được đánh giá cao hơn là nói 'nhà nước giúp'."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "대한민국은 어떤 나라인지, 국가의 정체성에 대해 이야기해 보세요.",
+        "model_answer_ko": "대한민국은 민주공화국입니다. 나라의 주인이 국민이고 모든 권력은 국민으로부터 나옵니다. 국민이 뽑은 대표가 나라를 이끌고, 헌법에 따라 국민의 자유와 권리를 보호합니다. 또 한글과 태극기처럼 오랜 역사 속에서 만들어진 고유한 문화를 가진 나라이기도 합니다.",
+        "key_points_vi": [
+          "Định danh: 민주공화국 (nước cộng hoà dân chủ)",
+          "Chủ quyền nhân dân: 모든 권력은 국민으로부터 나온다",
+          "Nhà nước pháp quyền: bảo vệ tự do và quyền theo hiến pháp",
+          "Bản sắc văn hoá: 한글, 태극기, lịch sử lâu đời"
+        ],
+        "hint_vi": "Câu này trả lời tốt nhất bằng chính lời Điều 1 Hiến pháp. Học thuộc: '대한민국은 민주공화국이다. 주권은 국민에게 있다.' Sau đó thêm một ý về văn hoá để câu trả lời không quá khô."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "직장에서 부당한 대우를 받는다면 어떻게 하시겠습니까?",
+        "model_answer_ko": "먼저 회사에 정중하게 이야기해서 해결해 보겠습니다. 그래도 나아지지 않으면 근로계약서와 급여 명세서 같은 자료를 잘 모아 두겠습니다. 그리고 고용노동부나 외국인 상담 센터에 도움을 요청하겠습니다. 혼자 참기보다 정확한 방법으로 해결하는 것이 좋다고 생각합니다.",
+        "key_points_vi": [
+          "Bước 1: trao đổi trực tiếp với công ty",
+          "Bước 2: thu thập chứng cứ (hợp đồng, bảng lương)",
+          "Bước 3: nhờ cơ quan chức năng 고용노동부 hỗ trợ",
+          "Thái độ: giải quyết đúng cách, không im lặng chịu đựng"
+        ],
+        "hint_vi": "Trả lời theo TỪNG BƯỚC sẽ được điểm cao nhất vì cho thấy tư duy hợp lý. Tránh trả lời cực đoan như 'bỏ việc luôn' hoặc 'cãi nhau'. Dùng ~겠습니다 vì đây là câu hỏi giả định về tương lai."
+      }
+    ]
+  },
+  {
+    "id": "sp-012",
+    "topic": "남북 분단과 통일",
+    "passage": "우리나라는 1945년에 광복을 맞이했지만 곧 남과 북으로 나뉘게 되었습니다. 1948년에는 남쪽에 대한민국 정부가 세워졌고, 1950년 6월 25일에는 전쟁이 일어나 온 국토가 큰 피해를 입었습니다. 이 전쟁은 1953년에 정전 협정으로 멈추었을 뿐 완전히 끝난 것은 아닙니다. 그래서 지금도 남과 북 사이에는 군사분계선이 있고, 가족과 헤어져 만나지 못하는 이산가족이 많이 남아 있습니다. 그동안 남북은 이산가족 상봉이나 체육 행사, 회담 등을 통해 관계를 좋게 하려고 노력해 왔습니다. 통일이 되면 전쟁의 걱정이 줄고 서로의 자원과 기술을 합쳐 더 크게 발전할 수 있습니다. 다만 오랜 시간 떨어져 지낸 만큼 서로를 이해하려는 준비도 함께 필요합니다.",
+    "questions": [
+      {
+        "no": 1,
+        "type": "passage",
+        "q": "6·25 전쟁은 언제 일어났고 어떻게 되었습니까?",
+        "model_answer_ko": "6·25 전쟁은 1950년 6월 25일에 일어났습니다. 이 전쟁으로 많은 사람이 목숨을 잃고 국토가 크게 파괴되었습니다. 1953년에 정전 협정을 맺어 전쟁이 멈추었지만 완전히 끝난 것은 아닙니다.",
+        "key_points_vi": [
+          "Ngày nổ ra chính xác: 1950년 6월 25일",
+          "Hậu quả: nhiều người thiệt mạng, đất nước tan hoang",
+          "Kết thúc: 1953 정전 협정 — ĐÌNH CHIẾN chứ không phải kết thúc chiến tranh"
+        ],
+        "hint_vi": "Điểm chấm quan trọng nhất: 정전 (đình chiến) KHÔNG phải 종전 (kết thúc chiến tranh). Nói được 'chiến tranh chỉ tạm dừng, chưa thực sự kết thúc' là câu trả lời hoàn hảo."
+      },
+      {
+        "no": 2,
+        "type": "passage",
+        "q": "이산가족이란 어떤 사람들을 말합니까?",
+        "model_answer_ko": "이산가족은 전쟁과 분단 때문에 가족과 헤어져서 서로 만나지 못하는 사람들을 말합니다. 남과 북에 떨어져 살면서 소식조차 알기 어려운 경우가 많습니다. 지금은 그분들이 나이가 많이 드셔서 하루빨리 만나는 것이 중요합니다.",
+        "key_points_vi": [
+          "Định nghĩa: gia đình bị ly tán do chiến tranh và chia cắt",
+          "Tình cảnh: sống hai miền, không liên lạc được",
+          "Tính cấp bách: các cụ đã cao tuổi"
+        ],
+        "hint_vi": "Nhớ từ 이산가족 상봉 (cuộc đoàn tụ gia đình ly tán) — đây là từ khoá gắn liền chủ đề. Thêm ý 'các cụ đã già nên cần gấp' cho thấy sự đồng cảm, rất được điểm."
+      },
+      {
+        "no": 3,
+        "type": "passage",
+        "q": "통일이 되면 어떤 점이 좋아진다고 했습니까?",
+        "model_answer_ko": "먼저 전쟁에 대한 걱정이 줄어들어 한반도가 더 평화로워집니다. 그리고 남과 북의 자원과 기술을 합치면 경제가 더 크게 발전할 수 있습니다. 헤어졌던 이산가족이 다시 만날 수 있는 것도 아주 큰 기쁨입니다.",
+        "key_points_vi": [
+          "Lợi ích 1: hoà bình, hết lo chiến tranh",
+          "Lợi ích 2: kết hợp tài nguyên (miền Bắc) và kỹ thuật (miền Nam)",
+          "Lợi ích 3: gia đình ly tán được đoàn tụ"
+        ],
+        "hint_vi": "Ba lợi ích nên xếp theo thứ tự: hoà bình → kinh tế → gia đình. Nếu được hỏi thêm về khó khăn, hãy nhắc tới 통일 비용 (chi phí thống nhất) và khác biệt văn hoá sau thời gian dài chia cắt."
+      },
+      {
+        "no": 4,
+        "type": "personal",
+        "q": "사회보험과 공공부조가 어떻게 다른지 예를 들어 설명해 보세요.",
+        "model_answer_ko": "사회보험은 국민이 평소에 보험료를 내고, 필요할 때 도움을 받는 제도입니다. 건강보험이나 국민연금이 여기에 해당합니다. 반면에 공공부조는 보험료를 내지 않아도 생활이 어려운 사람에게 나라가 세금으로 도와주는 제도입니다. 기초생활보장제도가 대표적인 예입니다.",
+        "key_points_vi": [
+          "사회보험: đóng phí trước, hưởng khi cần — 건강보험, 국민연금",
+          "공공부조: không đóng phí, nhà nước dùng thuế hỗ trợ người khó khăn",
+          "Ví dụ 공공부조: 국민기초생활보장제도, 의료급여",
+          "Bắt buộc nêu VÍ DỤ vì đề yêu cầu '예를 들어'"
+        ],
+        "hint_vi": "Đề có chữ '예를 들어' thì bắt buộc phải nêu tên chế độ cụ thể, thiếu ví dụ là mất điểm dù giải thích đúng. Nhớ cặp đối lập: 보험료 vs 세금."
+      },
+      {
+        "no": 5,
+        "type": "personal",
+        "q": "한국 국민이 된다면 어떤 마음가짐으로 살아가고 싶습니까?",
+        "model_answer_ko": "저는 한국 국민으로서 법을 잘 지키고 세금을 성실하게 내며 살고 싶습니다. 그리고 이웃과 잘 어울리면서 제가 받은 도움을 다른 사람에게도 돌려주고 싶습니다. 제 아이들에게도 두 나라의 문화를 모두 잘 가르치겠습니다. 대한민국의 한 사람으로서 책임을 다하며 살아가겠습니다.",
+        "key_points_vi": [
+          "Nêu nghĩa vụ công dân cụ thể: tuân thủ pháp luật, đóng thuế",
+          "Nêu đóng góp cho cộng đồng: hoà nhập, giúp lại người khác",
+          "Có thể thêm vai trò cầu nối hai nền văn hoá",
+          "Kết bằng quyết tâm dùng ~겠습니다"
+        ],
+        "hint_vi": "Đây là câu gần như chắc chắn xuất hiện ở phần cuối, và cũng dùng lại được cho 면접심사. Ba từ khoá: 법 (pháp luật), 세금 (thuế), 책임 (trách nhiệm). Tránh trả lời chỉ về lợi ích cá nhân."
+      }
+    ]
+  }
+]
