@@ -774,9 +774,9 @@
       "하이코리아"
     ],
     "answer": 2,
-    "explain_vi": "Đáp án ③. 워크넷 là cổng thông tin việc làm quốc gia do 고용노동부 (Bộ Lao động và Việc làm) cùng 한국고용정보원 vận hành, cung cấp miễn phí tin tuyển dụng, thông tin nghề nghiệp và trắc nghiệm định hướng nghề. ① 정부24 là cổng dịch vụ hành chính công để xin các loại giấy tờ; ② 홈택스 là hệ thống thuế điện tử của cơ quan thuế; ④ 하이코리아 là trang thông tin về xuất nhập cảnh và cư trú dành cho người nước ngoài. Ngoài trang web, bạn cũng có thể đến trực tiếp 고용센터 ở địa phương để được tư vấn tìm việc.",
-    "explain_ko": "워크넷은 고용노동부가 운영하는 국가 취업 정보 사이트이다.",
-    "keywords": ["워크넷", "취업 정보"]
+    "explain_vi": "Đáp án ③. 워크넷 là cổng thông tin việc làm quốc gia do 고용노동부 (Bộ Lao động và Việc làm) cùng 한국고용정보원 vận hành, cung cấp miễn phí tin tuyển dụng, thông tin nghề nghiệp và trắc nghiệm định hướng nghề. ① 정부24 là cổng dịch vụ hành chính công để xin các loại giấy tờ; ② 홈택스 là hệ thống thuế điện tử của cơ quan thuế; ④ 하이코리아 là trang thông tin về xuất nhập cảnh và cư trú dành cho người nước ngoài. Lưu ý: từ tháng 9 năm 2024, 워크넷 đã được tích hợp vào cổng dịch vụ việc làm 고용24 (work24.go.kr). Ngoài trang web, bạn cũng có thể đến trực tiếp 고용센터 ở địa phương để được tư vấn tìm việc.",
+    "explain_ko": "워크넷은 고용노동부가 운영하는 국가 취업 정보 사이트이며, 2024년 9월부터 고용24(work24.go.kr)로 통합되었다.",
+    "keywords": ["워크넷", "고용24", "취업 정보"]
   },
   {
     "id": "economy-042",

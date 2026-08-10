@@ -3,7 +3,7 @@
    ⚠️ MỖI LẦN CẬP NHẬT NỘI DUNG PHẢI TĂNG SỐ VERSION BÊN DƯỚI
    ============================================================ */
 
-const VERSION = 'kinat-v4';
+const VERSION = 'kinat-v5';
 
 const ASSETS = [
   './',
