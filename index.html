@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no">
+<title>KINAT 귀화시험 · Ôn thi nhập tịch Hàn Quốc</title>
+<meta name="description" content="Ứng dụng ôn thi 귀화용 종합평가 (KINAT) — Bài đánh giá tổng hợp để nhập tịch Hàn Quốc">
+<meta name="theme-color" content="#0F1420">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="KINAT">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<div id="splash" class="splash">
+  <div class="splash-mark">🇰🇷</div>
+  <div class="splash-title">KINAT</div>
+  <div class="splash-sub">Ôn thi nhập tịch Hàn Quốc</div>
+  <div class="splash-bar"><i></i></div>
+  <div class="splash-err" id="splashErr" hidden></div>
+</div>
+
+<header class="topbar" id="topbar" hidden>
+  <button class="tb-back" id="tbBack" hidden aria-label="Quay lại">‹</button>
+  <div class="tb-title" id="tbTitle">KINAT</div>
+  <button class="tb-act" id="tbAct" hidden></button>
+</header>
+
+<main id="app" hidden></main>
+
+<nav class="tabbar" id="tabbar" hidden>
+  <button data-tab="home"  class="tab on"><span>🏠</span><b>Trang chủ</b></button>
+  <button data-tab="study" class="tab"><span>📚</span><b>Học</b></button>
+  <button data-tab="exam"  class="tab"><span>📝</span><b>Thi thử</b></button>
+  <button data-tab="fun"   class="tab"><span>😎</span><b>Vui</b></button>
+  <button data-tab="stats" class="tab"><span>📊</span><b>Thống kê</b></button>
+</nav>
+
+<div class="toast-wrap" id="toastWrap"></div>
+
+<div class="modal" id="modal" hidden>
+  <div class="modal-card" id="modalCard"></div>
+</div>
+
+<script src="js/store.js"></script>
+<script src="js/data.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/quiz.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

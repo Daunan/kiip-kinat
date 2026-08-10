@@ -1,0 +1,762 @@
+[
+  {
+    "id": "geography-001",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 위치와 영토에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "아시아 대륙의 서남부에 위치한 섬나라이다.",
+      "아시아 동북부에 있으며 삼면이 바다로 둘러싸인 반도 국가이다.",
+      "국토가 대륙에 둘러싸여 바다와 전혀 닿지 않는 나라이다.",
+      "북쪽으로 일본과 육지 국경을 맞대고 있다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Hàn Quốc nằm ở phía Đông Bắc châu Á, là một quốc gia bán đảo (반도) có ba mặt giáp biển: biển Đông (동해), biển Tây/Hoàng Hải (서해) và biển Nam (남해). ① sai vì Hàn Quốc không phải đảo quốc và không nằm ở Tây Nam châu Á. ③ sai hoàn toàn vì Hàn Quốc có bờ biển rất dài. ④ sai: Hàn Quốc chỉ có biên giới đất liền với Triều Tiên ở phía Bắc, còn Nhật Bản nằm bên kia biển Đông. Hãy nhớ từ khóa thi: 동북아시아 (Đông Bắc Á) + 삼면이 바다 (ba mặt giáp biển) + 반도 (bán đảo).",
+    "explain_ko": "한국은 아시아 동북부에 위치한 반도 국가로 동해·서해·남해 삼면이 바다로 둘러싸여 있다. 육지로 국경을 맞댄 나라는 북쪽의 북한뿐이다.",
+    "keywords": ["반도", "삼면이 바다", "동북아시아"]
+  },
+  {
+    "id": "geography-002",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 바다로 옳은 것은?\n\n한국의 동쪽에 있는 바다로, 수심이 깊고 해안선이 단조로우며 섬이 비교적 적다.",
+    "choices": [
+      "남해",
+      "동해",
+      "서해",
+      "동중국해"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 동해 (biển Đông) nằm ở phía Đông Hàn Quốc, nước sâu, đường bờ biển đơn giản và ít đảo. ③ 서해 (biển Tây) thì ngược lại: nông, bờ biển khúc khuỷu, rất nhiều đảo và bãi bồi. ① 남해 (biển Nam) có vô số đảo nhỏ nên được gọi là 다도해 (đa đảo hải). ④ 동중국해 không phải là một trong ba mặt biển bao quanh Hàn Quốc. Mẹo nhớ: 동해 = sâu + ít đảo, 서해 = nông + nhiều bãi bồi (갯벌), 남해 = nhiều đảo.",
+    "explain_ko": "동해는 수심이 깊고 해안선이 단조로우며 섬이 적다. 반면 서해는 수심이 얕고 해안선이 복잡하며, 남해는 섬이 많아 다도해라 불린다.",
+    "keywords": ["동해", "삼면의 바다"]
+  },
+  {
+    "id": "geography-003",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 서해안에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "조수 간만의 차가 커서 넓은 갯벌이 발달해 있다.",
+      "수심이 깊고 해안선이 단조로워 섬이 거의 없다.",
+      "조수 간만의 차가 거의 없어 갯벌을 찾아보기 어렵다.",
+      "화산 활동으로 만들어진 검은 절벽이 길게 이어져 있다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Bờ biển phía Tây (서해안) có 조수 간만의 차 (chênh lệch thủy triều) rất lớn, nên khi nước rút lộ ra 갯벌 (bãi bồi ven biển) rộng mênh mông. ② và ③ đều mô tả sai: 서해 nông, bờ biển khúc khuỷu với rất nhiều đảo, và thủy triều chênh lệch mạnh. ④ mô tả đặc trưng của đảo Jeju (제주도) chứ không phải bờ Tây. Kiến thức mở rộng hay ra thi: 갯벌 Hàn Quốc ('한국의 갯벌') đã được UNESCO công nhận là Di sản Thiên nhiên Thế giới, và người dân dùng bãi bồi để nuôi trồng thủy sản, làm muối.",
+    "explain_ko": "서해안은 조수 간만의 차가 커서 넓은 갯벌이 발달했고, 이 갯벌은 유네스코 세계자연유산으로 등재되었다.",
+    "keywords": ["서해안", "갯벌", "조수 간만의 차"]
+  },
+  {
+    "id": "geography-004",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 지형에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "국토의 대부분이 평야이고 산지는 거의 없다.",
+      "서쪽이 높고 동쪽이 낮은 '서고동저' 지형이다.",
+      "국토의 약 70%가 산지이며, 동쪽이 높고 서쪽이 낮다.",
+      "국토 전체가 화산 활동으로 만들어져 평지가 없다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Khoảng 70% lãnh thổ Hàn Quốc là núi non, và địa hình có đặc điểm 동고서저 (동쪽이 높고 서쪽이 낮다) — phía Đông cao, phía Tây thấp. ① sai vì đồng bằng chỉ chiếm phần nhỏ, chủ yếu ở phía Tây và Nam. ② nói ngược lại hoàn toàn: phải là 동고서저 chứ không phải 서고동저. ④ sai vì chỉ có Jeju và một vài khu vực là địa hình núi lửa. Vì 동고서저 nên các con sông lớn như 한강, 금강, 영산강 đều chảy về phía Tây ra 서해.",
+    "explain_ko": "국토의 약 70%가 산지이며 동쪽이 높고 서쪽이 낮은 동고서저 지형이다. 그래서 큰 강들이 대부분 서쪽으로 흐른다.",
+    "keywords": ["동고서저", "산지", "지형"]
+  },
+  {
+    "id": "geography-005",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 산맥으로 옳은 것은?\n\n한반도의 동쪽을 남북으로 길게 뻗어 있으며, 한국이 동고서저 지형을 이루는 데 큰 영향을 준 산맥이다.",
+    "choices": [
+      "소백산맥",
+      "노령산맥",
+      "차령산맥",
+      "태백산맥"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 태백산맥 (dãy Taebaek) chạy dọc theo phía Đông bán đảo từ Bắc xuống Nam, tạo nên địa hình 동고서저. ① 소백산맥 chạy chếch từ 태백산맥 xuống phía Tây Nam, ngăn cách vùng 영남 và 호남. ② 노령산맥 và ③ 차령산맥 là các dãy nhỏ hơn ở vùng Tây Nam và vùng 충청. Ghi nhớ: 태백산맥 là 'xương sống' của bán đảo Hàn, và 설악산 (núi Seorak) nổi tiếng cũng thuộc dãy này.",
+    "explain_ko": "태백산맥은 한반도 동쪽을 남북으로 뻗은 산맥으로 동고서저 지형을 만든 핵심 산맥이며, 설악산도 이 산맥에 속한다.",
+    "keywords": ["태백산맥", "동고서저"]
+  },
+  {
+    "id": "geography-006",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 산에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "백두산은 한반도의 남쪽 끝에 있는 산이다.",
+      "설악산은 제주도에 있는 화산으로 정상에 백록담이 있다.",
+      "한라산은 남한에서 가장 높은 산으로 제주도에 있다.",
+      "지리산은 강원 지역에 있으며 동해 일출로 유명하다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 한라산 (núi Halla) nằm trên đảo Jeju và là ngọn núi cao nhất Hàn Quốc (Nam Hàn), trên đỉnh có hồ miệng núi lửa 백록담. ① sai: 백두산 nằm ở cực Bắc bán đảo, trên biên giới Triều Tiên – Trung Quốc, và là ngọn núi cao nhất toàn bán đảo. ② sai vì 설악산 thuộc vùng 강원, nằm trong dãy 태백산맥, không phải ở Jeju. ④ sai: 지리산 nằm ở vùng Nam nội địa (giáp 전남·전북·경남), không phải 강원. Nhớ cặp đối: 백두산 = cao nhất bán đảo, 한라산 = cao nhất Nam Hàn.",
+    "explain_ko": "한라산은 제주도에 있는 남한 최고봉으로 정상에 백록담이 있다. 백두산은 한반도 북쪽 끝의 최고봉이다.",
+    "keywords": ["한라산", "백두산", "백록담"]
+  },
+  {
+    "id": "geography-007",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 기후에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "봄·여름·가을·겨울 사계절이 비교적 뚜렷하게 나타난다.",
+      "여름에는 덥고 비가 많이 내리며 습도가 높다.",
+      "겨울에는 춥고 건조하며 눈이 내리기도 한다.",
+      "일 년 내내 기온 변화가 거의 없어 계절 구분이 어렵다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Đây là mô tả SAI. Hàn Quốc có bốn mùa (사계절) rõ rệt, chênh lệch nhiệt độ giữa mùa hè và mùa đông rất lớn. ① đúng: 사계절이 뚜렷하다 là đặc trưng khí hậu tiêu biểu. ② đúng: mùa hè nóng ẩm, mưa nhiều do gió mùa và 장마 (mùa mưa dầm). ③ đúng: mùa đông lạnh khô do gió mùa Tây Bắc từ lục địa thổi tới. Ghi nhớ thêm: kiểu khí hậu này gọi là 온대 계절풍 기후 (khí hậu gió mùa ôn đới).",
+    "explain_ko": "한국은 사계절이 뚜렷한 온대 계절풍 기후로, 여름은 덥고 습하며 겨울은 춥고 건조하다.",
+    "keywords": ["사계절", "계절풍 기후"]
+  },
+  {
+    "id": "geography-008",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 것으로 옳은 것은?\n\n6월 하순부터 7월 사이에 흐리고 비가 오랫동안 계속되는 시기로, 습기가 많아 빨래가 잘 마르지 않고 음식에 곰팡이가 생기기 쉽다.",
+    "choices": [
+      "황사",
+      "장마",
+      "삼한사온",
+      "태풍"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 장마 là mùa mưa dầm kéo dài của Hàn Quốc, thường từ cuối tháng 6 đến tháng 7, trời âm u và mưa liên tục nhiều ngày. ① 황사 (bụi vàng) là hiện tượng bụi từ sa mạc Trung Quốc bay sang, xảy ra vào MÙA XUÂN chứ không phải mùa hè. ③ 삼한사온 là hiện tượng của MÙA ĐÔNG (ba ngày lạnh, bốn ngày ấm). ④ 태풍 (bão) đến vào cuối hè – đầu thu, mang gió mạnh và mưa lớn nhưng chỉ kéo dài vài ngày, không dai dẳng như 장마. Trong 장마 cần chú ý chống ẩm mốc và đề phòng lũ lụt (홍수).",
+    "explain_ko": "장마는 6월 하순부터 7월 사이 비가 오래 계속되는 시기로, 습기로 인한 곰팡이와 홍수 피해에 주의해야 한다.",
+    "keywords": ["장마", "여름 기후"]
+  },
+  {
+    "id": "geography-009",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 겨울 날씨를 나타내는 '삼한사온(三寒四溫)'의 뜻으로 옳은 것은?",
+    "choices": [
+      "사흘쯤 춥다가 나흘쯤 따뜻해지는 날씨가 되풀이되는 현상",
+      "겨울에 세 번의 큰 눈과 네 번의 큰비가 내리는 현상",
+      "하루 중 기온이 세 번 오르고 네 번 내리는 현상",
+      "겨울이 삼 개월, 여름이 사 개월 이어지는 현상"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 삼한사온 nghĩa đen là 'ba lạnh bốn ấm' — khoảng ba ngày lạnh rồi khoảng bốn ngày ấm lên, lặp đi lặp lại suốt mùa đông. ② sai vì 한(寒) là 'lạnh' và 온(溫) là 'ấm', không liên quan đến tuyết hay mưa. ③ sai vì đây là chu kỳ theo NGÀY, không phải trong một ngày. ④ sai vì không nói về độ dài các mùa. Hiện tượng này xảy ra do gió mùa Tây Bắc (시베리아 기단) thổi mạnh rồi yếu đi theo chu kỳ; gần đây do biến đổi khí hậu nên quy luật này không còn rõ như trước.",
+    "explain_ko": "삼한사온은 사흘 정도 춥고 나흘 정도 따뜻한 날씨가 반복되는 한국 겨울 날씨의 특징으로, 시베리아 기단의 세력 변화 때문에 나타난다.",
+    "keywords": ["삼한사온", "겨울 기후"]
+  },
+  {
+    "id": "geography-010",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "한국에 영향을 주는 태풍에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "주로 한겨울인 12월에서 2월 사이에 찾아온다.",
+      "기온을 크게 떨어뜨려 농작물을 얼게 하는 것이 주된 피해이다.",
+      "주로 여름에서 초가을 사이에 찾아와 강한 바람과 많은 비를 몰고 온다.",
+      "한국에는 태풍이 지나간 기록이 거의 없다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 태풍 (bão) thường ảnh hưởng đến Hàn Quốc từ mùa hè đến đầu thu (khoảng tháng 7–9), mang theo gió rất mạnh và mưa lớn. ① sai vì mùa đông không có bão. ② sai: thiệt hại chính của bão là gió mạnh, ngập lụt, sạt lở — còn thiệt hại do lạnh giá làm chết cây trồng gọi là 냉해 và xảy ra vào mùa khác. ④ sai vì Hàn Quốc hầu như năm nào cũng chịu ảnh hưởng của vài cơn bão. Khi có 태풍 경보, cần cố định cửa sổ, tránh ra ngoài và theo dõi tin nhắn cảnh báo khẩn cấp (긴급재난문자).",
+    "explain_ko": "태풍은 주로 여름에서 초가을 사이 한국에 영향을 주며 강한 바람과 많은 비로 침수·붕괴 등의 피해를 준다.",
+    "keywords": ["태풍", "여름 기후", "자연재해"]
+  },
+  {
+    "id": "geography-011",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "독도에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "동해에 있는 대한민국의 영토로, 행정구역상 경상북도 울릉군에 속한다.",
+      "서해에 있는 섬으로 행정구역상 인천에 속한다.",
+      "남해에 있는 섬으로 행정구역상 제주특별자치도에 속한다.",
+      "한국에서 가장 큰 섬으로 감귤 농사가 활발하다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 독도 (Dokdo) nằm ở 동해 (biển Đông), là lãnh thổ của Đại Hàn Dân Quốc và về mặt hành chính thuộc 경상북도 울릉군. ② và ③ sai về cả vị trí biển lẫn đơn vị hành chính. ④ mô tả 제주도 — hòn đảo lớn nhất Hàn Quốc và nổi tiếng về quýt (감귤), không phải 독도. Ghi nhớ: 독도 gồm hai đảo chính 동도 và 서도 cùng nhiều đá nhỏ, nằm gần 울릉도 nhất, và là vùng biển giàu tài nguyên thủy sản.",
+    "explain_ko": "독도는 동해에 있는 대한민국 영토로 행정구역상 경상북도 울릉군에 속하며, 동도와 서도 및 부속 도서로 이루어져 있다.",
+    "keywords": ["독도", "동해", "영토"]
+  },
+  {
+    "id": "geography-012",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "다음 강과 그 강이 흐르는 지역의 연결로 옳지 않은 것은?",
+    "choices": [
+      "한강 — 서울을 가로질러 흐르다가 서해로 들어간다",
+      "낙동강 — 영남(경상) 지역을 흘러 남해로 들어간다",
+      "금강 — 충청 지역을 흘러 서해로 들어간다",
+      "영산강 — 강원 지역 산간을 흘러 동해로 들어간다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Đây là cặp nối SAI. 영산강 chảy qua vùng 전남 (Damyang – Naju – Mokpo) rồi đổ ra 서해, hoàn toàn không liên quan đến vùng 강원 hay 동해. ① đúng: 한강 chảy xuyên qua Seoul rồi ra 서해. ② đúng: 낙동강 là con sông tiêu biểu của vùng 영남, đổ ra 남해 gần Busan. ③ đúng: 금강 là con sông tiêu biểu của vùng 충청, đổ ra 서해. Mẹo nhớ theo vùng: 한강 = 수도권, 금강 = 충청, 영산강 = 전라, 낙동강 = 경상.",
+    "explain_ko": "영산강은 전남 지역을 흘러 서해로 들어가는 강이다. 한강은 수도권, 금강은 충청, 낙동강은 경상 지역을 대표하는 강이다.",
+    "keywords": ["영산강", "금강", "한강"]
+  },
+  {
+    "id": "geography-013",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 특별자치도에 해당하지 않는 곳은?",
+    "choices": [
+      "제주특별자치도",
+      "강원특별자치도",
+      "전북특별자치도",
+      "충청남도"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 충청남도 là một 도 (tỉnh) bình thường, KHÔNG phải 특별자치도 (tỉnh tự trị đặc biệt). Hiện nay Hàn Quốc có ba 특별자치도: ① 제주특별자치도 (thành lập năm 2006), ② 강원특별자치도 (năm 2023) và ③ 전북특별자치도 (năm 2024). 특별자치도 được trao quyền tự chủ hành chính và tài chính rộng hơn tỉnh thường để phát triển theo đặc thù riêng của địa phương. Đây là nội dung mới thay đổi gần đây nên rất hay xuất hiện trong đề thi.",
+    "explain_ko": "특별자치도는 제주(2006년)·강원(2023년)·전북(2024년) 세 곳이며, 충청남도는 일반 도이다.",
+    "keywords": ["특별자치도", "행정구역"]
+  },
+  {
+    "id": "geography-014",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "한국의 위치·기후·지형",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 도시로 옳은 것은?\n\n서울에 지나치게 집중된 행정 기능을 나누기 위해 새로 건설된 행정중심복합도시로, 여러 중앙 행정 기관이 옮겨 왔다.",
+    "choices": [
+      "인천",
+      "대전",
+      "세종",
+      "울산"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 세종특별자치시 là 행정중심복합도시 (thành phố phức hợp trung tâm hành chính), được xây dựng để phân tán chức năng hành chính khỏi Seoul; nhiều bộ ngành trung ương đã chuyển về 정부세종청사. ① 인천 là thành phố cảng có sân bay quốc tế. ② 대전 là trung tâm khoa học – công nghệ với 대덕연구단지, dù cũng có một số cơ quan chính phủ nhưng không phải 행정중심복합도시. ④ 울산 là thành phố công nghiệp. Lưu ý: 세종 là địa phương cấp tỉnh duy nhất mang danh xưng '특별자치시'.",
+    "explain_ko": "세종특별자치시는 서울에 집중된 행정 기능을 분산하기 위해 만든 행정중심복합도시로, 유일한 특별자치시이다.",
+    "keywords": ["세종특별자치시", "행정중심복합도시"]
+  },
+  {
+    "id": "geography-015",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "수도권",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 수도권에 해당하는 지역으로 옳은 것은?",
+    "choices": [
+      "서울, 인천, 경기",
+      "서울, 대전, 충청남도",
+      "서울, 강원, 경기",
+      "서울, 인천, 충청북도"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 수도권 (vùng thủ đô) gồm 서울, 인천 và 경기도 — ba địa phương liền kề nhau quanh thủ đô. ② 대전 và 충청남도 thuộc vùng 충청, không phải 수도권. ③ 강원 là vùng núi phía Đông, tách biệt khỏi vùng thủ đô. ④ 충청북도 cũng thuộc vùng 충청. Ghi nhớ: khoảng một nửa dân số cả nước sống tập trung ở 수도권, gây ra các vấn đề như thiếu nhà ở, ùn tắc giao thông, và mất cân bằng phát triển vùng miền.",
+    "explain_ko": "수도권은 서울·인천·경기 세 지역을 말하며, 전국 인구의 약 절반이 이곳에 집중되어 있다.",
+    "keywords": ["수도권", "서울", "경기"]
+  },
+  {
+    "id": "geography-016",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "수도권",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 도시로 옳은 것은?\n\n대도시에 지나치게 몰린 인구와 기능을 나누어 맡기 위해 대도시 주변에 계획적으로 만들어진 도시이다.",
+    "choices": [
+      "항구도시",
+      "위성도시",
+      "공업도시",
+      "관광도시"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 위성도시 (thành phố vệ tinh) là đô thị được quy hoạch quanh một đô thị lớn để chia sẻ bớt dân số và chức năng của đô thị đó. ① 항구도시 là thành phố cảng (như 부산, 인천), phân loại theo vị trí ven biển. ③ 공업도시 là thành phố công nghiệp (như 울산), phân loại theo ngành nghề chính. ④ 관광도시 là thành phố du lịch. Quanh Seoul có nhiều 위성도시 tiêu biểu như 고양, 성남, 안양, 부천 — phần lớn cư dân sống ở đó và đi làm vào Seoul mỗi ngày.",
+    "explain_ko": "위성도시는 대도시에 집중된 인구와 기능을 분산하기 위해 대도시 주변에 만든 도시로, 서울 주변의 고양·성남·부천 등이 대표적이다.",
+    "keywords": ["위성도시", "도시화"]
+  },
+  {
+    "id": "geography-017",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "수도권",
+    "points": 2,
+    "passage": null,
+    "q": "인천에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "바다와 접하지 않은 내륙 도시로 대부분이 산지이다.",
+      "한국의 관문 역할을 하는 국제공항이 있는 서해안의 항구 도시이다.",
+      "화산 활동으로 만들어진 섬들로만 이루어진 지역이다.",
+      "중앙 행정 기관이 모여 있는 행정중심복합도시이다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 인천 nằm bên 서해, là thành phố cảng lớn và có 인천국제공항 — cửa ngõ ra vào chính của Hàn Quốc, nằm trên đảo 영종도. ① sai hoàn toàn vì Incheon giáp biển. ③ mô tả 제주도 (đảo núi lửa). ④ mô tả 세종특별자치시. Kiến thức thêm hay ra thi: 인천 mở cảng năm 1883, có khu phố Tàu (차이나타운) lâu đời, và được nối với Seoul bằng tàu điện ngầm cùng xe buýt liên tỉnh nên thuộc 수도권.",
+    "explain_ko": "인천은 서해에 접한 항구 도시로 한국의 관문인 인천국제공항이 있으며, 서울·경기와 함께 수도권을 이룬다.",
+    "keywords": ["인천", "인천국제공항", "수도권"]
+  },
+  {
+    "id": "geography-018",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "수도권",
+    "points": 2,
+    "passage": null,
+    "q": "수도권에 대한 설명으로 옳은 것을 <보기>에서 모두 고른 것은?\n\n㉠ 국토 면적에 비해 인구가 매우 많이 몰려 있다.\n㉡ 일자리와 교육·문화 시설이 집중되어 있다.\n㉢ 인구가 계속 줄어들어 정부가 인구를 더 모으려고 노력하고 있다.\n㉣ 서울·인천·경기를 제외한 남부 지방을 가리키는 말이다.",
+    "choices": [
+      "㉢, ㉣",
+      "㉡, ㉢",
+      "㉠, ㉣",
+      "㉠, ㉡"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. ㉠ đúng: diện tích 수도권 chỉ chiếm khoảng 12% cả nước nhưng tập trung khoảng một nửa dân số. ㉡ đúng: việc làm, trường đại học, bệnh viện lớn, cơ sở văn hóa đều dồn về đây, nên người trẻ tiếp tục đổ về. ㉢ SAI ngược lại: dân số 수도권 quá đông nên chính phủ đang tìm cách PHÂN TÁN (분산) chứ không phải thu hút thêm — ví dụ xây 세종특별자치시 và các 혁신도시. ㉣ SAI vì 수도권 chính là 서울·인천·경기, chứ không phải phần còn lại. Hệ quả của tập trung quá mức: giá nhà cao, ùn tắc giao thông, và các vùng khác bị suy giảm dân số (지방 소멸).",
+    "explain_ko": "수도권은 서울·인천·경기를 말하며 인구와 일자리, 교육·문화 시설이 과도하게 집중되어 정부가 분산 정책을 펴고 있다.",
+    "keywords": ["수도권", "인구 집중", "분산 정책"]
+  },
+  {
+    "id": "geography-019",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "수도권",
+    "points": 2,
+    "passage": null,
+    "q": "경기도에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "서울을 둘러싸고 있으며 수원에 도청이 있다.",
+      "한국의 도 가운데 인구가 가장 적은 곳이다.",
+      "한국에서 유일하게 바다와 접하지 않은 도이다.",
+      "도청 소재지가 강릉이며 동해와 접해 있다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 경기도 bao quanh Seoul, và 도청 (trụ sở chính quyền tỉnh) đặt tại 수원시. ② sai ngược lại: 경기도 là địa phương ĐÔNG DÂN NHẤT cả nước, thậm chí đông hơn cả Seoul. ③ mô tả 충청북도 — tỉnh duy nhất không giáp biển; 경기도 thì giáp 서해. ④ sai vì 강릉 thuộc 강원특별자치도 chứ không phải 경기도. Trong 경기도 có rất nhiều 위성도시 của Seoul như 성남, 고양, 용인, 부천, và 경기도 cũng có 경기북부청사 đặt tại 의정부.",
+    "explain_ko": "경기도는 서울을 둘러싼 지역으로 도청 소재지는 수원이며, 전국에서 인구가 가장 많은 광역자치단체이다.",
+    "keywords": ["경기도", "수원", "수도권"]
+  },
+  {
+    "id": "geography-020",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "충청 지역",
+    "points": 2,
+    "passage": null,
+    "q": "대전에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "한국 제1의 항구 도시로 해마다 국제 영화제가 열린다.",
+      "신라의 수도였던 곳으로 불국사와 석굴암이 있다.",
+      "대덕연구단지가 있어 과학 기술 연구의 중심지로 불린다.",
+      "화산섬으로 한라산과 오름이 유명한 관광지이다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 대전 có 대덕연구단지 — nơi tập trung rất nhiều viện nghiên cứu quốc gia và trường đại học khoa học (như KAIST), nên được gọi là trung tâm khoa học – công nghệ của Hàn Quốc. ① mô tả 부산 (thành phố cảng số 1, có 부산국제영화제). ② mô tả 경주 (cố đô Silla, có 불국사·석굴암). ④ mô tả 제주도. Ngoài ra, 대전 nằm ở vị trí trung tâm giao thông của cả nước — tàu KTX và các tuyến cao tốc chính đều đi qua đây.",
+    "explain_ko": "대전은 대덕연구단지가 있는 과학 기술 연구 중심 도시이며, 국토의 중앙에 위치해 교통의 요지이기도 하다.",
+    "keywords": ["대전", "대덕연구단지", "과학"]
+  },
+  {
+    "id": "geography-021",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "충청 지역",
+    "points": 2,
+    "passage": null,
+    "q": "세종특별자치시에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "서울에 집중된 행정 기능을 나누기 위해 새로 건설되었다.",
+      "여러 중앙 행정 기관이 모인 정부세종청사가 자리하고 있다.",
+      "조선 시대 세종대왕의 이름에서 도시 이름을 따왔다.",
+      "삼면이 바다로 둘러싸인 항구 도시로 수산업이 발달했다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Đây là mô tả SAI: 세종특별자치시 nằm ở vùng 충청 trong ĐẤT LIỀN, hoàn toàn không giáp biển nên không thể là thành phố cảng. ① đúng: mục đích thành lập là phân tán chức năng hành chính khỏi Seoul. ② đúng: 정부세종청사 là nơi làm việc của nhiều bộ ngành trung ương. ③ đúng: tên thành phố lấy từ vua 세종대왕 — vị vua sáng tạo ra 한글. Nhớ rằng 세종 là 광역자치단체 duy nhất mang danh xưng 특별자치시.",
+    "explain_ko": "세종특별자치시는 충청 지역 내륙에 위치한 행정중심복합도시로 바다와 접해 있지 않으며, 세종대왕의 이름을 따서 지어졌다.",
+    "keywords": ["세종특별자치시", "정부세종청사"]
+  },
+  {
+    "id": "geography-022",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "충청 지역",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 지역으로 옳은 것은?\n\n한국의 도(道) 가운데 유일하게 바다와 접하지 않은 내륙 지역이며, 청주에 도청이 있다.",
+    "choices": [
+      "충청남도",
+      "전라남도",
+      "충청북도",
+      "경상남도"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 충청북도 là tỉnh DUY NHẤT của Hàn Quốc không giáp biển, và 도청 đặt tại 청주시. ① 충청남도 giáp 서해 (có các vùng biển như 보령, 태안). ② 전라남도 giáp cả 서해 và 남해, có vô số đảo. ④ 경상남도 giáp 남해. Vì là vùng nội địa, 충청북도 nổi tiếng với hồ nhân tạo 충주호 và các di tích núi non; nơi đây cũng nằm ở trung tâm giao thông nội địa của cả nước.",
+    "explain_ko": "충청북도는 한국의 도 중 유일하게 바다와 접하지 않은 내륙 지역이며 도청 소재지는 청주이다.",
+    "keywords": ["충청북도", "청주", "내륙"]
+  },
+  {
+    "id": "geography-023",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "충청 지역",
+    "points": 2,
+    "passage": null,
+    "q": "다음 지역과 그 지역을 대표하는 것의 연결로 옳은 것은?",
+    "choices": [
+      "보령 — 머드 축제",
+      "안동 — 인삼 축제",
+      "금산 — 국제 영화제",
+      "순천 — 한옥마을"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 보령 (thuộc 충청남도) nổi tiếng với 보령 머드축제 — lễ hội bùn ở bãi biển 대천, thu hút rất đông khách nước ngoài mỗi mùa hè. ② sai: lễ hội nhân sâm (인삼축제) là của 금산 (충청남도), còn 안동 nổi tiếng với 하회마을 và múa mặt nạ. ③ sai: liên hoan phim quốc tế là của 부산 (부산국제영화제). ④ sai: 한옥마을 nổi tiếng là của 전주, còn 순천 nổi tiếng với 순천만. Mẹo nhớ vùng 충청: 보령 = bùn, 금산 = nhân sâm.",
+    "explain_ko": "보령 머드축제는 충남 보령 대천해수욕장에서 열리는 대표 축제이다. 인삼은 금산, 한옥마을은 전주, 국제영화제는 부산이다.",
+    "keywords": ["보령 머드축제", "금산 인삼", "지역 축제"]
+  },
+  {
+    "id": "geography-024",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "전라 지역",
+    "points": 2,
+    "passage": null,
+    "q": "전주에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "화산 활동으로 만들어진 섬으로 해녀 문화가 유명하다.",
+      "한옥마을과 비빔밥으로 널리 알려진 도시이다.",
+      "동계 올림픽이 열린 도시로 겨울 스포츠가 발달했다.",
+      "자동차와 조선 산업이 발달한 대표적인 공업 도시이다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 전주 (thuộc 전북특별자치도) nổi tiếng nhất với 전주 한옥마을 — khu phố tập trung hàng trăm ngôi nhà truyền thống 한옥 — và món 전주비빔밥, được coi là thủ phủ ẩm thực của Hàn Quốc. ① mô tả 제주도. ③ mô tả 평창 (Thế vận hội mùa đông 2018). ④ mô tả 울산. Kiến thức thêm: 전주 được UNESCO công nhận là 'Thành phố Ẩm thực' (음식 창의도시), và vùng 전라 nói chung nổi tiếng vì mâm cơm nhiều món phụ (반찬).",
+    "explain_ko": "전주는 한옥마을과 비빔밥으로 유명한 도시로, 전라 지역을 대표하는 음식 문화의 중심지이다.",
+    "keywords": ["전주", "한옥마을", "비빔밥"]
+  },
+  {
+    "id": "geography-025",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "전라 지역",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 곳으로 옳은 것은?\n\n남해안에 있는 넓은 갯벌과 갈대밭으로, 겨울에 철새가 찾아오는 생태 관광지로 유명하다.",
+    "choices": [
+      "설악산",
+      "우포늪",
+      "순천만",
+      "다도해"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 순천만 (vịnh Suncheon, vùng 전남) có bãi bồi rộng lớn cùng cánh đồng lau sậy (갈대밭) mênh mông, là điểm dừng chân của chim di cư vào mùa đông và là khu du lịch sinh thái tiêu biểu. ① 설악산 là núi ở vùng 강원, không liên quan đến bãi bồi. ② 우포늪 cũng là vùng đất ngập nước sinh thái nổi tiếng nhưng là ĐẦM NƯỚC NGỌT trong nội địa ở 창녕, 경남 — đây là lựa chọn dễ nhầm nhất. ④ 다도해 chỉ vùng biển nhiều đảo ở 남해 nói chung, không phải một địa danh bãi bồi cụ thể. 갯벌 vùng 순천만·보성 đã được ghi danh Di sản Thiên nhiên Thế giới UNESCO cùng '한국의 갯벌'.",
+    "explain_ko": "순천만은 넓은 갯벌과 갈대밭으로 유명한 생태 관광지이며, 유네스코 세계자연유산 '한국의 갯벌'에 포함되어 있다.",
+    "keywords": ["순천만", "갯벌", "갈대밭"]
+  },
+  {
+    "id": "geography-026",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "전라 지역",
+    "points": 2,
+    "passage": null,
+    "q": "전라 지역의 농업에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "국토에서 가장 높은 산들이 모여 있어 농사를 짓기 어렵다.",
+      "넓은 평야가 펼쳐져 있어 예로부터 쌀 생산이 많은 곡창 지대로 불렸다.",
+      "화산섬으로 이루어져 벼농사를 전혀 짓지 못한다.",
+      "겨울이 가장 길고 추워 한 해에 한 번도 수확하기 어렵다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Vùng 전라 (호남) có 호남평야 rộng lớn nên từ xưa đã là 곡창 지대 (vựa lúa) của Hàn Quốc, sản lượng gạo thuộc hàng cao nhất nước. ① sai: những ngọn núi cao tập trung ở vùng 강원 và dãy 태백산맥, không phải 전라. ③ mô tả 제주도 — nơi đất núi lửa thoát nước nhanh nên trồng quýt và rau màu thay vì lúa. ④ sai: 전라 nằm ở phía Nam nên mùa đông tương đối ấm, thuận lợi cho nông nghiệp. Chính vì đất đai màu mỡ mà văn hóa ẩm thực vùng 전라 rất phong phú.",
+    "explain_ko": "전라 지역은 호남평야를 중심으로 넓은 평야가 발달해 예로부터 쌀 생산이 많은 곡창 지대로 불린다.",
+    "keywords": ["호남평야", "곡창지대", "전라 지역"]
+  },
+  {
+    "id": "geography-027",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "전라 지역",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 도시로 옳은 것은?\n\n남해안에 있는 항구 도시로, 2012년에 세계 박람회(엑스포)가 열렸으며 아름다운 밤바다 풍경으로 유명하다.",
+    "choices": [
+      "목포",
+      "군산",
+      "강릉",
+      "여수"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 여수 là thành phố cảng bên 남해, nơi tổ chức 여수세계박람회 (Expo) năm 2012, và nổi tiếng với cảnh biển đêm được nhắc đến trong nhiều bài hát. ① 목포 cũng là thành phố cảng vùng 전남 nhưng nằm bên 서해 và không tổ chức Expo. ② 군산 là thành phố cảng vùng 전북 nổi tiếng với các kiến trúc thời thuộc địa. ③ 강릉 nằm bên 동해 thuộc vùng 강원, hoàn toàn khác khu vực. Gần 여수 còn có 오동도 và tuyến cáp treo vượt biển rất được du khách yêu thích.",
+    "explain_ko": "여수는 남해안의 항구 도시로 2012년 세계 박람회가 열렸으며 밤바다 야경으로 유명한 관광 도시이다.",
+    "keywords": ["여수", "여수엑스포", "남해안"]
+  },
+  {
+    "id": "geography-028",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "전라 지역",
+    "points": 2,
+    "passage": null,
+    "q": "광주에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "호남 지역의 중심 도시로, 무등산과 5·18 민주화 운동으로 잘 알려져 있다.",
+      "신라의 수도였던 곳으로 첨성대와 불국사가 남아 있다.",
+      "동해에 접한 항구 도시로 오징어와 대게가 유명하다.",
+      "한국에서 가장 큰 섬으로 감귤 농사가 활발하다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 광주 là đô thị trung tâm của vùng 호남 (전라), có núi 무등산 làm biểu tượng, và là nơi diễn ra 5·18 민주화 운동 năm 1980 — sự kiện quan trọng trong lịch sử dân chủ hóa Hàn Quốc. ② mô tả 경주 (cố đô Silla). ③ mô tả các thành phố ven 동해 như 속초 hay 포항. ④ mô tả 제주도. Kiến thức thêm hay ra thi: tư liệu về 5·18 광주 민주화 운동 đã được UNESCO ghi vào Danh mục Ký ức Thế giới (세계기록유산).",
+    "explain_ko": "광주는 호남 지역의 중심 도시로 무등산이 있으며, 1980년 5·18 민주화 운동이 일어난 곳이다.",
+    "keywords": ["광주", "무등산", "5·18 민주화 운동"]
+  },
+  {
+    "id": "geography-029",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "경상 지역",
+    "points": 2,
+    "passage": null,
+    "q": "부산에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "내륙에 있어 바다와 접하지 않은 도시이다.",
+      "한국 제1의 항구 도시로 해마다 국제 영화제가 열린다.",
+      "중앙 행정 기관이 모인 행정중심복합도시이다.",
+      "동계 올림픽이 열린 강원 지역의 대표 도시이다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 부산 nằm ở Đông Nam bán đảo, là thành phố cảng lớn nhất Hàn Quốc và là cửa ngõ vận tải biển quốc tế; hằng năm nơi đây tổ chức 부산국제영화제 (BIFF). ① sai vì Busan giáp 남해, có các bãi biển nổi tiếng như 해운대, 광안리. ③ mô tả 세종특별자치시. ④ mô tả 평창 thuộc vùng 강원. Ghi nhớ: 부산 cũng là thành phố đông dân thứ hai cả nước sau Seoul, và có chợ cá 자갈치시장 nổi tiếng.",
+    "explain_ko": "부산은 한국 제1의 항구 도시로 부산국제영화제가 열리며, 해운대·광안리 등 유명한 해수욕장이 있다.",
+    "keywords": ["부산", "항구도시", "부산국제영화제"]
+  },
+  {
+    "id": "geography-030",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "경상 지역",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 도시로 옳은 것은?\n\n신라의 옛 수도로 불국사, 석굴암, 첨성대 등 문화유산이 곳곳에 남아 있어 '지붕 없는 박물관'이라고도 불린다.",
+    "choices": [
+      "공주",
+      "부여",
+      "경주",
+      "개성"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 경주 (thuộc 경상북도) là kinh đô cũ của vương quốc 신라 suốt gần một nghìn năm, nơi còn lại 불국사, 석굴암, 첨성대, các ngôi mộ cổ 고분 — nên được gọi là 'bảo tàng không mái'. ① 공주 và ② 부여 là các kinh đô cũ của 백제 (Baekje), thuộc vùng 충청 — đây là hai lựa chọn dễ nhầm nhất. ④ 개성 là kinh đô của 고려 và hiện nằm ở Triều Tiên. Nhớ cặp: 신라 = 경주, 백제 = 공주·부여, 고려 = 개성, 조선 = 한양(서울).",
+    "explain_ko": "경주는 신라의 옛 수도로 불국사·석굴암·첨성대 등 문화유산이 많아 '지붕 없는 박물관'이라 불린다. 백제의 수도는 공주와 부여였다.",
+    "keywords": ["경주", "신라", "불국사"]
+  },
+  {
+    "id": "geography-031",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "경상 지역",
+    "points": 2,
+    "passage": null,
+    "q": "안동에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "하회마을이 유네스코 세계유산으로 등재되어 있다.",
+      "하회별신굿탈놀이 등 전통 탈춤이 전해 내려온다.",
+      "조선 시대 유교 문화가 잘 보존되어 있는 지역이다.",
+      "화산 활동으로 생긴 오름과 용암 동굴이 많은 지역이다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Đây là mô tả SAI — 오름 và hang dung nham là đặc trưng của 제주도, không phải 안동. ① đúng: 안동 하회마을 cùng 경주 양동마을 được UNESCO ghi danh năm 2010 với tên '한국의 역사마을: 하회와 양동'. ② đúng: 하회별신굿탈놀이 là điệu múa mặt nạ truyền thống nổi tiếng của làng này. ③ đúng: 안동 được coi là trung tâm văn hóa Nho giáo (유교) thời Joseon, có 도산서원 gắn với học giả 이황. Món ăn tiêu biểu của 안동 là 안동찜닭 và 간고등어.",
+    "explain_ko": "안동은 유네스코 세계유산인 하회마을과 하회별신굿탈놀이로 유명한 유교 문화의 중심지이며, 오름과 용암 동굴은 제주도의 지형이다.",
+    "keywords": ["안동", "하회마을", "유교 문화"]
+  },
+  {
+    "id": "geography-032",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "경상 지역",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 도시로 옳은 것은?\n\n자동차·조선·석유 화학 공장이 모여 있어 한국을 대표하는 공업 도시로 성장하였다.",
+    "choices": [
+      "전주",
+      "울산",
+      "춘천",
+      "제주"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 울산 là thành phố công nghiệp tiêu biểu của Hàn Quốc, tập trung các nhà máy ô tô, đóng tàu và hóa dầu quy mô lớn, đóng vai trò then chốt trong quá trình công nghiệp hóa từ thập niên 1960–70. ① 전주 nổi tiếng về văn hóa truyền thống và ẩm thực, không phải công nghiệp nặng. ③ 춘천 thuộc vùng 강원, là thành phố du lịch bên hồ, nổi tiếng với 닭갈비. ④ 제주 phát triển du lịch và nông nghiệp. Nhờ các ngành công nghiệp này, 울산 có mức thu nhập bình quân đầu người thuộc nhóm cao nhất cả nước.",
+    "explain_ko": "울산은 자동차·조선·석유화학 공장이 모여 있는 한국의 대표적인 공업 도시로, 산업화 과정에서 크게 성장했다.",
+    "keywords": ["울산", "공업 도시", "산업화"]
+  },
+  {
+    "id": "geography-033",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "경상 지역",
+    "points": 2,
+    "passage": null,
+    "q": "대구에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "산으로 둘러싸인 분지 지형이어서 여름에 특히 덥기로 유명하다.",
+      "한국에서 가장 서늘한 곳으로 여름에도 기온이 20도를 넘지 않는다.",
+      "삼면이 바다로 둘러싸인 항구 도시로 수산업이 발달했다.",
+      "화산 활동으로 만들어진 섬으로 관광객이 많이 찾는다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 대구 nằm trong một 분지 (lòng chảo) được núi bao quanh, khiến không khí nóng bị giữ lại nên mùa hè nóng bậc nhất Hàn Quốc. ② sai hoàn toàn: nơi mát mẻ mùa hè là các vùng cao nguyên như 대관령 ở 강원. ③ sai vì 대구 là thành phố nội địa, không giáp biển. ④ mô tả 제주도. Kiến thức thêm: nhờ khí hậu nóng, 대구 từng nổi tiếng về táo (사과), và nơi đây cũng là trung tâm ngành dệt may (섬유 산업) truyền thống.",
+    "explain_ko": "대구는 산으로 둘러싸인 분지 지형이어서 여름에 매우 덥고 겨울에는 비교적 건조하며, 바다와 접하지 않은 내륙 도시이다.",
+    "keywords": ["대구", "분지", "기후"]
+  },
+  {
+    "id": "geography-034",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "경상 지역",
+    "points": 2,
+    "passage": null,
+    "q": "다음 글의 (㉠), (㉡)에 각각 들어갈 내용으로 옳은 것은?\n\n한국은 동쪽이 높고 서쪽이 낮은 지형이어서 한강·금강·영산강 등 큰 강이 대부분 ( ㉠ )(으)로 흘러 바다에 이른다. 다만 영남 지역을 흐르는 ( ㉡ )은/는 남쪽으로 흘러 부산 부근에서 남해로 들어간다.",
+    "choices": [
+      "㉠ 동쪽 — ㉡ 한강",
+      "㉠ 동쪽 — ㉡ 금강",
+      "㉠ 서쪽 — ㉡ 낙동강",
+      "㉠ 서쪽 — ㉡ 영산강"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Vì địa hình 동고서저 (Đông cao – Tây thấp) nên nước chảy về phía Tây: ㉠ phải là 서쪽. ㉡ là 낙동강 — con sông tiêu biểu của vùng 영남 (경상), chảy theo hướng Nam và đổ ra 남해 gần 부산. ① và ② sai ở ㉠ vì nếu chảy về phía Đông thì trái với địa hình 동고서저. ④ sai ở ㉡ vì 영산강 chảy ở vùng 전남 và đổ ra 서해, không liên quan đến 영남. Ghi nhớ: 낙동강 chảy qua 안동, 대구, 부산 và là nguồn nước sinh hoạt chính của vùng Đông Nam.",
+    "explain_ko": "동고서저 지형 때문에 큰 강은 대부분 서쪽으로 흐르지만, 영남 지역의 낙동강은 남쪽으로 흘러 부산 부근에서 남해로 들어간다.",
+    "keywords": ["낙동강", "동고서저", "영남"]
+  },
+  {
+    "id": "geography-035",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "강원 지역",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 지역으로 옳은 것은?\n\n2018년 동계 올림픽이 열린 곳으로, 높은 지대에 자리해 여름에도 서늘하며 목장과 스키장이 많다.",
+    "choices": [
+      "속초",
+      "춘천",
+      "원주",
+      "평창"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 평창 (thuộc 강원특별자치도) là nơi tổ chức Thế vận hội Mùa đông 2018 (평창 동계 올림픽). Đây là vùng 고원 (cao nguyên) quanh 대관령, mùa hè mát mẻ nên có nhiều đồng cỏ chăn nuôi (목장) và mùa đông nhiều tuyết nên phát triển khu trượt tuyết. ① 속초 là thành phố cảng ven 동해 gần 설악산. ② 춘천 là thành phố bên hồ nổi tiếng với 닭갈비. ③ 원주 là đô thị lớn phía Nam 강원, không tổ chức Olympic. Lưu ý: một số môn thi đấu trên băng của kỳ Olympic này được tổ chức tại 강릉.",
+    "explain_ko": "평창은 2018년 동계 올림픽이 열린 강원 지역의 고원 지대로, 여름에도 서늘해 목장이 많고 겨울에는 스키장이 발달했다.",
+    "keywords": ["평창", "동계 올림픽", "대관령"]
+  },
+  {
+    "id": "geography-036",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "강원 지역",
+    "points": 2,
+    "passage": null,
+    "q": "강원 지역에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "태백산맥이 지나가 산이 많고 고원 지대가 발달해 있다.",
+      "설악산과 동해 바다를 찾는 관광객이 많다.",
+      "넓은 평야가 대부분이어서 한국 최대의 쌀 생산지로 꼽힌다.",
+      "서늘한 기후를 이용해 감자와 고랭지 채소를 많이 재배한다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Đây là mô tả SAI — vùng đồng bằng rộng và vựa lúa lớn nhất nằm ở 전라 (호남평야), còn 강원 chủ yếu là núi non nên diện tích trồng lúa rất hạn chế. ① đúng: dãy 태백산맥 chạy qua khiến địa hình nhiều núi và cao nguyên. ② đúng: 설악산 và bờ biển 동해 là điểm du lịch hàng đầu. ④ đúng: nhờ khí hậu mát, 강원 nổi tiếng với khoai tây (감자) và rau vùng cao (고랭지 채소) như bắp cải, củ cải trồng vào mùa hè. 강원 đã đổi tên thành 강원특별자치도 từ năm 2023.",
+    "explain_ko": "강원 지역은 태백산맥이 지나 산지가 많아 감자와 고랭지 채소 재배가 발달했으며, 한국 최대의 쌀 생산지는 호남평야가 있는 전라 지역이다.",
+    "keywords": ["강원특별자치도", "고랭지 채소", "태백산맥"]
+  },
+  {
+    "id": "geography-037",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "강원 지역",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 도시로 옳은 것은?\n\n강원 지역의 동해안에 있으며, 경포대와 정동진 등 해돋이 명소로 잘 알려져 있다.",
+    "choices": [
+      "목포",
+      "강릉",
+      "군산",
+      "통영"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 강릉 nằm bên bờ 동해 thuộc 강원특별자치도, nổi tiếng với 경포대·경포해변 và 정동진 — những địa điểm ngắm mặt trời mọc (해돋이) hàng đầu Hàn Quốc, đặc biệt đông khách vào ngày đầu năm. ① 목포 và ③ 군산 đều là thành phố cảng bên 서해 nên không thể ngắm mặt trời MỌC trên biển. ④ 통영 nằm bên 남해 thuộc 경상남도. Vì bờ Đông quay về hướng Đông nên các điểm đón bình minh nổi tiếng đều tập trung ở đây; 강릉 cũng là nơi tổ chức các môn thi đấu trên băng của Olympic Mùa đông 2018.",
+    "explain_ko": "강릉은 강원 지역 동해안의 도시로 경포대와 정동진 등 해돋이 명소로 유명하며, 2018년 동계 올림픽 빙상 경기가 열린 곳이다.",
+    "keywords": ["강릉", "정동진", "동해안"]
+  },
+  {
+    "id": "geography-038",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "제주 지역",
+    "points": 2,
+    "passage": null,
+    "q": "제주도에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "화산 활동으로 만들어진 섬으로 한국에서 가장 큰 섬이다.",
+      "태백산맥이 이어져 만들어진 반도 지역이다.",
+      "서해에 있으며 조수 간만의 차가 커서 갯벌이 넓다.",
+      "겨울이 한국에서 가장 춥고 눈이 가장 많이 오는 지역이다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 제주도 hình thành từ hoạt động núi lửa và là hòn đảo lớn nhất Hàn Quốc, nằm ở phía Nam bán đảo. ② sai vì 제주도 là ĐẢO, không phải bán đảo nối với 태백산맥. ③ sai: 제주도 nằm ở 남해, và vì là đảo núi lửa với bờ đá bazan nên không có bãi bồi rộng như bờ 서해. ④ sai ngược lại: nhờ nằm ở cực Nam, 제주도 có mùa đông ẤM NHẤT cả nước. Vì đất núi lửa thoát nước nhanh nên nơi đây trồng quýt (감귤) thay vì lúa, và gió biển mạnh nên nhà truyền thống có tường đá thấp bao quanh.",
+    "explain_ko": "제주도는 화산 활동으로 만들어진 한국에서 가장 큰 섬으로, 남쪽에 있어 겨울이 가장 따뜻하며 감귤 농사가 발달했다.",
+    "keywords": ["제주도", "화산섬", "감귤"]
+  },
+  {
+    "id": "geography-039",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "제주 지역",
+    "points": 2,
+    "passage": null,
+    "q": "제주도의 자연과 문화에 대한 설명으로 옳은 것을 <보기>에서 모두 고른 것은?\n\n㉠ '오름'은 한라산 주변에 흩어져 있는 작은 화산체를 말한다.\n㉡ '돌하르방'은 현무암으로 만든 제주도의 상징적인 석상이다.\n㉢ '하회탈'은 제주도를 대표하는 전통 탈이다.\n㉣ 제주도는 화산 활동 없이 흙과 모래가 쌓여 만들어진 섬이다.",
+    "choices": [
+      "㉢, ㉣",
+      "㉡, ㉢",
+      "㉠, ㉣",
+      "㉠, ㉡"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. ㉠ đúng: 오름 là những ngọn núi lửa phụ nhỏ (기생 화산) nằm rải rác quanh 한라산, có tới hàng trăm ngọn. ㉡ đúng: 돌하르방 là tượng đá làm từ 현무암 (đá bazan) — loại đá núi lửa xốp đặc trưng của Jeju — được đặt ở lối vào làng để cầu bình an. ㉢ SAI: 하회탈 là mặt nạ truyền thống của làng 하회 ở 안동, vùng 경북, hoàn toàn không phải của Jeju. ㉣ SAI: Jeju được tạo thành CHÍNH từ hoạt động núi lửa. Kiến thức bổ sung: '제주 화산섬과 용암동굴' được UNESCO công nhận là Di sản Thiên nhiên Thế giới, còn 제주 해녀 문화 là Di sản Văn hóa Phi vật thể của nhân loại.",
+    "explain_ko": "오름은 한라산 주변의 작은 화산체이고 돌하르방은 현무암으로 만든 제주의 상징물이다. 하회탈은 안동의 전통 탈이며, 제주도는 화산 활동으로 만들어진 섬이다.",
+    "keywords": ["오름", "돌하르방", "제주도"]
+  },
+  {
+    "id": "geography-040",
+    "domain": "geography",
+    "level": "basic",
+    "topic": "제주 지역",
+    "points": 2,
+    "passage": null,
+    "q": "제주도의 문화유산과 생활 모습에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "'제주 화산섬과 용암동굴'이 유네스코 세계자연유산으로 등재되어 있다.",
+      "한라산은 화산이 아니라 흙이 쌓여 만들어진 산이다.",
+      "해녀는 산소 공급 장치를 메고 깊은 바다에서 일하는 남성들을 가리킨다.",
+      "제주도는 바람이 거의 불지 않아 전통 집의 지붕이 매우 높고 뾰족하다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. '제주 화산섬과 용암동굴' được UNESCO ghi danh Di sản Thiên nhiên Thế giới năm 2007, gồm ba khu vực: 한라산 천연보호구역, 성산일출봉 và hệ thống hang dung nham 거문오름. ② sai: 한라산 chính là một ngọn núi lửa, trên đỉnh có hồ miệng núi lửa 백록담. ③ sai hai điểm: 해녀 là PHỤ NỮ và họ lặn tự do KHÔNG dùng bình dưỡng khí — văn hóa 해녀 đã được UNESCO công nhận là di sản văn hóa phi vật thể năm 2016. ④ sai ngược lại: Jeju gió rất mạnh nên nhà truyền thống có mái THẤP, buộc dây thừng chằng chịt và tường đá 돌담 chắn gió. Jeju được gọi là 삼다도 — nhiều đá, nhiều gió, nhiều phụ nữ.",
+    "explain_ko": "'제주 화산섬과 용암동굴'은 2007년 유네스코 세계자연유산으로 등재되었으며, 한라산·성산일출봉·거문오름 용암동굴계로 이루어져 있다. 제주 해녀 문화는 유네스코 인류무형문화유산이다.",
+    "keywords": ["제주 화산섬과 용암동굴", "세계자연유산", "해녀"]
+  }
+]

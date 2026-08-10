@@ -1,0 +1,520 @@
+[
+  {
+    "id": "wr-001",
+    "title": "내가 좋아하는 한국 음식과 그 이유",
+    "prompt": "다음 내용을 포함하여 '내가 좋아하는 한국 음식과 그 이유'라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "○○ 씨가 좋아하는 한국 음식은 무엇입니까?",
+      "그 음식을 언제 처음 먹어 보았습니까?",
+      "그 음식을 왜 좋아합니까?",
+      "그 음식을 다른 사람에게 어떻게 추천하겠습니까?"
+    ],
+    "model_answer": "제가 가장 좋아하는 한국 음식은 김치찌개입니다. 한국에 온 첫해 겨울에 회사 동료들과 함께 처음 먹어 보았는데, 그때는 너무 매워서 물만 계속 마셨습니다. 그러나 자꾸 먹다 보니 얼큰한 국물 맛을 잊을 수 없게 되었습니다. 이 음식을 좋아하는 이유는 재료값이 싸고 만들기도 쉬우며, 추운 날에 먹으면 몸이 금방 따뜻해지기 때문입니다. 또 두부와 채소가 들어 있어 영양도 좋습니다. 그래서 저는 한국 음식을 처음 접하는 친구에게 김치찌개부터 드셔 보시라고 꼭 추천하고 싶습니다.",
+    "char_count": 199,
+    "checkpoints_vi": [
+      "Trả lời đủ cả 4 câu hỏi phụ — thiếu 1 ý là mất 2.5 điểm, không có ngoại lệ",
+      "Nêu tên món ăn cụ thể (김치찌개, 비빔밥…), không viết chung chung là '한국 음식'",
+      "Phải có mốc thời gian rõ ràng cho lần ăn đầu tiên (한국에 온 첫해, 작년 여름…)",
+      "Lý do thích nên có ít nhất 2 điểm (맛·가격·건강·추억) chứ không chỉ '맛있어서'",
+      "Câu cuối phải là câu giới thiệu/khuyên người khác: ~에게 추천하고 싶습니다",
+      "Giữ nguyên một thể văn: toàn bài dùng ~습니다, không trộn ~해요/~다"
+    ],
+    "tips_vi": "Đây là đề dễ nhất và ra rất thường xuyên, nên hãy học thuộc một bài mẫu rồi chỉ thay tên món ăn. Chọn món bạn thật sự biết nấu để câu 'lý do' viết được sâu (rẻ, dễ nấu, ấm người, đủ dinh dưỡng). Đừng chỉ viết '맛있습니다' ba lần — giám khảo trừ điểm vì lặp từ. Với câu giới thiệu, dùng kính ngữ 드셔 보시라고 추천하고 싶습니다 sẽ được đánh giá là trình độ trung cấp trở lên. Nhớ đếm chữ: 200자 là một tờ 원고지, viết tràn ra ngoài sẽ bị trừ.",
+    "useful_expressions": [
+      {
+        "ko": "제가 가장 좋아하는 음식은 ~입니다",
+        "vi": "Món ăn tôi thích nhất là ~"
+      },
+      {
+        "ko": "처음 먹어 보았을 때는 ~았/었습니다",
+        "vi": "Lần đầu tiên ăn thử thì đã ~"
+      },
+      {
+        "ko": "자꾸 먹다 보니 ~게 되었습니다",
+        "vi": "Ăn mãi rồi thành ra ~"
+      },
+      {
+        "ko": "~기 때문입니다",
+        "vi": "Là vì ~ (dùng để nêu lý do)"
+      },
+      {
+        "ko": "~에게 꼭 추천하고 싶습니다",
+        "vi": "Tôi rất muốn giới thiệu cho ~"
+      }
+    ]
+  },
+  {
+    "id": "wr-002",
+    "title": "나의 가족 소개",
+    "prompt": "다음 내용을 포함하여 '나의 가족 소개'라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "○○ 씨의 가족은 모두 몇 명이고 누가 있습니까?",
+      "가족들은 각각 무슨 일을 합니까?",
+      "가족과 함께 주로 무엇을 하며 시간을 보냅니까?",
+      "○○ 씨에게 가족은 어떤 의미입니까?"
+    ],
+    "model_answer": "저희 가족은 모두 네 명으로, 남편과 저 그리고 아들과 딸이 있습니다. 남편은 자동차 부품 공장에서 일하고, 저는 낮에 식당에서 일하면서 저녁에는 한국어를 배우고 있습니다. 아이들은 초등학교에 다니는데 둘 다 태권도를 아주 좋아합니다. 주말이 되면 저희는 집 근처 공원에 가서 함께 걷거나 아이들이 좋아하는 음식을 만들어 먹습니다. 저에게 가족은 힘든 한국 생활을 견디게 해 주는 가장 큰 힘입니다. 앞으로도 서로 아끼며 건강하게 지내고 싶습니다.",
+    "char_count": 188,
+    "checkpoints_vi": [
+      "Nói rõ SỐ người và LIỆT KÊ từng thành viên — chỉ nói '네 명입니다' là chưa đủ ý",
+      "Mỗi thành viên phải gắn với một công việc/hoạt động cụ thể (직장·학교)",
+      "Phải có một hoạt động chung của cả nhà (주말·휴일에 ~합니다)",
+      "Câu về ý nghĩa gia đình cần cảm xúc: 가장 큰 힘·큰 의미 chứ không chỉ '좋습니다'",
+      "Dùng 저희 (khiêm nhường) thay cho 우리 khi nói về gia đình mình sẽ được điểm cao hơn"
+    ],
+    "tips_vi": "Đề gia đình gần như chắc chắn xuất hiện ở dạng này hoặc dạng '고향의 가족모습', nên hãy chuẩn bị sẵn một khung dùng được cho cả hai. Sắp xếp theo thứ tự: số người → từng người làm gì → sinh hoạt chung → ý nghĩa; đúng thứ tự 4 câu hỏi phụ là đã chắc 10 điểm. Tránh liệt kê khô khan kiểu '남편, 아들, 딸이 있습니다' rồi hết — mỗi người thêm một mệnh đề. Câu cuối nên là một câu mong ước (~고 싶습니다) để bài có kết.",
+    "useful_expressions": [
+      {
+        "ko": "저희 가족은 모두 ~명입니다",
+        "vi": "Gia đình tôi có tất cả ~ người"
+      },
+      {
+        "ko": "~에서 일하고 있습니다",
+        "vi": "Đang làm việc tại ~"
+      },
+      {
+        "ko": "주말이 되면 ~습니다",
+        "vi": "Cứ đến cuối tuần thì ~"
+      },
+      {
+        "ko": "저에게 가족은 ~입니다",
+        "vi": "Với tôi, gia đình là ~"
+      },
+      {
+        "ko": "서로 아끼며 지내고 싶습니다",
+        "vi": "Tôi muốn sống trân trọng lẫn nhau"
+      }
+    ]
+  },
+  {
+    "id": "wr-003",
+    "title": "한국 생활에서 힘들었던 점과 극복 방법",
+    "prompt": "다음 내용을 포함하여 '한국 생활에서 힘들었던 점과 극복 방법'이라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "○○ 씨가 한국 생활에서 가장 힘들었던 점은 무엇입니까?",
+      "그때 왜 힘들었습니까?",
+      "그 어려움을 어떻게 극복했습니까?",
+      "같은 어려움을 겪는 사람에게 어떤 말을 해 주고 싶습니까?"
+    ],
+    "model_answer": "제가 한국 생활에서 가장 힘들었던 점은 한국어로 의사소통하는 일이었습니다. 처음에는 은행이나 병원에 갈 때마다 직원의 말을 알아듣지 못해서 창피하고 답답했습니다. 게다가 고향 생각에 밤마다 눈물이 났습니다. 그래서 저는 사회통합프로그램에 등록해 꾸준히 한국어를 배우고, 이웃 어른들께 먼저 인사를 건네며 조금씩 말을 붙였습니다. 지금은 혼자서도 서류를 처리할 수 있습니다. 저는 같은 처지의 친구들에게 포기하지 말고 천천히 도전해 보라고 말하고 싶습니다.",
+    "char_count": 197,
+    "checkpoints_vi": [
+      "Chọn MỘT khó khăn chính rồi đào sâu — kể 4-5 khó khăn sẽ loãng và mất điểm mạch lạc",
+      "Phải có ví dụ cụ thể (은행·병원·직장) chứ không chỉ nói '한국어가 어려웠습니다'",
+      "Phần khắc phục cần hành động thật: 프로그램 등록, 매일 공부, 이웃과 대화",
+      "Phải cho thấy kết quả đã thay đổi: 지금은 ~할 수 있습니다",
+      "Câu cuối là lời khuyên gửi người khác — thiếu câu này mất trọn 2.5 điểm",
+      "Dùng liên từ 그래서·게다가·하지만 để bài có mạch, không phải các câu rời rạc"
+    ],
+    "tips_vi": "Đây chính là đề '나의 한국 문화 적응기' từng ra thật, và là đề an toàn nhất cho người nước ngoài vì bạn có trải nghiệm thật. Công thức: khó khăn → vì sao khổ → tôi đã làm gì → giờ tôi ổn → lời khuyên. Nên chọn rào cản ngôn ngữ hoặc khác biệt ẩm thực/thời tiết vì dễ viết. Tuyệt đối tránh viết theo hướng chê bai Hàn Quốc (người Hàn lạnh lùng, phân biệt đối xử) — hãy giữ giọng tích cực, hướng tới nỗ lực của bản thân. Kết bằng 포기하지 말고 ~보라고 말하고 싶습니다 là mẫu ăn điểm.",
+    "useful_expressions": [
+      {
+        "ko": "가장 힘들었던 점은 ~입니다",
+        "vi": "Điều khó khăn nhất là ~"
+      },
+      {
+        "ko": "말을 알아듣지 못해서 답답했습니다",
+        "vi": "Vì không nghe hiểu được nên rất bức bối"
+      },
+      {
+        "ko": "그 어려움을 극복하기 위해 ~았/었습니다",
+        "vi": "Để vượt qua khó khăn đó tôi đã ~"
+      },
+      {
+        "ko": "지금은 혼자서도 ~할 수 있습니다",
+        "vi": "Bây giờ tôi tự mình cũng ~ được"
+      },
+      {
+        "ko": "포기하지 말라고 말하고 싶습니다",
+        "vi": "Tôi muốn nói rằng đừng bỏ cuộc"
+      }
+    ]
+  },
+  {
+    "id": "wr-004",
+    "title": "내 고향 소개",
+    "prompt": "다음 내용을 포함하여 '내 고향 소개'라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "○○ 씨의 고향은 어디이고 어떤 곳입니까?",
+      "고향의 날씨나 자연은 어떻습니까?",
+      "고향에서 유명한 것은 무엇입니까?",
+      "고향에 가면 무엇을 하고 싶습니까?"
+    ],
+    "model_answer": "제 고향은 베트남 중부에 있는 다낭이라는 도시입니다. 바다를 끼고 있는 항구 도시여서 공기가 맑고 사람들이 매우 친절합니다. 이곳은 일 년 내내 날씨가 따뜻한 편이지만, 가을에는 비가 많이 내리고 태풍이 오기도 합니다. 고향에서 가장 유명한 것은 넓고 깨끗한 해수욕장과 쌀국수, 그리고 오래된 다리들입니다. 요즘은 한국 관광객도 많이 찾아옵니다. 다음에 고향에 가면 저는 부모님과 함께 바닷가를 걷고 어릴 때 자주 먹던 음식을 실컷 먹고 싶습니다.",
+    "char_count": 188,
+    "checkpoints_vi": [
+      "Nêu vị trí cụ thể: tên nước + vùng miền + tên thành phố (베트남 중부에 있는 다낭)",
+      "Phần thời tiết phải có ít nhất 2 mùa hoặc 1 đặc điểm + 1 ngoại lệ (따뜻하지만 태풍이…)",
+      "Đặc sản phải kể tên riêng (해수욕장, 쌀국수) chứ không viết '음식이 유명합니다'",
+      "Câu cuối dùng 고향에 가면 ~고 싶습니다 — đây là câu hỏi phụ số 4, không được bỏ",
+      "Không bịa số liệu (dân số, năm thành lập) vì dễ sai và không được cộng điểm"
+    ],
+    "tips_vi": "Đề giới thiệu quê hương rất hay ra vì ai cũng viết được, nhưng đúng vì thế mà bài dễ nhạt — hãy chèn một chi tiết chỉ quê bạn mới có. Khung chuẩn: vị trí → khí hậu/thiên nhiên → đặc sản nổi tiếng → điều muốn làm khi về. Rất nên có một câu so sánh nhẹ với Hàn Quốc (한국보다 덥습니다) để thể hiện cấu trúc trung cấp. Hai lỗi hay gặp: viết tên địa danh sai chính tả tiếng Hàn, và quên trả lời câu 4 vì đã hết chỗ — hãy chừa sẵn khoảng 3 dòng cuối.",
+    "useful_expressions": [
+      {
+        "ko": "제 고향은 ~에 있는 ~입니다",
+        "vi": "Quê tôi là ~ nằm ở ~"
+      },
+      {
+        "ko": "일 년 내내 날씨가 따뜻한 편입니다",
+        "vi": "Thời tiết quanh năm khá ấm áp"
+      },
+      {
+        "ko": "~(으)로 유명합니다",
+        "vi": "Nổi tiếng về ~"
+      },
+      {
+        "ko": "한국보다 ~ㄴ/은 편입니다",
+        "vi": "So với Hàn Quốc thì khá ~"
+      },
+      {
+        "ko": "고향에 가면 ~고 싶습니다",
+        "vi": "Nếu về quê tôi muốn ~"
+      }
+    ]
+  },
+  {
+    "id": "wr-005",
+    "title": "한국의 명절 경험",
+    "prompt": "다음 내용을 포함하여 '한국의 명절 경험'이라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "○○ 씨가 경험한 한국의 명절은 무엇입니까?",
+      "그날 무엇을 했습니까?",
+      "고향의 명절과 다른 점은 무엇입니까?",
+      "그 명절을 지내며 어떤 생각이 들었습니까?"
+    ],
+    "model_answer": "제가 한국에서 처음 지낸 명절은 설날이었습니다. 그날 아침 일찍 일어나 시댁 어른들과 함께 차례를 지내고 떡국을 먹었습니다. 아이들이 어른들께 세배를 하고 세뱃돈을 받는 모습이 참 인상적이었습니다. 제 고향에도 설이 있지만 음식과 인사법이 서로 달라서 처음에는 무척 어색했습니다. 그래도 온 가족이 모여 한 해의 건강을 빌어 주는 마음은 두 나라가 똑같았습니다. 저는 이 명절을 보내면서 이제 저도 한국 가족의 한 사람이 되었다고 느꼈습니다.",
+    "char_count": 186,
+    "checkpoints_vi": [
+      "Chỉ chọn 1 dịp lễ (설날 hoặc 추석) và kể sâu, không kể cả hai",
+      "Hành động trong ngày lễ phải đúng phong tục: 차례·떡국·세배·성묘·송편",
+      "Phần so sánh phải có cả điểm khác VÀ điểm giống — chỉ nêu khác là mất chiều sâu",
+      "Câu 4 hỏi cảm nghĩ, nên phải có động từ cảm xúc: 느꼈습니다, 생각했습니다",
+      "Không nhầm phong tục: 떡국 là món của 설날, 송편 là của 추석"
+    ],
+    "tips_vi": "Đề này vừa kiểm tra tiếng Hàn vừa kiểm tra hiểu biết văn hoá, nên hãy dùng đúng từ chuyên môn: 차례 (cúng tổ tiên), 세배 (lạy chào năm mới), 세뱃돈 (tiền mừng tuổi), 성묘 (tảo mộ). Mẹo được điểm cao: kết bài bằng ý 'hai nước khác hình thức nhưng giống tấm lòng' — vừa tự nhiên vừa hợp tinh thần hoà nhập xã hội mà kỳ thi hướng tới. Nếu bạn chưa từng trải nghiệm thật thì vẫn được phép viết theo trải nghiệm giả định, giám khảo không kiểm chứng, nhưng phong tục phải đúng.",
+    "useful_expressions": [
+      {
+        "ko": "제가 처음 지낸 명절은 ~이었습니다",
+        "vi": "Dịp lễ đầu tiên tôi trải qua là ~"
+      },
+      {
+        "ko": "차례를 지내고 떡국을 먹었습니다",
+        "vi": "Chúng tôi cúng tổ tiên rồi ăn canh bánh gạo"
+      },
+      {
+        "ko": "어른들께 세배를 합니다",
+        "vi": "Cúi lạy chào năm mới người lớn"
+      },
+      {
+        "ko": "~와/과 달라서 어색했습니다",
+        "vi": "Vì khác với ~ nên tôi thấy ngượng nghịu"
+      },
+      {
+        "ko": "~다고 느꼈습니다",
+        "vi": "Tôi đã cảm thấy rằng ~"
+      }
+    ]
+  },
+  {
+    "id": "wr-006",
+    "title": "나의 꿈과 앞으로의 계획",
+    "prompt": "다음 내용을 포함하여 '나의 꿈과 앞으로의 계획'이라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "○○ 씨의 꿈은 무엇입니까?",
+      "왜 그런 꿈을 갖게 되었습니까?",
+      "그 꿈을 이루기 위해 지금 무엇을 하고 있습니까?",
+      "앞으로의 계획은 무엇입니까?"
+    ],
+    "model_answer": "저의 꿈은 통역과 상담을 할 수 있는 다문화 강사가 되는 것입니다. 한국에 처음 왔을 때 말이 통하지 않아 크게 고생한 적이 있는데, 그때 한 선배가 저를 도와준 일이 계기가 되었습니다. 저도 누군가에게 그런 사람이 되고 싶습니다. 그래서 지금은 사회통합프로그램에서 한국어를 공부하고 주말마다 봉사 활동에도 참여하고 있습니다. 앞으로는 관련 자격증을 딴 뒤 지역 센터에서 일할 계획입니다. 시간이 걸리더라도 끝까지 노력해서 반드시 꿈을 이루겠습니다.",
+    "char_count": 190,
+    "checkpoints_vi": [
+      "Ước mơ phải là một nghề/vai trò cụ thể (다문화 강사, 통역사, 사장님), không viết '행복하게 사는 것'",
+      "Lý do nên gắn với trải nghiệm cá nhân — đó là phần ghi điểm khác biệt",
+      "Nỗ lực hiện tại dùng thì hiện tại tiếp diễn: ~고 있습니다",
+      "Kế hoạch tương lai dùng ~ㄹ 계획입니다 / ~려고 합니다, không dùng thì hiện tại",
+      "Kết bằng câu quyết tâm ~겠습니다 để phân biệt rõ hiện tại và tương lai"
+    ],
+    "tips_vi": "'나의 꿈' là đề đã ra thật và ra nhiều lần, gần như bắt buộc phải chuẩn bị. Điểm mấu chốt là phân biệt được thì: câu 3 nói việc ĐANG làm (~고 있습니다), câu 4 nói việc SẼ làm (~ㄹ 계획입니다). Nhiều thí sinh viết cả hai ở cùng một thì và bị trừ điểm ngữ pháp. Chọn ước mơ thực tế, liên quan tới cuộc sống ở Hàn (giáo viên đa văn hoá, phiên dịch, mở quán ăn quê hương) sẽ dễ viết lý do hơn ước mơ trừu tượng.",
+    "useful_expressions": [
+      {
+        "ko": "저의 꿈은 ~이/가 되는 것입니다",
+        "vi": "Ước mơ của tôi là trở thành ~"
+      },
+      {
+        "ko": "~이/가 계기가 되었습니다",
+        "vi": "~ đã trở thành cơ duyên/động lực"
+      },
+      {
+        "ko": "꿈을 이루기 위해 ~고 있습니다",
+        "vi": "Để thực hiện ước mơ tôi đang ~"
+      },
+      {
+        "ko": "앞으로 ~ㄹ 계획입니다",
+        "vi": "Sắp tới tôi có kế hoạch ~"
+      },
+      {
+        "ko": "끝까지 노력해서 반드시 이루겠습니다",
+        "vi": "Tôi sẽ cố gắng đến cùng và nhất định đạt được"
+      }
+    ]
+  },
+  {
+    "id": "wr-007",
+    "title": "내가 좋아하는 계절과 그 이유",
+    "prompt": "다음 내용을 포함하여 '내가 좋아하는 계절과 그 이유'라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "○○ 씨가 가장 좋아하는 계절은 언제입니까?",
+      "그 계절의 날씨는 어떻습니까?",
+      "그 계절을 좋아하는 이유는 무엇입니까?",
+      "그 계절에 주로 무엇을 합니까?"
+    ],
+    "model_answer": "제가 가장 좋아하는 계절은 가을입니다. 한국의 가을은 하늘이 높고 맑으며 아침저녁으로 선선한 바람이 붑니다. 여름처럼 습하지도 않고 겨울처럼 춥지도 않아서 지내기가 아주 편합니다. 제가 가을을 좋아하는 이유는 산과 길이 붉고 노란 단풍으로 물들어 어디를 가도 경치가 아름답기 때문입니다. 또 과일과 곡식이 익는 풍성한 계절이라 마음까지 넉넉해집니다. 그래서 저는 가을이 되면 가족과 함께 근처 산에 올라가 단풍 구경을 하고 사진을 찍습니다.",
+    "char_count": 187,
+    "checkpoints_vi": [
+      "Chọn 1 mùa và giữ nhất quán cả bài",
+      "Miêu tả thời tiết cần 2-3 chi tiết cảm giác được: 하늘이 높다, 선선하다, 습하지 않다",
+      "Lý do phải khác phần miêu tả thời tiết — thêm cảnh sắc, thu hoạch, kỷ niệm",
+      "Câu 4 phải là hoạt động cụ thể lặp lại: 단풍 구경, 등산, 사진 찍기",
+      "Dùng cấu trúc so sánh 여름처럼 ~지도 않고 để nâng trình độ bài viết"
+    ],
+    "tips_vi": "Đề mùa yêu thích là đề cho điểm, nhưng dễ bị viết quá ngắn rồi thiếu chữ. Cách kéo dài tự nhiên: dùng cấu trúc đối lập 'không nóng như hè, không lạnh như đông' và thêm một hoạt động theo mùa. Hãy học sẵn từ vựng bốn mùa của Hàn Quốc: 봄-벚꽃/황사, 여름-장마/무덥다, 가을-단풍/선선하다, 겨울-눈/영하. Chọn mùa thu hoặc mùa xuân sẽ có nhiều từ đẹp để dùng hơn mùa hè. Nhớ trả lời đủ 4 ý dù đề trông rất đơn giản.",
+    "useful_expressions": [
+      {
+        "ko": "제가 가장 좋아하는 계절은 ~입니다",
+        "vi": "Mùa tôi thích nhất là ~"
+      },
+      {
+        "ko": "선선한 바람이 붑니다",
+        "vi": "Gió mát thổi nhẹ"
+      },
+      {
+        "ko": "여름처럼 습하지도 않고 겨울처럼 춥지도 않습니다",
+        "vi": "Không ẩm như hè cũng không lạnh như đông"
+      },
+      {
+        "ko": "단풍이 들어 경치가 아름답습니다",
+        "vi": "Lá đổi màu nên phong cảnh rất đẹp"
+      },
+      {
+        "ko": "~이/가 되면 주로 ~습니다",
+        "vi": "Cứ đến ~ thì tôi thường ~"
+      }
+    ]
+  },
+  {
+    "id": "wr-008",
+    "title": "한국 생활에 도움을 준 사람",
+    "prompt": "다음 내용을 포함하여 '한국 생활에 도움을 준 사람'이라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "○○ 씨에게 도움을 준 사람은 누구입니까?",
+      "그 사람을 어떻게 알게 되었습니까?",
+      "그 사람이 어떤 도움을 주었습니까?",
+      "그 사람에게 어떤 말을 전하고 싶습니까?"
+    ],
+    "model_answer": "한국 생활에서 저에게 가장 큰 도움을 준 사람은 옆집에 사는 김 선생님입니다. 이사 온 날 무거운 짐을 들고 계단을 오르다가 힘들어할 때 먼저 다가와 도와주시면서 알게 되었습니다. 그분은 병원에 갈 때 통역을 해 주시고, 아이 학교 준비물이나 서류 쓰는 방법도 하나하나 알려 주셨습니다. 덕분에 저는 낯선 곳에서도 외롭지 않게 지낼 수 있었습니다. 저는 선생님께 진심으로 감사하다는 말씀을 드리고 싶습니다. 앞으로는 제가 다른 이웃을 돕겠습니다.",
+    "char_count": 186,
+    "checkpoints_vi": [
+      "Nêu rõ quan hệ với người đó (옆집 이웃, 회사 선배, 센터 선생님) chứ không chỉ '친구'",
+      "Phải có tình huống gặp gỡ cụ thể — đây là câu hỏi phụ số 2, rất hay bị bỏ quên",
+      "Kể ít nhất 2 việc người đó đã giúp, dùng kính ngữ ~아/어 주셨습니다",
+      "Câu cảm ơn phải nói trực tiếp: 감사하다는 말씀을 드리고 싶습니다",
+      "Thêm một câu hứa đền đáp ở cuối để bài trọn vẹn và gây thiện cảm"
+    ],
+    "tips_vi": "Trọng tâm chấm điểm của đề này là KÍNH NGỮ. Vì bạn kể về người đã giúp mình, mọi hành động của họ phải dùng 주셨습니다 / 알려 주셨습니다 / 도와주셨습니다 — dùng 줬습니다 sẽ bị trừ. Cấu trúc 덕분에 (nhờ có ~) gần như bắt buộc phải xuất hiện một lần. Nhân vật nên chọn hàng xóm, giáo viên trung tâm hoặc mẹ chồng vì dễ kể việc giúp đỡ cụ thể. Kết bằng lời hứa sẽ giúp lại người khác vừa đủ chữ vừa đúng tinh thần đề thi.",
+    "useful_expressions": [
+      {
+        "ko": "저에게 가장 큰 도움을 준 사람은 ~입니다",
+        "vi": "Người giúp tôi nhiều nhất là ~"
+      },
+      {
+        "ko": "우연히 알게 되었습니다",
+        "vi": "Tôi đã tình cờ quen biết"
+      },
+      {
+        "ko": "~아/어 주셨습니다",
+        "vi": "Đã (làm gì) giúp tôi (kính ngữ)"
+      },
+      {
+        "ko": "그분 덕분에 ~ㄹ 수 있었습니다",
+        "vi": "Nhờ có người ấy mà tôi đã có thể ~"
+      },
+      {
+        "ko": "감사하다는 말씀을 드리고 싶습니다",
+        "vi": "Tôi muốn gửi lời cảm ơn chân thành"
+      }
+    ]
+  },
+  {
+    "id": "wr-009",
+    "title": "나의 건강 관리 방법",
+    "prompt": "다음 내용을 포함하여 '나의 건강 관리 방법'이라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "○○ 씨는 건강을 위해 무엇을 합니까?",
+      "언제부터 그렇게 하게 되었습니까?",
+      "건강 관리를 하면서 무엇이 달라졌습니까?",
+      "건강을 지키려면 무엇이 가장 중요하다고 생각합니까?"
+    ],
+    "model_answer": "저는 건강을 지키기 위해 매일 아침 삼십 분씩 걷고 채소를 많이 먹으려고 노력합니다. 삼 년 전에 몸이 자주 아파 병원에 갔더니 의사 선생님께서 운동을 꾸준히 하라고 하셔서 그때부터 시작했습니다. 처음에는 힘들었지만 이제는 걷지 않으면 오히려 몸이 무겁게 느껴집니다. 운동을 시작한 뒤로 잠도 잘 자고 감기에도 잘 걸리지 않게 되었습니다. 저는 건강을 지키는 데 가장 중요한 것은 특별한 방법이 아니라 규칙적인 생활 습관이라고 생각합니다.",
+    "char_count": 183,
+    "checkpoints_vi": [
+      "Nêu 2 phương pháp (vận động + ăn uống hoặc ngủ) để đủ ý và đủ chữ",
+      "Câu 2 cần mốc thời gian + nguyên nhân bắt đầu (삼 년 전에, 병원에 다녀온 뒤로)",
+      "Phần thay đổi phải cụ thể: ngủ ngon hơn, ít cảm hơn — không viết '건강해졌습니다' suông",
+      "Câu 4 là câu nêu Ý KIẾN, bắt buộc dùng ~라고 생각합니다",
+      "Số đếm nên viết bằng chữ Hàn (삼십 분) vì 원고지 tính mỗi ô một chữ"
+    ],
+    "tips_vi": "Đề sức khoẻ rất hay ra vì gắn với chương 의료·보건 trong sách 한국사회 이해. Mẫu câu bắt buộc phải thuộc: ~기 위해 (để mà), ~고 나서 / ~ㄴ 뒤로 (sau khi), ~게 되었습니다 (đã trở nên). Đừng bịa bệnh nặng hay tên thuốc — chỉ cần thói quen thường ngày là đủ. Câu cuối nên chốt bằng '규칙적인 생활 습관이 가장 중요하다고 생각합니다', đây là câu kết an toàn và ghi điểm ở mọi đề liên quan sức khoẻ.",
+    "useful_expressions": [
+      {
+        "ko": "건강을 지키기 위해 ~습니다",
+        "vi": "Để giữ gìn sức khoẻ tôi ~"
+      },
+      {
+        "ko": "매일 ~씩 운동합니다",
+        "vi": "Mỗi ngày tôi tập ~ (một lượng)"
+      },
+      {
+        "ko": "그때부터 시작했습니다",
+        "vi": "Tôi bắt đầu từ lúc đó"
+      },
+      {
+        "ko": "~ㄴ 뒤로 ~게 되었습니다",
+        "vi": "Sau khi ~ thì đã trở nên ~"
+      },
+      {
+        "ko": "~이/가 가장 중요하다고 생각합니다",
+        "vi": "Tôi nghĩ ~ là quan trọng nhất"
+      }
+    ]
+  },
+  {
+    "id": "wr-010",
+    "title": "한국과 우리 나라의 문화 차이",
+    "prompt": "다음 내용을 포함하여 '한국과 우리 나라의 문화 차이'라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "한국 문화와 고향의 문화는 무엇이 다릅니까?",
+      "그 차이 때문에 놀라거나 당황한 경험이 있습니까?",
+      "지금은 그 문화를 어떻게 생각합니까?",
+      "서로 다른 문화를 이해하려면 어떻게 해야 합니까?"
+    ],
+    "model_answer": "한국과 제 고향의 가장 큰 문화 차이는 웃어른을 대하는 방식입니다. 한국에서는 나이 차이에 따라 높임말을 쓰고 술자리에서도 고개를 돌려 마시는 예절이 있습니다. 저는 처음에 직장 상사에게 반말로 대답했다가 크게 당황한 적이 있습니다. 그때는 규칙이 너무 복잡하다고 느꼈지만, 지금은 상대를 존중하는 마음이 담긴 좋은 문화라고 생각합니다. 서로 다른 문화를 이해하려면 먼저 편견을 버리고 상대의 입장에서 생각해 보는 자세가 필요하다고 봅니다.",
+    "char_count": 188,
+    "checkpoints_vi": [
+      "Chọn MỘT điểm khác biệt (높임말·식사 예절·명절) rồi phân tích, không liệt kê nhiều",
+      "Bắt buộc có một trải nghiệm bản thân gây bất ngờ — đây là câu hỏi phụ 2",
+      "Phải thể hiện sự thay đổi nhận thức: 처음에는 ~았지만 지금은 ~라고 생각합니다",
+      "Câu 4 cần giải pháp mang tính thái độ: 편견을 버리다, 상대의 입장에서 생각하다",
+      "Không viết theo hướng văn hoá nước nào hơn kém — chỉ nói khác biệt"
+    ],
+    "tips_vi": "Đây là đề dễ mất điểm nhất về mặt nội dung vì nhiều người vô tình viết thành bài chê văn hoá Hàn. Nguyên tắc vàng: 다르다 (khác) chứ không dùng 틀리다 (sai) — lỗi này giám khảo bắt ngay. Cấu trúc trục của bài là '처음에는 ~았지만 지금은 ~게 되었습니다', cho thấy quá trình hoà nhập, đúng thứ kỳ thi quốc tịch muốn thấy. Chủ đề an toàn nhất là 높임말 (kính ngữ) hoặc 식사 예절 vì có ví dụ cụ thể, dễ kể.",
+    "useful_expressions": [
+      {
+        "ko": "가장 큰 문화 차이는 ~입니다",
+        "vi": "Khác biệt văn hoá lớn nhất là ~"
+      },
+      {
+        "ko": "웃어른께는 높임말을 씁니다",
+        "vi": "Với người lớn tuổi thì dùng kính ngữ"
+      },
+      {
+        "ko": "당황한 적이 있습니다",
+        "vi": "Tôi đã từng lúng túng"
+      },
+      {
+        "ko": "처음에는 ~았지만 지금은 ~습니다",
+        "vi": "Lúc đầu thì ~ nhưng bây giờ thì ~"
+      },
+      {
+        "ko": "상대의 입장에서 생각해야 합니다",
+        "vi": "Phải suy nghĩ từ lập trường của đối phương"
+      }
+    ]
+  },
+  {
+    "id": "wr-011",
+    "title": "환경 보호를 위해 내가 할 수 있는 일",
+    "prompt": "다음 내용을 포함하여 '환경 보호를 위해 내가 할 수 있는 일'이라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "요즘 환경 문제에는 어떤 것들이 있습니까?",
+      "○○ 씨는 환경을 위해 무엇을 실천하고 있습니까?",
+      "에너지를 절약하는 방법에는 무엇이 있습니까?",
+      "환경 보호를 위해 우리 모두가 해야 할 일은 무엇입니까?"
+    ],
+    "model_answer": "요즘에는 미세먼지와 쓰레기 문제, 그리고 기후 변화가 심각한 환경 문제로 꼽히고 있습니다. 저는 환경을 지키기 위해 장을 볼 때 장바구니를 들고 다니고 일회용 컵 대신 개인 컵을 씁니다. 또 종이와 플라스틱, 캔을 종류별로 나누어 분리배출하고 있습니다. 에너지를 아끼려면 쓰지 않는 전기 제품의 플러그를 뽑고 가까운 거리는 걸어가거나 대중교통을 이용하면 됩니다. 환경 보호는 한 사람의 힘으로는 어렵기 때문에 우리 모두가 함께 실천해야 합니다.",
+    "char_count": 187,
+    "checkpoints_vi": [
+      "Nêu 2-3 vấn đề môi trường có thật ở Hàn: 미세먼지, 쓰레기, 기후 변화",
+      "Việc bản thân làm phải là hành động hằng ngày, cụ thể (장바구니, 개인 컵, 분리배출)",
+      "Phần tiết kiệm năng lượng tách riêng khỏi phần môi trường — đó là 2 câu hỏi khác nhau",
+      "Dùng đúng từ 분리배출/분리수거 — đây là từ khoá ghi điểm của đề này",
+      "Câu kết phải mở rộng ra cộng đồng: 우리 모두가 함께 실천해야 합니다"
+    ],
+    "tips_vi": "'환경보호, 에너지 절약' là đề đã ra thật trong kỳ thi quốc tịch, và cũng trùng nội dung sách 한국사회 이해, nên rất đáng học thuộc. Bẫy lớn nhất: đề có hai vế (bảo vệ môi trường VÀ tiết kiệm năng lượng) — nhiều người chỉ viết một vế và mất 2.5 điểm. Hãy tách hẳn thành hai câu riêng. Từ vựng nên thuộc: 분리배출, 일회용품, 미세먼지, 대중교통, 플러그를 뽑다, 절약하다. Tránh nêu số liệu phần trăm vì dễ sai.",
+    "useful_expressions": [
+      {
+        "ko": "심각한 환경 문제로 꼽히고 있습니다",
+        "vi": "Được xem là vấn đề môi trường nghiêm trọng"
+      },
+      {
+        "ko": "일회용품 대신 개인 컵을 씁니다",
+        "vi": "Dùng cốc cá nhân thay cho đồ dùng một lần"
+      },
+      {
+        "ko": "종류별로 나누어 분리배출합니다",
+        "vi": "Phân loại rác theo từng loại để bỏ"
+      },
+      {
+        "ko": "플러그를 뽑아 전기를 절약합니다",
+        "vi": "Rút phích cắm để tiết kiệm điện"
+      },
+      {
+        "ko": "우리 모두가 함께 실천해야 합니다",
+        "vi": "Tất cả chúng ta phải cùng thực hiện"
+      }
+    ]
+  },
+  {
+    "id": "wr-012",
+    "title": "내가 귀화하려는 이유와 각오",
+    "prompt": "다음 내용을 포함하여 '내가 귀화하려는 이유와 각오'라는 제목으로 200자 내로 글을 쓰시오.",
+    "subquestions": [
+      "○○ 씨는 한국에 언제 와서 어떻게 지내 왔습니까?",
+      "귀화를 결심하게 된 이유는 무엇입니까?",
+      "한국 국민이 되면 어떤 의무를 지켜야 한다고 생각합니까?",
+      "앞으로 어떤 마음으로 살아가겠습니까?"
+    ],
+    "model_answer": "저는 십여 년 전에 한국에 와서 결혼하고 아이를 낳아 키우며 지금까지 성실하게 살아왔습니다. 그동안 이곳에서 일하고 세금을 내며 이웃과 정을 나누다 보니 한국이 제 삶의 터전이 되었습니다. 아이들과 같은 나라의 국민으로 살고 싶어서 귀화를 결심했습니다. 한국 국민이 되면 헌법을 존중하고 납세와 교육 등 국민의 의무를 성실히 지켜야 한다고 생각합니다. 앞으로 저는 대한민국의 한 사람으로서 책임을 다하며 이웃을 돕고 살아가겠습니다.",
+    "char_count": 183,
+    "checkpoints_vi": [
+      "Kể quá trình sống ở Hàn theo trình tự thời gian (입국 → 결혼/취업 → 현재)",
+      "Lý do nhập tịch nên gắn với gia đình/con cái — thuyết phục và an toàn nhất",
+      "Bắt buộc nhắc tới nghĩa vụ công dân: 납세·국방·교육·근로 (4대 의무)",
+      "Không viết lý do mang tính vụ lợi (복지 혜택, 비자 문제) — sẽ bị đánh giá xấu",
+      "Kết bằng quyết tâm dùng ~겠습니다, thể hiện trách nhiệm với cộng đồng"
+    ],
+    "tips_vi": "Đây là đề mang tính 'tuyên thệ', nên nội dung quan trọng hơn văn hay. Ba từ khoá phải có: 헌법 (hiến pháp), 국민의 의무 (nghĩa vụ công dân), 책임 (trách nhiệm). Hãy nhớ 4대 의무 gồm 납세·국방·교육·근로 để nhắc được ít nhất hai cái. Tuyệt đối không viết rằng nhập tịch để dễ xin visa hay để nhận trợ cấp. Bài này còn dùng lại được cho phần 면접심사, nên học thuộc sẽ lợi hai lần. Kết bằng 책임을 다하며 살아가겠습니다 là mẫu chuẩn.",
+    "useful_expressions": [
+      {
+        "ko": "한국에 온 지 ~년이 되었습니다",
+        "vi": "Tôi đến Hàn Quốc đã được ~ năm"
+      },
+      {
+        "ko": "성실하게 살아왔습니다",
+        "vi": "Tôi đã sống một cách chăm chỉ, nghiêm túc"
+      },
+      {
+        "ko": "귀화를 결심하게 되었습니다",
+        "vi": "Tôi đã quyết tâm nhập quốc tịch"
+      },
+      {
+        "ko": "국민의 의무를 성실히 지키겠습니다",
+        "vi": "Tôi sẽ thực hiện nghiêm túc nghĩa vụ công dân"
+      },
+      {
+        "ko": "책임을 다하며 살아가겠습니다",
+        "vi": "Tôi sẽ sống trọn trách nhiệm của mình"
+      }
+    ]
+  }
+]

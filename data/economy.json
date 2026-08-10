@@ -1,0 +1,857 @@
+[
+  {
+    "id": "economy-001",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "경제활동의 의미",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 경제활동으로 옳은 것은?\n\n생활에 필요한 물건을 만들거나 다른 사람에게 필요한 서비스를 제공하는 활동이다.",
+    "choices": [
+      "소비",
+      "생산",
+      "분배",
+      "저축"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 생산 (sản xuất) là hoạt động tạo ra hàng hóa hoặc cung cấp dịch vụ mà con người cần, ví dụ như trồng rau, lắp ráp ô tô hay cắt tóc cho khách. ① 소비 (tiêu dùng) là mua và sử dụng hàng hóa, dịch vụ; ③ 분배 (phân phối) là nhận thù lao vì đã tham gia vào quá trình sản xuất; ④ 저축 (tiết kiệm) chỉ là cách xử lý phần thu nhập chưa dùng đến, không nằm trong ba hoạt động kinh tế cơ bản. Sách giáo khoa Hàn Quốc luôn nêu ba hoạt động kinh tế cơ bản theo thứ tự 생산 – 분배 – 소비, đề thi rất hay hỏi phân biệt ba khái niệm này.",
+    "explain_ko": "경제활동은 생산·분배·소비로 나뉘며, 물건을 만들거나 서비스를 제공하는 것은 생산이다.",
+    "keywords": ["경제활동", "생산"]
+  },
+  {
+    "id": "economy-002",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "경제활동의 의미",
+    "points": 2,
+    "passage": null,
+    "q": "경제활동 중 '분배'에 해당하는 사례로 옳은 것은?",
+    "choices": [
+      "시장에서 과일을 사서 먹는다",
+      "공장에서 자동차를 만든다",
+      "회사에서 일한 대가로 월급을 받는다",
+      "미용실에서 손님의 머리를 손질해 준다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 분배 (phân phối) là việc nhận phần thù lao tương ứng với đóng góp của mình vào quá trình sản xuất, nên nhận lương từ công ty chính là ví dụ điển hình của 분배. ① là 소비 (tiêu dùng) vì mua rồi ăn trái cây; ② và ④ đều là 생산 (sản xuất) — làm ô tô là sản xuất hàng hóa, còn cắt tóc là sản xuất dịch vụ. Ngoài tiền lương (임금), các khoản như tiền cho thuê đất/nhà (지대), tiền lãi (이자) và lợi nhuận (이윤) cũng thuộc về 분배.",
+    "explain_ko": "분배는 생산 활동에 참여한 대가를 받는 것으로, 임금·지대·이자·이윤이 여기에 해당한다.",
+    "keywords": ["분배", "임금"]
+  },
+  {
+    "id": "economy-003",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "경제활동의 의미",
+    "points": 2,
+    "passage": null,
+    "q": "다음 글의 ( )에 들어갈 말로 옳은 것은?\n\n사람의 욕구는 끝이 없지만 그것을 채워 줄 자원은 한정되어 있다. 이처럼 자원이 사람의 욕구에 비해 부족한 것을 ( )(이)라고 하며, 이 때문에 사람들은 무엇을 먼저 할지 선택해야 한다.",
+    "choices": [
+      "희소성",
+      "형평성",
+      "생산성",
+      "공공성"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 희소성 (tính khan hiếm) nghĩa là nguồn lực luôn ít hơn so với ham muốn vô hạn của con người, và chính vì vậy con người buộc phải lựa chọn. ② 형평성 là sự công bằng trong phân chia; ③ 생산성 là hiệu quả sản xuất trên một đơn vị đầu vào; ④ 공공성 là tính chất phục vụ lợi ích chung — cả ba đều không giải thích lý do phải lựa chọn. Hãy nhớ thêm khái niệm đi kèm: 기회비용 (chi phí cơ hội) là giá trị của phương án tốt nhất mà ta đã từ bỏ khi lựa chọn.",
+    "explain_ko": "자원이 인간의 욕구에 비해 부족한 것을 희소성이라 하며, 희소성 때문에 선택의 문제가 생긴다.",
+    "keywords": ["희소성", "선택"]
+  },
+  {
+    "id": "economy-004",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "경제활동의 의미",
+    "points": 2,
+    "passage": null,
+    "q": "합리적인 선택에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "선택으로 얻는 만족과 치러야 하는 비용을 함께 따져 본다",
+      "여러 가지 대안을 서로 비교한 뒤에 결정한다",
+      "무엇인가를 선택하면 반드시 포기해야 하는 것이 생긴다",
+      "값이 가장 비싼 상품을 고르는 것이 언제나 합리적이다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Chọn món đắt nhất không phải lúc nào cũng hợp lý — lựa chọn hợp lý (합리적 선택) là lựa chọn mang lại lợi ích lớn hơn chi phí bỏ ra, chứ không phải lựa chọn tốn nhiều tiền nhất. ①②③ đều đúng: phải cân nhắc lợi ích và chi phí, phải so sánh nhiều phương án, và mọi lựa chọn đều kéo theo 기회비용 (chi phí cơ hội) tức là thứ ta phải từ bỏ. Trong đề thi, câu nào nói \"đắt nhất\" hoặc \"nhiều nhất\" thì luôn luôn là đáp án sai.",
+    "explain_ko": "합리적 선택은 비용보다 편익이 큰 선택이며, 가격이 비싸다고 해서 합리적인 것은 아니다.",
+    "keywords": ["합리적 선택", "기회비용"]
+  },
+  {
+    "id": "economy-005",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "물가와 화폐",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 지폐와 그려진 인물이 바르게 연결된 것은?",
+    "choices": [
+      "천 원권 - 신사임당",
+      "오천 원권 - 세종대왕",
+      "만 원권 - 이이",
+      "오만 원권 - 신사임당"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Tờ 50.000 won in hình 신사임당 (Shin Saimdang), nữ danh họa và nhà thư pháp thời Joseon. Các lựa chọn còn lại đều bị đảo lộn: tờ 1.000 won là 이황 (Yi Hwang, hiệu Toegye), tờ 5.000 won là 이이 (Yi I, hiệu Yulgok), tờ 10.000 won là 세종대왕 (vua Sejong). Một điểm thú vị hay được hỏi: 신사임당 chính là mẹ của 이이, nên Hàn Quốc là nước hiếm hoi có cả mẹ và con cùng xuất hiện trên tiền giấy.",
+    "explain_ko": "천 원권은 이황, 오천 원권은 이이, 만 원권은 세종대왕, 오만 원권은 신사임당이다.",
+    "keywords": ["화폐", "신사임당"]
+  },
+  {
+    "id": "economy-006",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "물가와 화폐",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 인물이 그려진 화폐로 옳은 것은?\n\n조선 시대의 대표적인 유학자로, 그의 어머니는 오만 원권에 그려진 신사임당이다.",
+    "choices": [
+      "천 원권",
+      "오천 원권",
+      "만 원권",
+      "오만 원권"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Nhân vật được mô tả là 이이 (Yi I, hiệu Yulgok) — con trai của 신사임당 — và ông được in trên tờ 5.000 won. ① tờ 1.000 won in hình 이황 (Yi Hwang), một đại nho khác thường bị nhầm với 이이; ③ tờ 10.000 won in hình 세종대왕, vị vua sáng tạo ra chữ Hangeul; ④ tờ 50.000 won chính là 신사임당, tức người mẹ chứ không phải người con. Mẹo nhớ: mẹ (50.000) có mệnh giá lớn hơn con (5.000), cùng có số 5 ở đầu.",
+    "explain_ko": "오천 원권 인물은 율곡 이이로, 신사임당의 아들이다.",
+    "keywords": ["오천 원권", "이이"]
+  },
+  {
+    "id": "economy-007",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "물가와 화폐",
+    "points": 2,
+    "passage": null,
+    "q": "현재 한국에서 사용되는 동전(주화)에 해당하지 않는 것은?",
+    "choices": [
+      "10원",
+      "50원",
+      "200원",
+      "500원"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Hàn Quốc không có đồng xu mệnh giá 200 won. Các đồng xu đang lưu thông trong đời sống hằng ngày là 10원, 50원, 100원, 500원 — tức ①②④ đều tồn tại thật. Về tiền giấy thì có 1.000원, 5.000원, 10.000원 và 50.000원; khi đi chợ hay dùng máy bán hàng tự động, bạn sẽ chủ yếu gặp đồng 100원 và 500원.",
+    "explain_ko": "한국의 유통 주화는 10원, 50원, 100원, 500원이며 200원짜리 동전은 없다.",
+    "keywords": ["주화", "동전"]
+  },
+  {
+    "id": "economy-008",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "물가와 화폐",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 경제 현상으로 옳은 것은?\n\n물건과 서비스의 가격이 전반적으로 계속 오르는 현상으로, 같은 돈으로 살 수 있는 물건의 양이 줄어든다.",
+    "choices": [
+      "인플레이션(물가 상승)",
+      "디플레이션(물가 하락)",
+      "실업",
+      "무역 흑자"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 인플레이션 (lạm phát) là hiện tượng mặt bằng giá cả tăng liên tục, khiến giá trị đồng tiền giảm và cùng một số tiền mua được ít hàng hơn. ② 디플레이션 là hiện tượng ngược lại, giá cả giảm chung; ③ 실업 (thất nghiệp) là tình trạng muốn làm việc nhưng không có việc làm; ④ 무역 흑자 là khi xuất khẩu nhiều hơn nhập khẩu. Ở Hàn Quốc, 한국은행 (Ngân hàng Trung ương Hàn Quốc) là cơ quan chịu trách nhiệm giữ ổn định vật giá.",
+    "explain_ko": "물가가 전반적으로 지속해서 오르는 현상을 인플레이션이라 하며, 화폐 가치는 떨어진다.",
+    "keywords": ["인플레이션", "물가"]
+  },
+  {
+    "id": "economy-009",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "물가와 화폐",
+    "points": 2,
+    "passage": null,
+    "q": "물가가 크게 오를 때 나타나는 현상으로 옳은 것은?",
+    "choices": [
+      "같은 돈으로 살 수 있는 물건의 양이 많아진다",
+      "저축해 둔 돈의 실질적인 가치가 올라간다",
+      "화폐의 가치가 떨어져 생활비 부담이 커진다",
+      "월급이 오르지 않아도 생활이 더 넉넉해진다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Khi vật giá tăng mạnh, giá trị thực của đồng tiền giảm xuống nên chi phí sinh hoạt của các gia đình trở nên nặng nề hơn. ① sai vì cùng số tiền sẽ mua được ÍT hàng hơn chứ không nhiều hơn; ② sai vì tiền gửi tiết kiệm bị mất giá trị thực khi giá cả leo thang; ④ sai vì lương không tăng mà giá tăng thì đời sống khó khăn hơn. Người bị thiệt nhất khi lạm phát là người có thu nhập cố định và người gửi tiết kiệm, còn người đi vay nợ thì tương đối có lợi.",
+    "explain_ko": "물가가 오르면 화폐 가치가 떨어져 실질 소득이 줄고 생활비 부담이 커진다.",
+    "keywords": ["물가 상승", "화폐 가치"]
+  },
+  {
+    "id": "economy-010",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "물가와 화폐",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 화폐를 발행하는 기관으로 옳은 것은?",
+    "choices": [
+      "기획재정부",
+      "금융감독원",
+      "한국조폐공사",
+      "한국은행"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 한국은행 (Ngân hàng Trung ương Hàn Quốc) là cơ quan duy nhất có quyền phát hành tiền won, đồng thời điều hành lãi suất để giữ ổn định vật giá. ③ 한국조폐공사 chỉ IN và ĐÚC tiền theo đơn đặt hàng, không có quyền phát hành — đây là bẫy hay gặp nhất trong câu hỏi này. ① 기획재정부 phụ trách chính sách tài chính và ngân sách quốc gia; ② 금융감독원 giám sát các công ty tài chính và bảo vệ người tiêu dùng tài chính. Trên mỗi tờ tiền Hàn Quốc đều in dòng chữ 한국은행, bạn có thể tự kiểm chứng.",
+    "explain_ko": "화폐 발행 권한은 한국은행에 있으며, 한국조폐공사는 화폐를 제조하는 기관이다.",
+    "keywords": ["한국은행", "화폐 발행"]
+  },
+  {
+    "id": "economy-011",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국 경제 성장 과정",
+    "points": 2,
+    "passage": null,
+    "q": "1950년대 한국 경제의 모습으로 옳은 것은?",
+    "choices": [
+      "반도체와 휴대전화가 주요 수출품이었다",
+      "6·25 전쟁으로 산업 시설이 크게 파괴되어 외국의 원조에 의존하였다",
+      "철강·조선 등 중화학공업이 수출을 이끌었다",
+      "자동차 생산량이 세계에서 가장 많았다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Những năm 1950, sau chiến tranh 6·25 (1950–1953), phần lớn nhà máy và cơ sở hạ tầng bị phá hủy nên Hàn Quốc phải sống dựa vào viện trợ nước ngoài, chủ yếu là bột mì, đường và bông — gọi là \"kinh tế viện trợ\" (원조경제). ① thuộc về những năm 1990–2000; ③ thuộc về thập niên 1970–1980 khi chính phủ đẩy mạnh công nghiệp nặng và hóa chất; ④ hoàn toàn không đúng với bất kỳ giai đoạn nào. Hãy nhớ trình tự phát triển: viện trợ (1950) → công nghiệp nhẹ (1960–70) → công nghiệp nặng (1970–80) → công nghệ cao (1990 trở đi).",
+    "explain_ko": "1950년대는 6·25 전쟁으로 산업 기반이 파괴되어 외국 원조에 의존하던 시기였다.",
+    "keywords": ["1950년대", "원조경제"]
+  },
+  {
+    "id": "economy-012",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국 경제 성장 과정",
+    "points": 2,
+    "passage": null,
+    "q": "1960~1970년대 한국의 주요 수출품으로 옳은 것은?",
+    "choices": [
+      "가발과 신발",
+      "반도체와 컴퓨터",
+      "자동차와 선박",
+      "휴대전화와 텔레비전"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Thập niên 1960–1970, Hàn Quốc còn thiếu vốn và kỹ thuật nhưng có nhiều lao động giá rẻ, nên tập trung vào công nghiệp nhẹ (경공업): tóc giả, giày dép, dệt may là những mặt hàng xuất khẩu chủ lực. ③ ô tô và tàu biển là sản phẩm của giai đoạn công nghiệp nặng những năm 1970–1980; ② và ④ là sản phẩm công nghệ cao của thập niên 1990–2000. Năm 1977 Hàn Quốc đạt mốc xuất khẩu 10 tỷ đô la, một biểu tượng của thời kỳ tăng trưởng thần tốc.",
+    "explain_ko": "1960~70년대에는 가발·신발·섬유 등 경공업 제품이 주요 수출품이었다.",
+    "keywords": ["경공업", "가발"]
+  },
+  {
+    "id": "economy-013",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국 경제 성장 과정",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 시기로 옳은 것은?\n\n정부가 철강, 조선, 석유화학 등 중화학공업을 집중적으로 키워 산업 구조를 바꾸어 나갔다.",
+    "choices": [
+      "1950년대",
+      "1960년대 초반",
+      "1970~1980년대",
+      "2010년대"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Từ đầu thập niên 1970, chính phủ Hàn Quốc công bố chính sách công nghiệp nặng và hóa chất (중화학공업), dồn sức phát triển thép, đóng tàu, hóa dầu, máy móc, và thành quả kéo dài tới thập niên 1980. ① những năm 1950 vẫn còn phụ thuộc viện trợ; ② đầu thập niên 1960 là thời kỳ công nghiệp nhẹ với tóc giả, dệt may; ④ những năm 2010 thì bán dẫn, ô tô và nội dung văn hóa mới là trụ cột. Các khu công nghiệp tiêu biểu ra đời trong giai đoạn này là 포항 (thép) và 울산 (đóng tàu, ô tô).",
+    "explain_ko": "1970~80년대에는 철강·조선·석유화학 등 중화학공업을 육성하여 산업 구조를 바꾸었다.",
+    "keywords": ["중화학공업", "1970년대"]
+  },
+  {
+    "id": "economy-014",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국 경제 성장 과정",
+    "points": 2,
+    "passage": null,
+    "q": "1997년 한국이 겪은 외환 위기(IMF 경제 위기)에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "외화가 부족해 국제통화기금(IMF)에 자금 지원을 요청하였다",
+      "많은 기업이 문을 닫고 실업자가 크게 늘어났다",
+      "국민들이 금 모으기 운동에 참여하였다",
+      "이 위기를 계기로 한국이 처음으로 경제 개발 5개년 계획을 시작하였다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Kế hoạch phát triển kinh tế 5 năm (경제 개발 5개년 계획) bắt đầu từ năm 1962, tức hơn 30 năm TRƯỚC khủng hoảng 1997, nên không thể do khủng hoảng mà sinh ra. ①②③ đều đúng: cuối năm 1997 Hàn Quốc cạn ngoại tệ và phải xin IMF hỗ trợ, hàng loạt doanh nghiệp phá sản khiến thất nghiệp tăng vọt, và người dân tự nguyện tham gia phong trào quyên góp vàng (금 모으기 운동) để giúp đất nước trả nợ. Hàn Quốc đã trả hết khoản vay IMF sớm hơn thời hạn vào năm 2001.",
+    "explain_ko": "경제 개발 5개년 계획은 1962년에 시작되었으므로 1997년 외환위기와는 관계가 없다.",
+    "keywords": ["IMF 외환위기", "금 모으기 운동"]
+  },
+  {
+    "id": "economy-015",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국 경제 성장 과정",
+    "points": 2,
+    "passage": null,
+    "q": "오늘날 한국 경제에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "농업이 전체 산업에서 가장 큰 비중을 차지한다",
+      "가발과 섬유가 여전히 최대 수출품이다",
+      "다른 나라와의 무역을 거의 하지 않는다",
+      "반도체·자동차와 함께 드라마·음악 같은 문화 콘텐츠 수출도 늘고 있다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Kinh tế Hàn Quốc hiện nay dựa vào các mặt hàng công nghệ cao như chất bán dẫn (반도체) và ô tô, đồng thời nội dung văn hóa như phim truyền hình, âm nhạc K-pop, trò chơi cũng trở thành ngành xuất khẩu quan trọng — hiện tượng thường được gọi là 한류 (Làn sóng Hàn Quốc). ① sai vì tỷ trọng nông nghiệp đã giảm rất mạnh, ngành dịch vụ mới chiếm phần lớn; ② sai vì tóc giả và dệt may chỉ là hàng chủ lực của thập niên 1960–70; ③ sai vì Hàn Quốc là một trong những nước phụ thuộc thương mại nhiều nhất thế giới.",
+    "explain_ko": "오늘날 한국은 반도체·자동차 등 첨단 제품과 함께 드라마·음악 등 문화 콘텐츠도 수출한다.",
+    "keywords": ["반도체", "문화 콘텐츠"]
+  },
+  {
+    "id": "economy-016",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국 경제 성장 과정",
+    "points": 2,
+    "passage": null,
+    "q": "다음 글의 ( )에 들어갈 말로 옳은 것은?\n\n한국은 6·25 전쟁 이후 매우 가난한 나라였지만 짧은 기간에 빠르게 경제를 발전시켰다. 세계 여러 나라는 이러한 한국의 경제 성장을 ( )(이)라고 부른다.",
+    "choices": [
+      "한강의 기적",
+      "새마을 운동",
+      "산업 혁명",
+      "경제 개발 5개년 계획"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 한강의 기적 (Kỳ tích sông Hàn) là cách thế giới gọi quá trình Hàn Quốc từ một nước nghèo sau chiến tranh vươn lên thành cường quốc kinh tế chỉ trong vài thập niên. ② 새마을 운동 là phong trào cải thiện đời sống nông thôn thập niên 1970, chỉ là một phần trong quá trình đó chứ không phải tên gọi chung; ③ 산업 혁명 là cuộc cách mạng công nghiệp ở châu Âu thế kỷ 18–19; ④ 경제 개발 5개년 계획 là tên một chính sách cụ thể của chính phủ, không phải biệt danh mà thế giới đặt cho. Tên gọi bắt nguồn từ sông Hàn (한강) chảy qua thủ đô Seoul.",
+    "explain_ko": "전쟁 이후 한국의 빠른 경제 성장을 세계는 '한강의 기적'이라고 부른다.",
+    "keywords": ["한강의 기적", "경제 성장"]
+  },
+  {
+    "id": "economy-017",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국의 경제 교류",
+    "points": 2,
+    "passage": null,
+    "q": "나라와 나라 사이에 무역이 이루어지는 까닭으로 가장 알맞은 것은?",
+    "choices": [
+      "모든 나라가 똑같은 물건을 똑같이 잘 만들기 때문이다",
+      "나라마다 자연환경과 기술 수준이 달라 잘 만드는 물건이 다르기 때문이다",
+      "외국 물건은 언제나 국내 물건보다 값이 싸기 때문이다",
+      "국내에서 만든 물건은 품질이 좋지 않기 때문이다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Thương mại (무역) phát sinh vì mỗi nước có điều kiện tự nhiên, tài nguyên và trình độ kỹ thuật khác nhau, nên mỗi nước sản xuất giỏi những mặt hàng khác nhau rồi trao đổi để cả hai cùng có lợi. ① sai vì nếu mọi nước giống hệt nhau thì chẳng cần trao đổi; ③ sai vì hàng nhập khẩu không phải lúc nào cũng rẻ hơn; ④ sai vì hàng trong nước không hề kém chất lượng — Hàn Quốc xuất khẩu rất nhiều hàng chất lượng cao. Hàn Quốc nghèo tài nguyên nên nhập dầu thô và nguyên liệu, rồi chế biến thành sản phẩm để xuất khẩu, đây gọi là cơ cấu \"가공무역\".",
+    "explain_ko": "나라마다 자연환경과 기술이 달라 잘 만드는 물건이 다르기 때문에 무역이 이루어진다.",
+    "keywords": ["무역", "교류"]
+  },
+  {
+    "id": "economy-018",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국의 경제 교류",
+    "points": 2,
+    "passage": null,
+    "q": "다음 글의 (㉠), (㉡)에 각각 들어갈 내용으로 옳은 것은?\n\n한국은 반도체와 자동차를 다른 나라에 팔고 있는데, 이를 (㉠)(이)라고 한다. 반대로 원유나 밀처럼 국내에서 구하기 어려운 것을 다른 나라에서 사 오는 것을 (㉡)(이)라고 한다.",
+    "choices": [
+      "㉠ 수출 - ㉡ 수입",
+      "㉠ 수입 - ㉡ 수출",
+      "㉠ 무역 - ㉡ 관세",
+      "㉠ 관세 - ㉡ 환율"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 수출 (xuất khẩu) là bán hàng hóa của nước mình ra nước ngoài, còn 수입 (nhập khẩu) là mua hàng từ nước ngoài về, nên ㉠ là 수출 và ㉡ là 수입. ② đảo ngược hoàn toàn hai khái niệm. ③ và ④ dùng sai từ: 무역 là tên gọi chung của cả xuất và nhập khẩu, 관세 là thuế đánh vào hàng nhập khẩu, còn 환율 là tỷ giá giữa đồng won và ngoại tệ. Khi xuất khẩu nhiều hơn nhập khẩu thì gọi là 무역 흑자 (thặng dư thương mại), ngược lại là 무역 적자.",
+    "explain_ko": "우리 물건을 외국에 파는 것은 수출, 외국 물건을 사 오는 것은 수입이다.",
+    "keywords": ["수출", "수입"]
+  },
+  {
+    "id": "economy-019",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국의 경제 교류",
+    "points": 2,
+    "passage": null,
+    "q": "자유무역협정(FTA)에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "나라 사이의 관세를 낮추거나 없애 무역을 더 자유롭게 하는 협정이다",
+      "외국에서 들어오는 물건에 세금을 더 많이 매기기로 하는 약속이다",
+      "외국인 근로자의 입국을 금지하기로 하는 협정이다",
+      "나라 사이의 환율을 똑같이 정해 두는 협정이다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. FTA (자유무역협정, Hiệp định thương mại tự do) là thỏa thuận giữa các nước nhằm cắt giảm hoặc xóa bỏ thuế quan (관세) và rào cản, để hàng hóa lưu thông tự do hơn. ② nói ngược lại, vì tăng thuế nhập khẩu là bảo hộ chứ không phải tự do hóa; ③ hoàn toàn không liên quan, FTA điều chỉnh hàng hóa và dịch vụ chứ không cấm nhập cảnh lao động; ④ sai vì tỷ giá do thị trường và chính sách tiền tệ quyết định, không phải nội dung của FTA. Nhờ FTA, người tiêu dùng Hàn Quốc mua được thịt bò, trái cây, rượu vang nhập khẩu rẻ hơn, nhưng nông dân trong nước lại chịu áp lực cạnh tranh.",
+    "explain_ko": "FTA는 나라 사이의 관세와 무역 장벽을 낮추어 무역을 자유롭게 하는 협정이다.",
+    "keywords": ["FTA", "관세"]
+  },
+  {
+    "id": "economy-020",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국의 경제 교류",
+    "points": 2,
+    "passage": null,
+    "q": "한국이 가장 먼저 자유무역협정(FTA)을 맺은 나라로 옳은 것은?",
+    "choices": [
+      "미국",
+      "중국",
+      "일본",
+      "칠레"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. FTA đầu tiên của Hàn Quốc là với 칠레 (Chile), có hiệu lực từ tháng 4 năm 2004, mở đường cho Hàn Quốc tiến vào thị trường Nam Mỹ. ① FTA Hàn – Mỹ (한미 FTA) được ký sau đó và có hiệu lực từ năm 2012, nhiều người nhầm đây là hiệp định đầu tiên vì nó nổi tiếng hơn; ② FTA Hàn – Trung có hiệu lực cuối năm 2015; ③ Hàn Quốc và Nhật Bản đến nay vẫn chưa có FTA song phương riêng. Hiện Hàn Quốc đã ký FTA với rất nhiều đối tác, trong đó có cả ASEAN và Việt Nam.",
+    "explain_ko": "한국이 최초로 체결한 FTA 상대국은 칠레이며, 2004년 4월에 발효되었다.",
+    "keywords": ["FTA", "칠레"]
+  },
+  {
+    "id": "economy-021",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국의 경제 교류",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 무역에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "한국은 식량과 에너지를 대부분 자급자족하고 있다",
+      "반도체는 한국의 대표적인 수출품 가운데 하나이다",
+      "원유와 같은 지하자원은 대부분 수입에 의존한다",
+      "무역 규모가 커서 세계 경제 상황의 영향을 크게 받는다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Hàn Quốc KHÔNG tự cung tự cấp được lương thực và năng lượng — nước này phải nhập khẩu phần lớn dầu thô, khí đốt, lúa mì và ngô. ②③④ đều đúng: chất bán dẫn là mặt hàng xuất khẩu tiêu biểu, tài nguyên khoáng sản gần như hoàn toàn nhập khẩu, và vì tỷ trọng thương mại trong nền kinh tế rất lớn nên Hàn Quốc rất nhạy cảm với biến động kinh tế thế giới. Chính vì phụ thuộc nhập khẩu năng lượng nên khi giá dầu quốc tế tăng, vật giá trong nước Hàn Quốc cũng tăng theo rất nhanh.",
+    "explain_ko": "한국은 원유·곡물 등 식량과 에너지의 상당 부분을 수입에 의존한다.",
+    "keywords": ["무역", "수입 의존"]
+  },
+  {
+    "id": "economy-022",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "장보기",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 전통시장에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "값을 깎거나 덤을 받는 등 사람 사이의 정을 느낄 수 있다",
+      "모든 점포가 24시간 문을 열고 연중무휴로 운영된다",
+      "신선한 농수산물과 지역 특산물을 살 수 있다",
+      "온누리상품권을 사용할 수 있는 곳이 많다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Chợ truyền thống (전통시장) không mở 24 giờ và không hoạt động quanh năm không nghỉ — phần lớn sạp hàng đóng cửa vào buổi tối, nhiều chợ còn theo lịch họp chợ 5 ngày một lần (오일장). ①③④ đều đúng: ở chợ có thể mặc cả và được cho thêm hàng (덤), có nhiều nông thủy sản tươi và đặc sản địa phương, và nhiều sạp nhận 온누리상품권 — loại phiếu mua hàng do nhà nước phát hành để hỗ trợ tiểu thương chợ truyền thống. Ngược lại, cửa hàng tiện lợi (편의점) mới là nơi thường mở 24 giờ.",
+    "explain_ko": "전통시장은 대부분 저녁이면 문을 닫고 오일장처럼 정해진 날에 열리기도 하므로 24시간 연중무휴가 아니다.",
+    "keywords": ["전통시장", "온누리상품권"]
+  },
+  {
+    "id": "economy-023",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "장보기",
+    "points": 2,
+    "passage": null,
+    "q": "원산지 표시 제도에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "상품의 가격을 정부가 대신 정해 주는 제도이다",
+      "상품의 무게와 크기를 반드시 표시하도록 하는 제도이다",
+      "농수산물과 음식점 음식의 재료가 어느 나라·어느 지역에서 왔는지 알리는 제도이다",
+      "상품을 만든 회사의 이름을 감추도록 하는 제도이다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 원산지 표시 (ghi xuất xứ) là chế độ bắt buộc ghi rõ nông thủy sản hoặc nguyên liệu món ăn trong nhà hàng đến từ nước nào, vùng nào, giúp người tiêu dùng chọn lựa dựa trên thông tin chính xác. ① sai vì giá cả do người bán quyết định theo thị trường; ② sai vì đó là chế độ ghi khối lượng, khác hoàn toàn; ④ sai vì mục đích của chế độ là công khai thông tin chứ không phải che giấu. Khi đi ăn ở Hàn Quốc, bạn sẽ thấy bảng ghi ví dụ \"쇠고기: 국내산\" hoặc \"김치: 중국산\" — ghi sai xuất xứ là hành vi bị pháp luật xử phạt.",
+    "explain_ko": "원산지 표시제는 농수산물과 음식점 음식 재료의 생산지를 소비자에게 알리는 제도이다.",
+    "keywords": ["원산지 표시", "장보기"]
+  },
+  {
+    "id": "economy-024",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "장보기",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 것으로 옳은 것은?\n\n표시된 보관 방법을 지켰을 때 식품을 먹어도 안전한 마지막 날짜를 뜻하며, 2023년부터 식품에 표시하도록 바뀌었다.",
+    "choices": [
+      "유통기한",
+      "소비기한",
+      "제조일자",
+      "원산지"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 소비기한 (hạn sử dụng an toàn) là ngày cuối cùng còn có thể ăn được nếu bảo quản đúng cách, và Hàn Quốc đã chuyển từ ghi 유통기한 sang ghi 소비기한 kể từ ngày 1 tháng 1 năm 2023. ① 유통기한 là hạn LƯU THÔNG, tức hạn chót người bán được phép bán, nên thường ngắn hơn 소비기한; ③ 제조일자 chỉ là ngày sản xuất; ④ 원산지 là nơi xuất xứ, không liên quan đến thời hạn. Vì 소비기한 dài hơn 유통기한, chế độ mới giúp giảm lượng thực phẩm bị vứt bỏ một cách lãng phí.",
+    "explain_ko": "소비기한은 보관 방법을 지켰을 때 먹어도 안전한 기한으로, 2023년부터 유통기한 대신 표시한다.",
+    "keywords": ["소비기한", "유통기한"]
+  },
+  {
+    "id": "economy-025",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "장보기",
+    "points": 2,
+    "passage": null,
+    "q": "온라인 쇼핑의 특징으로 옳지 않은 것은?",
+    "choices": [
+      "물건을 직접 만져 보고 확인한 뒤에 살 수 있다",
+      "시간과 장소에 관계없이 물건을 살 수 있다",
+      "여러 판매처의 가격을 쉽게 비교할 수 있다",
+      "물건을 받기까지 배송 시간이 걸린다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Nhược điểm lớn nhất của mua sắm trực tuyến là KHÔNG thể sờ, thử hay kiểm tra trực tiếp món hàng trước khi mua — đó là ưu điểm của chợ và siêu thị. ②③④ đều là đặc điểm đúng: mua được bất cứ lúc nào ở bất cứ đâu, dễ so sánh giá giữa nhiều người bán, và phải chờ giao hàng. Chính vì không xem được hàng thật nên luật Hàn Quốc cho phép người mua trực tuyến rút lại đơn hàng (청약철회) trong vòng 7 ngày kể từ khi nhận hàng, ngay cả khi chỉ đơn giản là đổi ý.",
+    "explain_ko": "온라인 쇼핑은 물건을 직접 확인하고 살 수 없다는 점이 단점이다.",
+    "keywords": ["온라인 쇼핑", "장보기"]
+  },
+  {
+    "id": "economy-026",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "장보기",
+    "points": 2,
+    "passage": null,
+    "q": "합리적으로 장을 보는 방법으로 알맞지 않은 것은?",
+    "choices": [
+      "할인한다고 하면 필요하지 않은 물건도 많이 사 둔다",
+      "사야 할 물건을 미리 적어 가서 계획대로 산다",
+      "여러 가게의 가격과 품질을 비교해 본다",
+      "식품을 살 때 소비기한과 원산지를 확인한다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Mua nhiều đồ không cần chỉ vì đang giảm giá là 충동구매 (mua sắm bốc đồng), dẫn đến lãng phí tiền và vứt bỏ đồ hỏng — đây không phải tiêu dùng hợp lý. ②③④ đều là thói quen tốt: lập danh sách trước khi đi chợ, so sánh giá và chất lượng ở nhiều nơi, kiểm tra 소비기한 và 원산지 khi mua thực phẩm. Tiêu dùng hợp lý (합리적 소비) nghĩa là chi tiêu trong khả năng thu nhập và đạt sự hài lòng lớn nhất, chứ không phải mua càng nhiều càng tốt.",
+    "explain_ko": "할인한다고 필요 없는 물건까지 사 두는 것은 충동구매로, 합리적 소비가 아니다.",
+    "keywords": ["합리적 소비", "충동구매"]
+  },
+  {
+    "id": "economy-027",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "소비자의 권리와 책임",
+    "points": 2,
+    "passage": null,
+    "q": "소비자가 피해를 입었을 때 상담을 받을 수 있는 전국 대표 전화번호로 옳은 것은?",
+    "choices": [
+      "1330",
+      "1345",
+      "1350",
+      "1372"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 1372 là số điện thoại đại diện toàn quốc của 소비자상담센터 (Trung tâm tư vấn người tiêu dùng), kết nối 한국소비자원, các đoàn thể người tiêu dùng và chính quyền địa phương. ① 1330 là tổng đài thông tin du lịch Hàn Quốc; ② 1345 là Trung tâm tư vấn tổng hợp cho người nước ngoài của Cục Xuất nhập cảnh; ③ 1350 là tổng đài tư vấn của Bộ Lao động và Việc làm về vấn đề lao động. Bốn số này rất hay bị trộn lẫn trong đề thi, nên hãy học thuộc theo cặp: 1372 = tiêu dùng, 1345 = người nước ngoài, 1350 = lao động, 1330 = du lịch.",
+    "explain_ko": "소비자 피해 상담 대표 번호는 1372(소비자상담센터)이다.",
+    "keywords": ["1372", "소비자상담센터"]
+  },
+  {
+    "id": "economy-028",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "소비자의 권리와 책임",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 기관으로 옳은 것은?\n\n소비자의 권익을 보호하기 위해 설립된 기관으로, 소비자 피해 구제와 분쟁 조정 업무를 담당한다.",
+    "choices": [
+      "국민연금공단",
+      "한국소비자원",
+      "근로복지공단",
+      "한국고용정보원"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 한국소비자원 (Cơ quan Người tiêu dùng Hàn Quốc) là tổ chức chuyên bảo vệ quyền lợi người tiêu dùng, tiếp nhận khiếu nại, cứu trợ thiệt hại và hòa giải tranh chấp giữa người mua và doanh nghiệp. ① 국민연금공단 quản lý lương hưu quốc dân; ③ 근로복지공단 phụ trách bảo hiểm tai nạn lao động và phúc lợi cho người lao động; ④ 한국고용정보원 cung cấp thông tin việc làm và nghề nghiệp. Khi bị thiệt hại khi mua hàng, trước tiên hãy gọi 1372, nếu không giải quyết được thì có thể xin cứu trợ tại 한국소비자원.",
+    "explain_ko": "한국소비자원은 소비자 피해 구제와 분쟁 조정을 담당하는 소비자 보호 전문 기관이다.",
+    "keywords": ["한국소비자원", "피해 구제"]
+  },
+  {
+    "id": "economy-029",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "소비자의 권리와 책임",
+    "points": 2,
+    "passage": null,
+    "q": "인터넷 쇼핑몰에서 물건을 산 소비자의 청약철회에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "물건을 받은 뒤에는 어떤 경우에도 청약철회를 할 수 없다",
+      "청약철회를 하려면 반드시 판매자를 직접 찾아가야 한다",
+      "광고와 전혀 다른 물건을 받았더라도 청약철회를 할 수 없다",
+      "단순히 마음이 바뀐 경우에도 물건을 받은 날부터 7일 이내에 청약철회를 할 수 있다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Theo luật bảo vệ người tiêu dùng trong thương mại điện tử, người mua hàng online có thể rút lại đơn hàng (청약철회) trong vòng 7 ngày kể từ ngày nhận hàng, kể cả khi chỉ đơn giản là đổi ý. ① sai vì quyền này tồn tại chính là để dùng SAU khi nhận hàng; ② sai vì có thể thông báo qua điện thoại, tin nhắn hoặc chức năng trên trang web, không cần đến tận nơi; ③ sai vì nếu hàng khác với quảng cáo thì thời hạn còn được kéo dài tới 3 tháng kể từ khi nhận hàng. Lưu ý: nếu bạn tự làm hỏng, dùng hết sản phẩm hoặc đặt hàng làm riêng theo yêu cầu thì có thể bị hạn chế quyền rút đơn.",
+    "explain_ko": "전자상거래에서는 단순 변심이어도 물건을 받은 날부터 7일 이내에 청약철회를 할 수 있다.",
+    "keywords": ["청약철회", "전자상거래"]
+  },
+  {
+    "id": "economy-030",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "소비자의 권리와 책임",
+    "points": 2,
+    "passage": null,
+    "q": "소비자의 '권리'가 아니라 '책임'에 해당하는 것으로 옳은 것은?",
+    "choices": [
+      "안전할 권리를 요구하는 것",
+      "피해를 보상받을 권리를 주장하는 것",
+      "물건을 사기 전에 정보를 꼼꼼히 확인하고 계약 내용을 지키는 것",
+      "필요한 정보를 제공받을 권리를 요구하는 것"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Kiểm tra kỹ thông tin trước khi mua và giữ đúng nội dung hợp đồng đã ký là TRÁCH NHIỆM (책임) của người tiêu dùng, không phải quyền lợi. ①②④ đều nằm trong nhóm QUYỀN (권리) của người tiêu dùng: quyền được an toàn, quyền được bồi thường thiệt hại, quyền được cung cấp thông tin. Người tiêu dùng còn có trách nhiệm tiêu dùng có ý thức với môi trường và không đưa ra khiếu nại quá đáng, vô lý (블랙컨슈머 là từ chỉ những người lạm dụng khiếu nại).",
+    "explain_ko": "구매 전 정보 확인과 계약 이행은 소비자의 책임이며, 안전·보상·정보 제공은 소비자의 권리이다.",
+    "keywords": ["소비자 책임", "소비자 권리"]
+  },
+  {
+    "id": "economy-031",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "소비자의 권리와 책임",
+    "points": 2,
+    "passage": null,
+    "q": "산 물건을 교환하거나 환불받으려고 할 때 가장 필요한 것으로 옳은 것은?",
+    "choices": [
+      "명함",
+      "영수증",
+      "주민등록등본",
+      "가족관계증명서"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 영수증 (hóa đơn) là bằng chứng cho biết bạn đã mua món hàng đó, ở đâu, giá bao nhiêu và vào ngày nào, nên là thứ cần thiết nhất khi muốn đổi hàng hay hoàn tiền. ① 명함 chỉ là danh thiếp giới thiệu bản thân; ③ 주민등록등본 là giấy chứng nhận cư trú dùng cho thủ tục hành chính; ④ 가족관계증명서 là giấy chứng nhận quan hệ gia đình — cả ba đều không chứng minh được giao dịch mua bán. Vì vậy hãy giữ hóa đơn giấy, và với mua hàng online thì lưu lại lịch sử đơn hàng trong ứng dụng cũng có tác dụng tương tự.",
+    "explain_ko": "교환·환불을 요구할 때는 구매 사실을 증명하는 영수증이 가장 필요하다.",
+    "keywords": ["영수증", "환불"]
+  },
+  {
+    "id": "economy-032",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "금융 기관의 종류",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 금융 기관으로 옳은 것은?\n\n고객이 주식이나 채권을 사고팔 수 있도록 도와주는 금융 기관이다.",
+    "choices": [
+      "은행",
+      "보험회사",
+      "증권회사",
+      "우체국"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 증권회사 (công ty chứng khoán) là nơi môi giới việc mua bán cổ phiếu (주식) và trái phiếu (채권) cho khách hàng. ① 은행 chủ yếu nhận tiền gửi và cho vay; ② 보험회사 bán các sản phẩm bảo hiểm để phòng ngừa rủi ro; ④ 우체국 ngoài chuyển thư và bưu kiện cũng có dịch vụ tiết kiệm và bảo hiểm, nhưng không môi giới chứng khoán. Đầu tư chứng khoán có thể sinh lời cao nhưng cũng có thể mất vốn, khác với tiền gửi ngân hàng vốn được bảo vệ theo chế độ 예금자보호제도.",
+    "explain_ko": "증권회사는 고객의 주식·채권 매매를 중개하는 금융 기관이다.",
+    "keywords": ["증권회사", "주식"]
+  },
+  {
+    "id": "economy-033",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "금융 기관의 종류",
+    "points": 2,
+    "passage": null,
+    "q": "보험회사가 하는 일로 가장 알맞은 것은?",
+    "choices": [
+      "화폐를 발행하고 물가를 관리한다",
+      "주식과 채권의 매매를 중개한다",
+      "기업의 회계 장부를 검사한다",
+      "미래의 사고나 질병에 대비해 보험료를 모으고, 사고가 나면 보험금을 지급한다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 보험회사 (công ty bảo hiểm) thu 보험료 (phí bảo hiểm) từ nhiều người để chuẩn bị cho rủi ro tương lai, và khi có tai nạn hay bệnh tật xảy ra thì chi trả 보험금 (tiền bảo hiểm). ① là việc của 한국은행; ② là việc của 증권회사; ③ là việc của kiểm toán viên hoặc cơ quan giám sát, không phải công ty bảo hiểm. Hãy phân biệt hai từ dễ nhầm: 보험료 là tiền mình ĐÓNG hằng tháng, còn 보험금 là tiền mình NHẬN khi xảy ra sự cố.",
+    "explain_ko": "보험회사는 보험료를 모아 사고나 질병이 발생했을 때 보험금을 지급하는 금융 기관이다.",
+    "keywords": ["보험회사", "보험료"]
+  },
+  {
+    "id": "economy-034",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "금융 기관의 종류",
+    "points": 2,
+    "passage": null,
+    "q": "금융 기관과 하는 일이 바르게 연결되지 않은 것은?",
+    "choices": [
+      "은행 - 예금과 대출",
+      "보험회사 - 보험 상품 판매",
+      "저축은행 - 화폐 발행",
+      "증권회사 - 주식 거래 중개"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 저축은행 (ngân hàng tiết kiệm) là tổ chức tài chính nhận tiền gửi và cho vay giống ngân hàng thường, nhưng KHÔNG có quyền phát hành tiền — quyền đó chỉ thuộc về 한국은행. ①②④ đều là những cặp ghép đúng. Đặc điểm của 저축은행 là thường trả lãi tiền gửi cao hơn ngân hàng lớn nhưng lãi vay cũng cao hơn và rủi ro lớn hơn, nên cần cân nhắc kỹ trước khi sử dụng.",
+    "explain_ko": "화폐 발행은 한국은행만 할 수 있으며, 저축은행은 예금과 대출 업무를 하는 금융 기관이다.",
+    "keywords": ["저축은행", "금융 기관"]
+  },
+  {
+    "id": "economy-035",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "금융 거래",
+    "points": 2,
+    "passage": null,
+    "q": "예금과 적금에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "적금은 정해진 기간 동안 매달 일정한 돈을 나누어 넣는 상품이다",
+      "예금과 적금에는 이자가 전혀 붙지 않는다",
+      "적금은 목돈을 한 번에 맡겨 두는 상품이다",
+      "예금은 은행이 아닌 곳에서만 가입할 수 있다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 적금 là hình thức mỗi tháng gửi vào một khoản tiền cố định trong thời hạn đã định, phù hợp với người muốn tích cóp dần từ thu nhập hằng tháng. ③ mô tả sai vì gửi một cục tiền lớn ngay từ đầu mới là 예금 (cụ thể là 정기예금); ② sai vì cả hai đều được trả lãi (이자); ④ sai vì 예금 chính là sản phẩm cơ bản của ngân hàng. Mẹo nhớ đơn giản: 적금 = tích góp dần từng tháng, 예금 = gửi cả cục một lần.",
+    "explain_ko": "적금은 매달 일정 금액을 나누어 넣는 상품이고, 예금은 목돈을 한 번에 맡기는 상품이다.",
+    "keywords": ["예금", "적금"]
+  },
+  {
+    "id": "economy-036",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "금융 거래",
+    "points": 2,
+    "passage": null,
+    "q": "체크카드와 신용카드에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "체크카드는 결제한 돈을 다음 달에 한꺼번에 낸다",
+      "체크카드는 연결된 통장의 잔액 범위 안에서만 쓸 수 있다",
+      "신용카드는 통장에 잔액이 없으면 사용할 수 없다",
+      "신용카드는 신청하면 누구나 바로 발급받을 수 있다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 체크카드 (thẻ ghi nợ) trừ tiền ngay lập tức từ tài khoản đã liên kết, nên chỉ dùng được trong phạm vi số dư còn lại. ① mô tả sai vì trả gộp vào tháng sau là đặc điểm của 신용카드 (thẻ tín dụng); ③ sai vì thẻ tín dụng vẫn dùng được dù tài khoản trống, do ngân hàng ứng tiền trước; ④ sai vì thẻ tín dụng cần thẩm định tín dụng, thu nhập và việc làm nên không phải ai xin cũng được cấp. Dùng thẻ tín dụng quá mức dễ dẫn tới nợ nần và làm hỏng 신용등급 (điểm tín dụng), vì vậy người mới bắt đầu nên dùng 체크카드 sẽ an toàn hơn.",
+    "explain_ko": "체크카드는 통장 잔액 범위에서 즉시 결제되고, 신용카드는 다음 달에 한꺼번에 결제된다.",
+    "keywords": ["체크카드", "신용카드"]
+  },
+  {
+    "id": "economy-037",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "금융 거래",
+    "points": 2,
+    "passage": null,
+    "q": "외국인이 한국의 은행에서 통장을 새로 만들 때 반드시 준비해야 하는 것으로 가장 알맞은 것은?",
+    "choices": [
+      "외국인등록증",
+      "예방접종 증명서",
+      "학교 졸업장",
+      "항공권"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Khi mở tài khoản ngân hàng ở Hàn Quốc, người nước ngoài phải xuất trình giấy tờ tùy thân xác nhận danh tính, và giấy tờ tiêu biểu nhất là 외국인등록증 (thẻ đăng ký người nước ngoài). ② giấy chứng nhận tiêm chủng, ③ bằng tốt nghiệp và ④ vé máy bay đều không phải giấy tờ chứng minh nhân thân dùng cho giao dịch tài chính. Ngoài ra, để phòng chống rửa tiền và lừa đảo, ngân hàng có thể hỏi thêm mục đích mở tài khoản và yêu cầu giấy tờ chứng minh như hợp đồng lao động hay giấy tờ nơi ở.",
+    "explain_ko": "외국인이 통장을 개설할 때는 외국인등록증 등 신분을 확인할 수 있는 서류가 필요하다.",
+    "keywords": ["통장 개설", "외국인등록증"]
+  },
+  {
+    "id": "economy-038",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "금융 거래",
+    "points": 2,
+    "passage": null,
+    "q": "다음 글의 ( )에 공통으로 들어갈 말로 옳은 것은?\n\n돈을 은행에 맡기면 은행은 그 대가로 ( )을/를 준다. 반대로 은행에서 돈을 빌리면 빌린 사람이 은행에 ( )을/를 내야 한다.",
+    "choices": [
+      "세금",
+      "이자",
+      "보험금",
+      "수수료"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 이자 (tiền lãi) là khoản trả cho việc sử dụng tiền của người khác: gửi tiền thì được NHẬN lãi, còn vay tiền thì phải TRẢ lãi. ① 세금 là tiền nộp cho nhà nước; ③ 보험금 là tiền công ty bảo hiểm chi trả khi có sự cố; ④ 수수료 là phí dịch vụ như phí chuyển khoản hay phí rút tiền ngoài giờ, chỉ là khoản nhỏ chứ không phải giá của việc dùng tiền. Tỷ lệ lãi gọi là 금리 hay 이자율, và lãi vay luôn cao hơn lãi tiền gửi — đó chính là nguồn lợi nhuận của ngân hàng.",
+    "explain_ko": "이자는 돈을 빌리거나 맡긴 대가로 주고받는 돈이다.",
+    "keywords": ["이자", "금융 거래"]
+  },
+  {
+    "id": "economy-039",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "금융 거래",
+    "points": 2,
+    "passage": null,
+    "q": "보이스피싱을 예방하는 방법으로 옳지 않은 것은?",
+    "choices": [
+      "공공기관이라며 돈을 보내라고 하면 전화를 끊고 직접 확인한다",
+      "문자로 온 인터넷 주소(링크)를 함부로 누르지 않는다",
+      "검찰이라고 소개하면 알려 주는 계좌로 서둘러 돈을 보낸다",
+      "통장 비밀번호와 인증번호를 전화로 알려 주지 않는다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Chuyển tiền vội vàng vào tài khoản mà đối phương chỉ định chính là cách mắc bẫy 보이스피싱 (lừa đảo qua điện thoại) — cơ quan công quyền như viện kiểm sát hay cảnh sát TUYỆT ĐỐI không bao giờ yêu cầu người dân chuyển tiền vào \"tài khoản an toàn\". ①②④ đều là cách phòng tránh đúng: cúp máy rồi tự gọi lại số chính thức để kiểm chứng, không bấm vào đường link lạ trong tin nhắn, và không bao giờ đọc mật khẩu hay mã xác thực qua điện thoại. Kẻ lừa đảo thường tạo áp lực bằng cách hối thúc và dọa nạt, nên hễ thấy bị giục gấp thì phải nghi ngờ ngay.",
+    "explain_ko": "검찰·경찰 등 공공기관은 절대 개인에게 돈을 특정 계좌로 보내라고 요구하지 않는다.",
+    "keywords": ["보이스피싱", "금융 사기"]
+  },
+  {
+    "id": "economy-040",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "금융 거래",
+    "points": 2,
+    "passage": null,
+    "q": "보이스피싱 피해를 당했을 때 신고하여 계좌 지급정지를 요청할 수 있는 곳으로 옳지 않은 것은?",
+    "choices": [
+      "경찰(112)",
+      "금융감독원(1332)",
+      "돈을 보낸 은행의 고객센터",
+      "택배 회사의 고객센터"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Tổng đài công ty chuyển phát không liên quan gì đến giao dịch tài chính nên không thể yêu cầu phong tỏa tài khoản. ①②③ đều là nơi tiếp nhận đúng: cảnh sát qua số 112, 금융감독원 (Cơ quan Giám sát Tài chính) qua số 1332, và tổng đài của chính ngân hàng mà bạn đã chuyển tiền đi. Điều quan trọng nhất khi bị lừa là TỐC ĐỘ — báo càng sớm thì khả năng chặn được tiền trong tài khoản kẻ lừa đảo (지급정지) và lấy lại tiền càng cao.",
+    "explain_ko": "보이스피싱 피해는 경찰(112), 금융감독원(1332), 송금한 은행에 즉시 신고해 지급정지를 요청해야 한다.",
+    "keywords": ["보이스피싱", "지급정지"]
+  },
+  {
+    "id": "economy-041",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국의 일자리",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 것으로 옳은 것은?\n\n고용노동부가 운영하는 국가 취업 정보 사이트로, 일자리 정보와 직업 정보를 무료로 제공한다.",
+    "choices": [
+      "정부24",
+      "홈택스",
+      "워크넷",
+      "하이코리아"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 워크넷 là cổng thông tin việc làm quốc gia do 고용노동부 (Bộ Lao động và Việc làm) cùng 한국고용정보원 vận hành, cung cấp miễn phí tin tuyển dụng, thông tin nghề nghiệp và trắc nghiệm định hướng nghề. ① 정부24 là cổng dịch vụ hành chính công để xin các loại giấy tờ; ② 홈택스 là hệ thống thuế điện tử của cơ quan thuế; ④ 하이코리아 là trang thông tin về xuất nhập cảnh và cư trú dành cho người nước ngoài. Ngoài trang web, bạn cũng có thể đến trực tiếp 고용센터 ở địa phương để được tư vấn tìm việc.",
+    "explain_ko": "워크넷은 고용노동부가 운영하는 국가 취업 정보 사이트이다.",
+    "keywords": ["워크넷", "취업 정보"]
+  },
+  {
+    "id": "economy-042",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국의 일자리",
+    "points": 2,
+    "passage": null,
+    "q": "근로자의 고용과 근로 조건에 관한 일을 맡아보는 정부 부처로 옳은 것은?",
+    "choices": [
+      "법무부",
+      "고용노동부",
+      "보건복지부",
+      "행정안전부"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 고용노동부 (Bộ Lao động và Việc làm) phụ trách chính sách việc làm, tiền lương, thời giờ làm việc, an toàn lao động và bảo hiểm việc làm. ① 법무부 quản lý pháp luật, xuất nhập cảnh và quốc tịch — đây là nơi tổ chức chương trình KIIP mà bạn đang học; ③ 보건복지부 lo y tế và phúc lợi xã hội; ④ 행정안전부 phụ trách hành chính địa phương và an toàn. Khi bị nợ lương hay bị đối xử bất công tại nơi làm việc, hãy khiếu nại tới 고용노동부 hoặc 고용노동청 khu vực.",
+    "explain_ko": "고용노동부는 고용 정책과 임금·근로 시간 등 근로 조건에 관한 일을 담당하는 부처이다.",
+    "keywords": ["고용노동부", "근로 조건"]
+  },
+  {
+    "id": "economy-043",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "한국의 일자리",
+    "points": 2,
+    "passage": null,
+    "q": "오늘날 한국의 일자리 변화에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "농업에 종사하는 사람의 수가 계속 늘어나고 있다",
+      "서비스업 일자리는 거의 사라지고 있다",
+      "농업 종사자는 줄어들고 서비스업 종사자는 늘어났다",
+      "대부분의 사람이 광업에 종사하고 있다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Cùng với quá trình công nghiệp hóa và đô thị hóa, số người làm nông nghiệp ở Hàn Quốc giảm mạnh, trong khi lao động trong ngành dịch vụ (서비스업) như bán lẻ, y tế, giáo dục, tài chính, du lịch tăng lên và nay chiếm tỷ trọng lớn nhất. ① và ② nói ngược lại thực tế; ④ sai vì ngành khai khoáng ở Hàn Quốc rất nhỏ, hầu hết mỏ than đã đóng cửa. Gần đây, do 고령화 (già hóa dân số) nên việc làm trong lĩnh vực chăm sóc người cao tuổi và y tế đang tăng nhanh nhất.",
+    "explain_ko": "산업화·도시화로 농업 종사자는 줄고 서비스업 종사자는 크게 늘었다.",
+    "keywords": ["일자리 변화", "서비스업"]
+  },
+  {
+    "id": "economy-044",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "취업 준비",
+    "points": 2,
+    "passage": null,
+    "q": "근로계약서에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "임금, 근로 시간, 휴일 등의 내용이 들어간다",
+      "사용자는 근로자에게 근로계약서를 서면으로 주어야 한다",
+      "내용을 확인하고 서명한 뒤 한 부를 받아 보관하는 것이 좋다",
+      "말로만 약속하면 되므로 문서로 작성할 필요는 없다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Hợp đồng lao động (근로계약서) BẮT BUỘC phải lập thành văn bản — chỉ hứa miệng là sai luật và khiến người lao động không có bằng chứng khi xảy ra tranh chấp. ①②③ đều đúng: hợp đồng phải ghi rõ tiền lương, thời giờ làm việc, ngày nghỉ; người sử dụng lao động có nghĩa vụ giao văn bản cho người lao động; và người lao động nên đọc kỹ, ký rồi giữ lại một bản. Với lao động nước ngoài, hãy chắc chắn hiểu rõ nội dung trước khi ký, và nếu cần thì nhờ phiên dịch hoặc hỏi 고용노동부 để được tư vấn.",
+    "explain_ko": "근로계약서는 반드시 서면으로 작성해 근로자에게 교부해야 하며, 구두 약속만으로는 안 된다.",
+    "keywords": ["근로계약서", "취업"]
+  },
+  {
+    "id": "economy-045",
+    "domain": "economy",
+    "level": "basic",
+    "topic": "취업 준비",
+    "points": 2,
+    "passage": null,
+    "q": "취업을 준비할 때의 태도로 알맞지 않은 것은?",
+    "choices": [
+      "이력서에 학력과 경력을 사실대로 쓴다",
+      "자기소개서에 자신의 장점과 지원 동기를 쓴다",
+      "이력서에 경력을 실제보다 부풀려 쓴다",
+      "면접에서는 단정한 옷차림과 바른 태도를 갖춘다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Khai khống kinh nghiệm trong 이력서 (sơ yếu lý lịch) là hành vi gian dối; nếu bị phát hiện, ứng viên có thể bị loại hoặc thậm chí bị hủy tuyển dụng sau khi đã vào làm. ①②④ đều là thái độ đúng khi chuẩn bị xin việc: ghi trung thực học vấn và kinh nghiệm, viết 자기소개서 (thư giới thiệu bản thân) nêu điểm mạnh và lý do ứng tuyển, và giữ trang phục gọn gàng cùng thái độ lễ phép khi phỏng vấn. Bộ hồ sơ xin việc cơ bản ở Hàn Quốc gồm 이력서 và 자기소개서, có thể kèm theo bằng cấp và chứng chỉ.",
+    "explain_ko": "이력서와 자기소개서는 사실대로 써야 하며, 경력을 부풀리는 것은 옳지 않다.",
+    "keywords": ["이력서", "자기소개서"]
+  }
+]

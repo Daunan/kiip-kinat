@@ -1,0 +1,1047 @@
+[
+  {
+    "id": "society-001",
+    "domain": "society",
+    "level": "basic",
+    "topic": "한국의 상징(국기·국가·국화·문자)",
+    "points": 2,
+    "passage": null,
+    "q": "태극기의 네 모서리에 있는 4괘가 상징하는 것을 바르게 연결한 것은?",
+    "choices": [
+      "건(乾) - 하늘, 곤(坤) - 땅",
+      "건(乾) - 불, 곤(坤) - 물",
+      "감(坎) - 하늘, 이(離) - 땅",
+      "감(坎) - 땅, 이(離) - 하늘"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Bốn quẻ (4괘) ở bốn góc lá cờ Taegukgi tượng trưng cho: 건(乾) là trời, 곤(坤) là đất, 감(坎) là nước, 이(離) là lửa. ② sai vì đã đổi chỗ ý nghĩa của 건·곤 với 감·이. ③④ sai vì 감 là nước và 이 là lửa, không phải trời hay đất. Hãy nhớ theo cặp: trời - đất - nước - lửa, đây là bốn yếu tố cơ bản của vũ trụ theo triết lý phương Đông, và đề thi rất hay hỏi phần này.",
+    "explain_ko": "태극기의 4괘는 건(하늘)·곤(땅)·감(물)·이(불)를 상징한다.",
+    "keywords": ["태극기", "4괘", "국기"]
+  },
+  {
+    "id": "society-002",
+    "domain": "society",
+    "level": "basic",
+    "topic": "한국의 상징(국기·국가·국화·문자)",
+    "points": 2,
+    "passage": null,
+    "q": "태극기에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "흰색 바탕은 밝음과 순수, 평화를 사랑하는 민족성을 뜻한다",
+      "가운데 태극 문양의 빨간색은 양(陽)을, 파란색은 음(陰)을 뜻한다",
+      "네 모서리의 4괘는 하늘, 땅, 물, 불을 상징한다",
+      "국경일에는 태극기를 조기(弔旗)로 다는 것이 원칙이다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Vào các ngày quốc khánh, ngày lễ mừng (국경일) thì treo cờ ở đỉnh cột, còn treo cờ rủ (조기) chỉ dùng cho ngày tưởng niệm như Ngày Tưởng niệm Liệt sĩ 6/6 (현충일) hoặc thời gian quốc tang. ①②③ đều đúng: nền trắng thể hiện sự trong sáng và yêu hòa bình, màu đỏ là dương (양) - màu xanh là âm (음), bốn quẻ là trời-đất-nước-lửa. Hãy phân biệt rõ hai loại ngày: ngày mừng thì treo cờ bình thường, ngày buồn thì hạ cờ xuống một chiều rộng lá cờ.",
+    "explain_ko": "국경일에는 태극기를 깃봉에 붙여 달고, 현충일·국장기간 등 조의를 표하는 날에만 조기로 게양한다.",
+    "keywords": ["태극기", "조기 게양", "국경일"]
+  },
+  {
+    "id": "society-003",
+    "domain": "society",
+    "level": "basic",
+    "topic": "한국의 상징(국기·국가·국화·문자)",
+    "points": 2,
+    "passage": null,
+    "q": "대한민국의 국가(國歌)인 애국가에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "가사와 곡을 모두 안익태가 만들었다",
+      "안익태가 곡을 붙였으며 모두 4절로 이루어져 있다",
+      "모두 2절로 이루어져 있고 작사자가 분명하게 밝혀져 있다",
+      "광복 이후 국회에서 법률로 국가(國歌)라고 정하였다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Quốc ca Hàn Quốc (애국가) do nhạc sĩ An Ik-tae (안익태) phổ nhạc và gồm 4 lời (4절). ①③ sai vì người viết lời cho đến nay vẫn chưa được xác định rõ, và bài hát có 4 lời chứ không phải 2. ④ sai vì 애국가 chưa từng được quy định bằng luật, mà được công nhận theo tập quán như quốc ca trên thực tế. Trong kỳ thi nhập tịch, thí sinh cũng có thể phải hát 애국가 ở phần vấn đáp, nên hãy học thuộc ít nhất lời 1.",
+    "explain_ko": "애국가는 안익태가 작곡했고 4절까지 있으며, 작사자는 밝혀지지 않았고 법률로 지정된 것은 아니다.",
+    "keywords": ["애국가", "안익태", "국가"]
+  },
+  {
+    "id": "society-004",
+    "domain": "society",
+    "level": "basic",
+    "topic": "한국의 상징(국기·국가·국화·문자)",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 것으로 옳은 것은?\n\n여름부터 가을까지 100일 가까이 피고 지기를 반복하며, '영원히 피는 꽃'이라는 뜻을 지닌 대한민국의 나라꽃이다.",
+    "choices": [
+      "진달래",
+      "개나리",
+      "무궁화",
+      "동백꽃"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Quốc hoa của Hàn Quốc là hoa 무궁화 (Mugunghwa - hoa dâm bụt Sharon), tên gọi mang nghĩa 'bông hoa nở mãi không tàn', nở liên tục khoảng 100 ngày từ hè sang thu. ①②④ đều là các loài hoa quen thuộc ở Hàn Quốc nhưng không phải quốc hoa: 진달래 (đỗ quyên) và 개나리 (liên kiều) nở vào mùa xuân, 동백꽃 (hoa trà) nở vào mùa đông. Hình hoa 무궁화 còn xuất hiện trên quốc huy và huy hiệu của Quốc hội Hàn Quốc.",
+    "explain_ko": "대한민국의 국화는 무궁화로, 여름부터 가을까지 오래 피며 '영원히 피는 꽃'이라는 뜻이다.",
+    "keywords": ["무궁화", "국화"]
+  },
+  {
+    "id": "society-005",
+    "domain": "society",
+    "level": "basic",
+    "topic": "한국의 상징(국기·국가·국화·문자)",
+    "points": 2,
+    "passage": null,
+    "q": "한글에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "세종대왕이 백성들이 쉽게 글을 익히도록 만들었다",
+      "처음 만들어졌을 때의 이름은 '훈민정음'이었다",
+      "자음과 모음을 합쳐 글자를 만드는 소리 문자이다",
+      "한글이 만들어지기 전에는 한국에서 어떤 문자도 쓰이지 않았다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Trước khi có Hangeul, người Hàn vẫn viết bằng chữ Hán (한자), nhưng chữ Hán quá khó nên dân thường hầu như không biết chữ - đó chính là lý do vua Sejong sáng tạo ra Hangeul. ①②③ đều đúng: Sejong Đại đế tạo ra chữ này cho dân dễ học, tên gốc là 훈민정음 (Huấn dân chính âm - 'âm đúng để dạy dân'), và Hangeul là chữ ghi âm, ghép phụ âm (자음) với nguyên âm (모음) thành một chữ. Ngày Hangeul (한글날) là 9/10 và là một trong các ngày quốc khánh của Hàn Quốc.",
+    "explain_ko": "한글 창제 이전에는 한자를 빌려 썼으므로 '어떤 문자도 쓰이지 않았다'는 설명은 옳지 않다.",
+    "keywords": ["한글", "훈민정음", "세종대왕"]
+  },
+  {
+    "id": "society-006",
+    "domain": "society",
+    "level": "basic",
+    "topic": "다양한 가족 형태",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 가족 형태로 옳은 것은?\n\n부부와 결혼하지 않은 자녀로만 이루어진 가족으로, 산업화 이후 한국에서 가장 흔한 형태가 되었다.",
+    "choices": [
+      "핵가족",
+      "확대가족",
+      "한부모 가족",
+      "조손 가족"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Gia đình hạt nhân (핵가족) là gia đình chỉ gồm vợ chồng và con cái chưa lập gia đình; sau công nghiệp hóa, số người rời nông thôn lên thành phố tăng nên đây trở thành hình thái phổ biến nhất. ② 확대가족 là đại gia đình có từ ba thế hệ trở lên sống chung, ngày càng giảm. ③ 한부모 가족 là gia đình chỉ có bố hoặc mẹ nuôi con, ④ 조손 가족 là gia đình ông bà nuôi cháu. Hãy nhớ xu hướng chung của Hàn Quốc hiện nay: 확대가족 giảm, 핵가족 và 1인 가구 (hộ độc thân) tăng.",
+    "explain_ko": "부부와 미혼 자녀로 이루어진 가족을 핵가족이라 하며, 산업화 이후 가장 보편적인 형태가 되었다.",
+    "keywords": ["핵가족", "가족 형태"]
+  },
+  {
+    "id": "society-007",
+    "domain": "society",
+    "level": "basic",
+    "topic": "다양한 가족 형태",
+    "points": 2,
+    "passage": null,
+    "q": "최근 한국의 가족 형태 변화에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "혼자 사는 1인 가구의 비율이 꾸준히 늘고 있다",
+      "결혼 이민자가 늘면서 다문화가족이 증가하였다",
+      "3대 이상이 함께 사는 확대가족이 빠르게 늘고 있다",
+      "결혼하는 나이가 높아지고 자녀 수는 줄어드는 경향이 있다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Đại gia đình ba thế hệ (확대가족) đang giảm mạnh chứ không tăng, vì con cái lập gia đình thường ra ở riêng. ① đúng: hộ độc thân (1인 가구) tăng liên tục và hiện chiếm tỷ trọng lớn nhất trong các loại hộ gia đình. ② đúng: hôn nhân quốc tế làm gia đình đa văn hóa (다문화가족) tăng. ④ đúng: tuổi kết hôn muộn (만혼) và tỷ lệ sinh thấp (저출산) là đặc điểm nổi bật của xã hội Hàn Quốc. Đề thi thường ghép 저출산 với 고령화 (già hóa dân số) như hai vấn đề xã hội lớn nhất hiện nay.",
+    "explain_ko": "핵가족화와 1인 가구 증가가 진행되면서 3대 이상이 함께 사는 확대가족은 줄어들고 있다.",
+    "keywords": ["1인 가구", "가족 변화", "저출산"]
+  },
+  {
+    "id": "society-008",
+    "domain": "society",
+    "level": "basic",
+    "topic": "다양한 가족 형태",
+    "points": 2,
+    "passage": null,
+    "q": "「다문화가족지원법」에서 말하는 '다문화가족'에 해당하는 것은?",
+    "choices": [
+      "외국인 남녀가 결혼하여 한국에 함께 사는 가족",
+      "결혼이민자와 대한민국 국민으로 이루어진 가족",
+      "부모 없이 조부모가 손자녀를 키우는 가족",
+      "한국인 부부가 외국에서 오래 살다가 돌아온 가족"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Theo 다문화가족지원법, 다문화가족 là gia đình được tạo thành giữa người kết hôn nhập cư (결혼이민자) hoặc người đã nhập tịch với công dân Hàn Quốc (대한민국 국민). ① sai vì nếu cả hai vợ chồng đều là người nước ngoài thì không thuộc diện này. ③ là 조손 가족 (gia đình ông bà - cháu), ④ chỉ là gia đình người Hàn hồi hương. Điểm mấu chốt cần nhớ: phải có ít nhất một người mang quốc tịch Hàn Quốc thì mới là 다문화가족 và mới được hưởng dịch vụ của 가족센터.",
+    "explain_ko": "다문화가족은 결혼이민자 또는 귀화자와 대한민국 국민으로 이루어진 가족을 말한다.",
+    "keywords": ["다문화가족", "결혼이민자"]
+  },
+  {
+    "id": "society-009",
+    "domain": "society",
+    "level": "basic",
+    "topic": "가족 관계와 호칭",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 촌수(寸數)에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "부부 사이는 1촌이다",
+      "형제자매 사이는 1촌이다",
+      "아버지의 형제인 큰아버지·작은아버지는 나와 3촌이다",
+      "할아버지와 손자 사이는 1촌이다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Cách tính 촌수: bố mẹ - con là 1촌, anh chị em ruột là 2촌, anh em của bố (bác/chú) là 3촌, con của bác/chú (anh chị em họ) là 4촌. ① sai vì vợ chồng là 무촌 (không tính 촌), do là quan hệ hôn nhân chứ không phải huyết thống. ② sai vì anh chị em là 2촌. ④ sai vì ông - cháu cách hai đời nên là 2촌. Trong tiếng Hàn đời thường, người ta hay gọi bác/chú là '삼촌' - chính là từ con số 3촌 mà ra.",
+    "explain_ko": "부모-자녀 1촌, 형제자매 2촌, 아버지의 형제는 3촌이며 부부는 촌수가 없는 무촌이다.",
+    "keywords": ["촌수", "가족 관계"]
+  },
+  {
+    "id": "society-010",
+    "domain": "society",
+    "level": "basic",
+    "topic": "가족 관계와 호칭",
+    "points": 2,
+    "passage": null,
+    "q": "결혼한 여자가 남편의 여동생을 부르는 호칭으로 알맞은 것은?",
+    "choices": [
+      "처제",
+      "아가씨",
+      "형님",
+      "도련님"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Người vợ gọi em gái của chồng là 아가씨. ③ 형님 là cách gọi chị gái của chồng (남편의 누나), nên dùng cho người lớn tuổi hơn chứ không phải em. ④ 도련님 dùng để gọi em trai chưa lập gia đình của chồng (nếu đã lập gia đình thì gọi là 서방님). ① 처제 là cách người chồng gọi em gái của vợ, ngược vai hoàn toàn. Mẹo phân biệt: cách gọi bên nhà chồng dùng 아가씨/도련님/형님, còn bên nhà vợ dùng 처형(chị vợ)/처제(em gái vợ)/처남(em trai vợ).",
+    "explain_ko": "아내는 남편의 여동생을 '아가씨', 남편의 누나를 '형님'이라고 부른다.",
+    "keywords": ["호칭", "아가씨", "시댁"]
+  },
+  {
+    "id": "society-011",
+    "domain": "society",
+    "level": "basic",
+    "topic": "가족 관계와 호칭",
+    "points": 2,
+    "passage": null,
+    "q": "결혼한 남자가 아내의 여동생을 부르는 호칭으로 알맞은 것은?",
+    "choices": [
+      "처제",
+      "처형",
+      "아가씨",
+      "형님"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Người chồng gọi em gái của vợ là 처제. ② 처형 là chị gái của vợ, lớn tuổi hơn vợ. ③ 아가씨 là cách người vợ gọi em gái của chồng, không dùng cho nhà vợ. ④ 형님 là cách gọi anh trai của vợ hoặc chị gái của chồng tùy trường hợp. Chữ '처(妻)' nghĩa là 'vợ', nên hễ thấy 처형·처제·처남 là biết ngay đang nói về họ hàng bên nhà vợ.",
+    "explain_ko": "남편은 아내의 여동생을 '처제', 아내의 언니를 '처형'이라고 부른다.",
+    "keywords": ["호칭", "처제", "처가"]
+  },
+  {
+    "id": "society-012",
+    "domain": "society",
+    "level": "basic",
+    "topic": "직장생활 및 문화",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 직장 생활 예절로 알맞지 않은 것은?",
+    "choices": [
+      "출근 시간보다 조금 일찍 도착해 업무를 준비한다",
+      "휴가를 쓸 때는 미리 상사와 동료에게 일정을 알린다",
+      "회의에서 다른 의견이 있어도 상대의 말을 끝까지 듣는다",
+      "몸이 아파 결근할 때는 회사에 알리지 않고 나중에 설명한다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Khi ốm không đi làm được, phải báo cho công ty càng sớm càng tốt trước giờ làm việc, vì công việc của cả nhóm sẽ bị ảnh hưởng - im lặng rồi giải thích sau là hành vi thiếu trách nhiệm. ①②③ đều là phép tắc cơ bản ở nơi làm việc Hàn Quốc: đến sớm một chút để chuẩn bị, báo trước lịch nghỉ phép, và lắng nghe hết ý kiến người khác. Văn hóa công sở Hàn Quốc rất coi trọng 보고 (báo cáo) và 연락 (liên lạc) kịp thời với cấp trên.",
+    "explain_ko": "결근·지각 등 예정에 없던 일은 회사에 미리 연락해 알리는 것이 기본 예절이다.",
+    "keywords": ["직장 예절", "직장 문화"]
+  },
+  {
+    "id": "society-013",
+    "domain": "society",
+    "level": "basic",
+    "topic": "직장생활 및 문화",
+    "points": 2,
+    "passage": null,
+    "q": "최근 한국의 직장 문화 변화에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "정해진 시간 안에 일을 마치고 제때 퇴근하는 분위기가 퍼지고 있다",
+      "재택근무나 유연근무제를 도입하는 회사가 늘고 있다",
+      "술을 많이 마시는 회식이 예전보다 크게 늘어나고 있다",
+      "일과 생활의 균형(워라밸)을 중요하게 여기는 사람이 많아졌다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Các buổi 회식 (liên hoan công ty) nặng về rượu bia đang giảm rõ rệt; nhiều nơi chuyển sang ăn tối nhẹ, xem phim hoặc hoạt động văn hóa. ①②④ đều là xu hướng thật: chế độ giờ làm được rút ngắn nên văn hóa về đúng giờ lan rộng, làm việc tại nhà (재택근무) và giờ làm linh hoạt (유연근무제) tăng, và giới trẻ rất coi trọng 워라밸 (work-life balance). Đề thi hay hỏi về 주 52시간 근무제 và quyền nghỉ phép của người lao động, nên hãy ghi nhớ hướng thay đổi chung là 'giảm giờ làm, tăng chất lượng sống'.",
+    "explain_ko": "음주 중심의 회식은 줄고 문화 활동 등으로 바뀌는 추세이므로 크게 늘고 있다는 설명은 옳지 않다.",
+    "keywords": ["회식", "워라밸", "직장 문화"]
+  },
+  {
+    "id": "society-014",
+    "domain": "society",
+    "level": "basic",
+    "topic": "직장생활 및 문화",
+    "points": 2,
+    "passage": null,
+    "q": "다음 중 한국의 '4대 보험'에 해당하지 않는 것은?",
+    "choices": [
+      "국민연금",
+      "자동차보험",
+      "고용보험",
+      "산업재해보상보험"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Bảo hiểm xe hơi (자동차보험) là bảo hiểm tư nhân mua ở công ty bảo hiểm, không thuộc 4대 보험. Bốn loại bảo hiểm xã hội bắt buộc gồm: 국민연금 (hưu trí), 국민건강보험 (y tế), 고용보험 (thất nghiệp), 산업재해보상보험 (tai nạn lao động). ①③④ đều nằm trong nhóm này. Người lao động và chủ sử dụng lao động cùng chia nhau đóng phí, riêng 산재보험 thì chủ sử dụng lao động đóng toàn bộ - đây là chi tiết rất hay ra thi.",
+    "explain_ko": "4대 보험은 국민연금·국민건강보험·고용보험·산업재해보상보험이며 자동차보험은 민간 보험이다.",
+    "keywords": ["4대 보험", "사회보험"]
+  },
+  {
+    "id": "society-015",
+    "domain": "society",
+    "level": "basic",
+    "topic": "교통수단",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 교통카드 이용에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "버스와 지하철을 갈아탈 때 환승 할인을 받을 수 있다",
+      "편의점이나 지하철역에서 카드를 사고 충전할 수 있다",
+      "버스에서 내릴 때도 카드를 단말기에 대야 환승 할인이 적용된다",
+      "교통카드는 지하철에서만 쓸 수 있고 버스에서는 쓸 수 없다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Thẻ giao thông (교통카드) dùng được cho cả xe buýt lẫn tàu điện ngầm, thậm chí có thể thanh toán taxi và mua hàng ở cửa hàng tiện lợi. ①②③ đều đúng: chuyển tuyến buýt - tàu điện được giảm giá (환승 할인), thẻ mua và nạp tiền được ở cửa hàng tiện lợi hay ga tàu, và khi xuống xe buýt bắt buộc phải quẹt thẻ (하차 태그) thì lần đi tiếp theo mới được tính chuyển tuyến. Quên quẹt thẻ khi xuống xe là lỗi người mới đến Hàn Quốc hay mắc nhất.",
+    "explain_ko": "교통카드는 버스·지하철에서 모두 사용할 수 있으며, 하차 시 태그해야 환승 할인이 적용된다.",
+    "keywords": ["교통카드", "환승 할인", "대중교통"]
+  },
+  {
+    "id": "society-016",
+    "domain": "society",
+    "level": "basic",
+    "topic": "교통수단",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 교통수단으로 옳은 것은?\n\n2004년에 개통된 한국의 고속철도로, 서울에서 부산까지 약 두 시간 반 만에 갈 수 있다.",
+    "choices": [
+      "KTX",
+      "시외버스",
+      "광역급행버스",
+      "지하철"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. KTX (한국고속철도) khai trương năm 2004, chạy tuyến Seoul - Busan chỉ khoảng 2 tiếng rưỡi và là phương tiện nhanh nhất nối các thành phố lớn. ② 시외버스 là xe khách liên tỉnh, rẻ hơn nhưng chậm hơn nhiều. ③ 광역급행버스 (buýt nhanh liên vùng, còn gọi là M버스) chỉ nối vùng thủ đô với Seoul. ④ 지하철 chỉ chạy trong nội thành và vùng lân cận. Ngoài KTX còn có tàu SRT cũng là tàu cao tốc, còn 무궁화호·새마을호 là tàu thường chạy chậm hơn.",
+    "explain_ko": "KTX는 2004년 개통된 한국의 고속철도로 서울-부산을 약 2시간 30분에 연결한다.",
+    "keywords": ["KTX", "고속철도", "교통수단"]
+  },
+  {
+    "id": "society-017",
+    "domain": "society",
+    "level": "basic",
+    "topic": "교통수단",
+    "points": 2,
+    "passage": null,
+    "q": "한국에서 대중교통을 이용할 때의 예절로 알맞지 않은 것은?",
+    "choices": [
+      "지하철 안에서는 큰 소리로 통화하지 않는다",
+      "내리는 사람이 모두 내린 뒤에 탄다",
+      "임산부 배려석은 비워 두는 것이 좋다",
+      "버스에서 내릴 때는 정류장에 도착한 뒤에 벨을 누른다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Trên xe buýt phải bấm chuông (하차벨) trước khi xe đến bến, vì nếu bấm khi xe đã tới nơi thì tài xế không kịp dừng và có thể bị chạy quá bến. ①②③ đều là phép lịch sự cơ bản: không nói chuyện điện thoại to trong tàu điện, để người xuống ra hết rồi mới lên, và ghế ưu tiên cho phụ nữ mang thai (임산부 배려석, ghế màu hồng) nên để trống. Tàu điện ngầm Hàn Quốc còn có 노약자석 (ghế cho người già, người khuyết tật) đặt ở hai đầu toa, thường được để trống ngay cả khi tàu đông.",
+    "explain_ko": "버스는 정류장에 도착하기 전에 미리 하차벨을 눌러야 하며, 도착 후 누르면 늦다.",
+    "keywords": ["대중교통 예절", "하차벨", "임산부 배려석"]
+  },
+  {
+    "id": "society-018",
+    "domain": "society",
+    "level": "basic",
+    "topic": "통신수단",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 통신 서비스 이용에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "휴대전화를 개통하려면 본인 확인을 위한 신분증이 필요하다",
+      "외국인은 한국에서 휴대전화를 개통할 수 없다",
+      "인터넷은 신청한 당일에 반드시 설치가 끝난다",
+      "우체국에서는 국내 우편만 취급하고 국제우편은 보낼 수 없다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Ở Hàn Quốc, mở số điện thoại di động bắt buộc phải xác minh danh tính bằng giấy tờ tùy thân - người nước ngoài dùng thẻ đăng ký người nước ngoài (외국인등록증), người Hàn dùng 주민등록증. ② sai vì người nước ngoài có 외국인등록증 hoàn toàn mở được thuê bao. ③ sai vì lắp internet thường phải hẹn ngày kỹ thuật viên đến, không xong ngay trong ngày đăng ký. ④ sai vì bưu điện (우체국) nhận cả thư và bưu kiện quốc tế, thậm chí có dịch vụ EMS chuyển phát nhanh quốc tế.",
+    "explain_ko": "휴대전화 개통 시에는 외국인등록증 등 신분증으로 본인 확인을 해야 한다.",
+    "keywords": ["휴대전화 개통", "외국인등록증", "통신"]
+  },
+  {
+    "id": "society-019",
+    "domain": "society",
+    "level": "basic",
+    "topic": "통신수단",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 통신수단 변화에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "손편지나 전보 대신 이메일과 메신저를 많이 쓰게 되었다",
+      "스마트폰으로 은행 업무나 관공서 민원을 처리할 수 있다",
+      "집집마다 설치하던 유선전화(집전화)의 이용이 크게 늘고 있다",
+      "누리소통망(SNS)으로 소식을 주고받는 사람이 많아졌다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Điện thoại cố định (유선전화) đang giảm mạnh vì hầu như ai cũng dùng điện thoại di động; nhiều gia đình trẻ thậm chí không lắp máy bàn. ①②④ đều đúng: thư tay và điện tín đã nhường chỗ cho email, KakaoTalk; ngân hàng và thủ tục hành chính có thể làm qua điện thoại (인터넷뱅킹, 정부24); mạng xã hội trở thành kênh liên lạc chính. Hàn Quốc là một trong những nước có tỷ lệ dùng internet tốc độ cao và điện thoại thông minh cao nhất thế giới.",
+    "explain_ko": "휴대전화 보급으로 유선전화 이용은 오히려 줄어들고 있다.",
+    "keywords": ["통신수단", "스마트폰", "SNS"]
+  },
+  {
+    "id": "society-020",
+    "domain": "society",
+    "level": "basic",
+    "topic": "집의 형태와 주거방식",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 주거 방식으로 옳은 것은?\n\n집주인에게 목돈인 보증금을 맡기고 매달 따로 임대료를 내지 않으며, 계약이 끝나면 보증금을 돌려받는다.",
+    "choices": [
+      "월세",
+      "전세",
+      "자가",
+      "하숙"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 전세 (jeonse) là hình thức thuê nhà đặc trưng chỉ có ở Hàn Quốc: người thuê đặt một khoản tiền cọc lớn cho chủ nhà, không trả tiền thuê hằng tháng, và được nhận lại toàn bộ tiền cọc khi hết hợp đồng. ① 월세 là đặt cọc ít hơn nhưng trả tiền thuê mỗi tháng. ③ 자가 là nhà thuộc sở hữu của chính mình. ④ 하숙 là ở trọ có kèm bữa ăn do chủ nhà nấu. Khi ký hợp đồng 전세 nhất định phải làm 전입신고 và xin 확정일자 để được luật bảo vệ tiền cọc.",
+    "explain_ko": "전세는 보증금을 맡기고 월 임대료 없이 살다가 계약 종료 시 보증금을 돌려받는 방식이다.",
+    "keywords": ["전세", "보증금", "주거방식"]
+  },
+  {
+    "id": "society-021",
+    "domain": "society",
+    "level": "basic",
+    "topic": "집의 형태와 주거방식",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 주택 임대차에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "월세는 보증금을 맡기고 매달 정해진 임대료를 내는 방식이다",
+      "전세는 매달 임대료를 내고 보증금은 내지 않는 방식이다",
+      "임대차 계약은 말로만 해야 법적인 효력이 생긴다",
+      "보증금은 계약이 끝나도 돌려받을 수 없는 돈이다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 월세 là hình thức đặt một khoản cọc (보증금) rồi trả tiền thuê cố định hằng tháng. ② sai vì ngược lại: 전세 chỉ đặt cọc lớn và không trả tiền thuê hằng tháng. ③ sai vì hợp đồng thuê nhà phải lập thành văn bản (계약서) mới an toàn, và nên xác nhận qua công ty môi giới bất động sản. ④ sai vì 보증금 luôn được hoàn trả khi kết thúc hợp đồng, trừ phần bị trừ do hư hỏng hoặc nợ tiền thuê. Luật 주택임대차보호법 bảo vệ người thuê, cho phép gia hạn hợp đồng thêm một lần (계약갱신요구권).",
+    "explain_ko": "월세는 보증금과 매달 임대료를 함께 내는 방식이며, 보증금은 계약 종료 시 돌려받는다.",
+    "keywords": ["월세", "임대차", "주택임대차보호법"]
+  },
+  {
+    "id": "society-022",
+    "domain": "society",
+    "level": "basic",
+    "topic": "집의 형태와 주거방식",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 전통 가옥인 한옥에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "겨울에는 방바닥을 데우는 온돌로 추위를 이겨냈다",
+      "여름을 시원하게 나기 위한 마루를 흙으로 막아 두었다",
+      "지붕을 덮은 재료에 따라 기와집과 초가집으로 나뉘었다",
+      "온돌과 마루가 한 집에 함께 있는 점이 큰 특징이다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 마루 (sàn gỗ thoáng) được làm hở phía dưới để gió lùa qua cho mát vào mùa hè, nên bịt kín bằng đất là sai hoàn toàn về công dụng. ①③④ đều đúng: 온돌 là hệ thống sưởi làm nóng sàn nhà để chống rét mùa đông, mái lợp ngói gọi là 기와집 còn lợp rơm gọi là 초가집, và điểm độc đáo nhất của 한옥 là có cả 온돌 (chống lạnh) lẫn 마루 (chống nóng) trong cùng một ngôi nhà. Cách sưởi bằng sàn này vẫn được dùng trong căn hộ Hàn Quốc ngày nay dưới dạng 보일러.",
+    "explain_ko": "마루는 바람이 통하도록 만들어 여름을 시원하게 나기 위한 공간이므로 흙으로 막았다는 설명은 옳지 않다.",
+    "keywords": ["한옥", "온돌", "마루"]
+  },
+  {
+    "id": "society-023",
+    "domain": "society",
+    "level": "basic",
+    "topic": "집의 형태와 주거방식",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 주거 형태에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "산업화와 도시화로 아파트에 사는 가구가 크게 늘었다",
+      "빌라·연립주택·다세대주택 등 공동주택의 종류가 다양하다",
+      "오피스텔은 주거와 사무 기능을 함께 갖춘 건물이다",
+      "오늘날 한국에서 가장 많은 가구가 사는 집은 단독주택이다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Hiện nay loại nhà ở phổ biến nhất tại Hàn Quốc là chung cư (아파트), chiếm khoảng một nửa số hộ gia đình, còn nhà riêng lẻ (단독주택) đứng sau. ①②③ đều đúng: công nghiệp hóa và đô thị hóa khiến dân dồn về thành phố nên chung cư tăng vọt; nhà tập thể có nhiều dạng như 빌라, 연립주택, 다세대주택; và 오피스텔 là loại nhà kết hợp ở và làm văn phòng. Khi tìm nhà, hãy nhớ 아파트 thường đắt hơn 빌라 cùng diện tích vì tiện ích và giá trị bán lại cao hơn.",
+    "explain_ko": "오늘날 한국에서 가장 많은 가구가 거주하는 주택 형태는 아파트이다.",
+    "keywords": ["아파트", "주거 형태", "오피스텔"]
+  },
+  {
+    "id": "society-024",
+    "domain": "society",
+    "level": "basic",
+    "topic": "도시와 농촌",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 도시와 농촌의 특징에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "도시는 인구 밀도가 높고 편의시설과 일자리가 많다",
+      "농촌은 인구가 줄고 노인 비율이 높아지는 문제를 겪고 있다",
+      "농촌은 도시보다 대중교통과 문화시설이 잘 갖추어져 있다",
+      "도시에서는 주택 부족, 교통 혼잡 등의 문제가 나타난다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Ở nông thôn, xe buýt thưa và rạp phim, trung tâm văn hóa rất ít, nên hạ tầng giao thông - văn hóa kém hơn thành phố chứ không tốt hơn. ①②④ đều đúng: thành phố đông dân, nhiều tiện ích và việc làm nhưng lại thiếu nhà ở và kẹt xe; nông thôn thì dân số giảm và già hóa nhanh (고령화). Để khắc phục, chính phủ hỗ trợ chương trình 귀농·귀촌 (về quê làm nông) và nhiều nông dân kết hôn với người nhập cư, khiến tỷ lệ gia đình đa văn hóa ở nông thôn khá cao.",
+    "explain_ko": "농촌은 대중교통과 문화시설이 도시보다 부족한 편이며, 인구 감소와 고령화 문제를 겪고 있다.",
+    "keywords": ["도시", "농촌", "고령화"]
+  },
+  {
+    "id": "society-025",
+    "domain": "society",
+    "level": "basic",
+    "topic": "도시와 농촌",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 도시화 과정에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "1960년대 이전에 이미 대부분의 인구가 도시에 살고 있었다",
+      "도시화가 진행되면서 농촌의 인구가 빠르게 늘어났다",
+      "정부는 서울의 인구를 더 늘리기 위해 신도시를 만들었다",
+      "산업화로 일자리를 찾아 농촌 사람들이 도시로 옮겨 갔다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Từ thập niên 1960~70, công nghiệp hóa tạo ra nhiều việc làm ở thành phố nên người dân nông thôn ồ ạt di cư lên đô thị - đó chính là động lực của quá trình đô thị hóa (도시화). ① sai vì trước 1960 Hàn Quốc vẫn là xã hội nông nghiệp, phần lớn dân sống ở nông thôn. ② sai vì dân nông thôn giảm chứ không tăng. ③ sai về mục đích: các đô thị vệ tinh và thành phố mới quanh Seoul được xây để phân tán bớt dân và chức năng tập trung quá mức ở Seoul. Kết quả là hơn một nửa dân số Hàn Quốc hiện sống ở vùng thủ đô 수도권 (Seoul, Gyeonggi, Incheon).",
+    "explain_ko": "1960년대 이후 산업화로 농촌 인구가 일자리를 찾아 도시로 이동하면서 도시화가 빠르게 진행되었다.",
+    "keywords": ["도시화", "산업화", "수도권"]
+  },
+  {
+    "id": "society-026",
+    "domain": "society",
+    "level": "basic",
+    "topic": "사회복지",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 제도로 옳은 것은?\n\n나이가 들거나 장애·사망 등으로 소득이 없어질 때를 대비하여, 일하는 동안 보험료를 내고 나중에 연금을 받는 제도이다.",
+    "choices": [
+      "고용보험",
+      "산업재해보상보험",
+      "국민연금",
+      "국민기초생활보장제도"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 국민연금 (bảo hiểm hưu trí quốc dân) là chế độ đóng phí trong thời gian đi làm để về già, khi tàn tật hoặc khi qua đời thì bản thân hoặc gia đình nhận lương hưu. ① 고용보험 dùng để trả trợ cấp thất nghiệp khi mất việc. ② 산재보험 bồi thường khi bị tai nạn hay bệnh do công việc. ④ 국민기초생활보장제도 là công trợ (공공부조) lấy từ tiền thuế để giúp người quá nghèo, không cần đóng phí. Điểm phân biệt cốt lõi: 사회보험 thì phải đóng phí trước, còn 공공부조 thì không.",
+    "explain_ko": "국민연금은 노령·장애·사망에 대비해 보험료를 내고 연금을 받는 대표적인 사회보험이다.",
+    "keywords": ["국민연금", "사회보험"]
+  },
+  {
+    "id": "society-027",
+    "domain": "society",
+    "level": "basic",
+    "topic": "사회복지",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 기초연금에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "60세 이상이면 소득과 상관없이 누구나 받을 수 있다",
+      "65세 이상 노인 가운데 소득이 적은 사람에게 지급한다",
+      "국민연금에 가입한 적이 있는 사람만 받을 수 있다",
+      "일하는 동안 낸 보험료에 따라 금액이 정해지는 사회보험이다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 기초연금 dành cho người từ 65세 이상 có thu nhập thấp, nhằm bảo đảm cuộc sống tối thiểu cho người cao tuổi. ① sai ở cả độ tuổi (65 chứ không phải 60) lẫn điều kiện (phải xét thu nhập). ③ sai vì đây không phải chế độ dựa trên việc từng tham gia 국민연금. ④ sai vì 기초연금 do ngân sách nhà nước chi trả chứ không phải bảo hiểm đóng phí - khác hẳn 국민연금. Muốn nhận thì phải tự nộp đơn ở 주민센터 hoặc chi nhánh 국민연금공단, không tự động được cấp.",
+    "explain_ko": "기초연금은 65세 이상 노인 중 소득이 낮은 사람에게 국가 예산으로 지급하는 제도이다.",
+    "keywords": ["기초연금", "노인 복지"]
+  },
+  {
+    "id": "society-028",
+    "domain": "society",
+    "level": "basic",
+    "topic": "사회복지",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 사회복지 제도에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "국민기초생활보장제도는 보험료를 낸 사람만 도움을 받을 수 있다",
+      "국민건강보험은 병원비 부담을 덜어 주는 사회보험이다",
+      "고용보험에 가입하면 실직했을 때 실업급여를 받을 수 있다",
+      "노인장기요양보험은 혼자 생활하기 어려운 노인을 돌봐 주는 제도이다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 국민기초생활보장제도 thuộc nhóm công trợ (공공부조), được chi từ tiền thuế cho hộ nghèo dưới mức sống tối thiểu, nên không hề đòi hỏi người dân phải đóng phí bảo hiểm trước. ②③④ đều đúng: 국민건강보험 giảm gánh nặng viện phí, 고용보험 chi trả 실업급여 khi mất việc, 노인장기요양보험 hỗ trợ chăm sóc người già không tự sinh hoạt được. Hãy nhớ cách chia: 사회보험 (đóng phí) - 공공부조 (miễn phí, dựa trên mức thu nhập) - 사회서비스 (dịch vụ hỗ trợ).",
+    "explain_ko": "국민기초생활보장제도는 보험료 납부와 무관하게 세금으로 저소득층을 지원하는 공공부조이다.",
+    "keywords": ["공공부조", "국민기초생활보장", "사회복지"]
+  },
+  {
+    "id": "society-029",
+    "domain": "society",
+    "level": "basic",
+    "topic": "외국인 대상 복지 제도",
+    "points": 2,
+    "passage": null,
+    "q": "결혼이민자와 다문화가족을 위해 한국어 교육, 통·번역 서비스, 가족 상담 등을 제공하는 기관으로 옳은 것은?",
+    "choices": [
+      "고용복지플러스센터",
+      "국민연금공단 지사",
+      "가족센터(다문화가족지원센터)",
+      "출입국·외국인청"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 가족센터 - trước đây gọi là 다문화가족지원센터 - là nơi cung cấp lớp tiếng Hàn, dịch vụ thông dịch - biên dịch, tư vấn gia đình, giáo dục nuôi dạy con cho gia đình đa văn hóa; từ năm 2021 tên gọi được đổi thành 가족센터 để mọi loại gia đình đều có thể sử dụng. ① 고용복지플러스센터 chuyên về việc làm và trợ cấp thất nghiệp. ② là nơi xử lý bảo hiểm hưu trí. ④ 출입국·외국인청 phụ trách visa và tư cách lưu trú, không dạy tiếng Hàn. Chương trình KIIP (사회통합프로그램) cũng được tổ chức tại nhiều 가족센터 trên cả nước.",
+    "explain_ko": "다문화가족지원센터(현 가족센터)는 한국어 교육, 통·번역, 가족 상담 등을 제공한다.",
+    "keywords": ["가족센터", "다문화가족지원센터"]
+  },
+  {
+    "id": "society-030",
+    "domain": "society",
+    "level": "basic",
+    "topic": "외국인 대상 복지 제도",
+    "points": 2,
+    "passage": null,
+    "q": "체류 자격 등 출입국 관련 문제를 여러 나라 말로 상담할 수 있는 법무부 외국인종합안내센터의 전화번호로 옳은 것은?",
+    "choices": [
+      "국번 없이 129",
+      "국번 없이 110",
+      "1577-1366",
+      "국번 없이 1345"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 외국인종합안내센터 do Bộ Tư pháp vận hành có số 1345 (gọi không cần mã vùng), tư vấn về visa, tư cách lưu trú và đời sống bằng khoảng 20 thứ tiếng, trong đó có tiếng Việt. ① 129 là tổng đài tư vấn phúc lợi - y tế của Bộ Y tế và Phúc lợi. ② 110 là tổng đài hướng dẫn dân nguyện của chính phủ. ③ 1577-1366 là 다누리콜센터 dành cho người kết hôn nhập cư. Hãy ghi nhớ cặp đôi quan trọng nhất: 1345 cho vấn đề xuất nhập cảnh, 1577-1366 cho khủng hoảng gia đình.",
+    "explain_ko": "법무부 외국인종합안내센터는 국번 없이 1345로 연결되며 여러 언어로 출입국·생활 상담을 제공한다.",
+    "keywords": ["1345", "외국인종합안내센터"]
+  },
+  {
+    "id": "society-031",
+    "domain": "society",
+    "level": "basic",
+    "topic": "외국인 대상 복지 제도",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 기관으로 옳은 것은?\n\n결혼이민자 등이 하루 24시간 언제나 모국어로 생활 정보를 얻고 가정폭력·성폭력 피해 상담을 받을 수 있는 전화 상담 기관이다.",
+    "choices": [
+      "다누리콜센터(1577-1366)",
+      "외국인종합안내센터(1345)",
+      "국민콜(110)",
+      "보건복지상담센터(129)"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 다누리콜센터 1577-1366 hoạt động 24 giờ mỗi ngày, 365 ngày mỗi năm, tư vấn bằng khoảng 13 thứ tiếng gồm cả tiếng Việt, chuyên hỗ trợ thông tin sinh hoạt và các trường hợp khẩn cấp như bạo lực gia đình, bạo lực tình dục. ② 1345 chỉ tư vấn xuất nhập cảnh - đời sống và không hoạt động suốt đêm. ③ 110 hướng dẫn dân nguyện hành chính chung. ④ 129 tư vấn phúc lợi cho người dân nói chung. Trung tâm này còn có thể kết nối phiên dịch ba bên khi bạn cần nói chuyện với bệnh viện hay cảnh sát.",
+    "explain_ko": "다누리콜센터(1577-1366)는 24시간 다국어로 결혼이민자의 생활 정보와 위기 상담을 제공한다.",
+    "keywords": ["다누리콜센터", "1577-1366"]
+  },
+  {
+    "id": "society-032",
+    "domain": "society",
+    "level": "basic",
+    "topic": "의료 기관",
+    "points": 2,
+    "passage": null,
+    "q": "한국에 사는 외국인의 국민건강보험 가입에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "외국인은 국민건강보험에 가입할 수 없다",
+      "6개월 이상 국내에 체류하는 외국인은 지역가입자로 가입해야 한다",
+      "직장에 다니는 외국인은 건강보험에 가입할 수 없다",
+      "보험료를 내지 않아도 체류 자격 연장에는 아무 영향이 없다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Người nước ngoài cư trú tại Hàn Quốc từ 6 tháng trở lên thuộc diện tham gia bắt buộc 국민건강보험 với tư cách 지역가입자 (đối tượng khu vực). ① sai vì người nước ngoài hoàn toàn được tham gia. ③ sai vì người đi làm ở doanh nghiệp lại tham gia với tư cách 직장가입자 và công ty đóng một nửa phí. ④ sai vì nợ phí bảo hiểm y tế có thể gây bất lợi khi gia hạn visa hoặc đổi tư cách lưu trú. Có bảo hiểm y tế thì tiền viện phí giảm rất nhiều, nên đây là quyền lợi chứ không chỉ là nghĩa vụ.",
+    "explain_ko": "6개월 이상 체류하는 외국인은 국민건강보험 지역가입자로 의무 가입되며, 보험료 체납은 체류 심사에 불이익이 될 수 있다.",
+    "keywords": ["국민건강보험", "외국인 지역가입자"]
+  },
+  {
+    "id": "society-033",
+    "domain": "society",
+    "level": "basic",
+    "topic": "의료 기관",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 의료 기관 이용에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "가벼운 감기도 반드시 큰 종합병원에 가서 진료를 받아야 한다",
+      "동네 의원에서는 비교적 가벼운 질병을 진료받을 수 있다",
+      "보건소에서는 예방접종이나 건강검진 등을 받을 수 있다",
+      "상급종합병원에 가려면 대개 다른 병원의 진료의뢰서가 필요하다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Bệnh nhẹ như cảm cúm nên đến phòng khám gần nhà (의원) - vừa nhanh vừa rẻ; dồn hết lên bệnh viện lớn sẽ khiến bệnh nhân nặng bị chậm điều trị và chi phí cũng cao hơn. ②③④ đều đúng: 의원 khám bệnh thông thường, 보건소 (trung tâm y tế công của quận/huyện) tiêm chủng và khám sức khỏe với chi phí thấp, còn muốn khám ở 상급종합병원 thì thường phải có giấy giới thiệu (진료의뢰서) mới được hưởng bảo hiểm đầy đủ. Hệ thống y tế Hàn Quốc chia theo bậc: 의원 → 병원 → 종합병원 → 상급종합병원.",
+    "explain_ko": "가벼운 질병은 동네 의원을 이용하는 것이 원칙이며, 상급종합병원 이용에는 보통 진료의뢰서가 필요하다.",
+    "keywords": ["의원", "보건소", "진료의뢰서"]
+  },
+  {
+    "id": "society-034",
+    "domain": "society",
+    "level": "basic",
+    "topic": "안전생활 수칙",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 긴급 신고 전화에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "불이 났을 때는 국번 없이 112로 신고한다",
+      "화재·구조·응급 환자 신고는 국번 없이 119로 한다",
+      "범죄 신고는 국번 없이 119로 한다",
+      "긴급 신고 전화에서는 외국어 통역 서비스를 받을 수 없다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 119 là số gọi cứu hỏa, cứu hộ và cấp cứu y tế; xe cứu thương cũng do 119 điều động. ①③ đều nhầm lẫn hai số: báo cháy phải gọi 119, còn báo tội phạm mới gọi 112 (cảnh sát). ④ sai vì cả 112 và 119 đều có dịch vụ thông dịch nhiều thứ tiếng, người nước ngoài không nói được tiếng Hàn vẫn gọi được. Ngoài ra còn có 110 là tổng đài hướng dẫn dân nguyện chính phủ, dùng cho những việc không khẩn cấp.",
+    "explain_ko": "화재·구조·응급 상황은 119, 범죄 신고는 112이며 두 번호 모두 외국어 통역 서비스를 제공한다.",
+    "keywords": ["119", "112", "긴급 신고"]
+  },
+  {
+    "id": "society-035",
+    "domain": "society",
+    "level": "basic",
+    "topic": "안전생활 수칙",
+    "points": 2,
+    "passage": null,
+    "q": "건물에서 불이 났을 때의 행동 요령으로 알맞지 않은 것은?",
+    "choices": [
+      "젖은 수건으로 코와 입을 막고 몸을 낮춰 이동한다",
+      "'불이야!'라고 크게 외치거나 비상벨을 눌러 주변에 알린다",
+      "빨리 대피하기 위해 엘리베이터를 타고 내려간다",
+      "계단으로 건물 밖에 나간 뒤 안전한 곳에서 119에 신고한다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Khi cháy tuyệt đối không dùng thang máy, vì điện có thể bị cắt khiến người mắc kẹt bên trong và khói dễ tràn vào buồng thang - phải đi bằng cầu thang bộ. ①②④ đều đúng: bịt mũi miệng bằng khăn ướt và cúi thấp người vì khói độc bay lên cao, hô to hoặc bấm chuông báo cháy để mọi người cùng thoát, và gọi 119 sau khi đã ra chỗ an toàn. Ở Hàn Quốc, chung cư còn có 완강기 (thiết bị tụt dây thoát hiểm) và 경량 칸막이 (vách nhẹ ngăn giữa hai ban công có thể đập vỡ để chạy sang nhà bên).",
+    "explain_ko": "화재 시에는 엘리베이터 대신 계단을 이용해야 하며, 몸을 낮추고 젖은 수건으로 코와 입을 막고 대피한다.",
+    "keywords": ["화재 대피", "안전 수칙", "119"]
+  },
+  {
+    "id": "education-001",
+    "domain": "education",
+    "level": "basic",
+    "topic": "임신과 출산 지원 제도",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 임신·출산 진료비 지원 제도에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "지원금을 현금으로 받아 자유롭게 쓸 수 있다",
+      "한국 국적을 가진 산모만 신청할 수 있다",
+      "출산한 뒤에만 신청할 수 있고 임신 중에는 신청할 수 없다",
+      "국민행복카드에 바우처로 받아 진료비 등에 사용한다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Khoản hỗ trợ chi phí khám thai và sinh nở được nạp dưới dạng voucher vào thẻ 국민행복카드, dùng để thanh toán viện phí liên quan đến thai sản. ① sai vì đây không phải tiền mặt tự do chi tiêu mà là voucher có mục đích và có hạn sử dụng. ② sai vì người nước ngoài đã tham gia 국민건강보험 cũng được hưởng. ③ sai vì phải đăng ký ngay khi xác nhận có thai để dùng trong suốt thai kỳ. Thẻ 국민행복카드 còn dùng cho voucher 첫만남이용권 nhận một lần khi sinh con, nên nhiều gia đình chỉ cần một thẻ cho nhiều chế độ.",
+    "explain_ko": "임신·출산 진료비는 국민행복카드에 바우처 형태로 지급되어 진료비 등에 사용한다.",
+    "keywords": ["국민행복카드", "임신·출산 진료비", "바우처"]
+  },
+  {
+    "id": "education-002",
+    "domain": "education",
+    "level": "basic",
+    "topic": "임신과 출산 지원 제도",
+    "points": 2,
+    "passage": null,
+    "q": "한국에서 임신한 여성이 받을 수 있는 지원으로 알맞지 않은 것은?",
+    "choices": [
+      "보건소에서 엽산제나 철분제를 받을 수 있다",
+      "지하철과 버스의 임산부 배려석을 이용할 수 있다",
+      "임신했다는 사실만으로 대한민국 국적을 얻을 수 있다",
+      "보건소에 임산부 등록을 하면 산전 검사를 받을 수 있다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Mang thai không phải là căn cứ để được cấp quốc tịch Hàn Quốc; quốc tịch chỉ có được qua 출생 (huyết thống), 인지 hoặc 귀화 (nhập tịch). ①②④ đều là hỗ trợ có thật: 보건소 phát axit folic và viên sắt miễn phí, phụ nữ mang thai được dùng ghế ưu tiên màu hồng trên tàu điện và xe buýt, và đăng ký thai sản ở 보건소 thì được khám tiền sản. Ngoài ra, thai phụ còn nhận được huy hiệu 임산부 배지 để người khác nhận biết và nhường ghế.",
+    "explain_ko": "임신 사실만으로는 국적을 얻을 수 없으며, 보건소의 엽산제·철분제 지원과 산전 검사 등은 실제로 받을 수 있다.",
+    "keywords": ["임산부 지원", "보건소", "임산부 배려석"]
+  },
+  {
+    "id": "education-003",
+    "domain": "education",
+    "level": "basic",
+    "topic": "임신과 출산 지원 제도",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 제도로 옳은 것은?\n\n아이를 낳은 여성 근로자가 출산 전과 후를 합쳐 90일 동안 쉴 수 있도록 법으로 보장한 휴가이다.",
+    "choices": [
+      "출산전후휴가",
+      "육아휴직",
+      "연차휴가",
+      "가족돌봄휴가"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 출산전후휴가 là chế độ nghỉ 90 ngày (trước và sau khi sinh) được 근로기준법 bảo đảm cho lao động nữ sinh con; nếu sinh đôi trở lên thì được 120 ngày. ② 육아휴직 là nghỉ nuôi con, dùng sau khi hết chế độ trên và cả bố lẫn mẹ đều có quyền sử dụng. ③ 연차휴가 là phép năm thông thường. ④ 가족돌봄휴가 dùng khi phải chăm sóc người thân bị ốm. Điểm cần nhớ: 출산전후휴가 gắn với việc sinh con, còn 육아휴직 gắn với việc nuôi con nhỏ.",
+    "explain_ko": "출산전후휴가는 근로기준법에 따라 출산 전후 90일간 보장되는 휴가이다.",
+    "keywords": ["출산전후휴가", "육아휴직", "근로기준법"]
+  },
+  {
+    "id": "education-004",
+    "domain": "education",
+    "level": "basic",
+    "topic": "영유아 보육과 교육",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 영유아 교육·보육 기관에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "유치원은 태어난 직후인 0세부터 다닐 수 있다",
+      "유치원은 만 3세부터 초등학교 입학 전까지의 유아가 다닌다",
+      "어린이집은 만 5세 아동만 이용할 수 있다",
+      "어린이집과 유치원은 모두 의무교육 기관이다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 유치원 (trường mẫu giáo) nhận trẻ từ 만 3세 đến trước khi vào tiểu học. ① sai vì trẻ dưới 3 tuổi thì gửi ở 어린이집 chứ không phải 유치원. ③ sai vì 어린이집 nhận trẻ từ sơ sinh đến trước tuổi đi học, không giới hạn ở 5 tuổi. ④ sai vì giáo dục bắt buộc (의무교육) ở Hàn Quốc chỉ gồm tiểu học và trung học cơ sở, không bao gồm bậc mầm non. Dù không bắt buộc, nhà nước hỗ trợ chi phí gửi trẻ nên phần lớn trẻ em Hàn Quốc đều đi 어린이집 hoặc 유치원.",
+    "explain_ko": "유치원은 만 3세부터 초등학교 취학 전까지 다니며, 어린이집과 유치원은 의무교육 기관이 아니다.",
+    "keywords": ["유치원", "어린이집", "영유아"]
+  },
+  {
+    "id": "education-005",
+    "domain": "education",
+    "level": "basic",
+    "topic": "영유아 보육과 교육",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 것으로 옳은 것은?\n\n유치원과 어린이집에 다니는 만 3~5세 유아 모두에게 공통으로 적용되는 국가 수준의 교육·보육 과정이다.",
+    "choices": [
+      "방과후과정",
+      "돌봄교실",
+      "누리과정",
+      "특수교육과정"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 누리과정 là chương trình giáo dục - chăm sóc chung do nhà nước quy định, áp dụng thống nhất cho trẻ 3~5 tuổi dù học ở 유치원 hay 어린이집, nhằm bảo đảm mọi trẻ đều được hưởng chất lượng giáo dục như nhau. ① 방과후과정 là hoạt động ngoài giờ chính. ② 돌봄교실 là lớp trông trẻ sau giờ học ở tiểu học. ④ 특수교육과정 dành cho trẻ khuyết tật. Chính phủ Hàn Quốc đang thúc đẩy 유보통합 - hợp nhất hệ thống 유치원 và 어린이집 thành một, và 누리과정 chính là bước đi đầu tiên của chính sách này.",
+    "explain_ko": "누리과정은 만 3~5세 유아에게 유치원·어린이집 구분 없이 공통 적용되는 국가 수준의 교육·보육 과정이다.",
+    "keywords": ["누리과정", "유아교육"]
+  },
+  {
+    "id": "education-006",
+    "domain": "education",
+    "level": "basic",
+    "topic": "영유아 보육과 교육",
+    "points": 2,
+    "passage": null,
+    "q": "영유아를 키우는 가정이 이용할 수 있는 지원으로 알맞지 않은 것은?",
+    "choices": [
+      "어린이집이나 유치원에 다니면 보육료·유아학비를 지원받을 수 있다",
+      "가정에서 아이를 돌보는 경우 가정양육수당 등을 받을 수 있다",
+      "아이돌봄서비스를 신청해 돌보미의 도움을 받을 수 있다",
+      "아이가 초등학교에 들어간 뒤에도 어린이집 보육료가 계속 지원된다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Hỗ trợ 보육료 chỉ áp dụng cho trẻ chưa đến tuổi đi học; khi trẻ vào tiểu học thì chuyển sang các chế độ khác như 돌봄교실 hay 방과후학교. ①②③ đều đúng: gửi trẻ ở 어린이집·유치원 thì được hỗ trợ học phí, tự nuôi ở nhà thì nhận 가정양육수당, và có thể đăng ký 아이돌봄서비스 để người trông trẻ đến tận nhà. Gia đình đa văn hóa cũng được hưởng đầy đủ các chế độ này nếu trẻ mang quốc tịch Hàn Quốc, và có thể hỏi chi tiết tại 주민센터 hoặc 가족센터.",
+    "explain_ko": "보육료 지원은 취학 전 영유아를 대상으로 하며, 초등학교 입학 후에는 돌봄교실 등 다른 제도가 적용된다.",
+    "keywords": ["보육료", "가정양육수당", "아이돌봄서비스"]
+  },
+  {
+    "id": "education-007",
+    "domain": "education",
+    "level": "basic",
+    "topic": "교육제도의 특징",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 학교 제도(학제)를 바르게 나타낸 것은?",
+    "choices": [
+      "초등학교 5년 - 중학교 3년 - 고등학교 3년 - 대학교 4년",
+      "초등학교 6년 - 중학교 3년 - 고등학교 3년 - 대학교 4년",
+      "초등학교 6년 - 중학교 3년 - 고등학교 4년 - 대학교 4년",
+      "초등학교 6년 - 중학교 2년 - 고등학교 4년 - 대학교 3년"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Hệ thống giáo dục Hàn Quốc theo mô hình 6-3-3-4: tiểu học 6 năm, trung học cơ sở 3 năm, trung học phổ thông 3 năm, đại học 4 năm. ①③④ đều sai ở ít nhất một bậc học. Ngoài ra cần nhớ: cao đẳng (전문대학) chỉ 2~3 năm, một số ngành như y khoa học lâu hơn 4 năm. Con số 6-3-3-4 là dạng câu hỏi cơ bản gần như chắc chắn xuất hiện trong đề thi.",
+    "explain_ko": "한국의 학제는 초등학교 6년, 중학교 3년, 고등학교 3년, 대학교 4년의 6-3-3-4제이다.",
+    "keywords": ["학제", "6-3-3-4"]
+  },
+  {
+    "id": "education-008",
+    "domain": "education",
+    "level": "basic",
+    "topic": "교육제도의 특징",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 의무교육에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "초등학교 6년과 중학교 3년을 합한 9년이 의무교육이다",
+      "초등학교 6년만 의무교육에 해당한다",
+      "고등학교까지 합한 12년이 의무교육에 해당한다",
+      "의무교육이지만 자녀를 학교에 보내지 않아도 문제가 되지 않는다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Theo Hiến pháp và 교육기본법, giáo dục bắt buộc ở Hàn Quốc là 9 năm: tiểu học 6 năm cộng trung học cơ sở 3 năm. ② sai vì trung học cơ sở đã được đưa vào diện bắt buộc từ lâu. ③ sai vì trung học phổ thông không bắt buộc, tuy hiện nay đã được miễn học phí. ④ sai vì phụ huynh có nghĩa vụ pháp lý cho con đi học, không thực hiện có thể bị xử phạt. Hãy phân biệt rõ 의무교육 (bắt buộc, 9 năm) với 무상교육 (miễn phí, đã mở rộng đến hết cấp 3).",
+    "explain_ko": "한국의 의무교육은 초등학교 6년과 중학교 3년을 합한 9년이다.",
+    "keywords": ["의무교육", "9년", "무상교육"]
+  },
+  {
+    "id": "education-009",
+    "domain": "education",
+    "level": "basic",
+    "topic": "교육제도의 특징",
+    "points": 2,
+    "passage": null,
+    "q": "한국 학교 제도의 특징에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "한 학년은 1학기와 2학기로 나뉘어 운영된다",
+      "새 학년은 보통 9월에 시작된다",
+      "초등학교는 보통 만 6세가 되는 해에 입학한다",
+      "외국인 자녀도 한국의 초·중·고등학교에 다닐 수 있다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Năm học ở Hàn Quốc bắt đầu vào tháng 3 chứ không phải tháng 9 - khác với Việt Nam và nhiều nước phương Tây. ①③④ đều đúng: một năm học chia thành học kỳ 1 (tháng 3~7) và học kỳ 2 (tháng 8~2 năm sau), trẻ vào lớp 1 vào năm tròn 6 tuổi, và con em người nước ngoài dù chưa có tư cách lưu trú ổn định vẫn được nhận vào trường tiểu học - trung học. Giữa hai học kỳ có kỳ nghỉ hè (여름방학) và nghỉ đông (겨울방학), trong đó nghỉ đông thường dài hơn.",
+    "explain_ko": "한국의 새 학년은 3월에 시작하며 1학기와 2학기로 운영된다.",
+    "keywords": ["학기", "3월 개학", "취학"]
+  },
+  {
+    "id": "education-010",
+    "domain": "education",
+    "level": "basic",
+    "topic": "초중고 교육기관",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 고등학교에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "모든 고등학교는 대학 진학만을 목표로 하는 일반계 고등학교이다",
+      "특성화고등학교에서는 취업에 필요한 기술과 실무를 배울 수 있다",
+      "과학고·외국어고 등 특수 목적 고등학교가 있다",
+      "고등학교는 의무교육은 아니지만 수업료를 지원받을 수 있다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Trung học phổ thông Hàn Quốc có nhiều loại chứ không chỉ trường phổ thông thường: 일반고 (phổ thông), 특성화고 (hướng nghiệp), 특수목적고 (chuyên khoa học, ngoại ngữ, nghệ thuật), 자율고 (tự chủ). ②③ đều đúng vì mô tả đúng 특성화고 và 특수목적고. ④ đúng vì cấp 3 không thuộc giáo dục bắt buộc nhưng đã được miễn học phí theo chính sách 고교 무상교육. Học sinh 특성화고 có thể đi làm ngay sau khi tốt nghiệp hoặc vẫn thi vào đại học nếu muốn.",
+    "explain_ko": "고등학교에는 일반고 외에도 특성화고, 특수목적고, 자율고 등 다양한 종류가 있다.",
+    "keywords": ["고등학교", "특성화고", "특수목적고"]
+  },
+  {
+    "id": "education-011",
+    "domain": "education",
+    "level": "basic",
+    "topic": "초중고 교육기관",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 학교로 옳은 것은?\n\n기존 학교 교육에 적응하기 어려운 학생 등을 위해 체험 학습과 개성을 중시하는 교육을 하는 학교이다.",
+    "choices": [
+      "특성화고등학교",
+      "영재학교",
+      "자율형사립고등학교",
+      "대안학교"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 대안학교 (trường thay thế) được lập ra cho học sinh khó thích nghi với trường học thông thường, chú trọng học qua trải nghiệm và phát triển cá tính; một số trường được công nhận học lực, một số thì không. ① 특성화고 dạy kỹ thuật nghề để đi làm. ② 영재학교 dành cho học sinh có năng khiếu vượt trội. ③ 자율형사립고 là trường tư có quyền tự chủ cao về chương trình. Có cả 대안학교 dành riêng cho con em gia đình đa văn hóa và trẻ nhập cư giữa chừng (중도입국 자녀), giúp các em học tiếng Hàn trước khi hòa nhập trường thường.",
+    "explain_ko": "대안학교는 기존 학교 교육에 적응하기 어려운 학생 등을 위해 체험과 개성을 중시하는 교육을 한다.",
+    "keywords": ["대안학교", "교육기관"]
+  },
+  {
+    "id": "education-012",
+    "domain": "education",
+    "level": "basic",
+    "topic": "초중고 교육기관",
+    "points": 2,
+    "passage": null,
+    "q": "한국 학교에 다니는 중도입국 자녀나 외국인 학생을 위한 지원으로 알맞지 않은 것은?",
+    "choices": [
+      "한국어 교육을 집중적으로 받을 수 있는 한국어학급이 운영된다",
+      "학교 적응을 돕는 이중언어 강사나 멘토의 도움을 받을 수 있다",
+      "외국인 학생은 학력을 인정받을 수 없어 졸업장을 받지 못한다",
+      "학교에 바로 들어가기 어려운 학생을 위한 예비학교가 운영된다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Học sinh người nước ngoài học ở trường Hàn Quốc vẫn được công nhận học lực và nhận bằng tốt nghiệp bình thường như học sinh Hàn. ①②④ đều là hỗ trợ có thật: 한국어학급 (lớp KSL) dạy tiếng Hàn tập trung, giáo viên song ngữ và người cố vấn giúp các em thích nghi, 예비학교 là bước đệm cho học sinh chưa vào ngay được lớp thường. Muốn nhập học, phụ huynh mang 외국인등록증 và giấy tờ chứng minh học lực ở nước ngoài đến trường hoặc 교육지원청 để làm thủ tục.",
+    "explain_ko": "외국인 학생도 한국 학교에서 학력을 인정받고 졸업장을 받을 수 있으며, 한국어학급·예비학교 등의 지원을 받는다.",
+    "keywords": ["중도입국 자녀", "한국어학급", "예비학교"]
+  },
+  {
+    "id": "education-013",
+    "domain": "education",
+    "level": "basic",
+    "topic": "입시 제도",
+    "points": 2,
+    "passage": null,
+    "q": "대학수학능력시험(수능)에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "해마다 11월에 전국에서 같은 날 치러지는 시험이다",
+      "고등학교를 졸업한 사람만 응시할 수 있다",
+      "대학마다 서로 다른 날짜에 따로 시행한다",
+      "합격과 불합격만 알려 주고 점수는 알려 주지 않는다"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Kỳ thi 수능 được tổ chức mỗi năm một lần vào tháng 11, cùng một ngày trên toàn quốc. ② sai vì học sinh lớp 12 đang học và người đỗ kỳ thi tương đương trung học (검정고시) đều được dự thi. ③ sai vì đây là kỳ thi chung do nhà nước tổ chức, không phải mỗi trường thi riêng. ④ sai vì thí sinh nhận điểm số và thứ bậc (등급) chứ không phải đỗ/trượt. Vào ngày thi 수능, giờ làm việc của cơ quan và công ty được lùi lại, và máy bay tạm ngừng cất - hạ cánh trong giờ thi nghe.",
+    "explain_ko": "수능은 매년 11월에 전국에서 같은 날 시행되며 점수와 등급이 제공된다.",
+    "keywords": ["수능", "대학수학능력시험", "입시"]
+  },
+  {
+    "id": "education-014",
+    "domain": "education",
+    "level": "basic",
+    "topic": "입시 제도",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 대학 입학 전형에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "수시 모집에서는 학교생활기록부와 면접 등을 주로 반영한다",
+      "정시 모집에서는 대학수학능력시험 성적을 주로 반영한다",
+      "대학 입학은 오직 수능 점수 하나만으로 결정된다",
+      "재외국민과 외국인을 위한 특별전형을 운영하는 대학도 있다"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Tuyển sinh đại học Hàn Quốc không chỉ dựa vào điểm 수능: học bạ (학교생활기록부), bài luận, phỏng vấn, thành tích hoạt động đều được xét, đặc biệt trong đợt 수시. ①②④ đều đúng: 수시 xét chủ yếu học bạ và phỏng vấn, 정시 xét chủ yếu điểm 수능, và nhiều trường có 특별전형 riêng cho kiều bào và người nước ngoài. Đợt 수시 diễn ra trước, khoảng tháng 9, còn 정시 nộp hồ sơ sau khi có kết quả 수능 vào cuối năm.",
+    "explain_ko": "대학 입학은 수시(학교생활기록부·면접 등)와 정시(수능 성적)로 나뉘며 수능 점수만으로 결정되지 않는다.",
+    "keywords": ["수시", "정시", "대학 입시"]
+  },
+  {
+    "id": "education-015",
+    "domain": "education",
+    "level": "basic",
+    "topic": "입시 제도",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 입시 문화에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "대학 진학을 중요하게 여겨 사교육에 대한 관심이 높다",
+      "수능일에는 관공서와 회사의 출근 시간을 늦추기도 한다",
+      "수능 듣기평가 시간에는 비행기 이착륙을 조정하기도 한다",
+      "사교육비 부담이 사라져 학원에 다니는 학생을 찾기 어렵다"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Gánh nặng chi phí học thêm (사교육비) vẫn là vấn đề xã hội lớn ở Hàn Quốc và số học sinh đi 학원 (trung tâm luyện thi) vẫn rất cao, nên nói 'gần như không còn' là sai. ①②③ đều đúng và cho thấy xã hội coi trọng kỳ thi đến mức nào: giờ đi làm được lùi lại để tránh kẹt xe cho thí sinh, máy bay tạm dừng cất - hạ cánh trong giờ thi nghe. Để giảm gánh nặng này, nhà nước mở rộng 방과후학교 và các bài giảng miễn phí như EBS.",
+    "explain_ko": "사교육비 부담은 여전히 큰 사회 문제이며 학원에 다니는 학생도 많다.",
+    "keywords": ["사교육", "수능", "입시 문화"]
+  },
+  {
+    "id": "education-016",
+    "domain": "education",
+    "level": "basic",
+    "topic": "고등교육 기관",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 고등교육 기관에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "전문대학의 수업 연한은 모두 4년으로 정해져 있다",
+      "전문대학은 보통 2~3년 과정으로 실무 중심의 교육을 한다",
+      "대학원은 고등학교를 졸업하면 바로 들어갈 수 있다",
+      "한국에는 국립대학만 있고 사립대학은 없다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 전문대학 (cao đẳng) thường đào tạo 2~3 năm, tập trung vào kỹ năng thực hành để ra trường đi làm ngay. ① sai vì 4 năm là thời gian học của 대학교 chứ không phải 전문대학. ③ sai vì muốn vào 대학원 (cao học) thì phải tốt nghiệp đại học trước. ④ sai vì Hàn Quốc có cả đại học quốc lập, công lập và tư thục, trong đó số trường tư thục còn nhiều hơn. Người tốt nghiệp 전문대학 vẫn có thể học liên thông lên đại học 4 năm qua chế độ chuyển tiếp (편입학).",
+    "explain_ko": "전문대학은 보통 2~3년 과정으로 실무 중심 교육을 하며, 대학원은 대학 졸업 후에 진학한다.",
+    "keywords": ["전문대학", "대학원", "고등교육"]
+  },
+  {
+    "id": "education-017",
+    "domain": "education",
+    "level": "basic",
+    "topic": "고등교육 기관",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 학교로 옳은 것은?\n\n직장에 다니면서도 방송과 인터넷 강의로 공부하여 학사 학위를 받을 수 있는 국립 대학이다.",
+    "choices": [
+      "전문대학",
+      "기술대학",
+      "사이버대학",
+      "한국방송통신대학교"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 한국방송통신대학교 (gọi tắt là 방송대) là đại học quốc lập theo hình thức từ xa, học qua truyền hình và internet, học phí rẻ nên rất phù hợp với người vừa đi làm vừa học. ① 전문대학 là cao đẳng học trực tiếp 2~3 năm. ② 기술대학 là loại hình đào tạo gắn với doanh nghiệp. ③ 사이버대학 cũng học trực tuyến nhưng phần lớn là trường tư thục, nên điểm phân biệt trong câu hỏi này chính là chữ 'quốc lập'. Nhiều người kết hôn nhập cư chọn 방송대 để lấy bằng đại học Hàn Quốc trong khi vẫn đi làm và chăm sóc gia đình.",
+    "explain_ko": "한국방송통신대학교는 방송·인터넷 강의로 공부해 학사 학위를 받을 수 있는 국립 원격대학이다.",
+    "keywords": ["한국방송통신대학교", "원격대학"]
+  },
+  {
+    "id": "education-018",
+    "domain": "education",
+    "level": "basic",
+    "topic": "평생교육",
+    "points": 2,
+    "passage": null,
+    "q": "평생교육에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "학교에 다니는 학생만 받을 수 있는 교육이다",
+      "학교 교육을 제외한, 모든 국민을 대상으로 하는 다양한 교육 활동을 말한다",
+      "65세 이상 노인만 참여할 수 있는 교육이다",
+      "반드시 학위를 얻기 위해서만 하는 교육이다"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 평생교육 là mọi hoạt động giáo dục có tổ chức diễn ra ngoài hệ thống trường học chính quy, mở cho toàn dân ở mọi lứa tuổi - từ học chữ, học nghề, học tiếng Hàn đến các lớp sở thích. ① sai vì đối tượng chính lại là người đã rời ghế nhà trường. ③ sai vì không giới hạn độ tuổi, người trẻ và trung niên đều tham gia. ④ sai vì phần lớn chương trình không nhằm cấp bằng. Chính chương trình 사회통합프로그램 (KIIP) mà bạn đang học cũng là một hình thức 평생교육 dành cho người nhập cư.",
+    "explain_ko": "평생교육은 학교 교육 외에 모든 국민을 대상으로 이루어지는 다양한 교육 활동을 뜻한다.",
+    "keywords": ["평생교육", "평생학습"]
+  },
+  {
+    "id": "education-019",
+    "domain": "education",
+    "level": "basic",
+    "topic": "평생교육",
+    "points": 2,
+    "passage": null,
+    "q": "다음 중 평생교육이 이루어지는 곳으로 보기 어려운 것은?",
+    "choices": [
+      "초등학교의 정규 수업 시간",
+      "시·군·구에서 운영하는 평생학습관",
+      "주민자치센터에서 여는 주민 대상 강좌",
+      "대학교에 설치된 평생교육원"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Giờ học chính khóa ở tiểu học thuộc 학교 교육 chính quy, không phải 평생교육 - vì 평생교육 theo định nghĩa là giáo dục diễn ra ngoài hệ thống trường học chính quy. ②③④ đều là cơ sở 평생교육 điển hình: 평생학습관 do chính quyền địa phương lập, các lớp học ở 주민자치센터 gần nhà, và 평생교육원 trực thuộc các trường đại học. Ngoài ra còn có cơ sở 평생교육 do đài truyền hình, doanh nghiệp và tổ chức xã hội dân sự như YMCA vận hành.",
+    "explain_ko": "초등학교 정규 수업은 학교 교육이며, 평생학습관·주민자치센터·대학 평생교육원 등이 평생교육 기관이다.",
+    "keywords": ["평생학습관", "평생교육원", "평생교육기관"]
+  },
+  {
+    "id": "education-020",
+    "domain": "education",
+    "level": "basic",
+    "topic": "평생교육",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 제도로 옳은 것은?\n\n학교 밖에서 이수한 다양한 학습과 자격을 학점으로 인정받아, 일정 기준을 채우면 학위를 받을 수 있는 제도이다.",
+    "choices": [
+      "검정고시",
+      "평생학습계좌제",
+      "학점은행제",
+      "직업능력개발계좌제"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 학점은행제 cho phép quy đổi các khóa học và chứng chỉ đạt được bên ngoài trường đại học thành tín chỉ, tích lũy đủ thì được cấp bằng cử nhân hoặc cao đẳng. ① 검정고시 là kỳ thi lấy bằng tương đương tiểu học, THCS, THPT chứ không cấp bằng đại học. ② 평생학습계좌제 chỉ ghi nhận và quản lý lịch sử học tập của cá nhân, không tự cấp bằng. ④ 직업능력개발계좌제 hỗ trợ chi phí đào tạo nghề. Chế độ này rất hữu ích cho người vừa đi làm vừa muốn lấy bằng, và do 국가평생교육진흥원 quản lý.",
+    "explain_ko": "학점은행제는 학교 밖 학습과 자격을 학점으로 인정해 일정 기준을 충족하면 학위를 주는 제도이다.",
+    "keywords": ["학점은행제", "평생교육", "학위"]
+  }
+]

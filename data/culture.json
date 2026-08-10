@@ -1,0 +1,857 @@
+[
+  {
+    "id": "culture-001",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "전통 가치",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 전통 가치인 효(孝)에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "부모가 자녀의 진로를 대신 정해 주는 것을 말한다.",
+      "부모와 어른을 공경하고 정성을 다해 모시는 마음과 실천을 말한다.",
+      "농사철에 마을 사람끼리 일손을 서로 돕는 풍습을 말한다.",
+      "다른 사람 앞에서 자신의 체통을 지키려는 태도를 말한다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Hiếu (효, 孝) là giá trị truyền thống cốt lõi của Hàn Quốc: kính trọng và phụng dưỡng cha mẹ, người lớn tuổi bằng cả tấm lòng — rất gần với chữ 'hiếu' trong văn hóa Việt Nam. ① sai vì hiếu không có nghĩa là cha mẹ quyết định thay con cái. ③ là 품앗이/두레 (giúp việc đồng áng lẫn nhau), ④ là 체면 (thể diện) — cả hai đều là giá trị truyền thống khác, không phải hiếu. Ngày nay chữ hiếu vẫn thể hiện qua việc thăm cha mẹ dịp Tết Nguyên đán (설날) và Trung thu (추석), cúng giỗ tổ tiên.",
+    "explain_ko": "효는 부모와 어른을 공경하고 정성으로 모시는 마음과 실천을 뜻하는 한국의 대표적 전통 가치이다.",
+    "keywords": ["효", "전통 가치", "공경"]
+  },
+  {
+    "id": "culture-002",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "전통 가치",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 전통적인 식사 예절로 옳은 것은?",
+    "choices": [
+      "밥그릇을 손에 들고 입에 대고 먹는다.",
+      "어른보다 먼저 수저를 들어 식사를 시작한다.",
+      "어른이 먼저 수저를 든 다음에 식사를 시작한다.",
+      "식사가 끝나면 어른보다 먼저 자리에서 일어난다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Trong bữa ăn Hàn Quốc, người nhỏ tuổi phải đợi người lớn cầm thìa (수저) trước rồi mới bắt đầu ăn, và cũng nên rời bàn sau người lớn — nên ② và ④ đều sai. ① là điểm khác biệt lớn với Việt Nam: người Việt thường bưng bát cơm lên tay, nhưng ở Hàn Quốc bát cơm và bát canh phải để yên trên bàn, dùng thìa (숟가락) xúc cơm và canh, đũa (젓가락) gắp thức ăn. Đây là quy tắc hay xuất hiện trong đề thi về 예절 (lễ nghi).",
+    "explain_ko": "한국 식사 예절에서는 어른이 수저를 든 후에 식사를 시작하며, 밥그릇은 상에 놓고 숟가락으로 떠먹는다.",
+    "keywords": ["식사 예절", "수저", "예절"]
+  },
+  {
+    "id": "culture-003",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "전통 가치",
+    "points": 2,
+    "passage": null,
+    "q": "오랜 시간 함께 지내면서 자연스럽게 쌓이는 따뜻한 마음으로, 단골 식당에서 반찬을 더 주거나 이웃과 음식을 나누는 모습에서 잘 드러난다. 이에 해당하는 것으로 옳은 것은?",
+    "choices": [
+      "정(情)",
+      "체면(體面)",
+      "효(孝)",
+      "연고(緣故)"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 정 (情, tình) là tình cảm ấm áp tích tụ theo thời gian giữa những người sống gần nhau, thể hiện qua việc chủ quán cho thêm món phụ (반찬) hay hàng xóm chia nhau đồ ăn. ② 체면 là ý thức giữ thể diện trước người khác, ③ 효 là lòng hiếu thảo với cha mẹ, ④ 연고 là quan hệ dựa trên huyết thống, quê quán, trường học — cả ba đều là giá trị khác. Người Việt có thể hiểu 정 gần với 'tình làng nghĩa xóm'; đây là từ khóa rất hay ra trong phần 전통 가치.",
+    "explain_ko": "정(情)은 오랜 시간 함께 지내며 쌓이는 따뜻한 마음으로, 나눔과 배려의 모습으로 나타난다.",
+    "keywords": ["정", "전통 가치"]
+  },
+  {
+    "id": "culture-004",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "전통 가치",
+    "points": 2,
+    "passage": null,
+    "q": "다음 중 '체면'을 중시하는 태도와 가장 관련이 깊은 모습은?",
+    "choices": [
+      "부모님 생신에 찾아뵙고 큰절을 올린다.",
+      "이웃에게 직접 담근 김치를 나누어 준다.",
+      "같은 고향 사람들끼리 모임을 만들어 만난다.",
+      "형편에 비해 무리해서 비싼 선물을 준비한다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 체면 (thể diện) là ý thức muốn giữ hình ảnh tốt trước mắt người khác; vì vậy có người dù không dư dả vẫn cố mua quà đắt tiền hoặc mở tiệc lớn. ① là biểu hiện của 효 (hiếu), ② là biểu hiện của 정 (tình), ③ là 연고 — cụ thể là 지연 (quan hệ đồng hương). 체면 có mặt tích cực là giúp con người giữ chừng mực, nhưng mặt tiêu cực là gây lãng phí và áp lực so sánh — đề thi thường hỏi theo hướng nhận biết ví dụ.",
+    "explain_ko": "체면은 남에게 보이는 자신의 모습을 중시하는 태도로, 형편보다 과한 지출로 나타나기도 한다.",
+    "keywords": ["체면", "전통 가치"]
+  },
+  {
+    "id": "culture-005",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "전통 가치",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 한국의 전통적인 공동체 문화로 옳은 것은?\n농사철에 이웃끼리 일손을 서로 빌려주고 나중에 그만큼 되갚아 주던 상부상조의 풍습이다.",
+    "choices": [
+      "계(契)",
+      "품앗이",
+      "향약(鄕約)",
+      "서원(書院)"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 품앗이 là tục đổi công: hàng xóm cho nhau mượn sức lao động vào mùa vụ rồi trả lại tương đương — giống tục 'đổi công' ở nông thôn Việt Nam. ① 계 là hội góp tiền chung, ③ 향약 là quy ước tự trị của làng thời Joseon, ④ 서원 là trường học tư kiểu Nho giáo, không phải hình thức lao động chung. Một khái niệm dễ nhầm là 두레 — đó là tổ chức lao động chung của cả làng, còn 품앗이 là trao đổi giữa cá nhân với cá nhân.",
+    "explain_ko": "품앗이는 이웃끼리 일손을 서로 주고받아 갚는 상부상조 풍습이며, 마을 단위 공동 노동 조직은 두레이다.",
+    "keywords": ["품앗이", "두레", "공동체 의식"]
+  },
+  {
+    "id": "culture-006",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "전통 가치",
+    "points": 2,
+    "passage": null,
+    "q": "한국 사회에서 말하는 '연고(緣故)'에 해당하지 않는 것은?",
+    "choices": [
+      "같은 집안·친척으로 이어진 관계",
+      "같은 고향이나 지역 출신으로 이어진 관계",
+      "취미가 같아 인터넷에서 만난 동호회 관계",
+      "같은 학교를 졸업해 이어진 관계"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 연고 trong xã hội Hàn Quốc thường chỉ ba mối quan hệ: 혈연 (huyết thống - ①), 지연 (đồng hương - ②) và 학연 (đồng môn - ④). Hội nhóm cùng sở thích gặp nhau trên mạng là quan hệ tự nguyện theo mối quan tâm, không thuộc 연고. Văn hóa 연고 giúp gắn kết nhưng cũng bị phê phán vì tạo ra sự thiên vị và loại trừ người ngoài nhóm — đề thi hay hỏi mặt tích cực và tiêu cực này.",
+    "explain_ko": "연고는 혈연·지연·학연을 가리키며, 취미로 모인 동호회는 연고에 해당하지 않는다.",
+    "keywords": ["연고", "혈연", "학연"]
+  },
+  {
+    "id": "culture-007",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "전통 가치",
+    "points": 2,
+    "passage": null,
+    "q": "한국에서 웃어른을 대하는 예절로 옳지 않은 것은?",
+    "choices": [
+      "웃어른께 말할 때는 존댓말을 사용한다.",
+      "웃어른 앞에서 술을 마실 때는 고개를 옆으로 돌린다.",
+      "물건을 드리거나 받을 때는 두 손을 사용한다.",
+      "웃어른을 부를 때는 성과 이름을 그대로 부른다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Ở Hàn Quốc, gọi thẳng tên người lớn tuổi là rất bất lịch sự; phải dùng chức danh hoặc từ xưng hô kèm hậu tố kính ngữ như 님, 선생님, 아버님. ① dùng kính ngữ (존댓말), ② quay mặt sang bên khi uống rượu trước mặt người lớn, ③ đưa và nhận đồ bằng hai tay đều là phép lịch sự đúng. Việt Nam cũng tránh gọi thẳng tên người lớn, nên điểm này dễ nhớ; nhưng khác biệt là Hàn Quốc có hệ thống kính ngữ được ngữ pháp hóa rất chặt.",
+    "explain_ko": "웃어른의 이름을 그대로 부르는 것은 예의에 어긋나며, 직함이나 호칭에 '님'을 붙여 부른다.",
+    "keywords": ["예절", "존댓말", "호칭"]
+  },
+  {
+    "id": "culture-008",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "기본적인 의식주",
+    "points": 2,
+    "passage": null,
+    "q": "한복에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "여자 한복은 저고리와 치마, 남자 한복은 저고리와 바지가 기본이다.",
+      "한복은 색을 쓰지 않고 흰색으로만 만드는 것이 원칙이다.",
+      "한복은 몸에 꼭 맞게 만들어 움직이기 불편한 옷이다.",
+      "한복은 왕과 귀족만 입을 수 있었던 옷이다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Hanbok (한복) nữ gồm áo 저고리 và váy 치마, hanbok nam gồm 저고리 và quần 바지 — đây là cấu tạo cơ bản cần nhớ. ② sai vì hanbok dùng rất nhiều màu, đặc biệt 색동 (sọc ngũ sắc) cho trẻ em; người Hàn được gọi là 백의민족 (dân tộc áo trắng) nhưng không có nghĩa chỉ mặc trắng. ③ sai vì hanbok may rộng, thoải mái, đường nét mềm mại. ④ sai vì mọi tầng lớp đều mặc hanbok, chỉ khác chất liệu và màu sắc.",
+    "explain_ko": "한복은 여자는 저고리와 치마, 남자는 저고리와 바지가 기본 구성이며 여유 있게 만들어 활동이 편하다.",
+    "keywords": ["한복", "저고리", "의식주"]
+  },
+  {
+    "id": "culture-009",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "기본적인 의식주",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 기본적인 상차림에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "한 가지 요리씩 순서대로 내는 것이 기본이다.",
+      "밥과 국을 중심으로 여러 가지 반찬을 함께 차려 놓고 먹는다.",
+      "밥은 오른쪽, 국은 왼쪽에 놓는 것이 원칙이다.",
+      "반찬은 사람마다 한 가지씩만 따로 나누어 먹는다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Mâm cơm Hàn Quốc dọn tất cả cùng lúc: cơm (밥) và canh (국) là trung tâm, xung quanh là nhiều món phụ 반찬 — rất giống mâm cơm gia đình Việt Nam. ① là kiểu phục vụ từng món của ẩm thực phương Tây hoặc tiệc 한정식 cao cấp, không phải bữa thường. ③ ngược lại quy tắc: cơm đặt bên trái, canh bên phải người ăn. ④ sai vì 반찬 vốn được ăn chung cả nhà, dù gần đây nhiều nơi chia phần riêng vì vệ sinh.",
+    "explain_ko": "한식 상차림은 밥과 국을 중심으로 여러 반찬을 함께 차리며, 밥은 왼쪽 국은 오른쪽에 놓는다.",
+    "keywords": ["한식", "상차림", "반찬"]
+  },
+  {
+    "id": "culture-010",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "기본적인 의식주",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 김장 문화에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "한여름에 가족이 모여 김치를 담가 겨울까지 보관하는 풍습이다.",
+      "김치를 사 먹게 되면서 조선 시대에 완전히 사라진 풍습이다.",
+      "늦가을에 가족과 이웃이 모여 겨울에 먹을 김치를 함께 담그는 문화이다.",
+      "왕실에서만 하던 의식으로 일반 백성은 하지 않았다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 김장 là việc muối một lượng lớn kimchi vào cuối thu (khoảng tháng 11~12) để ăn suốt mùa đông, cả gia đình và hàng xóm cùng làm rồi chia nhau. ① sai về mùa, ② sai vì phong tục này vẫn tiếp tục đến ngày nay, ④ sai vì đây là văn hóa của toàn dân. 'Văn hóa Kimjang' (김장문화) đã được UNESCO ghi danh là Di sản văn hóa phi vật thể của nhân loại năm 2013 vì tinh thần chia sẻ cộng đồng — điểm này rất hay ra thi.",
+    "explain_ko": "김장은 늦가을에 가족과 이웃이 모여 겨울 동안 먹을 김치를 함께 담그는 문화로, 2013년 유네스코 인류무형문화유산에 등재되었다.",
+    "keywords": ["김장문화", "김치", "유네스코"]
+  },
+  {
+    "id": "culture-011",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "기본적인 의식주",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 지역별 김치의 특징에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "남쪽 지방 김치는 국물이 많고 간이 아주 싱거운 편이다.",
+      "북쪽 지방 김치는 젓갈을 많이 넣어 맛이 매우 짠 편이다.",
+      "지역과 관계없이 김치의 재료와 맛은 모두 똑같다.",
+      "남쪽 지방 김치는 젓갈을 많이 넣어 간이 짜고 맛이 진한 편이다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Miền Nam Hàn Quốc khí hậu ấm hơn nên kimchi dễ chua, người ta cho nhiều muối, mắm cá (젓갈) và ớt bột — vị mặn và đậm đà. Ngược lại, miền Bắc lạnh nên kimchi nhạt, nhiều nước, tiêu biểu là 동치미 và 백김치 — vì vậy ① và ② bị đảo ngược nên sai. ③ sai vì kimchi có hàng trăm loại khác nhau theo vùng và mùa. Người Việt quen với nước mắm sẽ thấy 젓갈 rất gần gũi: đó cũng là mắm cá lên men dùng để tạo vị umami cho kimchi.",
+    "explain_ko": "기온이 높은 남쪽 지방 김치는 젓갈과 소금을 많이 넣어 짜고 진하며, 북쪽 지방 김치는 싱겁고 국물이 많다.",
+    "keywords": ["김치", "지역별 김치", "젓갈"]
+  },
+  {
+    "id": "culture-012",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "기본적인 의식주",
+    "points": 2,
+    "passage": null,
+    "q": "한국 음식의 기본이 되는 장(醬)에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "메주로 간장과 된장을 만들며, 고추장은 고춧가루를 넣어 만든다.",
+      "간장은 쌀로만 만들고 된장은 밀가루로 만든다.",
+      "장은 담근 뒤 바로 먹어야 하며 오래 두면 먹을 수 없다.",
+      "고추장은 삼국 시대부터 가장 널리 쓰인 장이다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 메주 (bánh đậu tương lên men) là nguyên liệu gốc: ngâm trong nước muối rồi tách ra thành nước tương 간장 và tương đặc 된장; còn 고추장 được làm bằng cách thêm bột ớt và tinh bột. ② sai vì cả hai đều làm từ đậu nành. ③ sai vì đặc trưng của 장 là ủ càng lâu càng ngon, người ta để trong chum 장독 ngoài sân. ④ sai vì ớt chỉ du nhập vào Hàn Quốc khoảng thế kỷ 16~17, nên 고추장 ra đời muộn hơn nhiều. 'Văn hóa làm tương' (장 담그기 문화) đã được UNESCO ghi danh năm 2024.",
+    "explain_ko": "메주를 소금물에 담가 간장과 된장을 만들고, 고추장은 고춧가루를 넣어 만들며, 장은 오래 숙성할수록 맛이 깊어진다.",
+    "keywords": ["장", "된장", "메주"]
+  },
+  {
+    "id": "culture-013",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "기본적인 의식주",
+    "points": 2,
+    "passage": null,
+    "q": "한옥의 온돌에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "천장에서 더운 바람을 내보내 방 안을 데우는 방식이다.",
+      "아궁이에 불을 때어 방바닥을 데우는 한국의 전통 난방 방식이다.",
+      "여름을 시원하게 보내기 위해 만든 나무 바닥 공간이다.",
+      "벽 안에 물을 채워 방 안의 습도를 조절하는 장치이다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 온돌 là hệ thống sưởi truyền thống: đốt lửa ở bếp lò 아궁이, hơi nóng đi qua đường khói dưới nền nhà làm ấm sàn, nên người Hàn ngồi và ngủ trên sàn. ③ là mô tả của 마루/대청 — sàn gỗ dùng cho mùa hè, đúng nhưng không phải 온돌. ① và ④ hoàn toàn không tồn tại trong kiến trúc hanok. Ngày nay căn hộ Hàn Quốc vẫn dùng nguyên lý này dưới dạng sàn nước nóng, và đó là lý do người Hàn luôn cởi giày trước khi vào nhà.",
+    "explain_ko": "온돌은 아궁이에 불을 때어 방바닥을 데우는 한국의 전통 난방 방식으로, 오늘날 아파트 바닥 난방으로 이어진다.",
+    "keywords": ["온돌", "한옥", "아궁이"]
+  },
+  {
+    "id": "culture-014",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "기본적인 의식주",
+    "points": 2,
+    "passage": null,
+    "q": "한옥에서 다음 설명에 해당하는 공간으로 옳은 것은?\n방과 방 사이에 있는 나무 바닥 공간으로, 바람이 잘 통해 더운 여름을 시원하게 보내기에 좋다.",
+    "choices": [
+      "아궁이",
+      "온돌",
+      "대청마루",
+      "장독대"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 대청마루 là khoảng sàn gỗ nằm giữa các phòng của nhà hanok, thoáng gió, dùng để sinh hoạt vào mùa hè. ① 아궁이 là bếp lò để đốt lửa, ② 온돌 là hệ thống sưởi sàn dùng cho mùa đông, ④ 장독대 là khoảng sân đặt các chum tương. Hanok kết hợp cả 온돌 (chống lạnh mùa đông) và 마루 (chống nóng mùa hè) trong một ngôi nhà — đó chính là cách kiến trúc Hàn thích ứng với khí hậu bốn mùa rõ rệt, khác với nhà Việt Nam vốn chỉ cần chống nóng ẩm.",
+    "explain_ko": "대청마루는 방과 방 사이의 나무 바닥 공간으로 통풍이 잘되어 여름을 시원하게 보내는 데 알맞다.",
+    "keywords": ["대청마루", "한옥", "마루"]
+  },
+  {
+    "id": "culture-015",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "기본적인 의식주",
+    "points": 2,
+    "passage": null,
+    "q": "다음 중 한국의 대표적인 발효 식품에 해당하지 않는 것은?",
+    "choices": [
+      "된장",
+      "젓갈",
+      "김치",
+      "잡채"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 잡채 là món miến xào với rau và thịt, chế biến bằng cách xào chứ không qua quá trình lên men. ① 된장 (tương đậu), ② 젓갈 (mắm hải sản), ③ 김치 đều là thực phẩm lên men (발효 식품) tiêu biểu của Hàn Quốc. Ẩm thực Hàn Quốc gắn liền với văn hóa lên men và bảo quản lâu dài do mùa đông khắc nghiệt; người Việt có thể liên hệ với nước mắm và dưa muối để dễ nhớ nhóm 발효 식품 này.",
+    "explain_ko": "된장·젓갈·김치는 발효 식품이지만, 잡채는 볶아서 만드는 음식으로 발효 식품이 아니다.",
+    "keywords": ["발효 식품", "젓갈", "한식"]
+  },
+  {
+    "id": "culture-016",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "기본적인 의식주",
+    "points": 2,
+    "passage": null,
+    "q": "오늘날 한국인의 의생활에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "평소에는 양복이나 편한 옷을 입고 명절·결혼식 등에 한복을 입기도 한다.",
+      "법으로 정해져 있어 명절에는 반드시 한복을 입어야 한다.",
+      "한복은 결혼식에서만 입을 수 있고 다른 날에는 입지 못한다.",
+      "요즘에는 한복을 만들지 않아 구하기 어렵다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Người Hàn ngày nay mặc âu phục trong sinh hoạt hằng ngày, còn hanbok được mặc vào dịp đặc biệt như Tết (설날), Trung thu (추석), lễ cưới, tiệc thôi nôi (돌잔치). ② sai vì không có luật nào bắt buộc mặc hanbok, ③ sai vì hanbok được mặc trong nhiều dịp chứ không riêng đám cưới. ④ sai vì hanbok vẫn được may bán và cho thuê rộng rãi — quanh 경복궁 có nhiều tiệm cho thuê, khách mặc hanbok còn được miễn phí vé vào cung. Gần đây 개량한복 (hanbok cách tân) cũng phổ biến như trang phục thường ngày.",
+    "explain_ko": "오늘날에는 평소에 양복 등 현대 의복을 입고 명절이나 결혼식 같은 특별한 날에 한복을 입는 경우가 많다.",
+    "keywords": ["한복", "의생활", "개량한복"]
+  },
+  {
+    "id": "culture-017",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 의례",
+    "points": 2,
+    "passage": null,
+    "q": "아기의 첫 번째 생일에 하는 '돌잡이'에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "아기에게 처음으로 이름을 지어 주는 의식이다.",
+      "여러 물건을 놓아 아기가 잡는 것으로 앞날을 점쳐 보는 풍습이다.",
+      "아기가 태어난 지 백 일이 되는 날에 하는 의식이다.",
+      "아기의 첫 머리카락을 잘라 보관하는 풍습이다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 돌잡이 là nghi thức trong tiệc thôi nôi (돌잔치) khi bé tròn một tuổi: đặt trước mặt bé các vật như chỉ (sống lâu), tiền (giàu có), bút hoặc sách (học giỏi) rồi xem bé cầm vật nào để đoán tương lai. ③ sai vì mốc 100 ngày là 백일잔치, một dịp riêng khác. ① và ④ không phải nội dung của 돌잡이. Phong tục này gần giống lễ 'thôi nôi bốc đồ' ở Việt Nam, nên rất dễ nhớ; ngày nay nhiều gia đình Hàn tổ chức 돌잔치 ở nhà hàng hoặc trung tâm tiệc.",
+    "explain_ko": "돌잡이는 돌잔치에서 아기 앞에 여러 물건을 놓고 아기가 잡는 물건으로 장래를 점쳐 보는 풍습이다.",
+    "keywords": ["돌잔치", "돌잡이", "의례"]
+  },
+  {
+    "id": "culture-018",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 의례",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 성년의 날에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "매년 3월 첫째 주 일요일에 열리는 기념일이다.",
+      "만 15세가 되는 청소년을 축하하는 날이다.",
+      "매년 5월 셋째 월요일로, 성인이 된 것을 축하하는 날이다.",
+      "법으로 정한 공휴일이어서 학교와 회사가 모두 쉰다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 성년의 날 rơi vào thứ Hai tuần thứ ba của tháng 5 hằng năm, chúc mừng những người tròn 19 tuổi (만 19세) chính thức trở thành người lớn — nên ① sai ngày và ② sai độ tuổi. ④ sai vì đây là 법정기념일 (ngày kỷ niệm theo luật) chứ không phải ngày nghỉ lễ, mọi người vẫn đi học và đi làm. Món quà truyền thống trong ngày này là hoa hồng, nước hoa và nụ hôn; từ 만 19세, người đó mới được mua rượu, thuốc lá và đi bầu cử.",
+    "explain_ko": "성년의 날은 매년 5월 셋째 월요일로 만 19세가 된 사람을 축하하는 법정기념일이며 공휴일은 아니다.",
+    "keywords": ["성년의 날", "만 19세", "의례"]
+  },
+  {
+    "id": "culture-019",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 의례",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 결혼 문화에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "결혼식이 끝난 뒤 집안 어른들께 인사드리는 폐백을 하기도 한다.",
+      "요즘에는 예식장이나 호텔에서 결혼식을 올리는 경우가 많다.",
+      "결혼식에 초대받은 손님은 축의금을 내는 것이 일반적이다.",
+      "신부는 반드시 한복만 입어야 하며 웨딩드레스는 입을 수 없다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Đám cưới Hàn Quốc hiện đại chủ yếu theo kiểu phương Tây: cô dâu mặc váy cưới, sau đó mới thay hanbok để làm lễ 폐백 chào người lớn trong gia đình — nên không hề có quy định chỉ được mặc hanbok. ① 폐백 là nghi thức cô dâu chú rể cúi lạy bậc trên và nhận táo tàu, hạt dẻ cầu con cái. ② đúng vì phần lớn cưới tại 예식장 hoặc khách sạn. ③ đúng: khách bỏ tiền mừng 축의금 vào phong bì trắng, khác với phong bì đỏ ở Việt Nam.",
+    "explain_ko": "오늘날 결혼식에서는 웨딩드레스를 입고 예식 후 한복으로 갈아입어 폐백을 드리는 경우가 많다.",
+    "keywords": ["결혼식", "폐백", "축의금"]
+  },
+  {
+    "id": "culture-020",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 의례",
+    "points": 2,
+    "passage": "부모님의 장수를 축하하는 잔치 가운데 61세가 되는 해에 하는 것을 (㉠)(이)라 하고, 70세가 되는 해에 하는 것을 (㉡)(이)라고 한다.",
+    "q": "윗글의 (㉠), (㉡)에 각각 들어갈 내용으로 옳은 것은?",
+    "choices": [
+      "㉠ 회갑 ㉡ 칠순",
+      "㉠ 칠순 ㉡ 회갑",
+      "㉠ 백일 ㉡ 회갑",
+      "㉠ 회갑 ㉡ 팔순"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 회갑 (回甲, còn gọi 환갑) là mừng thọ tuổi 61 — nghĩa là vòng 60 can chi đã quay trở lại một lần; 칠순 (七旬, còn gọi 고희) là mừng thọ tuổi 70. ② bị đảo ngược, ③ sai vì 백일 là lễ 100 ngày của em bé, ④ sai vì 팔순 là tuổi 80. Lưu ý các tuổi này tính theo 세는 나이 (tuổi mụ) chứ không phải tuổi tròn, và ngày nay do tuổi thọ tăng nên nhiều gia đình tổ chức 칠순 hoặc 팔순 lớn hơn 회갑.",
+    "explain_ko": "61세에 하는 장수 축하 잔치를 회갑(환갑), 70세에 하는 잔치를 칠순(고희)이라고 한다.",
+    "keywords": ["회갑", "칠순", "의례"]
+  },
+  {
+    "id": "culture-021",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 의례",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 장례 문화에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "문상을 갈 때는 밝고 화려한 색의 옷을 입는 것이 예의이다.",
+      "보통 사흘 동안 장례를 치르는 삼일장이 일반적이다.",
+      "조의금 봉투에는 '축 결혼'이라고 써서 낸다.",
+      "장례식장에 갈 때는 화려한 꽃다발을 준비하는 것이 예의이다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Tang lễ Hàn Quốc thường kéo dài ba ngày (삼일장), tổ chức tại 장례식장 trong bệnh viện, ngày thứ ba đưa đi an táng hoặc hỏa táng. ① sai vì người đi viếng (문상) phải mặc đồ tối màu, chủ yếu là đen. ③ sai vì phong bì phúng viếng ghi 부의(賻儀) hoặc 조의(弔意); '축 결혼' là dùng cho đám cưới. ④ sai vì người ta gửi vòng hoa chia buồn 조화 màu trắng chứ không mang bó hoa rực rỡ. Ở nơi viếng, khách cúi lạy trước di ảnh rồi chào gia quyến — nghi thức này gần với Việt Nam nhưng màu tang chủ đạo là đen thay vì trắng.",
+    "explain_ko": "한국의 장례는 보통 삼일장으로 치르며, 문상 시에는 어두운 색 옷을 입고 봉투에 '부의'라고 쓴다.",
+    "keywords": ["장례", "삼일장", "부의"]
+  },
+  {
+    "id": "culture-022",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 의례",
+    "points": 2,
+    "passage": null,
+    "q": "차례와 제사(기제사)에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "차례는 돌아가신 날에 지내고, 제사는 명절에 지낸다.",
+      "차례와 제사는 이름만 다를 뿐 지내는 날이 서로 같다.",
+      "차례는 설·추석 같은 명절 아침에, 제사는 돌아가신 날에 지낸다.",
+      "차례와 제사는 모두 결혼을 앞두고 지내는 의식이다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 차례 là nghi lễ cúng tổ tiên vào buổi sáng các ngày Tết lớn như 설날 và 추석, hình thức giản lược; còn 기제사 là giỗ, cúng vào ngày mất của người đã khuất và thường tiến hành vào đêm khuya. ① đảo ngược hai khái niệm, ② sai vì ngày cúng hoàn toàn khác nhau, ④ sai vì cả hai không liên quan đến hôn lễ. Người Việt vốn quen với đám giỗ nên dễ hiểu 기제사; điểm cần nhớ để làm bài là 차례 = ngày lễ Tết + buổi sáng, 제사 = ngày mất + ban đêm.",
+    "explain_ko": "차례는 설·추석 등 명절 아침에 지내는 간소한 의례이고, 기제사는 조상이 돌아가신 날에 지내는 제사이다.",
+    "keywords": ["차례", "제사", "기제사"]
+  },
+  {
+    "id": "culture-023",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 의례",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 의례로 옳은 것은?\n아기가 태어난 지 100일이 되는 날을 축하하는 것으로, 예로부터 아기가 무사히 자란 것을 기뻐하며 흰떡을 이웃과 나누어 먹었다.",
+    "choices": [
+      "돌잔치",
+      "회갑연",
+      "성년례",
+      "백일잔치"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 백일잔치 là lễ mừng em bé tròn 100 ngày tuổi; ngày xưa tỉ lệ trẻ tử vong cao nên sống qua 100 ngày là điều đáng mừng, gia đình chia bánh gạo trắng 백설기 cho hàng xóm để cầu phúc. ① 돌잔치 là tiệc tròn 1 tuổi, ② 회갑연 là mừng thọ 61 tuổi, ③ 성년례 là lễ trưởng thành. Thứ tự các nghi lễ vòng đời cần nhớ: 백일 → 돌 → 성년례 → 결혼식 → 회갑·칠순 → 장례·제사.",
+    "explain_ko": "백일잔치는 아기가 태어난 지 100일 되는 날을 축하하는 의례로, 백설기 등 흰떡을 이웃과 나누었다.",
+    "keywords": ["백일잔치", "백설기", "통과의례"]
+  },
+  {
+    "id": "culture-024",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "주요 명절",
+    "points": 2,
+    "passage": null,
+    "q": "설날에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "음력 1월 1일로, 떡국을 먹으며 새해를 시작한다.",
+      "음력 8월 15일로, 송편을 빚어 먹는다.",
+      "양력 1월 1일에만 지내며 음력으로는 지내지 않는다.",
+      "한 해 농사를 마친 것에 감사하며 성묘를 가는 날이다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 설날 là mùng 1 tháng Giêng âm lịch, tương ứng với Tết Nguyên đán của Việt Nam; món ăn tiêu biểu là 떡국 (canh bánh gạo), ăn xong được coi như thêm một tuổi. ② là mô tả của 추석, ④ cũng là đặc trưng của 추석 (tạ ơn mùa màng, đi tảo mộ 성묘). ③ sai vì 설날 tính theo âm lịch và là kỳ nghỉ ba ngày; ngày 1/1 dương lịch gọi riêng là 신정. Ở Hàn cũng có tục về quê 귀성 gây tắc đường giống dịp Tết ở Việt Nam.",
+    "explain_ko": "설날은 음력 1월 1일로 떡국을 먹고 차례와 세배를 하며 새해를 시작하는 한국 최대의 명절이다.",
+    "keywords": ["설날", "떡국", "명절"]
+  },
+  {
+    "id": "culture-025",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "주요 명절",
+    "points": 2,
+    "passage": null,
+    "q": "설날의 세배에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "친구들끼리 서로 손을 잡고 나누는 인사이다.",
+      "새해 아침에 웃어른께 큰절을 올리는 인사로, 어른은 덕담을 해 준다.",
+      "조상의 산소를 찾아가 절을 하고 돌보는 일이다.",
+      "이웃에게 음식을 나누어 주며 복을 비는 풍습이다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 세배 là nghi thức con cháu quỳ lạy (큰절) chúc Tết ông bà cha mẹ vào sáng mùng 1; người lớn đáp lại bằng lời chúc tốt lành 덕담 và thường cho trẻ em tiền mừng tuổi 세뱃돈. ③ là 성묘 (tảo mộ), thường làm vào 추석 hoặc 한식, không phải 세배. ① và ④ không phải nghi thức 세배. Câu chúc quen thuộc là '새해 복 많이 받으세요' — tương ứng với 'Chúc mừng năm mới' của Việt Nam, và 세뱃돈 chính là tiền lì xì.",
+    "explain_ko": "세배는 설날 아침에 웃어른께 큰절을 올리는 인사이며, 어른은 덕담과 함께 세뱃돈을 주기도 한다.",
+    "keywords": ["세배", "세뱃돈", "덕담"]
+  },
+  {
+    "id": "culture-026",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "주요 명절",
+    "points": 2,
+    "passage": null,
+    "q": "추석에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "음력 1월 15일로 부럼을 깨물며 건강을 빈다.",
+      "음력 5월 5일로 창포물에 머리를 감는다.",
+      "음력 8월 15일로 송편을 빚고 조상의 산소에 성묘를 간다.",
+      "양력 12월 22일경으로 팥죽을 먹으며 나쁜 기운을 막는다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 추석 (còn gọi 한가위) là rằm tháng 8 âm lịch — trùng dịp Tết Trung thu của Việt Nam, nhưng ý nghĩa khác hẳn: đây là lễ tạ ơn mùa màng, cả nhà làm bánh 송편, cúng 차례 và đi tảo mộ 성묘. ① là 정월대보름, ② là 단오, ④ là 동지. Ở Việt Nam Trung thu là ngày hội của trẻ em với bánh nướng bánh dẻo và đèn lồng, còn ở Hàn Quốc đây là kỳ nghỉ lớn nhất trong năm cùng với 설날, mọi người về quê thăm gia đình.",
+    "explain_ko": "추석은 음력 8월 15일로 송편을 빚어 먹고 차례를 지내며 조상의 산소에 성묘를 가는 명절이다.",
+    "keywords": ["추석", "송편", "성묘"]
+  },
+  {
+    "id": "culture-027",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "주요 명절",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 것으로 옳은 것은?\n주로 추석 무렵 보름달이 뜬 밤에 여성들이 손을 잡고 둥글게 돌면서 노래하고 춤추는 놀이로, 유네스코 인류무형문화유산에 등재되었다.",
+    "choices": [
+      "탈춤",
+      "농악",
+      "판소리",
+      "강강술래"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 강강술래 là điệu múa vòng tròn của phụ nữ dưới ánh trăng rằm, phổ biến ở vùng Jeolla và thường được biểu diễn vào dịp 추석; được UNESCO ghi danh năm 2009. ① 탈춤 là múa mặt nạ, ② 농악 là nhạc trống của nông dân, ③ 판소리 là hát kể chuyện với một người hát và một người đánh trống — cả ba cũng là di sản UNESCO nhưng không phải điệu múa vòng tròn dưới trăng. Đề thi hay hỏi nối tên di sản với đặc điểm, nên cần nhớ hình ảnh đặc trưng của từng loại.",
+    "explain_ko": "강강술래는 추석 무렵 보름달 아래에서 여성들이 손을 잡고 둥글게 돌며 노래하는 놀이로 유네스코 인류무형문화유산이다.",
+    "keywords": ["강강술래", "추석", "유네스코"]
+  },
+  {
+    "id": "culture-028",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "주요 명절",
+    "points": 2,
+    "passage": null,
+    "q": "정월대보름의 풍습으로 옳은 것은?",
+    "choices": [
+      "호두·땅콩 같은 딱딱한 부럼을 깨물며 한 해의 건강을 빈다.",
+      "송편을 빚어 조상께 차례를 지내고 성묘를 간다.",
+      "창포물에 머리를 감고 그네뛰기를 즐긴다.",
+      "긴 밤을 지내기 위해 팥죽을 쑤어 대문에 뿌린다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 정월대보름 là rằm tháng Giêng âm lịch; sáng sớm người ta cắn vỡ các loại hạt cứng như óc chó, lạc, hạt dẻ (gọi là 부럼) để cầu răng chắc và không bị mụn nhọt suốt năm. ② là phong tục của 추석, ③ là của 단오, ④ là của 동지. Ngoài 부럼, ngày này còn ăn 오곡밥 (cơm ngũ cốc) và rau khô 나물, uống 귀밝이술 và đốt 달집 để cầu mùa màng bội thu.",
+    "explain_ko": "정월대보름에는 부럼을 깨물어 건강을 빌고 오곡밥과 나물을 먹으며 달집태우기 등을 한다.",
+    "keywords": ["정월대보름", "부럼", "오곡밥"]
+  },
+  {
+    "id": "culture-029",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "주요 명절",
+    "points": 2,
+    "passage": null,
+    "q": "다음 중 정월대보름과 관계가 없는 것은?",
+    "choices": [
+      "오곡밥",
+      "떡국",
+      "달집태우기",
+      "귀밝이술"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 떡국 là món canh bánh gạo ăn vào 설날 (mùng 1 Tết âm lịch), không liên quan đến 정월대보름. ① 오곡밥 là cơm nấu từ năm loại ngũ cốc, ③ 달집태우기 là tục đốt đống rơm hình ngôi nhà khi trăng lên để cầu mùa màng, ④ 귀밝이술 là ly rượu lạnh uống buổi sáng với mong ước tai thính và nghe được nhiều tin vui — cả ba đều là phong tục của rằm tháng Giêng. Cần phân biệt rõ: 설날 = 떡국, 정월대보름 = 오곡밥, 추석 = 송편, 동지 = 팥죽.",
+    "explain_ko": "떡국은 설날 음식이며, 오곡밥·달집태우기·귀밝이술은 정월대보름의 풍습이다.",
+    "keywords": ["정월대보름", "귀밝이술", "달집태우기"]
+  },
+  {
+    "id": "culture-030",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "주요 명절",
+    "points": 2,
+    "passage": null,
+    "q": "단오에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "음력 8월 15일로 송편을 빚어 먹는 가을 명절이다.",
+      "음력 1월 1일로 떡국을 먹고 세배를 하는 명절이다.",
+      "음력 5월 5일로 창포물에 머리를 감고 그네뛰기와 씨름을 즐겼다.",
+      "일 년 중 밤이 가장 긴 날로 팥죽을 먹는 절기이다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 단오 (còn gọi 수릿날) rơi vào mùng 5 tháng 5 âm lịch, là lễ đầu hè cầu mùa màng; phụ nữ gội đầu bằng nước lá 창포 để tóc bóng khỏe và xua tà, còn dân làng chơi đu 그네뛰기 và đấu vật 씨름. ① là 추석, ② là 설날, ④ là 동지. Món ăn tiêu biểu ngày 단오 là 수리취떡 (bánh gạo lá 수리취 hình bánh xe); lễ hội 강릉단오제 đã được UNESCO ghi danh năm 2005. Việt Nam cũng có Tết Đoan Ngọ cùng ngày mùng 5/5 nhưng ăn rượu nếp và trái cây để 'giết sâu bọ'.",
+    "explain_ko": "단오는 음력 5월 5일로 창포물에 머리를 감고 수리취떡을 먹으며 그네뛰기와 씨름을 즐긴 명절이다.",
+    "keywords": ["단오", "창포물", "수리취떡"]
+  },
+  {
+    "id": "culture-031",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "주요 명절",
+    "points": 2,
+    "passage": null,
+    "q": "동지에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "일 년 중 낮이 가장 긴 날로 오곡밥을 지어 먹는다.",
+      "음력 5월 5일로 수리취떡을 만들어 먹는 여름 명절이다.",
+      "설날 다음 날로 어른들께 세배를 드리는 날이다.",
+      "일 년 중 밤이 가장 긴 날로 팥죽을 쑤어 먹으며 나쁜 기운을 막는다고 여겼다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. 동지 rơi vào khoảng ngày 22 tháng 12 dương lịch, là ngày có đêm dài nhất trong năm; người Hàn nấu cháo đậu đỏ 팥죽 và ăn, thậm chí rưới quanh nhà vì tin màu đỏ xua đuổi tà khí. ① sai vì 동지 là ngày ngày ngắn nhất và 오곡밥 thuộc 정월대보름, ② là 단오, ③ hoàn toàn không đúng vì 동지 không liên quan đến 설날. Trong 팥죽 có 새알심 (viên bột gạo tròn), và có câu nói xưa rằng ăn 팥죽 ngày 동지 thì thêm một tuổi.",
+    "explain_ko": "동지는 일 년 중 밤이 가장 긴 날로, 붉은 팥죽을 쑤어 먹으며 나쁜 기운을 물리친다고 여겼다.",
+    "keywords": ["동지", "팥죽", "절기"]
+  },
+  {
+    "id": "culture-032",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "주요 명절",
+    "points": 2,
+    "passage": null,
+    "q": "설날에 주로 즐기는 전통 놀이로 알맞은 것은?",
+    "choices": [
+      "윷놀이",
+      "그네뛰기",
+      "강강술래",
+      "달집태우기"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 윷놀이 là trò chơi ném bốn thanh gỗ 윷 rồi di chuyển quân trên bàn cờ, được cả gia đình chơi trong dịp 설날; 연날리기 (thả diều) và 널뛰기 (bập bênh đứng) cũng là trò chơi ngày Tết. ② 그네뛰기 thuộc 단오, ③ 강강술래 thuộc 추석, ④ 달집태우기 thuộc 정월대보름. Đề thi rất hay hỏi kiểu nối 'ngày lễ ↔ trò chơi dân gian', nên hãy nhớ theo cặp cố định này.",
+    "explain_ko": "윷놀이는 설날에 온 가족이 함께 즐기는 대표적인 전통 놀이이며, 연날리기와 널뛰기도 설 놀이이다.",
+    "keywords": ["윷놀이", "설날", "민속놀이"]
+  },
+  {
+    "id": "culture-033",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "주요 명절",
+    "points": 2,
+    "passage": null,
+    "q": "명절과 그 명절에 먹는 대표 음식이 바르게 짝지어진 것은?",
+    "choices": [
+      "설날 – 송편",
+      "추석 – 송편",
+      "동지 – 오곡밥",
+      "단오 – 떡국"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 송편 là bánh gạo hình bán nguyệt hấp trên lá thông, món tiêu biểu của 추석 — cả nhà cùng nặn bánh vào đêm trước lễ. ① sai vì món của 설날 là 떡국. ③ sai vì 동지 ăn 팥죽, còn 오곡밥 thuộc 정월대보름. ④ sai vì 단오 ăn 수리취떡. Bảng ghép cần thuộc lòng: 설날–떡국, 정월대보름–오곡밥, 단오–수리취떡, 추석–송편, 동지–팥죽.",
+    "explain_ko": "송편은 추석의 대표 음식이며, 설날은 떡국, 정월대보름은 오곡밥, 동지는 팥죽, 단오는 수리취떡을 먹는다.",
+    "keywords": ["명절 음식", "송편", "추석"]
+  },
+  {
+    "id": "culture-034",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 종교 생활",
+    "points": 2,
+    "passage": null,
+    "q": "다음 중 한국의 불교 문화유산에 해당하지 않는 것은?",
+    "choices": [
+      "불국사",
+      "석굴암",
+      "종묘",
+      "팔만대장경"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. 종묘 là tông miếu thờ bài vị các vua và hoàng hậu triều Joseon — đây là di sản của Nho giáo (유교), không phải Phật giáo. ① 불국사 và ② 석굴암 ở Gyeongju là hai công trình Phật giáo tiêu biểu thời Silla, ④ 팔만대장경 là bộ mộc bản kinh Phật được khắc thời Goryeo, lưu giữ tại chùa 해인사. Cả bốn đều là Di sản thế giới UNESCO, nhưng phân loại tôn giáo khác nhau — đây chính là điểm bẫy của câu hỏi này.",
+    "explain_ko": "불국사·석굴암·팔만대장경은 불교 문화유산이지만, 종묘는 조선 왕과 왕비의 신주를 모신 유교 문화유산이다.",
+    "keywords": ["불교 문화유산", "종묘", "불국사"]
+  },
+  {
+    "id": "culture-035",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 종교 생활",
+    "points": 2,
+    "passage": null,
+    "q": "유교가 한국 문화에 끼친 영향으로 옳지 않은 것은?",
+    "choices": [
+      "어른을 공경하고 예절을 지키는 것을 중요하게 여긴다.",
+      "조상에게 제사를 지내는 문화가 오늘날까지 이어지고 있다.",
+      "가족과 친척 사이의 관계와 호칭을 자세히 구분한다.",
+      "부처의 가르침을 따라 절에서 연등을 다는 행사를 한다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Treo đèn lồng 연등 ở chùa là hoạt động của Phật giáo trong dịp Lễ Phật Đản (부처님 오신 날), không phải ảnh hưởng của Nho giáo. ①②③ đều là dấu ấn Nho giáo (유교) trong đời sống Hàn Quốc: coi trọng lễ nghĩa và kính lão, duy trì cúng giỗ tổ tiên, và có hệ thống từ xưng hô họ hàng cực kỳ chi tiết. Việt Nam cũng chịu ảnh hưởng Nho giáo tương tự nên dễ hiểu; lưu ý 연등회 (Lễ hội đèn lồng) đã được UNESCO ghi danh năm 2020.",
+    "explain_ko": "연등을 다는 행사는 불교의 부처님 오신 날 행사이며, 경로·예절·제사·친족 호칭은 유교의 영향이다.",
+    "keywords": ["유교", "제사", "연등회"]
+  },
+  {
+    "id": "culture-036",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 종교 생활",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 종교 생활과 관련된 설명으로 옳은 것은?",
+    "choices": [
+      "기독교·천주교의 영향으로 성탄절(12월 25일)이 공휴일로 지정되어 있다.",
+      "국가가 정한 하나의 종교만 믿도록 법으로 정해져 있다.",
+      "불교의 영향이 커서 부처님 오신 날만 공휴일로 정해져 있다.",
+      "외국인은 한국에서 종교 활동에 참여할 수 없도록 제한하고 있다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Do ảnh hưởng của Cơ Đốc giáo và Công giáo, ngày Giáng sinh 25/12 (성탄절) là ngày nghỉ lễ chính thức ở Hàn Quốc. ③ sai vì cả 부처님 오신 날 (mùng 8 tháng 4 âm lịch) lẫn 성탄절 đều là ngày nghỉ — đây là nét đặc trưng cho thấy hai tôn giáo lớn cùng được tôn trọng. ② sai vì Hiến pháp Hàn Quốc bảo đảm tự do tín ngưỡng và không có quốc giáo. ④ sai vì người nước ngoài hoàn toàn tự do sinh hoạt tôn giáo; nhiều nhà thờ và chùa còn tổ chức lễ bằng tiếng Việt cho cộng đồng người Việt.",
+    "explain_ko": "한국은 종교의 자유가 보장되며, 성탄절과 부처님 오신 날이 모두 공휴일로 지정되어 있다.",
+    "keywords": ["종교의 자유", "성탄절", "부처님 오신 날"]
+  },
+  {
+    "id": "culture-037",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 종교 생활",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 것으로 옳은 것은?\n무당이 노래와 춤으로 신에게 사람의 소원을 전하고 복을 빌거나 나쁜 기운을 쫓아낸다고 여겨 온 한국의 전통 의식이다.",
+    "choices": [
+      "차례",
+      "굿",
+      "성묘",
+      "폐백"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 굿 là nghi lễ của tín ngưỡng dân gian 무속: 무당 (bà đồng/ông đồng) hát và múa để truyền lời cầu nguyện tới thần linh, cầu phúc hoặc trừ tà. ① 차례 là cúng tổ tiên ngày lễ Tết, ③ 성묘 là đi tảo mộ, ④ 폐백 là nghi thức chào họ hàng sau lễ cưới — cả ba đều thuộc nghi lễ gia đình chứ không phải nghi lễ shaman. 무속 tồn tại từ trước khi Phật giáo và Nho giáo du nhập và vẫn còn ảnh hưởng đến nay, ví dụ tục xem ngày tốt hay đi xem bói đầu năm — điểm này khá giống tín ngưỡng dân gian Việt Nam như hầu đồng.",
+    "explain_ko": "굿은 무당이 노래와 춤으로 신에게 소원을 전하고 복을 빌거나 액운을 물리치는 무속 의식이다.",
+    "keywords": ["굿", "무속", "무당"]
+  },
+  {
+    "id": "culture-038",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "다양한 종교 생활",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 종교 문화에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "헌법에 국교가 정해져 있어 다른 종교는 믿을 수 없다.",
+      "한 가정 안에서는 모든 가족이 같은 종교를 믿어야 한다.",
+      "불교·기독교·천주교·유교 등 여러 종교가 함께 어울려 있다.",
+      "종교 시설은 신도가 아닌 사람에게는 전혀 공개되지 않는다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Đặc trưng nổi bật của Hàn Quốc là nhiều tôn giáo cùng tồn tại hòa bình: Phật giáo, Tin Lành, Công giáo, Nho giáo và cả tín ngưỡng dân gian 무속. ① sai vì Hiến pháp quy định tự do tín ngưỡng và tách biệt tôn giáo với nhà nước, không có quốc giáo. ② sai vì mỗi thành viên trong gia đình có thể theo tôn giáo khác nhau, chuyện này rất bình thường ở Hàn. ④ sai vì chùa và nhà thờ đều mở cửa cho khách tham quan, thậm chí có chương trình 템플스테이 (ở lại chùa) dành cho cả người nước ngoài.",
+    "explain_ko": "한국은 국교가 없고 종교의 자유가 보장되며, 불교·기독교·천주교·유교 등 여러 종교가 공존한다.",
+    "keywords": ["종교 공존", "종교의 자유", "템플스테이"]
+  },
+  {
+    "id": "culture-039",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "대중문화",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 대중문화에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "K-POP은 국내에서만 인기가 있고 해외에는 거의 알려지지 않았다.",
+      "한류는 1950년대에 시작되었다가 지금은 사라진 현상이다.",
+      "한국 드라마는 자막이나 더빙 없이 국내에서만 방송된다.",
+      "K-POP 가수들이 세계 여러 나라에서 공연하며 한국 문화에 대한 관심을 높이고 있다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Các nhóm nhạc K-POP lưu diễn khắp thế giới, đứng đầu nhiều bảng xếp hạng quốc tế và trở thành động lực khiến người nước ngoài quan tâm đến tiếng Hàn, ẩm thực và du lịch Hàn Quốc. ① sai vì K-POP nổi tiếng toàn cầu. ② sai vì 한류 bắt đầu từ cuối những năm 1990 với phim truyền hình lan sang Trung Quốc, Việt Nam, Nhật Bản, và vẫn đang tiếp diễn. ③ sai vì phim Hàn được phát hành kèm phụ đề và lồng tiếng ở rất nhiều nước, trong đó Việt Nam là một trong những thị trường sớm nhất.",
+    "explain_ko": "K-POP 가수들의 해외 공연과 활동은 세계적으로 한국 문화에 대한 관심을 높이는 데 큰 역할을 하고 있다.",
+    "keywords": ["K-POP", "대중문화", "한류"]
+  },
+  {
+    "id": "culture-040",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "대중문화",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 한국 영화로 옳은 것은?\n2019년 칸 영화제에서 황금종려상을 받고, 2020년 미국 아카데미 시상식에서 작품상을 받은 봉준호 감독의 작품이다.",
+    "choices": [
+      "기생충",
+      "올드보이",
+      "명량",
+      "미나리"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 기생충 (Ký sinh trùng) của đạo diễn 봉준호 đoạt Cành cọ vàng tại Liên hoan phim Cannes 2019 và tiếp đó giành giải Phim hay nhất tại Oscar 2020 — lần đầu tiên một phim không nói tiếng Anh đoạt giải này. ② 올드보이 của 박찬욱 đoạt Grand Prix Cannes 2004 nhưng không có Oscar. ③ 명량 là phim lịch sử về tướng 이순신, ăn khách trong nước nhưng không đoạt các giải trên. ④ 미나리 là phim Mỹ về gia đình gốc Hàn, nữ diễn viên 윤여정 đoạt Oscar vai phụ 2021 — dễ nhầm nên cần phân biệt.",
+    "explain_ko": "봉준호 감독의 「기생충」은 2019년 칸 영화제 황금종려상과 2020년 아카데미 작품상을 받았다.",
+    "keywords": ["기생충", "봉준호", "한국 영화"]
+  },
+  {
+    "id": "culture-041",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "대중문화",
+    "points": 2,
+    "passage": null,
+    "q": "'한류(韓流)'의 뜻으로 가장 알맞은 것은?",
+    "choices": [
+      "외국의 대중문화가 한국에 들어와 크게 유행하는 현상",
+      "한국의 드라마·음악·영화 등 대중문화가 외국에서 인기를 얻는 현상",
+      "한국 사람들이 일자리를 찾아 외국으로 이주하는 현상",
+      "국가가 한국의 전통문화를 지정해 보호하는 제도"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. 한류 (Hallyu, 'làn sóng Hàn Quốc') chỉ hiện tượng văn hóa đại chúng Hàn Quốc — phim truyền hình, âm nhạc, điện ảnh, ẩm thực, mỹ phẩm — được yêu thích ở nước ngoài. ① là chiều ngược lại nên sai. ③ là hiện tượng di cư lao động, không liên quan. ④ là chế độ công nhận di sản văn hóa (문화재 지정 제도), khác hẳn. Thuật ngữ này xuất hiện từ cuối thập niên 1990 khi phim Hàn được yêu thích tại Trung Quốc và Việt Nam, và ngày nay đã lan ra toàn cầu.",
+    "explain_ko": "한류는 한국의 드라마·음악·영화 등 대중문화가 외국에서 인기를 얻는 현상을 말한다.",
+    "keywords": ["한류", "대중문화", "확산"]
+  },
+  {
+    "id": "culture-042",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "대중문화",
+    "points": 2,
+    "passage": null,
+    "q": "한국 대중문화의 해외 확산에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "한국 드라마가 인터넷 동영상 서비스를 통해 여러 나라에 소개되고 있다.",
+      "한류의 영향으로 한국어를 배우려는 외국인이 늘어나고 있다.",
+      "한류가 확산되면서 한국을 찾는 외국인 관광객은 오히려 크게 줄어들었다.",
+      "K-POP 공연을 보기 위해 한국을 방문하는 외국인 관광객도 있다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Làn sóng Hallyu làm tăng chứ không làm giảm lượng khách du lịch tới Hàn Quốc — nhiều người đến để xem concert, ghé thăm địa điểm quay phim hoặc trải nghiệm ẩm thực. ① đúng vì các nền tảng OTT như Netflix đưa phim Hàn ra toàn cầu gần như đồng thời với phát sóng trong nước. ② đúng vì số người học tiếng Hàn và thi TOPIK tăng mạnh, trong đó Việt Nam là một trong những nước có nhiều thí sinh nhất. ④ đúng và là ví dụ điển hình của cái gọi là 'du lịch Hallyu'.",
+    "explain_ko": "한류 확산으로 한국을 찾는 관광객과 한국어 학습자가 늘어났으며, 관광객이 줄었다는 설명은 옳지 않다.",
+    "keywords": ["한류", "관광", "한국어 학습"]
+  },
+  {
+    "id": "culture-043",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "여가문화의 변화",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 주 5일 근무제에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "일주일에 5일을 쉬고 2일만 일하는 제도를 말한다.",
+      "1960년대부터 모든 사업장에서 똑같이 시행되어 왔다.",
+      "근무 시간이 늘어나 사람들의 여가 시간이 크게 줄어들었다.",
+      "2000년대에 규모가 큰 사업장부터 단계적으로 시행되면서 여가 시간이 늘어났다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Chế độ làm việc 5 ngày/tuần (주 5일 근무제) bắt đầu từ năm 2004 với các doanh nghiệp lớn, ngân hàng và cơ quan nhà nước, rồi mở rộng dần xuống doanh nghiệp nhỏ đến năm 2011 — nhờ đó cuối tuần hai ngày trở thành chuẩn và thời gian nhàn rỗi tăng lên. ① sai vì đây là làm 5 ngày và nghỉ 2 ngày. ② sai về thời điểm, vì trước đó Hàn Quốc làm 6 ngày/tuần. ③ sai vì kết quả là giờ làm giảm chứ không tăng. Thay đổi này đã thúc đẩy mạnh ngành du lịch, thể thao và giải trí trong nước.",
+    "explain_ko": "주 5일 근무제는 2000년대에 큰 사업장부터 단계적으로 시행되어 주말이 이틀로 늘고 여가 시간이 확대되었다.",
+    "keywords": ["주 5일 근무제", "여가", "주말"]
+  },
+  {
+    "id": "culture-044",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "여가문화의 변화",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 말로 옳은 것은?\n일과 개인의 삶 사이의 균형을 중요하게 여기는 태도나 생활 방식을 가리키는 말이다.",
+    "choices": [
+      "워라밸",
+      "품앗이",
+      "체면",
+      "연고"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. 워라밸 là cách nói tắt tiếng Hàn của 'work-life balance', chỉ lối sống coi trọng sự cân bằng giữa công việc và đời sống cá nhân. ② 품앗이 là tục đổi công nhà nông, ③ 체면 là ý thức giữ thể diện, ④ 연고 là quan hệ huyết thống/đồng hương/đồng môn — không từ nào liên quan đến cân bằng công việc. Xu hướng 워라밸 lan rộng cùng với chế độ làm 5 ngày/tuần và giới hạn 52 giờ làm việc mỗi tuần, khiến người Hàn ngày càng coi trọng thời gian nghỉ ngơi và sở thích cá nhân.",
+    "explain_ko": "워라밸은 일과 삶의 균형(work-life balance)을 중시하는 태도를 뜻하는 말이다.",
+    "keywords": ["워라밸", "일과 삶의 균형", "여가"]
+  },
+  {
+    "id": "culture-045",
+    "domain": "culture",
+    "level": "basic",
+    "topic": "여가문화의 변화",
+    "points": 2,
+    "passage": null,
+    "q": "오늘날 한국인의 여가 생활 변화에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "여가 시간이 줄어들면서 여가 활동의 종류도 단순해지고 있다.",
+      "등산·캠핑·여행 등 여가 활동의 종류가 점점 다양해지고 있다.",
+      "여가 활동은 직장 단위의 단체 활동으로만 이루어진다.",
+      "노년층은 여가 활동에 거의 참여하지 않는 것이 특징이다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Cùng với chế độ làm việc 5 ngày/tuần và mức sống tăng, hoạt động giải trí của người Hàn ngày càng đa dạng: leo núi 등산, cắm trại 캠핑, du lịch, xem biểu diễn, học sở thích cá nhân. ① sai vì thời gian rảnh tăng chứ không giảm. ③ sai vì xu hướng hiện nay chuyển từ sinh hoạt tập thể của công ty sang hoạt động cá nhân hoặc gia đình. ④ sai vì người cao tuổi tham gia rất tích cực qua 경로당, trung tâm phúc lợi và các lớp học suốt đời. Leo núi là sở thích phổ biến nhất của người Hàn nhờ địa hình nhiều núi trên cả nước.",
+    "explain_ko": "여가 시간이 늘면서 등산·캠핑·여행 등 여가 활동이 다양해지고 개인·가족 중심으로 변화하고 있다.",
+    "keywords": ["여가 활동", "등산", "캠핑"]
+  }
+]

@@ -1,0 +1,857 @@
+[
+  {
+    "id": "politics-001",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "민주주의의 의미",
+    "points": 2,
+    "passage": "대한민국의 주권은 국민에게 있고, 모든 권력은 국민으로부터 나온다.",
+    "q": "위 헌법 조항에 가장 잘 나타나 있는 민주주의의 원리로 옳은 것은?",
+    "choices": [
+      "국민 주권의 원리",
+      "권력 분립의 원리",
+      "지방 자치의 원리",
+      "시장 경제의 원리"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Điều 1 khoản 2 Hiến pháp Hàn Quốc ghi rõ chủ quyền thuộc về nhân dân và mọi quyền lực đều bắt nguồn từ nhân dân — đây chính là nguyên lý chủ quyền nhân dân (국민주권). ② phân lập quyền lực (권력분립) nói về việc chia quyền cho Quốc hội, Chính phủ và Tòa án, không phải nội dung của câu này. ③ tự trị địa phương (지방자치) và ④ kinh tế thị trường là các nguyên tắc khác của Hiến pháp. Hãy nhớ: Điều 1 khoản 1 là \"Đại Hàn Dân Quốc là nước cộng hòa dân chủ (민주공화국)\", khoản 2 là chủ quyền nhân dân — hai câu này rất hay ra thi.",
+    "explain_ko": "헌법 제1조 제2항은 주권이 국민에게 있음을 밝힌 조항으로 국민주권의 원리를 나타낸다.",
+    "keywords": ["국민주권", "헌법 제1조"]
+  },
+  {
+    "id": "politics-002",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "민주주의의 의미",
+    "points": 2,
+    "passage": null,
+    "q": "민주주의가 추구하는 가장 근본적인 이념으로 알맞은 것은?",
+    "choices": [
+      "모든 사람의 존엄성과 가치를 존중하는 것",
+      "국가의 경제 성장을 무엇보다 앞세우는 것",
+      "지도자 한 사람의 결정을 빠르게 따르는 것",
+      "다수를 위해 소수의 권리를 없애는 것"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Lý tưởng gốc rễ của dân chủ là tôn trọng phẩm giá và giá trị của con người (인간의 존엄성), từ đó mới sinh ra tự do và bình đẳng. ② tăng trưởng kinh tế là mục tiêu chính sách, không phải lý tưởng của dân chủ. ③ đề cao quyết định của một cá nhân là chế độ độc tài (독재). ④ sai vì dân chủ dùng nguyên tắc đa số nhưng vẫn phải bảo vệ quyền cơ bản của thiểu số. Trong sách giáo khoa, phẩm giá con người được coi là mục đích cuối cùng mà mọi chế độ dân chủ hướng tới.",
+    "explain_ko": "민주주의의 근본 이념은 인간의 존엄성 실현이며, 이를 위해 자유와 평등이 보장된다.",
+    "keywords": ["인간의 존엄성", "민주주의 이념"]
+  },
+  {
+    "id": "politics-003",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "민주주의의 의미",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 것으로 옳은 것은?\n오늘날 대부분의 나라에서는 국민이 선거로 대표자를 뽑고, 그 대표자가 국민을 대신하여 나라의 중요한 일을 결정한다.",
+    "choices": [
+      "직접 민주주의",
+      "권력 분립 제도",
+      "대의 민주주의",
+      "지방 자치 제도"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Việc nhân dân bầu ra đại biểu để họ thay mặt mình quyết định gọi là dân chủ đại diện (대의 민주주의), còn gọi là dân chủ gián tiếp. ① dân chủ trực tiếp là khi toàn thể công dân tự mình quyết định, ngày nay chỉ còn dấu vết ở trưng cầu dân ý (국민투표). ② phân lập quyền lực là cách chia quyền giữa các cơ quan, ④ tự trị địa phương là việc cư dân tự lo việc của vùng mình. Hàn Quốc theo dân chủ đại diện, nhưng vẫn bổ sung các hình thức tham gia trực tiếp như 국민투표 và 주민투표.",
+    "explain_ko": "국민이 뽑은 대표자가 국민을 대신해 정치를 하는 것을 대의 민주주의(간접 민주주의)라고 한다.",
+    "keywords": ["대의 민주주의", "간접 민주주의"]
+  },
+  {
+    "id": "politics-004",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "민주주의의 의미",
+    "points": 2,
+    "passage": null,
+    "q": "민주주의 사회의 의사 결정 방법에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "충분한 대화와 토론을 거쳐 결정한다.",
+      "의견이 다를 때는 다수결로 정할 수 있다.",
+      "결정에 따르되 소수의 의견도 존중한다.",
+      "다수가 찬성하면 소수의 기본권을 빼앗을 수 있다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Nguyên tắc đa số (다수결) chỉ là phương pháp quyết định, nó KHÔNG cho phép tước đoạt quyền cơ bản (기본권) của thiểu số — đó là \"chuyên chế của số đông\". ①②③ đều đúng: dân chủ đòi hỏi thảo luận và thỏa hiệp đầy đủ trước, nếu vẫn chưa thống nhất thì biểu quyết theo đa số, và sau khi quyết định vẫn phải tôn trọng ý kiến thiểu số. Đề thi rất hay hỏi dạng \"điều nào KHÔNG đúng\", nên hãy chú ý cụm từ 옳지 않은 것.",
+    "explain_ko": "다수결은 의사 결정 방법일 뿐이며, 다수라 하더라도 소수의 기본권을 침해할 수 없다.",
+    "keywords": ["다수결", "소수 의견 존중"]
+  },
+  {
+    "id": "politics-005",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "한국 민주주의의 특징",
+    "points": 2,
+    "passage": null,
+    "q": "대한민국 헌법 제1조 제1항의 내용으로 옳은 것은?",
+    "choices": [
+      "대한민국은 민주공화국이다.",
+      "대한민국은 입헌군주국이다.",
+      "대한민국은 연방 국가이다.",
+      "대한민국의 주권은 대통령에게 있다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Điều 1 khoản 1 Hiến pháp quy định \"Đại Hàn Dân Quốc là nước cộng hòa dân chủ (민주공화국)\": 민주 nghĩa là nhân dân làm chủ, 공화국 nghĩa là không có vua, nguyên thủ do dân chọn. ② sai vì Hàn Quốc không có vua; chế độ quân chủ lập hiến là Nhật Bản, Anh. ③ sai vì Hàn Quốc là nhà nước đơn nhất, không phải liên bang như Mỹ. ④ sai vì chủ quyền thuộc về nhân dân, không thuộc về Tổng thống. Hai khoản của Điều 1 nên học thuộc lòng vì hay xuất hiện cả ở phần viết và phần vấn đáp.",
+    "explain_ko": "헌법 제1조 제1항은 '대한민국은 민주공화국이다'로, 주권자인 국민이 나라의 주인임을 밝힌다.",
+    "keywords": ["민주공화국", "헌법 제1조"]
+  },
+  {
+    "id": "politics-006",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "한국 민주주의의 특징",
+    "points": 2,
+    "passage": null,
+    "q": "한국의 정부 형태에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "국왕이 국가를 대표하는 입헌군주제이다.",
+      "국회에서 행정부 수반을 뽑는 의원내각제이다.",
+      "대통령제를 기본으로 하면서 국무총리 제도 등 의원내각제 요소를 일부 두고 있다.",
+      "주마다 헌법을 따로 두는 연방제 국가이다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Hàn Quốc lấy chế độ tổng thống (대통령제) làm nền tảng — Tổng thống do dân trực tiếp bầu và đứng đầu hành pháp — nhưng có pha thêm vài yếu tố của chế độ nghị viện như chức Thủ tướng (국무총리), Quốc hội chất vấn thành viên Chính phủ. ① sai vì Hàn Quốc là nước cộng hòa, không có vua. ② sai vì Tổng thống do dân bầu chứ không do Quốc hội bầu. ④ sai vì Hàn Quốc là nhà nước đơn nhất với một bản Hiến pháp duy nhất. Điểm khác biệt lớn nhất với chế độ nghị viện thuần túy là Tổng thống Hàn Quốc do nhân dân trực tiếp bầu.",
+    "explain_ko": "한국은 대통령제를 기본으로 하되 국무총리 제도 등 의원내각제 요소를 일부 도입하고 있다.",
+    "keywords": ["대통령제", "정부 형태"]
+  },
+  {
+    "id": "politics-007",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "한국 민주주의의 특징",
+    "points": 2,
+    "passage": null,
+    "q": "한국에서 국민이 정치에 참여하는 방법으로 옳지 않은 것은?",
+    "choices": [
+      "선거에서 투표하여 대표자를 뽑는다.",
+      "정당이나 시민 단체에 가입하여 활동한다.",
+      "청원이나 집회를 통해 자신의 의견을 밝힌다.",
+      "마음에 들지 않는 법을 개인이 직접 없앤다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Cá nhân KHÔNG thể tự ý bãi bỏ một đạo luật; việc làm và sửa luật là thẩm quyền của Quốc hội (국회), còn nếu luật trái Hiến pháp thì phải qua Tòa án Hiến pháp (헌법재판소). ①②③ đều là cách tham gia chính trị hợp pháp: bỏ phiếu, hoạt động trong đảng phái hay tổ chức dân sự, kiến nghị (청원) và hội họp (집회). Người nước ngoài định cư lâu dài cũng có thể được bỏ phiếu trong bầu cử địa phương theo điều kiện luật định, nhưng bầu cử Tổng thống và Quốc hội thì chỉ dành cho công dân Hàn Quốc.",
+    "explain_ko": "법의 제정과 개정은 국회의 권한이며, 개인이 마음대로 법을 없앨 수는 없다.",
+    "keywords": ["정치 참여", "시민 참여"]
+  },
+  {
+    "id": "politics-008",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "권력 분립",
+    "points": 2,
+    "passage": null,
+    "q": "국가 권력을 입법부, 행정부, 사법부로 나누어 맡기는 가장 큰 이유로 알맞은 것은?",
+    "choices": [
+      "공무원의 수를 줄이기 위해서",
+      "나라의 세금을 더 많이 걷기 위해서",
+      "권력이 한곳에 집중되어 남용되는 것을 막고 국민의 자유와 권리를 지키기 위해서",
+      "대통령이 더 빠르게 결정을 내리도록 하기 위해서"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Tam quyền phân lập (삼권분립) chia quyền lực nhà nước cho ba cơ quan để chúng kiềm chế lẫn nhau, nhờ đó ngăn lạm quyền và bảo vệ tự do, quyền lợi của người dân. ① và ② không liên quan gì đến mục đích của việc phân quyền. ④ ngược lại: chia quyền khiến việc quyết định chậm hơn nhưng an toàn hơn, nên tốc độ không phải lý do. Ba cơ quan tương ứng: Quốc hội (국회) làm luật, Chính phủ (정부) thi hành luật, Tòa án (법원) xét xử theo luật.",
+    "explain_ko": "삼권분립은 권력의 집중과 남용을 막아 국민의 자유와 권리를 보장하기 위한 제도이다.",
+    "keywords": ["삼권분립", "권력 분립"]
+  },
+  {
+    "id": "politics-009",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "권력 분립",
+    "points": 2,
+    "passage": null,
+    "q": "국가 기관과 그 역할을 바르게 연결한 것은?",
+    "choices": [
+      "국회 - 법률을 만들고 고친다.",
+      "법원 - 나라의 예산안을 만든다.",
+      "정부 - 재판을 통해 다툼을 해결한다.",
+      "국회 - 법을 어긴 사람에게 형벌을 내린다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Quốc hội (국회) là cơ quan lập pháp, có nhiệm vụ làm ra và sửa đổi luật. ② sai vì lập dự toán ngân sách là việc của Chính phủ, Quốc hội chỉ thẩm tra và quyết định (예산 심의·확정). ③ sai vì xét xử là việc của Tòa án, không phải Chính phủ. ④ sai vì tuyên hình phạt là quyền của Tòa án. Cách nhớ đơn giản: 국회 làm luật — 정부 thi hành — 법원 xét xử.",
+    "explain_ko": "국회는 법률을 제정·개정하는 입법 기관이고, 예산 편성은 정부, 재판은 법원이 담당한다.",
+    "keywords": ["삼권분립", "국가 기관의 역할"]
+  },
+  {
+    "id": "politics-010",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "권력 분립",
+    "points": 2,
+    "passage": null,
+    "q": "다음 중 국회가 행정부를 견제하는 방법에 해당하지 않는 것은?",
+    "choices": [
+      "국정감사와 국정조사를 실시한다.",
+      "정부가 낸 예산안을 심의하여 확정한다.",
+      "국무총리 임명에 동의권을 행사한다.",
+      "법률이 헌법에 어긋나는지 심판한다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Việc xét xem một đạo luật có trái Hiến pháp hay không (위헌법률심판) thuộc thẩm quyền của Tòa án Hiến pháp (헌법재판소), không phải của Quốc hội. ①②③ đều là công cụ Quốc hội dùng để kiểm soát hành pháp: thanh tra việc nước (국정감사·국정조사), thẩm định và quyết định ngân sách, và đồng ý cho việc bổ nhiệm Thủ tướng. Ngược lại, Chính phủ kiềm chế Quốc hội bằng quyền yêu cầu xem xét lại dự luật (법률안 거부권).",
+    "explain_ko": "위헌 법률 심판은 헌법재판소의 권한이며, 국정감사·예산 심의·국무총리 임명 동의는 국회의 행정부 견제 수단이다.",
+    "keywords": ["국회의 견제", "위헌법률심판"]
+  },
+  {
+    "id": "politics-011",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "권력 분립",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 제도로 옳은 것은?\n국회에서 통과된 법률안에 이의가 있을 때 대통령이 이를 국회로 돌려보내 다시 논의하도록 하는 제도이다.",
+    "choices": [
+      "국정감사 제도",
+      "탄핵 소추 제도",
+      "법률안 거부권",
+      "헌법소원 제도"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Quyền yêu cầu xem xét lại dự luật (법률안 거부권) cho phép Tổng thống gửi trả dự luật về Quốc hội, đây là cách hành pháp kiềm chế lập pháp. ① 국정감사 là việc Quốc hội thanh tra hoạt động của Chính phủ, tức chiều ngược lại. ② 탄핵 소추 là việc Quốc hội đề nghị phế truất quan chức cấp cao, sau đó Tòa án Hiến pháp mới quyết định. ④ 헌법소원 là việc người dân khiếu nại lên Tòa án Hiến pháp khi quyền cơ bản bị xâm phạm. Nếu Quốc hội biểu quyết lại và thông qua với tỉ lệ theo Hiến pháp thì dự luật vẫn thành luật.",
+    "explain_ko": "대통령이 국회가 의결한 법률안을 다시 논의하도록 돌려보내는 것을 법률안 거부권(재의 요구권)이라 한다.",
+    "keywords": ["법률안 거부권", "견제와 균형"]
+  },
+  {
+    "id": "politics-012",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "입법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "국회가 하는 일로 옳지 않은 것은?",
+    "choices": [
+      "법률을 새로 만들거나 고친다.",
+      "정부가 낸 예산안을 심의하여 확정한다.",
+      "국정감사를 통해 행정부가 일을 잘하는지 살핀다.",
+      "법을 어긴 사람에게 형벌을 정하여 선고한다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Tuyên án và quyết định hình phạt cho người phạm tội là công việc của Tòa án (법원), không phải Quốc hội. ①②③ đều là chức năng chính của Quốc hội: làm và sửa luật (입법), thẩm tra – quyết định ngân sách nhà nước (예산 심의·확정), và giám sát hành pháp qua thanh tra việc nước (국정감사). Ba chức năng này thường được tóm tắt là quyền lập pháp, quyền tài chính và quyền giám sát quốc chính.",
+    "explain_ko": "형벌을 선고하는 재판은 법원의 일이며, 국회는 입법·예산 심의·국정감사를 담당한다.",
+    "keywords": ["국회의 역할", "입법부"]
+  },
+  {
+    "id": "politics-013",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "입법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "국회의원에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "임기는 4년이며 총선거를 통해 국민이 뽑는다.",
+      "임기는 5년이며 중임할 수 없다.",
+      "임기는 6년이며 대통령이 임명한다.",
+      "임기는 정해져 있지 않고 국회의장이 정한다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Nhiệm kỳ đại biểu Quốc hội (국회의원) Hàn Quốc là 4 năm và được nhân dân bầu qua tổng tuyển cử (총선거) tổ chức 4 năm một lần. ② nhiệm kỳ 5 năm không được tái nhiệm là quy định dành cho Tổng thống. ③ sai hoàn toàn vì đại biểu do dân bầu chứ không do Tổng thống bổ nhiệm. ④ sai vì nhiệm kỳ do Hiến pháp quy định. Khác với Tổng thống, đại biểu Quốc hội không bị giới hạn số lần tái cử.",
+    "explain_ko": "국회의원의 임기는 4년이며 총선거를 통해 국민이 직접 선출한다.",
+    "keywords": ["국회의원 임기", "총선거"]
+  },
+  {
+    "id": "politics-014",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "입법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "다음 ( )에 들어갈 말로 알맞은 것은?\n국회는 지역구 국회의원과 ( )(으)로 구성되며, 의원 정수는 모두 300명이다.",
+    "choices": [
+      "비례대표 국회의원",
+      "대통령이 임명한 의원",
+      "지방의회 의원",
+      "행정 각부의 장관"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Quốc hội Hàn Quốc gồm đại biểu khu vực (지역구) do cử tri từng vùng bầu và đại biểu theo tỉ lệ đại diện (비례대표) được phân bổ theo số phiếu mà mỗi đảng nhận được, tổng cộng 300 ghế. ② sai vì không có ghế nào do Tổng thống bổ nhiệm. ③ đại biểu hội đồng địa phương (지방의회 의원) thuộc cơ quan tự trị địa phương, hoàn toàn tách khỏi Quốc hội. ④ Bộ trưởng thuộc hành pháp. Nhờ chế độ đại diện tỉ lệ mà các đảng nhỏ cũng có cơ hội có ghế trong Quốc hội.",
+    "explain_ko": "국회는 지역구 국회의원과 비례대표 국회의원으로 구성되며 정수는 300명이다.",
+    "keywords": ["국회 구성", "비례대표"]
+  },
+  {
+    "id": "politics-015",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "입법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 국회의원의 특권으로 옳은 것은?\n회기 중에는 국회의 동의 없이 체포되거나 구금되지 않는다.",
+    "choices": [
+      "면책특권",
+      "국정감사권",
+      "법률안 거부권",
+      "불체포특권"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Quyền không bị bắt giữ (불체포특권) nghĩa là trong kỳ họp, đại biểu Quốc hội không bị bắt hay tạm giam nếu Quốc hội không đồng ý — mục đích là để hoạt động lập pháp không bị cản trở vì lý do chính trị. ① 면책특권 là quyền miễn trách nhiệm với phát ngôn và biểu quyết trong Quốc hội, khác với câu hỏi. ② 국정감사권 là quyền thanh tra việc nước. ③ 법률안 거부권 là quyền của Tổng thống chứ không phải của đại biểu. Lưu ý: đây chỉ là hoãn việc bắt giữ tạm thời, KHÔNG có nghĩa là được miễn hình phạt.",
+    "explain_ko": "회기 중 국회 동의 없이 체포되지 않는 국회의원의 특권을 불체포특권이라 한다.",
+    "keywords": ["불체포특권", "국회의원 특권"]
+  },
+  {
+    "id": "politics-016",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "입법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 국회의원의 특권으로 옳은 것은?\n국회에서 직무상 한 발언과 표결에 대하여 국회 밖에서 책임을 지지 않는다.",
+    "choices": [
+      "불체포특권",
+      "면책특권",
+      "국정조사권",
+      "탄핵소추권"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Quyền miễn trách nhiệm (면책특권) bảo đảm đại biểu Quốc hội không phải chịu trách nhiệm bên ngoài Quốc hội về những phát biểu và biểu quyết khi thi hành nhiệm vụ, nhờ đó họ dám nói thẳng. ① 불체포특권 chỉ liên quan đến việc không bị bắt trong kỳ họp. ③ 국정조사권 là quyền điều tra một vụ việc cụ thể của quốc chính. ④ 탄핵소추권 là quyền đề nghị phế truất quan chức cấp cao. Hai đặc quyền 면책 và 불체포 rất dễ nhầm: một cái về LỜI NÓI, một cái về việc BẮT GIỮ.",
+    "explain_ko": "국회에서의 직무상 발언과 표결에 대해 국회 밖에서 책임지지 않는 것을 면책특권이라 한다.",
+    "keywords": ["면책특권", "국회의원 특권"]
+  },
+  {
+    "id": "politics-017",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "입법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "국회의원을 비롯한 고위 공직자가 재산을 등록하고 공개하도록 한 이유로 가장 알맞은 것은?",
+    "choices": [
+      "공직자의 재산을 국가가 대신 관리하기 위해서",
+      "공직자에게 세금을 더 많이 걷기 위해서",
+      "부정한 재산 늘리기를 막고 공직 사회의 투명성을 높이기 위해서",
+      "재산이 많은 사람만 공직을 맡도록 하기 위해서"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Chế độ kê khai và công khai tài sản (재산 공개) của quan chức cấp cao nhằm ngăn việc làm giàu bất chính bằng chức vụ và giúp người dân giám sát, qua đó nâng cao tính minh bạch. ① sai vì nhà nước không quản lý hộ tài sản, chỉ kiểm tra tính trung thực của bản kê khai. ② thuế được tính theo luật thuế, không liên quan đến việc kê khai này. ④ hoàn toàn ngược lại với mục đích của chế độ. Nội dung này được quy định trong Luật đạo đức công chức (공직자윤리법).",
+    "explain_ko": "고위 공직자 재산 등록·공개는 부정한 재산 증식을 막고 공직의 투명성을 높이기 위한 제도이다.",
+    "keywords": ["재산 공개", "공직자윤리법"]
+  },
+  {
+    "id": "politics-018",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "행정부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "행정부가 하는 일로 옳은 것은?",
+    "choices": [
+      "법률을 만들고 고치는 일을 한다.",
+      "법률에 따라 나라 살림을 하고 정책을 세워 실행한다.",
+      "재판을 통해 사람들 사이의 다툼을 해결한다.",
+      "법률이 헌법에 어긋나는지를 심판한다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Hành pháp (행정부) là cơ quan thi hành pháp luật: lo việc nước hằng ngày, xây dựng và thực hiện chính sách về giáo dục, y tế, giao thông, ngoại giao... ① làm luật là việc của Quốc hội. ③ xét xử là việc của Tòa án. ④ xét tính hợp hiến của luật là việc của Tòa án Hiến pháp. Hành pháp gồm Tổng thống, Thủ tướng, Hội đồng Chính phủ (국무회의) và các bộ (행정각부).",
+    "explain_ko": "행정부는 법률에 따라 나라의 살림을 맡아 정책을 세우고 집행하는 기관이다.",
+    "keywords": ["행정부", "정책 집행"]
+  },
+  {
+    "id": "politics-019",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "행정부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "국무총리에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "국민이 직접 선거로 뽑는다.",
+      "국회의 동의를 얻어 대통령이 임명하며 대통령을 도와 행정 각부를 지휘·감독한다.",
+      "국회의장이 국회의원 가운데에서 임명한다.",
+      "임기가 5년으로 정해져 있어 중간에 바뀌지 않는다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Thủ tướng (국무총리) do Tổng thống bổ nhiệm nhưng phải được Quốc hội đồng ý, và có nhiệm vụ giúp Tổng thống chỉ đạo, giám sát các bộ. ① sai vì Thủ tướng không do dân bầu — chỉ Tổng thống mới do dân trực tiếp bầu. ③ sai vì Chủ tịch Quốc hội không có quyền bổ nhiệm Thủ tướng. ④ sai vì Thủ tướng không có nhiệm kỳ cố định, có thể thay đổi bất cứ lúc nào. Thủ tướng cũng là người quyền nhiếp chính khi Tổng thống không thể thực hiện nhiệm vụ.",
+    "explain_ko": "국무총리는 국회의 동의를 얻어 대통령이 임명하며, 대통령을 보좌해 행정 각부를 지휘·감독한다.",
+    "keywords": ["국무총리", "국회 동의"]
+  },
+  {
+    "id": "politics-020",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "행정부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "국무회의에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "정부의 중요한 정책을 심의하는 최고 심의 기관이다.",
+      "의장은 대통령이고 부의장은 국무총리이다.",
+      "대통령, 국무총리와 국무위원으로 구성된다.",
+      "국무회의에서 법률을 최종적으로 만들어 확정한다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Việc làm ra và thông qua luật là thẩm quyền riêng của Quốc hội; Hội đồng Chính phủ (국무회의) chỉ thẩm nghị các dự luật do Chính phủ trình chứ không tự quyết định thành luật. ①②③ đều đúng: 국무회의 là cơ quan thẩm nghị chính sách cao nhất của Chính phủ, do Tổng thống làm chủ tọa, Thủ tướng làm phó chủ tọa, cùng các thành viên Chính phủ (국무위원). Theo Hiến pháp, số 국무위원 là từ 15 đến 30 người.",
+    "explain_ko": "국무회의는 정부의 최고 심의 기관으로 대통령이 의장, 국무총리가 부의장이며, 법률 제정은 국회의 권한이다.",
+    "keywords": ["국무회의", "행정부 구성"]
+  },
+  {
+    "id": "politics-021",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "행정부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "다음 ( )에 들어갈 말로 알맞은 것은?\n행정 각부의 우두머리인 ( )은/는 국무총리의 제청으로 대통령이 임명하며, 맡은 분야의 행정 업무를 책임진다.",
+    "choices": [
+      "장관",
+      "국회의원",
+      "대법관",
+      "시·도지사"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Người đứng đầu mỗi bộ trong Chính phủ là Bộ trưởng (장관), do Thủ tướng đề nghị và Tổng thống bổ nhiệm, chịu trách nhiệm về lĩnh vực mình phụ trách. ② đại biểu Quốc hội do dân bầu, thuộc lập pháp. ③ Thẩm phán Tòa tối cao (대법관) thuộc tư pháp, được bổ nhiệm theo thủ tục riêng có sự đồng ý của Quốc hội. ④ Thị trưởng, tỉnh trưởng (시·도지사) do cư dân địa phương bầu. Trước khi bổ nhiệm Bộ trưởng, Quốc hội thường tổ chức phiên điều trần thẩm tra nhân sự (인사청문회).",
+    "explain_ko": "행정 각부의 장인 장관은 국무총리의 제청으로 대통령이 임명한다.",
+    "keywords": ["장관", "행정각부"]
+  },
+  {
+    "id": "politics-022",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "행정부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 기관으로 옳은 것은?\n국가의 세입·세출 결산을 검사하고, 행정 기관과 공무원이 일을 제대로 하는지 감찰한다.",
+    "choices": [
+      "국가인권위원회",
+      "헌법재판소",
+      "중앙선거관리위원회",
+      "감사원"
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Ủy ban Kiểm toán và Thanh tra (감사원) kiểm tra quyết toán thu chi ngân sách nhà nước và thanh tra công vụ của các cơ quan hành chính cùng công chức. ① 국가인권위원회 lo việc bảo vệ nhân quyền. ② 헌법재판소 xét xử các vụ việc hiến pháp. ③ 중앙선거관리위원회 quản lý bầu cử. 감사원 trực thuộc Tổng thống nhưng thực hiện nhiệm vụ một cách độc lập, nên thường được gọi là cơ quan giám sát ngân sách của quốc gia.",
+    "explain_ko": "감사원은 국가의 세입·세출 결산 검사와 공무원 직무 감찰을 담당하는 기관이다.",
+    "keywords": ["감사원", "직무 감찰"]
+  },
+  {
+    "id": "politics-023",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "대통령의 역할",
+    "points": 2,
+    "passage": null,
+    "q": "대통령의 임기에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "임기는 4년이며 한 번 더 할 수 있다.",
+      "임기는 5년이며 중임할 수 없다.",
+      "임기는 5년이며 두 번까지 할 수 있다.",
+      "임기는 6년이며 연임할 수 있다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Hiến pháp Hàn Quốc quy định nhiệm kỳ Tổng thống là 5 năm và KHÔNG được làm thêm nhiệm kỳ nào nữa (단임제) — dù cách quãng cũng không được. ①③④ đều sai vì Hàn Quốc không cho phép tái nhiệm dưới bất kỳ hình thức nào. Quy định một nhiệm kỳ duy nhất ra đời để ngăn việc một người nắm quyền quá lâu. Hãy so sánh cho dễ nhớ: Tổng thống 5 năm, đại biểu Quốc hội 4 năm, người đứng đầu chính quyền địa phương 4 năm.",
+    "explain_ko": "대통령의 임기는 5년이며 중임할 수 없는 단임제이다.",
+    "keywords": ["대통령 임기", "단임제"]
+  },
+  {
+    "id": "politics-024",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "대통령의 역할",
+    "points": 2,
+    "passage": null,
+    "q": "대통령의 지위에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "국회를 대표하는 입법부의 우두머리이다.",
+      "사법부를 대표하여 재판을 지휘한다.",
+      "나라를 대표하는 국가 원수이면서 행정부의 최고 책임자이다.",
+      "지방자치단체를 대표하는 자리이다."
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Tổng thống vừa là nguyên thủ quốc gia (국가 원수) đại diện cho đất nước với bên ngoài, vừa là người đứng đầu hành pháp (행정부 수반). ① sai vì người đại diện Quốc hội là Chủ tịch Quốc hội (국회의장). ② sai vì tư pháp độc lập, Tổng thống tuyệt đối không được chỉ đạo việc xét xử. ④ sai vì đại diện địa phương là người đứng đầu chính quyền địa phương. Với tư cách nguyên thủ, Tổng thống ký kết điều ước, tiếp nhận đại sứ nước ngoài và thống lĩnh quân đội.",
+    "explain_ko": "대통령은 나라를 대표하는 국가 원수이면서 동시에 행정부의 수반이다.",
+    "keywords": ["대통령", "국가 원수"]
+  },
+  {
+    "id": "politics-025",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "대통령의 역할",
+    "points": 2,
+    "passage": null,
+    "q": "다음 중 대통령의 권한에 해당하지 않는 것은?",
+    "choices": [
+      "국군을 지휘하고 통솔한다.",
+      "외국과 조약을 맺고 외교 사절을 보낸다.",
+      "국무총리와 장관을 임명한다.",
+      "법원이 이미 확정한 판결을 직접 취소한다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Tổng thống KHÔNG thể hủy bản án đã có hiệu lực của Tòa án, vì tư pháp độc lập là nguyên tắc cơ bản của tam quyền phân lập. ①②③ đều là quyền hạn hiến định: thống lĩnh quân đội (국군통수권), ký kết điều ước và cử phái đoàn ngoại giao, bổ nhiệm Thủ tướng và các Bộ trưởng. Tổng thống chỉ có thể ân xá (사면) theo thủ tục luật định, chứ không phải \"hủy án\" — hai điều này khác nhau, cần phân biệt rõ khi làm bài.",
+    "explain_ko": "확정된 판결을 대통령이 직접 취소할 수는 없으며, 국군 통수·조약 체결·국무총리 및 장관 임명은 대통령의 권한이다.",
+    "keywords": ["대통령의 권한", "사법권 독립"]
+  },
+  {
+    "id": "politics-026",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "대통령의 역할",
+    "points": 2,
+    "passage": null,
+    "q": "대통령 선거에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "국회에서 국회의원들이 뽑는다.",
+      "국무회의에서 국무위원들이 뽑는다.",
+      "국민이 직접 뽑되 4년마다 실시한다.",
+      "국민이 직접 뽑으며 5년마다 실시한다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Tổng thống Hàn Quốc do toàn dân trực tiếp bầu và vì nhiệm kỳ là 5 năm nên bầu cử tổng thống được tổ chức 5 năm một lần. ① và ② sai vì Hàn Quốc theo chế độ tổng thống, người dân tự bầu chứ không để Quốc hội hay Chính phủ chọn. ③ sai ở chu kỳ: 4 năm là chu kỳ của tổng tuyển cử Quốc hội và bầu cử địa phương. Chế độ bầu cử trực tiếp Tổng thống được khôi phục sau phong trào dân chủ hóa năm 1987, đây là mốc quan trọng của lịch sử dân chủ Hàn Quốc.",
+    "explain_ko": "대통령은 국민이 직접 선거로 뽑으며, 임기가 5년이므로 대통령 선거는 5년마다 실시된다.",
+    "keywords": ["대통령 선거", "직선제"]
+  },
+  {
+    "id": "politics-027",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "사법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "법원이 하는 일로 옳은 것은?",
+    "choices": [
+      "나라의 예산을 짜고 집행한다.",
+      "법에 따라 재판하여 다툼을 해결하고 국민의 권리를 보호한다.",
+      "법률을 만들어 국민에게 알린다.",
+      "선거가 공정하게 이루어지도록 관리한다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Tòa án (법원) là cơ quan tư pháp, xét xử theo pháp luật để giải quyết tranh chấp, trừng trị hành vi phạm tội và bảo vệ quyền lợi của người dân. ① lập và thi hành ngân sách là việc của Chính phủ. ③ làm luật là việc của Quốc hội. ④ quản lý bầu cử là việc của Ủy ban bầu cử (선거관리위원회). Thẩm phán xét xử độc lập theo Hiến pháp, pháp luật và lương tâm của mình, không ai được can thiệp.",
+    "explain_ko": "법원은 법에 따라 재판하여 분쟁을 해결하고 국민의 권리를 보호하는 사법 기관이다.",
+    "keywords": ["법원", "사법부"]
+  },
+  {
+    "id": "politics-028",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "사법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 제도로 옳은 것은?\n하나의 사건에 대해 급이 다른 법원에서 원칙적으로 세 번까지 재판을 받을 수 있게 한 제도이다.",
+    "choices": [
+      "국민참여재판",
+      "죄형법정주의",
+      "삼심 제도",
+      "삼권 분립"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Chế độ ba cấp xét xử (삼심 제도) cho phép một vụ việc được xét xử tối đa ba lần ở các tòa khác cấp, nhằm giảm sai sót và bảo vệ quyền lợi người dân. ① 국민참여재판 là phiên tòa có bồi thẩm đoàn nhân dân trong một số vụ hình sự, không phải chế độ cấp xét xử. ② 죄형법정주의 nghĩa là tội và hình phạt phải do luật quy định trước. ④ 삼권분립 là việc chia quyền lực nhà nước. Thông thường: sơ thẩm ở 지방법원, phúc thẩm ở 고등법원, và cấp cuối cùng là 대법원.",
+    "explain_ko": "같은 사건에 대해 급이 다른 법원에서 세 번까지 재판받을 수 있게 한 제도를 삼심 제도(심급 제도)라 한다.",
+    "keywords": ["삼심제", "심급 제도"]
+  },
+  {
+    "id": "politics-029",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "사법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "다음 글의 ( ㉠ ), ( ㉡ )에 각각 들어갈 말로 옳은 것은?\n1심 판결에 불복하여 2심 법원에 다시 재판을 청구하는 것을 ( ㉠ )(이)라 하고, 2심 판결에 불복하여 대법원에 재판을 청구하는 것을 ( ㉡ )(이)라 한다.",
+    "choices": [
+      "㉠ 상고, ㉡ 항소",
+      "㉠ 항소, ㉡ 상고",
+      "㉠ 고소, ㉡ 고발",
+      "㉠ 기소, ㉡ 구속"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Kháng cáo lên cấp hai gọi là 항소, còn kháng cáo từ cấp hai lên Tòa tối cao gọi là 상고 — thứ tự đúng là 항소 rồi mới đến 상고. ① đảo ngược thứ tự nên sai. ③ 고소 là việc nạn nhân tố giác tội phạm, 고발 là việc người thứ ba tố giác, cả hai thuộc giai đoạn điều tra chứ không phải kháng cáo. ④ 기소 là việc Viện kiểm sát truy tố, 구속 là tạm giam. Ở cấp ba, Tòa tối cao chủ yếu xem xét việc áp dụng pháp luật chứ không xét lại toàn bộ sự thật vụ án.",
+    "explain_ko": "1심에 불복해 2심을 청구하는 것이 항소, 2심에 불복해 대법원에 청구하는 것이 상고이다.",
+    "keywords": ["항소", "상고"]
+  },
+  {
+    "id": "politics-030",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "사법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "헌법재판소가 하는 일에 해당하지 않는 것은?",
+    "choices": [
+      "법률이 헌법에 어긋나는지를 심판한다.",
+      "국회가 소추한 고위 공직자의 탄핵 심판을 한다.",
+      "국가 기관 사이의 권한 다툼을 심판한다.",
+      "죄를 지은 사람에게 징역이나 벌금을 선고한다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Tuyên phạt tù hay phạt tiền với người phạm tội là việc của Tòa án thường (법원), KHÔNG phải của Tòa án Hiến pháp. ①②③ đều thuộc năm loại vụ việc của 헌법재판소: xét tính hợp hiến của luật (위헌법률심판), xét xử luận tội (탄핵심판), giải quyết tranh chấp thẩm quyền (권한쟁의심판), cùng với giải tán chính đảng (정당해산심판) và khiếu nại hiến pháp (헌법소원심판). Người dân bị xâm phạm quyền cơ bản bởi công quyền có thể trực tiếp nộp đơn 헌법소원.",
+    "explain_ko": "형벌 선고는 법원의 일이며, 헌법재판소는 위헌법률심판·탄핵심판·권한쟁의심판 등을 담당한다.",
+    "keywords": ["헌법재판소", "위헌법률심판"]
+  },
+  {
+    "id": "politics-031",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "사법부의 역할과 구성",
+    "points": 2,
+    "passage": null,
+    "q": "헌법재판소에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "9명의 재판관으로 구성된다.",
+      "대법원에 소속된 기관이다.",
+      "재판관을 모두 국회에서 선출한다.",
+      "법률을 만드는 일을 담당한다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Tòa án Hiến pháp (헌법재판소) gồm 9 thẩm phán; tất cả đều do Tổng thống bổ nhiệm, trong đó 3 người do Quốc hội chọn và 3 người do Chánh án Tòa tối cao đề cử. ② sai vì đây là cơ quan độc lập, ngang hàng chứ không nằm dưới Tòa tối cao (대법원). ③ sai vì Quốc hội chỉ chọn 3 trong 9 người. ④ sai vì làm luật là việc của Quốc hội. Hãy nhớ con số 9 — đây là chi tiết rất hay được hỏi trong đề thi.",
+    "explain_ko": "헌법재판소는 9명의 재판관으로 구성되며, 대법원과는 별개인 독립 기관이다.",
+    "keywords": ["헌법재판소", "재판관 9명"]
+  },
+  {
+    "id": "politics-032",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "공정한 재판",
+    "points": 2,
+    "passage": null,
+    "q": "재판의 심리와 판결을 원칙적으로 공개하는 이유로 가장 알맞은 것은?",
+    "choices": [
+      "재판을 더 빨리 끝내기 위해서",
+      "재판에 드는 비용을 줄이기 위해서",
+      "재판이 공정하게 이루어지는지 국민이 지켜볼 수 있게 하기 위해서",
+      "판사의 권한을 더 강하게 하기 위해서"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Nguyên tắc xét xử công khai (재판 공개) cho phép người dân theo dõi phiên tòa, nhờ đó việc xét xử minh bạch và khó bị thiên vị. ① và ② không phải mục đích, thậm chí công khai còn tốn công hơn. ④ sai vì công khai là để GIÁM SÁT thẩm phán, chứ không phải để tăng quyền cho họ. Hiến pháp cho phép hạn chế công khai phần thẩm vấn trong trường hợp đặc biệt như bảo vệ trẻ vị thành niên hay an ninh quốc gia, nhưng phần tuyên án thì luôn công khai.",
+    "explain_ko": "재판 공개는 재판이 공정하게 이루어지는지 국민이 감시할 수 있도록 하기 위한 제도이다.",
+    "keywords": ["재판 공개", "공정한 재판"]
+  },
+  {
+    "id": "politics-033",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "공정한 재판",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 원칙으로 옳은 것은?\n형사 재판에서 피고인은 유죄 판결이 확정될 때까지 죄가 없는 것으로 본다.",
+    "choices": [
+      "증거재판주의",
+      "무죄추정의 원칙",
+      "일사부재리의 원칙",
+      "죄형법정주의"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Nguyên tắc suy đoán vô tội (무죄추정의 원칙) được ghi trong Hiến pháp: bị cáo được coi là vô tội cho đến khi bản án có tội có hiệu lực. ① 증거재판주의 nghĩa là phải dựa trên chứng cứ để xác định sự thật, liên quan nhưng không đúng với mô tả. ③ 일사부재리 nghĩa là không xét xử lại cùng một vụ đã có bản án cuối cùng. ④ 죄형법정주의 nghĩa là tội và hình phạt phải được luật quy định trước. Vì nguyên tắc này, một người đang bị điều tra không được đối xử như tội phạm.",
+    "explain_ko": "유죄 판결이 확정될 때까지 죄가 없는 것으로 보는 것을 무죄추정의 원칙이라 한다.",
+    "keywords": ["무죄추정의 원칙", "형사 재판"]
+  },
+  {
+    "id": "politics-034",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "공정한 재판",
+    "points": 2,
+    "passage": null,
+    "q": "공정한 재판을 위한 제도에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "법원은 증거에 따라 사실을 인정한다.",
+      "법관은 헌법과 법률에 따라 독립하여 심판한다.",
+      "재판의 심리와 판결은 원칙적으로 공개한다.",
+      "피고인이 스스로 죄가 없음을 증명해야 한다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Bị cáo KHÔNG có nghĩa vụ tự chứng minh mình vô tội; trách nhiệm chứng minh có tội thuộc về bên buộc tội, đây là hệ quả trực tiếp của nguyên tắc suy đoán vô tội. ①②③ đều là những trụ cột của xét xử công bằng: xét xử theo chứng cứ (증거재판주의), thẩm phán độc lập (사법권 독립), và xét xử công khai (재판 공개). Ngoài ra, bị cáo còn có quyền nhờ luật sư bào chữa, nếu không đủ khả năng thuê thì được nhà nước chỉ định (국선변호인).",
+    "explain_ko": "유죄를 증명할 책임은 검사에게 있으며, 피고인이 스스로 무죄를 증명할 필요는 없다.",
+    "keywords": ["증거재판주의", "무죄추정"]
+  },
+  {
+    "id": "politics-035",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "공정한 재판",
+    "points": 2,
+    "passage": null,
+    "q": "법관의 신분과 지위를 법으로 강하게 보장하는 이유로 가장 알맞은 것은?",
+    "choices": [
+      "법관이 누구의 간섭도 받지 않고 공정하게 재판하도록 하기 위해서",
+      "법관이 처리하는 재판 건수를 늘리기 위해서",
+      "법관이 정치 활동에 자유롭게 참여하도록 하기 위해서",
+      "법관에게 더 많은 월급을 주기 위해서"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Địa vị của thẩm phán được bảo đảm mạnh (không bị bãi nhiệm tùy tiện, không bị giảm lương vì lý do xét xử) để họ không bị áp lực từ quyền lực chính trị hay bên nào khác và có thể xét xử công bằng — đó là độc lập tư pháp (사법권 독립). ② số vụ xét xử không liên quan gì đến việc bảo đảm địa vị. ③ ngược lại, thẩm phán bị cấm tham gia hoạt động chính trị để giữ trung lập. ④ tiền lương chỉ là phương tiện, không phải mục đích. Hiến pháp ghi rõ thẩm phán xét xử độc lập theo Hiến pháp, luật pháp và lương tâm.",
+    "explain_ko": "법관의 신분 보장은 외부의 간섭 없이 독립하여 공정한 재판을 하도록 하기 위한 것이다.",
+    "keywords": ["사법권 독립", "법관 신분 보장"]
+  },
+  {
+    "id": "politics-036",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "선거의 원칙",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 선거의 원칙으로 옳은 것은?\n일정한 나이가 된 국민이면 성별, 재산, 학력, 종교에 관계없이 누구나 선거권을 가진다.",
+    "choices": [
+      "보통 선거",
+      "평등 선거",
+      "직접 선거",
+      "비밀 선거"
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Phổ thông đầu phiếu (보통 선거) nghĩa là mọi công dân đủ tuổi đều có quyền bầu cử, không phân biệt giới tính, tài sản, học vấn hay tôn giáo. ② 평등 선거 nói về giá trị lá phiếu bằng nhau, mỗi người một phiếu. ③ 직접 선거 nghĩa là cử tri tự mình bỏ phiếu chứ không qua người trung gian. ④ 비밀 선거 nghĩa là không ai biết được mình bỏ cho ai. Bốn nguyên tắc 보통·평등·직접·비밀 gần như chắc chắn xuất hiện trong đề thi, nên hãy phân biệt thật kỹ.",
+    "explain_ko": "일정 연령이 되면 누구에게나 선거권을 주는 원칙을 보통 선거라고 한다.",
+    "keywords": ["보통 선거", "선거의 4대 원칙"]
+  },
+  {
+    "id": "politics-037",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "선거의 원칙",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 선거의 원칙으로 옳은 것은?\n누구에게 투표했는지 다른 사람이 알 수 없도록 한다.",
+    "choices": [
+      "직접 선거",
+      "평등 선거",
+      "비밀 선거",
+      "보통 선거"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Bỏ phiếu kín (비밀 선거) bảo đảm nội dung lá phiếu không bị tiết lộ, nhờ vậy cử tri không phải lo bị trả thù hay chịu thiệt vì lựa chọn của mình. ① 직접 선거 là tự mình đi bầu, không qua người đại diện. ② 평등 선거 là mỗi người một phiếu có giá trị như nhau. ④ 보통 선거 là ai đủ tuổi cũng được bầu. Vì nguyên tắc bỏ phiếu kín mà tại điểm bỏ phiếu Hàn Quốc có buồng kín và cấm chụp ảnh lá phiếu đã đánh dấu.",
+    "explain_ko": "투표 내용을 다른 사람이 알 수 없게 하는 원칙을 비밀 선거라고 한다.",
+    "keywords": ["비밀 선거", "선거의 4대 원칙"]
+  },
+  {
+    "id": "politics-038",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "선거의 원칙",
+    "points": 2,
+    "passage": null,
+    "q": "다음 중 선거의 4대 원칙에 해당하지 않는 것은?",
+    "choices": [
+      "보통 선거",
+      "공개 선거",
+      "평등 선거",
+      "직접 선거"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Bốn nguyên tắc bầu cử của Hàn Quốc là 보통(phổ thông)·평등(bình đẳng)·직접(trực tiếp)·비밀(bí mật); \"공개 선거\" (bầu cử công khai) chính là điều TRÁI với nguyên tắc bỏ phiếu kín nên không thể là một trong bốn nguyên tắc. ①③④ đều nằm trong bốn nguyên tắc đó. Nguyên tắc đối lập với từng cái lần lượt là 제한선거, 차등선거, 간접선거 và 공개선거 — nhớ các cặp đối lập này sẽ giúp bạn không bị lừa bởi đáp án nhiễu.",
+    "explain_ko": "선거의 4대 원칙은 보통·평등·직접·비밀 선거이며, 공개 선거는 비밀 선거에 어긋나는 개념이다.",
+    "keywords": ["선거의 4대 원칙", "비밀 선거"]
+  },
+  {
+    "id": "politics-039",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "선거의 원칙",
+    "points": 2,
+    "passage": null,
+    "q": "한국에서 선거일 현재 몇 세 이상이면 선거권을 가지는가?",
+    "choices": [
+      "16세",
+      "18세",
+      "19세",
+      "20세"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Theo Luật bầu cử công chức (공직선거법), công dân từ 18 tuổi trở lên tính đến ngày bầu cử có quyền bầu cử (선거권). ① 16 tuổi chưa từng là mốc bầu cử ở Hàn Quốc. ③ 19 tuổi là quy định CŨ, đã hạ xuống 18 tuổi, nên đây là đáp án nhiễu dễ mắc bẫy nhất. ④ 20 tuổi càng cũ hơn nữa. Đáng nhớ thêm: tuổi ứng cử (피선거권) vào Quốc hội và chính quyền địa phương cũng là 18 tuổi, riêng ứng cử Tổng thống phải từ 40 tuổi.",
+    "explain_ko": "공직선거법상 선거일 현재 18세 이상의 국민은 선거권을 가진다.",
+    "keywords": ["선거권", "만 18세"]
+  },
+  {
+    "id": "politics-040",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "선거의 원칙",
+    "points": 2,
+    "passage": null,
+    "q": "대통령 선거에 후보로 나갈 수 있는 사람의 자격으로 옳은 것은?",
+    "choices": [
+      "선거일 현재 18세 이상인 국민",
+      "선거일 현재 25세 이상인 국민",
+      "선거일 현재 5년 이상 국내에 거주한 40세 이상의 국민",
+      "선거일 현재 30세 이상이며 공무원 경력이 있는 국민"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Luật bầu cử công chức quy định ứng cử viên Tổng thống phải là công dân từ 40 tuổi trở lên và đã cư trú trong nước từ 5 năm trở lên tính đến ngày bầu cử. ① 18 tuổi là điều kiện ứng cử đại biểu Quốc hội và chức vụ ở địa phương, không phải Tổng thống. ② 25 tuổi là quy định CŨ cho đại biểu Quốc hội, nay đã hạ xuống 18. ④ không có yêu cầu về kinh nghiệm công chức. Phân biệt rõ: 선거권 (quyền bầu) = 18 tuổi, còn 피선거권 (quyền ứng cử) tùy chức vụ.",
+    "explain_ko": "대통령 피선거권은 선거일 현재 5년 이상 국내에 거주한 40세 이상의 국민에게 있다.",
+    "keywords": ["피선거권", "대통령 후보 자격"]
+  },
+  {
+    "id": "politics-041",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "선거의 원칙",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 기관으로 옳은 것은?\n선거와 국민투표가 공정하게 이루어지도록 관리하는 헌법상의 독립 기관이다.",
+    "choices": [
+      "국회",
+      "감사원",
+      "중앙선거관리위원회",
+      "헌법재판소"
+    ],
+    "answer": 2,
+    "explain_vi": "Đáp án ③. Ủy ban bầu cử trung ương (중앙선거관리위원회) là cơ quan hiến định độc lập, chuyên quản lý bầu cử và trưng cầu dân ý sao cho công bằng, đồng thời xử lý các hành vi vi phạm luật bầu cử. ① Quốc hội làm luật nhưng không quản lý bầu cử. ② 감사원 kiểm toán và thanh tra công vụ. ④ 헌법재판소 xét xử các vụ việc hiến pháp. Cơ quan này được đặt độc lập với Chính phủ để đảng cầm quyền không thể can thiệp vào bầu cử.",
+    "explain_ko": "선거와 국민투표의 공정한 관리를 담당하는 헌법상 독립 기관은 중앙선거관리위원회이다.",
+    "keywords": ["중앙선거관리위원회", "공정 선거"]
+  },
+  {
+    "id": "politics-042",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "지방자치제도",
+    "points": 2,
+    "passage": null,
+    "q": "다음 설명에 해당하는 제도로 옳은 것은?\n지역 주민이 직접 뽑은 대표를 통해 그 지역의 일을 스스로 결정하고 처리하는 제도로, '풀뿌리 민주주의'라고도 불린다.",
+    "choices": [
+      "삼권 분립 제도",
+      "지방 자치 제도",
+      "국민 투표 제도",
+      "국정 감사 제도"
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Chế độ tự trị địa phương (지방자치제도) là việc cư dân bầu ra người đại diện để tự quyết định công việc của vùng mình, nên được ví là \"dân chủ từ gốc rễ\" (풀뿌리 민주주의). ① 삼권분립 là chia quyền lực nhà nước theo chiều ngang giữa ba cơ quan trung ương. ③ 국민투표 là hình thức toàn dân bỏ phiếu về một vấn đề quốc gia. ④ 국정감사 là việc Quốc hội thanh tra Chính phủ. Ở Hàn Quốc, chế độ tự trị địa phương bị gián đoạn một thời gian dài và được khôi phục đầy đủ vào những năm 1990.",
+    "explain_ko": "주민이 뽑은 대표를 통해 지역의 일을 스스로 처리하는 제도를 지방자치제도라 하며, 풀뿌리 민주주의라고도 한다.",
+    "keywords": ["지방자치제도", "풀뿌리 민주주의"]
+  },
+  {
+    "id": "politics-043",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "지방자치제도",
+    "points": 2,
+    "passage": null,
+    "q": "지방자치단체의 기관과 그 역할을 바르게 연결한 것은?",
+    "choices": [
+      "지방의회 - 그 지역에 필요한 조례를 만든다.",
+      "지방의회 - 지역의 살림살이를 직접 집행한다.",
+      "지방자치단체장 - 조례를 만들고 의결한다.",
+      "지방자치단체장 - 지방의회 의원을 임명한다."
+    ],
+    "answer": 0,
+    "explain_vi": "Đáp án ①. Hội đồng địa phương (지방의회) đóng vai trò như \"Quốc hội thu nhỏ\" của vùng: làm ra pháp lệnh địa phương (조례) và thẩm tra ngân sách. ② sai vì việc điều hành, thi hành thuộc về người đứng đầu chính quyền địa phương (지방자치단체장). ③ sai vì người đứng đầu chỉ ban hành quy tắc (규칙) trong phạm vi pháp lệnh, còn quyết nghị 조례 là của hội đồng. ④ sai vì đại biểu hội đồng do cư dân bầu, không ai bổ nhiệm. Cách nhớ: 지방의회 giống Quốc hội, 지방자치단체장 giống Chính phủ.",
+    "explain_ko": "지방의회는 조례를 만드는 의결 기관이고, 지방자치단체장은 지역 살림을 집행하는 집행 기관이다.",
+    "keywords": ["지방의회", "조례"]
+  },
+  {
+    "id": "politics-044",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "지방자치제도",
+    "points": 2,
+    "passage": null,
+    "q": "지방자치단체장과 지방의회 의원에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "대통령이 각 지역의 사정을 고려하여 임명한다.",
+      "임기는 4년이며 지역 주민이 직접 선거로 뽑는다.",
+      "임기는 5년이며 중임할 수 없다.",
+      "국회에서 국회의원들이 뽑아서 보낸다."
+    ],
+    "answer": 1,
+    "explain_vi": "Đáp án ②. Người đứng đầu chính quyền địa phương (시장·군수·구청장, 시·도지사) và đại biểu hội đồng địa phương đều có nhiệm kỳ 4 năm và do cư dân trực tiếp bầu trong bầu cử địa phương toàn quốc (전국동시지방선거) tổ chức 4 năm một lần. ① và ④ sai vì đây là chức vụ dân cử, không phải do bổ nhiệm hay do Quốc hội chọn. ③ nhiệm kỳ 5 năm không tái nhiệm là của Tổng thống. Lưu ý thêm: người đứng đầu chính quyền địa phương chỉ được làm liên tục tối đa 3 nhiệm kỳ.",
+    "explain_ko": "지방자치단체장과 지방의회 의원은 임기가 4년이며 주민이 직접 선거로 선출한다.",
+    "keywords": ["지방자치단체장", "임기 4년"]
+  },
+  {
+    "id": "politics-045",
+    "domain": "politics",
+    "level": "basic",
+    "topic": "지방자치제도",
+    "points": 2,
+    "passage": null,
+    "q": "주민이 지방자치에 참여하는 방법으로 옳지 않은 것은?",
+    "choices": [
+      "지방선거에서 투표하여 대표를 뽑는다.",
+      "주민투표나 주민소환을 청구한다.",
+      "주민참여예산제도를 통해 예산에 의견을 낸다.",
+      "마음에 들지 않는 조례를 주민이 직접 없앤다."
+    ],
+    "answer": 3,
+    "explain_vi": "Đáp án ④. Cư dân KHÔNG thể tự mình xóa bỏ một pháp lệnh địa phương (조례); họ chỉ có thể kiến nghị hội đồng địa phương làm, sửa hoặc bãi bỏ, còn quyết định cuối cùng vẫn thuộc về hội đồng. ①②③ đều là cách tham gia hợp pháp: bỏ phiếu trong bầu cử địa phương, yêu cầu trưng cầu ý kiến cư dân (주민투표) hoặc bãi nhiệm người đứng đầu (주민소환), và góp ý cho ngân sách qua chế độ ngân sách có sự tham gia của cư dân (주민참여예산제). Người nước ngoài có tư cách cư trú vĩnh viễn đủ điều kiện theo luật cũng có thể bỏ phiếu trong bầu cử địa phương.",
+    "explain_ko": "주민은 조례의 제정·개정·폐지를 청구할 수 있을 뿐, 직접 조례를 없앨 수는 없다.",
+    "keywords": ["주민 참여", "주민소환"]
+  }
+]
